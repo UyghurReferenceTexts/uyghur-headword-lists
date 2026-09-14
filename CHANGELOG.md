@@ -1,5 +1,5 @@
 # Changelog
-# doi: "10.5281/zenodo.22747775"
+doi: "10.5281/zenodo.22747775"
 
 All notable changes to the published lists are recorded here.
 
