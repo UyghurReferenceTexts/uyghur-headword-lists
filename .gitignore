@@ -1,0 +1,15 @@
+# Source spreadsheets contain full definitions and must never be published.
+*.xlsx
+*.xlsx.bak
+*.xlsm
+
+# Working artifacts
+*.jsonl
+*_review.tsv
+batch_input_*.jsonl
+batch_state.json
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+~$*
