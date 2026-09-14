@@ -6,9 +6,8 @@ dictionaries, released as plain TSV under CC BY 4.0.
 **129,124 written forms** and **48,249 sub-entry phrases**, each traceable to
 the scanned column it came from.
 
-<!-- Add the Zenodo badge here after the first release: -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
-
+[![DOI](https://zenodo.org/badge/1369704181.svg)](https://doi.org/10.5281/zenodo.22747775)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/UyghurReferenceTexts/uyghur-headword-lists/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/UyghurReferenceTexts/uyghur-headword-lists)
 ---
 
 ## Why this exists
