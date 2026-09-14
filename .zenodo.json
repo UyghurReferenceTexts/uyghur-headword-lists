@@ -1,0 +1,36 @@
+{
+  "title": "uyghur-headword-lists: headword inventories from three printed Uyghur dictionaries",
+  "description": "<p>Open, machine-readable headword lists extracted from three printed Uyghur dictionaries: <strong>129,124 written forms</strong> and <strong>48,249 sub-entry phrases</strong> in the Uyghur Arabic script.</p><p>Every entry is traceable to the scanned page column it was extracted from and carries a per-round audit status recording whether a native speaker has verified it against the original scan. Orthography follows the 2009 imla standard. Released as plain TSV under CC BY 4.0.</p><p>Chinese transliterations tagged in the source dictionaries' own etymology columns were reviewed individually; 1,082 rows were removed and the full removal list is published so the decision can be audited or reversed.</p><p>The release also includes a benchmark quantifying frontier-model reliability on post-OCR correction of Uyghur: of 4,045 machine-proposed corrections verified by a native speaker, 75.9% were correct, ranging from 100% accuracy on layout errors to 7% on questions requiring knowledge of dictionary structure.</p><p>This dataset is corrected continuously. Cite the version DOI for reproducibility.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "East Turksitan, UyghurReferenceTexts",
+      "orcid": "0009-0004-4633-0408"
+    },
+    {
+      "name": "UyghurReferenceTexts"
+    }
+  ],
+  "keywords": [
+    "uyghur",
+    "lexicography",
+    "orthography",
+    "low-resource languages",
+    "optical character recognition",
+    "language preservation",
+    "dictionary",
+    "wordlist",
+    "Uyghur Ereb Yeziqi"
+  ],
+  "language": "uig",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/UyghurReferenceTexts/uyghur-headword-lists",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "version": "1.0.0"
+}
