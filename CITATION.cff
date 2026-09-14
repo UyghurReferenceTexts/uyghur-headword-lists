@@ -40,7 +40,7 @@ keywords:
 license: CC-BY-4.0
 license-url: "https://github.com/UyghurReferenceTexts/uyghur-headword-lists/blob/main/LICENSE"
 # Add after the first Zenodo release mints it, then commit before the next release:
-# doi: "10.5281/zenodo.XXXXXXX"
+# doi: "10.5281/zenodo.22747775"
 version: 1.0.0
 date-released: "2026-09-14"
 references:
