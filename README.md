@@ -9,6 +9,7 @@ the scanned column it came from.
 [![DOI](https://zenodo.org/badge/1369704181.svg)](https://doi.org/10.5281/zenodo.22747775)
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/UyghurReferenceTexts/uyghur-headword-lists/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/UyghurReferenceTexts/uyghur-headword-lists)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4633--0408-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4633-0408)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
