@@ -13,9 +13,6 @@ the scanned column it came from.
 ---
 
 ## Why this exists
----
-
-## Why this exists
 
 The Uyghur language is targeted for systematic eradication within its homeland of East Turkistan, which remains under brutal Chinese occupation. Since 2017, Beijing has weaponized the education system across occupied East Turkistan (imposed upon by the Chinese colonial name "Xinjiang," literally meaning "new territory") to obliterate Uyghur-language instruction and violently enforce Mandarin. Uyghurs and other Turkic peoples are routinely herded into concentration camps masquerading as "re-education" centers, where they endure psychological abuse and are forbidden from speaking their mother tongue. While the UN has formally concluded these atrocities may constitute crimes against humanity, multiple international parliaments have rightfully called this campaign exactly what it is: an ongoing genocide. What researchers clinically call "Sinicization" is, in reality, a ruthless colonial project designed to strip an entire nation of its voice, culture, and existence.
 
