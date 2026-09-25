@@ -10,14 +10,14 @@ Shinjang Xelq Neshriyati, Ürümchi, 2009. ISBN 978-7-228-12817-4.
 the reference work that defines correct modern written Uyghur; the other two
 dictionaries are checked against it.
 
+<!-- stats:work -->
 | | |
 |---|---|
-| headwords | 37,917 |
-| sub-entries | 43,414 |
-| verified against scans | 2,370 |
-| scanned columns | ~2,439 (3 per page, ~840 pages) |
-| missing pages | none |
-| excluded as Chinese transliterations | 300 |
+| headwords | 37,913 |
+| sub-entries | 43,412 |
+| verified against scans | 6,415 |
+| excluded as Chinese transliterations | 306 |
+<!-- stats:end -->
 
 ## Structure
 
