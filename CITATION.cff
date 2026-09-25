@@ -14,7 +14,7 @@ authors:
 repository-code: "https://github.com/UyghurReferenceTexts/uyghur-headword-lists"
 abstract: >-
   Open, machine-readable headword lists extracted from three printed Uyghur
-  dictionaries: 129,124 written forms and 48,249 sub-entry phrases in the
+  dictionaries: 130,218 written forms and 48,245 sub-entry phrases in the
   Uyghur Arabic script. Every entry is traceable to the scanned page column it
   was extracted from and carries a per-round audit status recording whether a
   native speaker has verified it against the original scan. Orthography follows
@@ -41,8 +41,8 @@ license: CC-BY-4.0
 license-url: "https://github.com/UyghurReferenceTexts/uyghur-headword-lists/blob/main/LICENSE"
 # Add after the first Zenodo release mints it, then commit before the next release:
 doi: "10.5281/zenodo.22747775"
-version: 1.0.0
-date-released: "2026-09-14"
+version: 1.1.0
+date-released: "2026-09-25"
 references:
   - type: book
     title: "ھازىرقى زامان ئۇيغۇر ئەدەبىي تىلىنىڭ ئىملا لۇغىتى"
