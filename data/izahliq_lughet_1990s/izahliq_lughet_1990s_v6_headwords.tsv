@@ -18,9 +18,9 @@ D90-6-00019	ۋاپباغ	headword	002_2L.png	unverified
 D90-6-00021	ۋاپۇرۇش	headword	002_2L.png	unverified
 D90-6-00022	ۋاپۇرۇشلۇق	headword	002_2L.png	unverified
 D90-6-00023	ۋات	headword	002_2L.png	verified
-D90-6-00028	ۋات-ۋات	headword	003_1R.png	unverified
 D90-6-00026	ۋاتلىق	headword	002_2L.png	unverified
 D90-6-00027	ۋاتمېتىر	headword	003_1R.png	unverified
+D90-6-00028	ۋات-ۋات	headword	003_1R.png	unverified
 D90-6-00029	ۋاتېرپاس	headword	003_1R.png	verified
 D90-6-00029-v1	شەيتان	variant	003_1R.png	verified
 D90-6-00030	ۋاتىلداتماق	headword	003_1R.png	unverified
@@ -207,9 +207,9 @@ D90-6-00228	ۋاقتى كېلىپ	headword	015_2L.png	unverified
 D90-6-00229	ۋاقتى ئۆتمەك	headword	015_2L.png	unverified
 D90-6-00230	ۋاقتى يەتمەك	headword	015_2L.png	unverified
 D90-6-00231	ۋاقىت بەلبېغى	headword	015_2L.png	unverified
-D90-6-00234	ۋاقىت رايونى	headword	016_1R.png	unverified
 D90-6-00232	ۋاقىت پەرقى	headword	015_2L.png	unverified
 D90-6-00233	ۋاقىت چىقارماق	headword	015_2L.png	unverified
+D90-6-00234	ۋاقىت رايونى	headword	016_1R.png	unverified
 D90-6-00234-v1	ئۆلچەملىك ۋاقىت رايونى	variant	016_1R.png	unverified
 D90-6-00235	ۋاقىت سەرىپى	headword	016_1R.png	unverified
 D90-6-00236	ۋاقىتلىق ئىش ھەققى	headword	016_1R.png	unverified
@@ -242,7 +242,6 @@ D90-6-00265	ۋاكۇئۇم	headword	018_1R.png	unverified
 D90-6-00268	ۋاكۇئۇم قۇدۇق	headword	018_2L.png	unverified
 D90-6-00269	ۋاكۇئۇم كوندېنساتور	headword	018_2L.png	unverified
 D90-6-00270	ۋاكۇئۇم لامپا	headword	018_2L.png	unverified
-D90-6-01546	ئېلېكترون لامپا	headword	120_1R.png	unverified
 D90-6-00271	ۋاكۇئۇممېتىر	headword	018_2L.png	unverified
 D90-6-00272	ۋاك-ۋاك	headword	018_2L.png	unverified
 D90-6-00273	ۋاگون	headword	018_2L.png	verified
@@ -362,9 +361,6 @@ D90-6-00391	ۋەجلىك	headword	027_2L.png	unverified
 D90-6-00392	ۋەخپە	headword	027_2L.png	unverified
 D90-6-00397	ۋەدا	headword	028_1R.png	verified
 D90-6-00398	ۋەدە	headword	028_1R.png	verified
-D90-6-08771	ۋەدىگە ۋاپا قىلماق	headword	028_1R.png	verified
-D90-6-08772	ۋەدىمىز ۋەدە	headword	028_1R.png	verified
-D90-6-08773	ۋەدىنى بۇزماق	headword	028_1R.png	verified
 D90-6-00403	ۋەدىش	headword	028_2L.png	verified
 D90-6-00404	ۋەدىلەشمەك	headword	028_2L.png	verified
 D90-6-00405	ۋەدىلىك	headword	028_2L.png	verified
@@ -460,12 +456,10 @@ D90-6-00512	ۋوتكا	headword	037_2L.png	unverified
 D90-6-00513	ۋودوپروۋود	headword	037_2L.png	unverified
 D90-6-00514	ۋودورود	headword	038_1R.png	unverified
 D90-6-00516	ۋوسپالېنىيە	headword	038_1R.png	unverified
-D90-6-05528	ياللۇغ	headword	489_1R.png	unverified
 D90-6-00517	ۋوگزال	headword	038_1R.png	unverified
 D90-6-00518	ۋولت	headword	038_1R.png	unverified
 D90-6-00519	ۋولتا	headword	038_1R.png	unverified
 D90-6-00520	ۋولتا باتارىيىسى	headword	038_2L.png	unverified
-D90-6-01855	ئىپتىدائىي باتارىيە	headword	150_1R.png	unverified
 D90-6-00521	ۋولتا ئېلېمېنتى	headword	038_2L.png	unverified
 D90-6-00522	ۋولتاز	headword	038_2L.png	unverified
 D90-6-00522-v1	ئېلېكتر بېسمى	variant	038_2L.png	unverified
@@ -504,9 +498,9 @@ D90-6-00557	ۋۇجۇدىيەت	headword	041_1R.png	unverified
 D90-6-00558	ۋۇچاڭ	headword	041_1R.png	unverified
 D90-6-00560	ۋۇزرا	headword	041_1R.png	unverified
 D90-6-00561	ۋۇشۈي	headword	041_1R.png	unverified
-D90-6-00564	ۋۇشۈي يىلى	headword	042_1R.png	unverified
 D90-6-00562	ۋۇشۈي سىياسىي ئۆزگىرىش	headword	041_2L.png	unverified
 D90-6-00563	ۋۇشۈي قانۇن ئىسلاھاتى	headword	041_2L.png	unverified
+D90-6-00564	ۋۇشۈي يىلى	headword	042_1R.png	unverified
 D90-6-00565	ۋۇڭ	headword	042_1R.png	unverified
 D90-6-00566	ۋۇڭىلدىماق	headword	042_1R.png	unverified
 D90-6-00567	ۋۇلا	headword	042_1R.png	verified
@@ -677,7 +671,6 @@ D90-6-00749	ۋىلىقلىماق	headword	056_1R.png	unverified
 D90-6-00750	ۋىلىق-ۋىلىق	headword	056_1R.png	unverified
 D90-6-00751	ۋىلىلدىماق	headword	056_1R.png	unverified
 D90-6-00752	ۋىن	headword	056_1R.png	verified
-D90-6-08774	ۋىن فورمۇلىسى	headword	056_2L.png	verified
 D90-6-00754	ۋىنايا	headword	056_2L.png	verified
 D90-6-00755	ۋىنتا	headword	056_2L.png	unverified
 D90-6-00758	ۋىنتىسىمان	headword	056_2L.png	unverified
@@ -1282,9 +1275,7 @@ D90-6-01456	ئېلېكتر تۇراقلىق سانى	headword	112_2L.png	unverif
 D90-6-01457	ئېلېكتر تېخنىكىسى	headword	112_2L.png	unverified
 D90-6-01458	ئېلېكتر چىراغ	headword	112_2L.png	unverified
 D90-6-01459	ئېلېكتر خىمىيىسى	headword	112_2L.png	unverified
-D90-6-01520	ئېلېكتروخىمىيە	headword	118_1R.png	unverified
 D90-6-01460	ئېلېكتر دولقۇنى	headword	112_2L.png	unverified
-D90-6-01489	ئېلېكتر ماگنىت دولقۇنى	headword	115_1R.png	unverified
 D90-6-01461	ئېلېكتر دۋىگاتېل	headword	112_2L.png	unverified
 D90-6-01462	ئېلېكتر دىنامىكا	headword	113_1R.png	unverified
 D90-6-01463	ئېلېكتر رېزونانىسى	headword	113_1R.png	unverified
@@ -1314,6 +1305,7 @@ D90-6-01485	ئېلېكتر ماشىنىلىرى	headword	115_1R.png	unverified
 D90-6-01486	ئېلېكتر ماگنېتىزم	headword	115_1R.png	unverified
 D90-6-01487	ئېلېكتر ماگنىت	headword	115_1R.png	unverified
 D90-6-01488	ئېلېكتر ماگنىت تەۋرىنىشى	headword	115_1R.png	unverified
+D90-6-01489	ئېلېكتر ماگنىت دولقۇنى	headword	115_1R.png	unverified
 D90-6-01490	ئېلېكتر ماگنىت رادىئاتسىيىسى	headword	115_2L.png	unverified
 D90-6-01491	ئېلېكتر ماگنىت مەيدانى	headword	115_2L.png	unverified
 D90-6-01492	ئېلېكتر ماگنىت ئىندۇكسىيىسى	headword	115_2L.png	unverified
@@ -1343,6 +1335,7 @@ D90-6-01516	ئېلېكترلىك چارلاش	headword	117_2L.png	unverified
 D90-6-01517	ئېلېكترلىك قۇدۇق	headword	117_2L.png	unverified
 D90-6-01518	ئېلېكترلىك قۇدۇق ئۆلچەش	headword	117_2L.png	unverified
 D90-6-01519	ئېلېكترلىك گۆش توغراش ماشىنىسى	headword	118_1R.png	unverified
+D90-6-01520	ئېلېكتروخىمىيە	headword	118_1R.png	unverified
 D90-6-01521	ئېلېكتروخىمىيىۋى	headword	118_1R.png	unverified
 D90-6-01523	ئېلېكتروخىمىيىۋى كورروزىيە	headword	118_2L.png	unverified
 D90-6-01524	ئېلېكتروخىمىيىۋى ئېكۋىۋالېنت	headword	118_2L.png	unverified
@@ -1367,6 +1360,7 @@ D90-6-01542	ئېلېكترون چاقماق	headword	120_1R.png	unverified
 D90-6-01543	ئېلېكترون قەۋەتلەر	headword	120_1R.png	unverified
 D90-6-01544	ئېلېكترونلار دەستىسى	headword	120_1R.png	unverified
 D90-6-01545	ئېلېكترونلار ئېقىمى	headword	120_1R.png	unverified
+D90-6-01546	ئېلېكترون لامپا	headword	120_1R.png	unverified
 D90-6-01547	ئېلېكترون مىكروسكوپ	headword	120_2L.png	unverified
 D90-6-01548	ئېلېكترون مىلتىقى	headword	120_2L.png	unverified
 D90-6-01549	ئېلېكترون نەزەرىيىسى	headword	120_2L.png	unverified
@@ -1584,15 +1578,15 @@ D90-6-01792	ئىبرەتلەنمەك	headword	143_1R.png	unverified
 D90-6-01793	ئىبرەتلىك	headword	143_1R.png	unverified
 D90-6-01794	ئىبرەتنامە	headword	143_1R.png	unverified
 D90-6-01795	ئىبرېي	headword	143_2L.png	verified
-D90-6-01797	ئىبرېيلار	headword	143_2L.png	unverified
 D90-6-01796	ئىبرېي تىلى	headword	143_2L.png	unverified
+D90-6-01797	ئىبرېيلار	headword	143_2L.png	unverified
 D90-6-01798	ئىبلىس	headword	143_2L.png	unverified
 D90-6-01799	ئىبلىسلىق	headword	143_2L.png	unverified
 D90-6-01800	ئىبېرى	headword	143_2L.png	unverified
 D90-6-01801	ئىبېرىلار	headword	143_2L.png	unverified
 D90-6-01802	ئىبېرىيە	headword	144_1R.png	unverified
-D90-6-01804	ئىبېرىيە يېرىم ئارىلى	headword	144_1R.png	unverified
 D90-6-01803	ئىبېرىيە-كاپكاز تىللىرى سىستېمىسى	headword	144_1R.png	unverified
+D90-6-01804	ئىبېرىيە يېرىم ئارىلى	headword	144_1R.png	unverified
 D90-6-01805	ئىپادە	headword	144_1R.png	unverified
 D90-6-01806	ئىپادە بىلدۈرمەك	headword	144_2L.png	unverified
 D90-6-01807	ئىپادە قىلماق	headword	144_2L.png	unverified
@@ -1620,14 +1614,13 @@ D90-6-01831	ئىپار-زەپەر	headword	147_2L.png	unverified
 D90-6-01832	ئىپارگۈل	headword	147_2L.png	unverified
 D90-6-01833	ئىپارلىق	headword	147_2L.png	unverified
 D90-6-01834	ئىپەك	nonstandard	147_2L.png	unverified
-D90-6-08363	يىپەك	headword	745_2L.png	unverified
 D90-6-01835	ئىپپەت	headword	147_2L.png	unverified
 D90-6-01836	ئىپپەتكە تەگمەك	headword	148_1R.png	unverified
-D90-6-01840	ئىپپەت-نومۇسىغا تەگمەك	headword	148_1R.png	unverified
 D90-6-01837	ئىپپىتىنى ساتماق	headword	148_1R.png	unverified
-D90-6-01841	ئىپپەت-نومۇسىنى ساتماق	headword	148_1R.png	unverified
 D90-6-01838	ئىپپەتلىك	headword	148_1R.png	unverified
 D90-6-01839	ئىپپەت-نومۇس	headword	148_1R.png	unverified
+D90-6-01840	ئىپپەت-نومۇسىغا تەگمەك	headword	148_1R.png	unverified
+D90-6-01841	ئىپپەت-نومۇسىنى ساتماق	headword	148_1R.png	unverified
 D90-6-01842	ئىپپەت-نومۇسلۇق	headword	148_2L.png	unverified
 D90-6-01843	ئىپتار	headword	148_2L.png	unverified
 D90-6-01844	ئىپتار قىلماق	headword	148_2L.png	unverified
@@ -1640,6 +1633,7 @@ D90-6-01850	ئىپتىخارلىق	headword	149_1R.png	unverified
 D90-6-01851	ئىپتىدا	headword	149_2L.png	unverified
 D90-6-01852	ئىپتىدائىي	headword	149_2L.png	unverified
 D90-6-01854	ئىپتىدائىي ئادەم	headword	150_1R.png	unverified
+D90-6-01855	ئىپتىدائىي باتارىيە	headword	150_1R.png	unverified
 D90-6-01856	ئىپتىدائىي توپ	headword	150_1R.png	unverified
 D90-6-01857	ئىپتىدائىي تۇخۇم ھۈجەيرىسى	headword	150_1R.png	unverified
 D90-6-01858	ئىپتىدائىي تىل	headword	150_2L.png	unverified
@@ -1685,20 +1679,20 @@ D90-6-01897	ئىت باش ئورمان مۈشۈكى	headword	154_1R.png	unverifi
 D90-6-01898	ئىت بورسۇق	headword	154_1R.png	unverified
 D90-6-01899	ئىت بولۇپ كېتەي	headword	154_1R.png	unverified
 D90-6-01900	ئىت بۇلۇقى	headword	154_1R.png	unverified
-D90-6-01914	ئىت ئۇۋىسى	headword	155_1R.png	unverified
 D90-6-01901	ئىت بۈرگىسى	headword	154_1R.png	unverified
 D90-6-01902	ئىت بېلىق	headword	154_2L.png	unverified
 D90-6-01903	ئىت پوق يېمەستە	headword	154_2L.png	unverified
 D90-6-01904	ئىت تالاشتۇرماق	headword	154_2L.png	unverified
 D90-6-01905	ئىت خۇيى	headword	154_2L.png	unverified
-D90-6-01908	ئىت مىجەز	headword	154_2L.png	unverified
 D90-6-01906	ئىت چىۋىنى	headword	154_2L.png	unverified
 D90-6-01907	ئىت مۇرۇن	headword	154_2L.png	unverified
 D90-6-01907-v1	ئازغان	variant	154_2L.png	unverified
+D90-6-01908	ئىت مىجەز	headword	154_2L.png	unverified
 D90-6-01910	ئىتنىڭ بالىسى	headword	155_1R.png	unverified
 D90-6-01911	ئىتنىڭ قۇرتىدەك	headword	155_1R.png	unverified
 D90-6-01912	ئىتنىڭ كۈنى	headword	155_1R.png	unverified
 D90-6-01913	ئىتنىڭ كۈنىنى كۆرمەك	headword	155_1R.png	unverified
+D90-6-01914	ئىت ئۇۋىسى	headword	155_1R.png	unverified
 D90-6-01915	ئىت ئۈچەي تېشى	headword	155_2L.png	unverified
 D90-6-01916	ئىت ئېيىقى	headword	155_2L.png	unverified
 D90-6-01917	ئىت يالىقى	headword	155_2L.png	unverified
@@ -1763,8 +1757,8 @@ D90-6-01981	ئىت-ئېشەك	headword	161_2L.png	unverified
 D90-6-01982	ئىتياڭىقى	headword	161_2L.png	unverified
 D90-6-01983	ئىجابەت	headword	161_2L.png	unverified
 D90-6-01984	ئىجابەت ئەتمەك	headword	162_1R.png	unverified
-D90-6-01986	ئىجابەت قىلماق	headword	162_1R.png	unverified
 D90-6-01985	ئىجابەت بولماق	headword	162_1R.png	unverified
+D90-6-01986	ئىجابەت قىلماق	headword	162_1R.png	unverified
 D90-6-01987	ئىجابەتلىك	headword	162_1R.png	unverified
 D90-6-01988	ئىجابىي	headword	162_1R.png	unverified
 D90-6-01990	ئىجابىي رول	headword	162_2L.png	unverified
@@ -1793,10 +1787,10 @@ D90-6-02012	ئىجادىيەت ئۇسۇلى	headword	164_1R.png	unverified
 D90-6-02013	ئىجادىيلىق	headword	164_1R.png	unverified
 D90-6-02014	ئىجارە	headword	164_1R.png	unverified
 D90-6-02015	ئىجارە پۇلى	headword	164_2L.png	unverified
-D90-6-02019	ئىجارە ھەققى	headword	164_2L.png	unverified
 D90-6-02016	ئىجارە تۈزۈمى	headword	164_2L.png	unverified
 D90-6-02017	ئىجارە سودىسى	headword	164_2L.png	unverified
 D90-6-02018	ئىجارە كرېدىتى	headword	164_2L.png	unverified
+D90-6-02019	ئىجارە ھەققى	headword	164_2L.png	unverified
 D90-6-02020	ئىجارىگە ئالماق	headword	165_1R.png	unverified
 D90-6-02021	ئىجارىگە بېرىش	headword	165_1R.png	unverified
 D90-6-02022	ئىجارىگە قويماق	headword	165_1R.png	unverified
@@ -1805,9 +1799,9 @@ D90-6-02024	ئىجارىكەش	headword	165_2L.png	verified
 D90-6-02025	ئىجارىكەشلىك	headword	165_2L.png	unverified
 D90-6-02027	ئىجازەت	headword	165_2L.png	unverified
 D90-6-02028	ئىجازەت ئەتمەك	headword	166_1R.png	unverified
-D90-6-02031	ئىجازەت قىلماق	headword	166_1R.png	unverified
 D90-6-02029	ئىجازەت بەرمەك	headword	166_1R.png	unverified
 D90-6-02030	ئىجازەت سورىماق	headword	166_1R.png	unverified
+D90-6-02031	ئىجازەت قىلماق	headword	166_1R.png	unverified
 D90-6-02032	ئىجازەتسىز	headword	166_1R.png	unverified
 D90-6-02033	ئىجاۋەت	nonstandard	166_2L.png	unverified
 D90-6-02034	ئىجتىمائىي	headword	166_2L.png	unverified
@@ -1852,10 +1846,10 @@ D90-6-02077	ئىجتىھاتلىق	headword	171_1R.png	unverified
 D90-6-02078	ئىجرا	headword	171_1R.png	unverified
 D90-6-02079	ئىجرا بولماق	headword	171_2L.png	unverified
 D90-6-02080	ئىجرا قىلغۇچى	headword	171_2L.png	unverified
-D90-6-02084	ئىجراچى	headword	172_1R.png	unverified
 D90-6-02081	ئىجرا قىلماق	headword	171_2L.png	unverified
 D90-6-02082	ئىجرا قىلىش ئۇقتۇرۇشى	headword	171_2L.png	unverified
 D90-6-02083	ئىجرا قىلىش ئىلتىماسى	headword	171_2L.png	unverified
+D90-6-02084	ئىجراچى	headword	172_1R.png	unverified
 D90-6-02085	ئىجراسىز	headword	172_1R.png	unverified
 D90-6-02086	ئىجرايى	headword	172_1R.png	unverified
 D90-6-02087	ئىجرائىيە	headword	172_2L.png	unverified
@@ -1867,7 +1861,6 @@ D90-6-02092	ئىچ ئاغرىتماق	headword	173_2L.png	unverified
 D90-6-02093	ئىچ ئاغرىق	headword	173_2L.png	unverified
 D90-6-02094	ئىچ ئالىغاي	headword	173_2L.png	unverified
 D90-6-02095	ئىچ بوۋاسىر	headword	173_2L.png	unverified
-D90-6-02222	ئىچكى بوۋاسىر	headword	184_1R.png	unverified
 D90-6-02096	ئىچ بېخى	headword	173_2L.png	unverified
 D90-6-02097	ئىچ پەتلە	headword	173_2L.png	unverified
 D90-6-02098	ئىچ پەش	headword	173_2L.png	unverified
@@ -1888,7 +1881,6 @@ D90-6-02112	ئىچ سىر	headword	174_2L.png	unverified
 D90-6-02113	ئىچ قۇلاق	headword	174_2L.png	unverified
 D90-6-02114	ئىچ قېلىپ	headword	174_2L.png	unverified
 D90-6-02115	ئىچ كەتمەك	headword	175_1R.png	unverified
-D90-6-02149	ئىچى سۈرمەك	headword	177_2L.png	unverified
 D90-6-02116	ئىچ كۆڭلەك	headword	175_1R.png	unverified
 D90-6-02117	ئىچ كۆيەر	headword	175_1R.png	unverified
 D90-6-02118	ئىچ كۆيۈكى	headword	175_1R.png	unverified
@@ -1900,7 +1892,6 @@ D90-6-02123	ئىچ گۆرلۈك	headword	175_2L.png	unverified
 D90-6-02124	ئىچ مايماق	headword	175_2L.png	unverified
 D90-6-02125	ئىچ ئوشۇق	headword	175_2L.png	unverified
 D90-6-02126	ئىچ ئۆتۈش	headword	175_2L.png	unverified
-D90-6-02150	ئىچى سۈرۈش	headword	177_2L.png	unverified
 D90-6-02127	ئىچى ئادىماق	headword	175_2L.png	unverified
 D90-6-02128	ئىچى ئاغرىماق	headword	176_1R.png	unverified
 D90-6-02129	ئىچى بوشىماق	headword	176_1R.png	unverified
@@ -1924,6 +1915,8 @@ D90-6-02145	ئىچىدىن قان كەلمەك	headword	177_1R.png	unverified
 D90-6-02146	ئىچىدىن قان ئۆتمەك	headword	177_2L.png	unverified
 D90-6-02147	ئىچىدىن يانىدىغان دۋىگاتېل	headword	177_2L.png	unverified
 D90-6-02148	ئىچى زەھەر	headword	177_2L.png	unverified
+D90-6-02149	ئىچى سۈرمەك	headword	177_2L.png	unverified
+D90-6-02150	ئىچى سۈرۈش	headword	177_2L.png	unverified
 D90-6-02151	ئىچى سىقىلماق	headword	178_1R.png	unverified
 D90-6-02152	ئىچى سىيرىلماق	headword	178_1R.png	unverified
 D90-6-02153	ئىچى غال-غال، تېشى يال-يال	headword	178_1R.png	unverified
@@ -1978,8 +1971,6 @@ D90-6-02199	ئىچ-قارنىنى تۆكمەك	headword	181_2L.png	unverified
 D90-6-02200	ئىچ-قارنى ئېچىلماق	headword	181_2L.png	unverified
 D90-6-02201	ئىچقويۇن	headword	181_2L.png	verified
 D90-6-02202	ئىچقويۇن-تاشقويۇن	headword	181_2L.png	unverified
-D90-6-08775	ئىچقويۇن بولماق	headword	181_2L.png	verified
-D90-6-08775-v1	ئىچقويۇن-تاشقويۇن بولماق	variant	181_2L.png	verified
 D90-6-02203	ئىچكەركى	headword	182_1R.png	unverified
 D90-6-02204	ئىچكۈ	headword	182_1R.png	unverified
 D90-6-02205	ئىچكۈزمەك	headword	182_1R.png	unverified
@@ -1992,13 +1983,14 @@ D90-6-02211	ئىچكى ئاجرىتىش	headword	182_2L.png	unverified
 D90-6-02212	ئىچكى ئاجرىتىش بەزلىرى	headword	183_1R.png	unverified
 D90-6-02213	ئىچكى ئاجرىتىش سىستېمىسى	headword	183_1R.png	unverified
 D90-6-02214	ئىچكى ئالاقە	headword	183_1R.png	unverified
-D90-6-02220	ئىچكى باغلىنىش	headword	183_2L.png	unverified
 D90-6-02215	ئىچكى ئالماش بۇلۇڭلار	headword	183_1R.png	unverified
 D90-6-02216	ئىچكى ئامىل	headword	183_2L.png	unverified
 D90-6-02217	ئىچكى ئايلىنىش	headword	183_2L.png	unverified
 D90-6-02218	ئىچكى ئەزا	headword	183_2L.png	unverified
 D90-6-02219	ئىچكى بازار	headword	183_2L.png	unverified
+D90-6-02220	ئىچكى باغلىنىش	headword	183_2L.png	unverified
 D90-6-02221	ئىچكى باللىستىكا	headword	183_2L.png	unverified
+D90-6-02222	ئىچكى بوۋاسىر	headword	184_1R.png	unverified
 D90-6-02223	ئىچكى بۇلۇڭ	headword	184_1R.png	unverified
 D90-6-02224	ئىچكى بېسىم	headword	184_1R.png	unverified
 D90-6-02225	ئىچكى بىر ياقلىق بۇلۇڭلار	headword	184_1R.png	unverified
@@ -2013,7 +2005,6 @@ D90-6-02233	ئىچكى پوست	headword	184_2L.png	unverified
 D90-6-02234	ئىچكى پېرىۋوت	headword	185_1R.png	unverified
 D90-6-02235	ئىچكى توپلام	headword	185_1R.png	unverified
 D90-6-02236	ئىچكى توك يولى	headword	185_1R.png	unverified
-D90-6-02300	ئىچكى ئېلېكتر يولى	headword	190_1R.png	unverified
 D90-6-02237	ئىچكى تۆرەلمە قەۋىتى	headword	185_1R.png	unverified
 D90-6-02238	ئىچكى تۈرتكە	headword	185_1R.png	unverified
 D90-6-02239	ئىچكى تېرە	headword	185_1R.png	unverified
@@ -2077,6 +2068,7 @@ D90-6-02296	ئىچكى ئوبوروت	headword	190_1R.png	unverified
 D90-6-02297	ئىچكى ئومۇمىي ئۇرۇنما	headword	190_1R.png	unverified
 D90-6-02298	ئىچكى ئۇرۇش	headword	190_1R.png	unverified
 D90-6-02299	ئىچكى ئويۇشۇش كۈچى	headword	190_1R.png	unverified
+D90-6-02300	ئىچكى ئېلېكتر يولى	headword	190_1R.png	unverified
 D90-6-02301	ئىچكى ئېنېرگىيە	headword	190_1R.png	unverified
 D90-6-02302	ئىچكى ئىسكىلىت	headword	190_2L.png	unverified
 D90-6-02303	ئىچكى ئىش	headword	190_2L.png	unverified
@@ -2152,7 +2144,6 @@ D90-6-02378	ئىخلاسلىق	headword	198_1R.png	unverified
 D90-6-02379	ئىخلاسمەن	headword	198_1R.png	unverified
 D90-6-02380	ئىخلاسمەنلىك	headword	198_2L.png	unverified
 D90-6-02381	ئىخلىم	nonstandard	198_2L.png	unverified
-D90-6-03454	ئىقلىم	headword	302_2L.png	unverified
 D90-6-02382	ئىدارە	headword	198_2L.png	unverified
 D90-6-02383	ئىدارە قىلماق	headword	198_2L.png	unverified
 D90-6-02384	ئىدارە-جەمئىيەت	headword	199_1R.png	unverified
@@ -2192,8 +2183,8 @@ D90-6-02422	ئىدىش	headword	202_1R.png	unverified
 D90-6-02423	ئىدىشلىق	headword	202_2L.png	unverified
 D90-6-02424	ئىدىق	headword	202_2L.png	unverified
 D90-6-02425	ئىدىقۇت	headword	202_2L.png	verified
-D90-6-02427	ئىدىقۇت ئۇيغۇر خانلىقى	headword	202_2L.png	unverified
 D90-6-02426	ئىدىقۇت خانلىقى	headword	202_2L.png	unverified
+D90-6-02427	ئىدىقۇت ئۇيغۇر خانلىقى	headword	202_2L.png	unverified
 D90-6-02428	ئىدىقىشماق	headword	203_1R.png	unverified
 D90-6-02429	ئىدىماق	headword	203_1R.png	unverified
 D90-6-02430	ئىدىئوم	headword	203_1R.png	unverified
@@ -2212,11 +2203,11 @@ D90-6-02445	ئىرادە باغلىماق	headword	205_1R.png	unverified
 D90-6-02446	ئىرادە بولماق	headword	205_1R.png	unverified
 D90-6-02447	ئىرادە بىلدۈرمەك	headword	205_1R.png	unverified
 D90-6-02448	ئىرادە پەلسەپىسى	headword	205_1R.png	verified
-D90-6-02453	ئىرادىچىلىك	headword	205_2L.png	unverified
 D90-6-02449	ئىرادە تەلىماتى	headword	205_2L.png	unverified
 D90-6-02450	ئىرادە تۇرغۇزماق	headword	205_2L.png	unverified
 D90-6-02451	ئىرادە تىكلىمەك	headword	205_2L.png	unverified
 D90-6-02452	ئىرادە قىلماق	headword	205_2L.png	unverified
+D90-6-02453	ئىرادىچىلىك	headword	205_2L.png	unverified
 D90-6-02454	ئىرادىچىلىك نەزەرىيىسى	headword	205_2L.png	unverified
 D90-6-02455	ئىرادىسىز	headword	205_2L.png	unverified
 D90-6-02456	ئىرادىسىزلىك	headword	206_1R.png	unverified
@@ -2338,8 +2329,8 @@ D90-6-02581	ئىزچى	headword	219_1R.png	unverified
 D90-6-02582	ئىزچىل	headword	219_2L.png	unverified
 D90-6-02584	ئىزچىلار	headword	220_1R.png	unverified
 D90-6-02585	ئىزچىللاشتۇرماق	headword	220_1R.png	unverified
-D90-6-02587	ئىزچىللاشماق	headword	220_1R.png	unverified
 D90-6-02586	ئىزچىللاشتۇرۇلماق	headword	220_1R.png	unverified
+D90-6-02587	ئىزچىللاشماق	headword	220_1R.png	unverified
 D90-6-02588	ئىزچىللىق	headword	220_2L.png	unverified
 D90-6-02590	ئىزخىر	headword	220_2L.png	unverified
 D90-6-02591	ئىزدەتكۈزمەك	headword	220_2L.png	unverified
@@ -2387,12 +2378,12 @@ D90-6-02636	ئىزمە	headword	225_2L.png	unverified
 D90-6-02637	ئىزموق	headword	225_2L.png	unverified
 D90-6-02638	ئىزمۇئىز	headword	226_1R.png	unverified
 D90-6-02639	ئىزمىدىماق	headword	226_1R.png	unverified
-D90-6-02645	ئىزمىلىمەك	headword	226_1R.png	unverified
 D90-6-02640	ئىزمىلەتمەك	headword	226_1R.png	unverified
 D90-6-02641	ئىزمىلەشمەك	headword	226_1R.png	unverified
 D90-6-02642	ئىزمىلەنمەك	headword	226_1R.png	unverified
 D90-6-02643	ئىزمىلىك	headword	226_1R.png	unverified
 D90-6-02644	ئىزمىلىماق	nonstandard	226_1R.png	unverified
+D90-6-02645	ئىزمىلىمەك	headword	226_1R.png	unverified
 D90-6-02646	ئىزنا	headword	226_2L.png	unverified
 D90-6-02647	ئىزناسىز	headword	226_2L.png	unverified
 D90-6-02648	ئىزناسىز سىزما	headword	226_2L.png	unverified
@@ -2405,16 +2396,16 @@ D90-6-02656	ئىزھار بولماق	headword	227_2L.png	unverified
 D90-6-02657	ئىزھار قىلماق	headword	227_2L.png	unverified
 D90-6-02658	ئىزھارلىماق	headword	227_2L.png	unverified
 D90-6-02659	ئىزوتروپ	headword	227_2L.png	unverified
-D90-6-02662	ئىزوتروپىيە	headword	227_2L.png	unverified
 D90-6-02660	ئىزوتروپلۇق	headword	227_2L.png	unverified
+D90-6-02662	ئىزوتروپىيە	headword	227_2L.png	unverified
 D90-6-02663	ئىزوتوپ	headword	228_1R.png	unverified
-D90-6-02670	ئىزوتوپلار	headword	228_2L.png	unverified
 D90-6-02664	ئىزوتوپ تەركىبى	headword	228_1R.png	unverified
 D90-6-02665	ئىزوتوپ گېئولوگىيىسى	headword	228_1R.png	unverified
 D90-6-02666	ئىزوتوپ گېئولوگىيىسى يىلشۇناسلىقى	headword	228_1R.png	unverified
 D90-6-02667	ئىزوتوپ گېئولوگىيىلىك دەۋر جەدۋىلى	headword	228_1R.png	unverified
 D90-6-02668	ئىزوتوپ مىنېرالوگىيىسى	headword	228_2L.png	unverified
 D90-6-02669	ئىزوتوپ يېشى	headword	228_2L.png	unverified
+D90-6-02670	ئىزوتوپلار	headword	228_2L.png	unverified
 D90-6-02671	ئىزوتوپلار ئېغىرلىقى	headword	228_2L.png	unverified
 D90-6-02672	ئىزوتوپلۇق	headword	228_2L.png	unverified
 D90-6-02674	ئىزوتوپلۇق يىلشۇناسلىق	headword	228_2L.png	unverified
@@ -2886,7 +2877,6 @@ D90-6-03180	ئىشتانسىز	headword	277_1R.png	unverified
 D90-6-03181	ئىشتانلىق	headword	277_1R.png	unverified
 D90-6-03182	ئىشتە	headword	277_1R.png	verified
 D90-6-03183	ئىشتەي	headword	277_1R.png	unverified
-D90-6-03192	ئىشتىھا	headword	277_2L.png	unverified
 D90-6-03184	ئىشتىراپ	headword	277_1R.png	verified
 D90-6-03184-v1	جەرىمانە	variant	277_1R.png	verified
 D90-6-03185	ئىشتىراك	headword	277_1R.png	unverified
@@ -2895,6 +2885,7 @@ D90-6-03187	ئىشتىراك قىلماق	headword	277_2L.png	unverified
 D90-6-03188	ئىشتىراكچى	headword	277_2L.png	unverified
 D90-6-03189	ئىشتىرمەك	nonstandard	277_2L.png	unverified
 D90-6-03190	ئىشتىك	headword	277_2L.png	unverified
+D90-6-03192	ئىشتىھا	headword	277_2L.png	unverified
 D90-6-03193	ئىشتىھا ساقلىماق	headword	278_1R.png	unverified
 D90-6-03194	ئىشتىھاسى تۇتۇلماق	headword	278_1R.png	unverified
 D90-6-03195	ئىشتىھاسى ئېچىلماق	headword	278_1R.png	unverified
@@ -2943,9 +2934,9 @@ D90-6-03240	ئىشغالىيەتچى	headword	282_1R.png	unverified
 D90-6-03241	ئىشق	headword	282_1R.png	unverified
 D90-6-03242	ئىشق سەۋداسى	headword	282_1R.png	unverified
 D90-6-03243	ئىشقار	headword	282_2L.png	verified
-D90-6-03248	ئىشقارلار	headword	283_1R.png	unverified
 D90-6-03246	ئىشقارخور	headword	282_2L.png	unverified
 D90-6-03247	ئىشقارخۇمار	headword	282_2L.png	unverified
+D90-6-03248	ئىشقارلار	headword	283_1R.png	unverified
 D90-6-03249	ئىشقارلىق	headword	283_1R.png	unverified
 D90-6-03255	ئىشقارىي	headword	283_2L.png	verified
 D90-6-03257	ئىشقارىي يەر مېتاللىرى	headword	284_1R.png	unverified
@@ -3098,7 +3089,6 @@ D90-6-03418	ئىقتىسادىي رايون	headword	299_1R.png	unverified
 D90-6-03419	ئىقتىسادىي رايونلارغا ئايرىش	headword	299_2L.png	unverified
 D90-6-03420	ئىقتىسادىي زىرائەتلەر	headword	299_2L.png	unverified
 D90-6-03421	ئىقتىسادىي ساراسىمە	headword	299_2L.png	unverified
-D90-6-03433	ئىقتىسادىي كرىزىس	headword	300_2L.png	unverified
 D90-6-03422	ئىقتىسادىي ستاتىستىكا	headword	299_2L.png	unverified
 D90-6-03423	ئىقتىسادىي سوت كوللېگىيىسى	headword	299_2L.png	unverified
 D90-6-03424	ئىقتىسادىي سىياسەت	headword	299_2L.png	unverified
@@ -3110,6 +3100,7 @@ D90-6-03429	ئىقتىسادىي كەسىپ	headword	300_1R.png	unverified
 D90-6-03430	ئىقتىسادىي كۆرسەتكۈچ	headword	300_1R.png	unverified
 D90-6-03431	ئىقتىسادىي كۈرەش	headword	300_1R.png	unverified
 D90-6-03432	ئىقتىسادىي كېڭەيمىچىلىك	headword	300_1R.png	unverified
+D90-6-03433	ئىقتىسادىي كرىزىس	headword	300_2L.png	unverified
 D90-6-03434	ئىقتىسادىي مەركەزلەر	headword	300_2L.png	unverified
 D90-6-03435	ئىقتىسادىي مەسئۇلىيەت تۈزۈمى	headword	300_2L.png	unverified
 D90-6-03436	ئىقتىسادىي مەنپەئەت	headword	300_2L.png	unverified
@@ -3130,6 +3121,7 @@ D90-6-03450	ئىقرار	headword	302_1R.png	unverified
 D90-6-03451	ئىقرار بولماق	headword	302_2L.png	unverified
 D90-6-03452	ئىقرار قىلماق	headword	302_2L.png	unverified
 D90-6-03453	ئىقرارنامە	headword	302_2L.png	unverified
+D90-6-03454	ئىقلىم	headword	302_2L.png	unverified
 D90-6-03456	ئىقلىم بەلباغلىرى	headword	303_1R.png	unverified
 D90-6-03457	ئىقلىم تۈرلىرى	headword	303_1R.png	unverified
 D90-6-03458	ئىقلىم تىپلىرى	headword	303_1R.png	unverified
@@ -3178,7 +3170,6 @@ D90-6-03502	ئىككى تايىن	headword	307_1R.png	unverified
 D90-6-03503	ئىككى تايىن بولماق	headword	307_1R.png	unverified
 D90-6-03504	ئىككى تەرەپلىمە	headword	307_1R.png	unverified
 D90-6-03505	ئىككى تەرەپلىمىلىك	headword	307_1R.png	unverified
-D90-6-03619	ئىككى ياقلىمىلىق	headword	315_2L.png	unverified
 D90-6-03507	ئىككى تەكشىلىك ئارىسىدىكى بۇلۇڭ	headword	307_1R.png	unverified
 D90-6-03508	ئىككى تەكشىلىكنىڭ پاراللېللىقى	headword	307_1R.png	unverified
 D90-6-03509	ئىككى تەكشىلىكنىڭ تىكلىكى	headword	307_1R.png	unverified
@@ -3233,7 +3224,6 @@ D90-6-03560	ئىككى قولۇم كۆكسۈمدە	headword	311_1R.png	unverifie
 D90-6-03561	ئىككى قولىنى بۇرنىغا تىقىپ	headword	311_2L.png	unverified
 D90-6-03562	ئىككى قولىنى بۇرنىغا تىقىپ قالماق	headword	311_2L.png	unverified
 D90-6-03563	ئىككى قوۋۇز گەپ	headword	311_2L.png	verified
-D90-6-03608	ئىككى ئېغىز گەپ	headword	315_1R.png	unverified
 D90-6-03564	ئىككى قۇتۇپ	headword	311_2L.png	unverified
 D90-6-03565	ئىككى قۇتۇپلۇق كرىستال لامپا	headword	311_2L.png	unverified
 D90-6-03566	ئىككى قۇتۇپلۇق لامپا	headword	312_1R.png	unverified
@@ -3278,6 +3268,7 @@ D90-6-03604	ئىككى ئوق ئارىسىدىكى بۇلۇڭ	headword	314_2L.pn
 D90-6-03605	ئىككى ئۆلچەملىك ھەرىكەت	headword	314_2L.png	unverified
 D90-6-03606	ئىككى ۋالېنتلىق تەنچە	headword	314_2L.png	unverified
 D90-6-03607	ئىككى ۋېكتور ئارىسىدىكى بۇلۇڭ	headword	314_2L.png	unverified
+D90-6-03608	ئىككى ئېغىز گەپ	headword	315_1R.png	unverified
 D90-6-03609	ئىككى ئېغىز گەپ قىلماق	headword	315_1R.png	unverified
 D90-6-03610	ئىككى ئىشتاننى ئارتۇق ئۈزگەن	headword	315_1R.png	unverified
 D90-6-03611	ئىككى ئىشتاننى بالدۇر يىرتقان	headword	315_1R.png	unverified
@@ -3288,6 +3279,7 @@ D90-6-03615	ئىككى ياقلىق بۇلۇڭ تەڭلىكى	headword	315_1R.pn
 D90-6-03616	ئىككى ياقلىق بۇلۇڭلارنىڭ سىزىقلىق بۇلۇڭى	headword	315_1R.png	unverified
 D90-6-03617	ئىككى ياقلىق بۇلۇڭلار يىغىندىسى	headword	315_2L.png	unverified
 D90-6-03618	ئىككى ياقلىما	headword	315_2L.png	unverified
+D90-6-03619	ئىككى ياقلىمىلىق	headword	315_2L.png	unverified
 D90-6-03620	ئىككى ياقلىمىلىق بىرىكمىلەر	headword	315_2L.png	unverified
 D90-6-03621	ئىككى ياقلىمىلىق پېرېۋوت نىسبىتى	headword	315_2L.png	unverified
 D90-6-03622	ئىككى يانغا قارىماق	headword	316_1R.png	unverified
@@ -3446,10 +3438,8 @@ D90-6-03778	ئىلاجنىڭ بارىچە	headword	330_2L.png	unverified
 D90-6-03779	ئىلاجسىز	headword	330_2L.png	unverified
 D90-6-03780	ئىلاجسىزلىق	headword	330_2L.png	unverified
 D90-6-03781	ئىلاڭگۈچ	nonstandard	331_1R.png	unverified
-D90-6-03809	ئىلەڭگۈچ	headword	333_2L.png	unverified
 D90-6-03782	ئىلام	headword	331_1R.png	unverified
 D90-6-03783	ئىلان	nonstandard	331_1R.png	unverified
-D90-6-08659	يىلان	headword	774_1R.png	unverified
 D90-6-03784	ئىلاھ	headword	331_1R.png	verified
 D90-6-03785	ئىلاھا-ئامىن	headword	331_2L.png	unverified
 D90-6-03786	ئىلاھە	headword	331_2L.png	verified
@@ -3475,6 +3465,7 @@ D90-6-03805	ئىلەشمەك	headword	333_1R.png	unverified
 D90-6-03806	ئىلەك	headword	333_1R.png	unverified
 D90-6-03807	ئىلەڭچى	headword	333_1R.png	unverified
 D90-6-03808	ئىلەڭ-سىلەڭ	headword	333_1R.png	unverified
+D90-6-03809	ئىلەڭگۈچ	headword	333_2L.png	unverified
 D90-6-03811	ئىلەنمەك	headword	333_2L.png	unverified
 D90-6-03812	ئىلپەت	nonstandard	333_2L.png	unverified
 D90-6-03812-c1	ئۈلپەت	corrected_form	333_2L.png	unverified
@@ -3574,7 +3565,6 @@ D90-6-03916	ئىلمىي ئىندۇكسىيىلىك ئەقلىي خۇلاسە	he
 D90-6-03917	ئىلمىي-تەربىيە فىلىم	headword	343_1R.png	unverified
 D90-6-03918	ئىلمىيلىك	headword	343_1R.png	unverified
 D90-6-03919	ئىلناشماق	nonstandard	343_1R.png	unverified
-D90-6-03976	ئىلىنىشماق	headword	348_1R.png	unverified
 D90-6-03921	ئىلھام	headword	343_2L.png	unverified
 D90-6-03922	ئىلھام ئالماق	headword	343_2L.png	unverified
 D90-6-03923	ئىلھام بەرمەك	headword	343_2L.png	unverified
@@ -3606,7 +3596,6 @@ D90-6-03949	ئىلىقلىق	headword	346_1R.png	unverified
 D90-6-03950	ئىلىق - مىلىق	headword	346_1R.png	unverified
 D90-6-03951	ئىلىك	headword	346_1R.png	unverified
 D90-6-03952	ئىلىك ئالماق	headword	346_2L.png	unverified
-D90-6-08748	يىلىك	headword	781_2L.png	unverified
 D90-6-03954	ئىلىكتەلە	headword	346_2L.png	unverified
 D90-6-03955	ئىلىكتىمەك	headword	346_2L.png	unverified
 D90-6-03956	ئىلىم	headword	346_2L.png	unverified
@@ -3627,6 +3616,7 @@ D90-6-03972	ئىلىندۇرماق	headword	348_1R.png	unverified
 D90-6-03973	ئىلىنماق	headword	348_1R.png	unverified
 D90-6-03974	ئىلىنىش	headword	348_1R.png	unverified
 D90-6-03975	ئىلىنىشتۇرماق	headword	348_1R.png	unverified
+D90-6-03976	ئىلىنىشماق	headword	348_1R.png	unverified
 D90-6-03977	ئىم	headword	348_2L.png	verified
 D90-6-03978	ئىما	headword	348_2L.png	unverified
 D90-6-03979	ئىما قىلماق	headword	348_2L.png	unverified
@@ -3707,8 +3697,8 @@ D90-6-04059	ئىمزالىتىلماق	headword	355_2L.png	unverified
 D90-6-04060	ئىمزالىق	headword	355_2L.png	unverified
 D90-6-04061	ئىمزالىماق	headword	355_2L.png	unverified
 D90-6-04062	ئىمكان	headword	356_1R.png	unverified
-D90-6-04064	ئىمكانىيەت	headword	356_2L.png	unverified
 D90-6-04063	ئىمكانقەدەر	headword	356_1R.png	unverified
+D90-6-04064	ئىمكانىيەت	headword	356_2L.png	unverified
 D90-6-04067	ئىمكانىيەتسىز	headword	357_1R.png	unverified
 D90-6-04068	ئىمكانىيەتلىك	headword	357_1R.png	unverified
 D90-6-04069	ئىملا	headword	357_1R.png	unverified
@@ -3795,9 +3785,9 @@ D90-6-04162	ئىناۋەتلىك قەرز ئاۋۇپ كېتىش	headword	363_2L.
 D90-6-04163	ئىناۋەتلىك قەرز كرىزىسى	headword	364_1R.png	unverified
 D90-6-04164	ئىناۋەتلىك قەرز مۇپەتتىشلىكى	headword	364_1R.png	unverified
 D90-6-04165	ئىناۋەتلىك كارتوچكا	headword	364_1R.png	unverified
-D90-6-04168	ئىناۋەتلىك كىنىشكا	headword	364_1R.png	unverified
 D90-6-04166	ئىناۋەتلىك كرېدىت	headword	364_1R.png	unverified
 D90-6-04167	ئىناۋەتلىك كوپىراتىپ	headword	364_1R.png	unverified
+D90-6-04168	ئىناۋەتلىك كىنىشكا	headword	364_1R.png	unverified
 D90-6-04169	ئىناۋەتلىك كىنىشكا راسچوتى	headword	364_2L.png	unverified
 D90-6-04170	ئىناۋەتلىك ھاۋالە	headword	364_2L.png	unverified
 D90-6-04171	ئىنايەت	headword	364_2L.png	unverified
@@ -4048,7 +4038,6 @@ D90-6-04463	ئىھاتە ئورمىنى	headword	389_1R.png	unverified
 D90-6-04464	ئىھتىدا	headword	389_1R.png	unverified
 D90-6-04465	ئىئولىت	headword	389_1R.png	unverified
 D90-6-04466	ئىئون	headword	389_1R.png	unverified
-D90-6-04480	ئىئونلار	headword	390_2L.png	unverified
 D90-6-04468	ئىئون ئالماشتۇرۇش	headword	389_2L.png	unverified
 D90-6-04469	ئىئون ئالماشتۇرۇش سىمولىسى	headword	389_2L.png	unverified
 D90-6-04470	ئىئون پوتېنسىئالى	headword	389_2L.png	unverified
@@ -4060,6 +4049,7 @@ D90-6-04475	ئىئون كىرگۈزۈش	headword	390_1R.png	unverified
 D90-6-04476	ئىئوننىڭ قۇتۇپلىنىشى	headword	390_1R.png	unverified
 D90-6-04477	ئىئوننىڭ يېپىشىشى	headword	390_2L.png	unverified
 D90-6-04478	ئىئون يىڭنىلىك مىكرو ئانالىزاتور	headword	390_2L.png	unverified
+D90-6-04480	ئىئونلار	headword	390_2L.png	unverified
 D90-6-04481	ئىئونلارنى ئادسورپىتسىيىلەش	headword	390_2L.png	unverified
 D90-6-04482	ئىئونلاش	headword	390_2L.png	unverified
 D90-6-04483	ئىئونلاش كامېراسى	headword	390_2L.png	unverified
@@ -4118,11 +4108,11 @@ D90-6-04543	يا نېرى ئەمەس يا بېرى ئەمەس	headword	397_1R.pn
 D90-6-04545	يا ئۇنداق يا بۇنداق	headword	397_1R.png	unverified
 D90-6-04546	يا ئۇنداق يا مۇنداق	headword	397_1R.png	unverified
 D90-6-04547	يا ئۇ ياقلىق يا بۇ ياقلىق بولماق	headword	397_1R.png	unverified
-D90-6-04551	يا ئۇ يان يا بۇ يان بولماق	headword	397_2L.png	unverified
 D90-6-04548	يا ئۇ ياقلىق يا بۇ ياقلىق قىلماق	headword	397_1R.png	unverified
-D90-6-04552	يا ئۇ يان يا بۇ يان قىلماق	headword	397_2L.png	unverified
 D90-6-04549	يا ئۇ ياق يا بۇ ياق بولماق	headword	397_2L.png	unverified
 D90-6-04550	يا ئۇ ياق يا بۇ ياق قىلماق	headword	397_2L.png	unverified
+D90-6-04551	يا ئۇ يان يا بۇ يان بولماق	headword	397_2L.png	unverified
+D90-6-04552	يا ئۇ يان يا بۇ يان قىلماق	headword	397_2L.png	unverified
 D90-6-04553	يا ھالال ئەمەس يا ھارام	headword	397_2L.png	unverified
 D90-6-04554	يا ھالال ئەمەس يا ھارام ئەمەس	headword	397_2L.png	unverified
 D90-6-04555	يا ئۆلۈك ئەمەس يا تىرىك	headword	397_2L.png	unverified
@@ -4199,7 +4189,6 @@ D90-6-04638	يات رەڭ	headword	407_1R.png	unverified
 D90-6-04639	يات شەكىل	headword	407_1R.png	unverified
 D90-6-04640	يات قول	headword	407_2L.png	unverified
 D90-6-04641	يات قىلماق	headword	407_2L.png	unverified
-D90-6-04669	ياتلاشتۇرماق	headword	410_1R.png	unverified
 D90-6-04642	يات قىلىق	headword	407_2L.png	unverified
 D90-6-04643	يات كۆرمەك	headword	407_2L.png	unverified
 D90-6-04644	يات ماددا	headword	407_2L.png	unverified
@@ -4225,6 +4214,7 @@ D90-6-04665	ياتقۇ	headword	409_2L.png	unverified
 D90-6-04666	ياتقۇزماق	headword	409_2L.png	unverified
 D90-6-04667	ياتقۇزۇشماق	headword	410_1R.png	unverified
 D90-6-04668	ياتقۇزۇلماق	headword	410_1R.png	unverified
+D90-6-04669	ياتلاشتۇرماق	headword	410_1R.png	unverified
 D90-6-04670	ياتلاشتۇرۇشماق	headword	410_1R.png	unverified
 D90-6-04671	ياتلاشتۇرۇلماق	headword	410_1R.png	unverified
 D90-6-04672	ياتلاشماق	headword	410_1R.png	unverified
@@ -4306,9 +4296,9 @@ D90-6-04753	يادىدىن كەچمەك	headword	418_2L.png	unverified
 D90-6-04754	يادىدىن كۆتۈرۈلمەك	headword	418_2L.png	unverified
 D90-6-04755	يادىغا ئالماق	headword	418_2L.png	unverified
 D90-6-04756	يادىغا چۈشمەك	headword	419_1R.png	unverified
-D90-6-04759	يادىغا كەلمەك	headword	419_1R.png	unverified
 D90-6-04757	يادىغا سالماق	headword	419_1R.png	unverified
 D90-6-04758	يادىغا كەلتۈرۈش	headword	419_1R.png	unverified
+D90-6-04759	يادىغا كەلمەك	headword	419_1R.png	unverified
 D90-6-04760	يادىغا يەتمەك	headword	419_1R.png	unverified
 D90-6-04761	ياد يېزىش	headword	419_1R.png	unverified
 D90-6-04762	يادا	headword	419_1R.png	unverified
@@ -4579,8 +4569,8 @@ D90-6-05053	يازلىق سپورا	headword	445_1R.png	unverified
 D90-6-05054	يازلىق قوغۇن	headword	445_1R.png	unverified
 D90-6-05055	يازلىق كۆكپىت	headword	445_2L.png	unverified
 D90-6-05056	يازلىق كۈن توختىشى	headword	445_2L.png	unverified
-D90-6-05058	يازلىق كۈن-تۈن توختىشى	headword	445_2L.png	unverified
 D90-6-05057	يازلىق كۈن-تۈن توختاش نۇقتىسى	headword	445_2L.png	unverified
+D90-6-05058	يازلىق كۈن-تۈن توختىشى	headword	445_2L.png	unverified
 D90-6-05059	يازلىق كىپارىس	headword	445_2L.png	unverified
 D90-6-05060	يازلىق كىيىم	headword	446_1R.png	unverified
 D90-6-05061	يازلىق لاگېر	headword	446_1R.png	unverified
@@ -4874,11 +4864,10 @@ D90-6-05409	يالاڭباش	headword	479_1R.png	unverified
 D90-6-05410	يالاڭباشتاق	headword	479_1R.png	unverified
 D90-6-05411	يالاڭتۇش	headword	479_1R.png	unverified
 D90-6-05412	يالاڭدىماق	nonstandard	479_1R.png	verified
-D90-6-05416	يالاڭلىماق	headword	479_1R.png	unverified
 D90-6-05413	يالاڭقىداق	headword	479_1R.png	unverified
-D90-6-05566	يالىڭاياغ	headword	493_2L.png	unverified
 D90-6-05414	يالاڭقات	headword	479_1R.png	unverified
 D90-6-05415	يالاڭلىق	headword	479_1R.png	unverified
+D90-6-05416	يالاڭلىماق	headword	479_1R.png	unverified
 D90-6-05417	يالاندى	headword	479_2L.png	unverified
 D90-6-05418	يالانماق	headword	479_2L.png	unverified
 D90-6-05420	يالپاق	headword	479_2L.png	unverified
@@ -4966,14 +4955,14 @@ D90-6-05506	يالقۇن رېئاكسىيىسى	headword	487_2L.png	unverified
 D90-6-05507	يالقۇن فوتومېتىر	headword	487_2L.png	unverified
 D90-6-05508	يالقۇن مەركىزى	headword	487_2L.png	unverified
 D90-6-05509	يالقۇنجاتماق	headword	487_2L.png	unverified
-D90-6-05514	يالقۇنلاتماق	headword	488_1R.png	unverified
 D90-6-05510	يالقۇنجىماق	headword	487_2L.png	unverified
-D90-6-05517	يالقۇنلىماق	headword	488_1R.png	unverified
 D90-6-05511	يالقۇنسىمان	headword	487_2L.png	unverified
 D90-6-05512	يالقۇنسىمان تۈزۈلمە	headword	487_2L.png	unverified
 D90-6-05513	يالقۇنسىمان گۈل رېتى	headword	488_1R.png	unverified
+D90-6-05514	يالقۇنلاتماق	headword	488_1R.png	unverified
 D90-6-05515	يالقۇنلانماق	headword	488_1R.png	unverified
 D90-6-05516	يالقۇنلۇق	headword	488_1R.png	unverified
+D90-6-05517	يالقۇنلىماق	headword	488_1R.png	unverified
 D90-6-05518	ياللاتماق	headword	488_2L.png	unverified
 D90-6-05519	ياللاشماق	headword	488_2L.png	unverified
 D90-6-05520	ياللانما	headword	488_2L.png	unverified
@@ -4981,6 +4970,7 @@ D90-6-05524	ياللانما قۇللۇق تۈزۈم	headword	489_1R.png	unverif
 D90-6-05525	ياللانما ئىشچى	headword	489_1R.png	unverified
 D90-6-05526	ياللانماق	headword	489_1R.png	unverified
 D90-6-05527	ياللانمىلىق	headword	489_1R.png	unverified
+D90-6-05528	ياللۇغ	headword	489_1R.png	unverified
 D90-6-05529	ياللۇغ ئىششىقى	headword	489_1R.png	unverified
 D90-6-05530	ياللۇغلانماق	headword	489_1R.png	unverified
 D90-6-05531	ياللىق	headword	489_2L.png	unverified
@@ -5016,6 +5006,7 @@ D90-6-05562	يالىڭاچلاتماق	headword	492_2L.png	unverified
 D90-6-05563	يالىڭاچلاشماق	headword	492_2L.png	unverified
 D90-6-05564	يالىڭاچلانماق	headword	492_2L.png	unverified
 D90-6-05565	يالىڭاچلىماق	headword	493_1R.png	unverified
+D90-6-05566	يالىڭاياغ	headword	493_2L.png	unverified
 D90-6-05568	يالىلدا تماق	headword	493_2L.png	unverified
 D90-6-05569	يالىلدا شماق	headword	493_2L.png	unverified
 D90-6-05570	يالىلدىماق	headword	493_2L.png	unverified
@@ -5063,9 +5054,7 @@ D90-6-05614	يامان بولۇپ قالماق	headword	498_1R.png	unverified
 D90-6-05615	يامان بولىدۇ	headword	498_1R.png	unverified
 D90-6-05616	يامان چۈش كۆرمەك	headword	498_1R.png	unverified
 D90-6-05617	يامان سۆز	headword	498_1R.png	unverified
-D90-6-05635	يامان گەپ	headword	499_2L.png	unverified
 D90-6-05618	يامان سۆز قىلماق	headword	498_2L.png	unverified
-D90-6-05636	يامان گەپ قىلماق	headword	500_1R.png	unverified
 D90-6-05619	يامان سۈپەتلىك ئايلىنىش	headword	498_2L.png	unverified
 D90-6-05620	يامان سۈپەتلىك بەزگەك	headword	498_2L.png	unverified
 D90-6-05621	يامان سۈپەتلىك تورسىمان ھۈجەيرە كۆپىيىش	headword	498_2L.png	unverified
@@ -5073,9 +5062,7 @@ D90-6-05622	يامان سۈپەتلىك ئۆسمە	headword	498_2L.png	unverifie
 D90-6-05623	يامانغا يان باسماق	headword	499_1R.png	unverified
 D90-6-05624	يامانغا يانتاياق بولماق	headword	499_1R.png	unverified
 D90-6-05625	يامان غەرەز	headword	499_1R.png	unverified
-D90-6-05638	يامان نىيەت	headword	500_1R.png	unverified
 D90-6-05626	يامان غەرەزدە بولماق	headword	499_1R.png	unverified
-D90-6-05639	يامان نىيەتتە بولماق	headword	500_1R.png	unverified
 D90-6-05627	يامان قىلماق	headword	499_1R.png	unverified
 D90-6-05628	يامان كۆرمەك	headword	499_1R.png	unverified
 D90-6-05629	يامان كۆرۈنمەك	headword	499_2L.png	unverified
@@ -5084,7 +5071,11 @@ D90-6-05631	يامان كۆز بىلەن قارىماق	headword	499_2L.png	unve
 D90-6-05632	يامان كۆزدە قارىماق	headword	499_2L.png	unverified
 D90-6-05633	يامان كۆزىنى سالماق	headword	499_2L.png	unverified
 D90-6-05634	يامان كۈنگە قالماق	headword	499_2L.png	unverified
+D90-6-05635	يامان گەپ	headword	499_2L.png	unverified
+D90-6-05636	يامان گەپ قىلماق	headword	500_1R.png	unverified
 D90-6-05637	يامان گېپىنى قىلماق	headword	500_1R.png	unverified
+D90-6-05638	يامان نىيەت	headword	500_1R.png	unverified
+D90-6-05639	يامان نىيەتتە بولماق	headword	500_1R.png	unverified
 D90-6-05640	يامان ئۆگىتىپ قويماق	headword	500_1R.png	unverified
 D90-6-05641	يامان ئۆگىنىپ قالماق	headword	500_2L.png	unverified
 D90-6-05642	يامان يارا	headword	500_2L.png	unverified
@@ -5178,8 +5169,8 @@ D90-6-05738	يان يىلتىز	headword	507_2L.png	unverified
 D90-6-05739	يېنى ئاغرىماسلىق	headword	507_2L.png	unverified
 D90-6-05740	يېنى بوش	headword	507_2L.png	unverified
 D90-6-05741	يېنى توم	headword	508_1R.png	unverified
-D90-6-05743	يېنى چىڭ	headword	508_1R.png	unverified
 D90-6-05742	يېنى تومپايماق	headword	508_1R.png	unverified
+D90-6-05743	يېنى چىڭ	headword	508_1R.png	unverified
 D90-6-05744	يېنىدا بولماق	headword	508_1R.png	unverified
 D90-6-05745	يېنىدىن ئۆتمەسلىك	headword	508_1R.png	unverified
 D90-6-05746	يېنىغا ئالماق	headword	508_1R.png	unverified
@@ -5306,7 +5297,6 @@ D90-6-05894	يانقارماق	headword	520_1R.png	unverified
 D90-6-05895	يانماق	headword	520_1R.png	unverified
 D90-6-05897	يانمۇيان	headword	521_1R.png	unverified
 D90-6-05898	يانۇچان	nonstandard	521_1R.png	unverified
-D90-6-08276	يېنىشچان	headword	737_2L.png	unverified
 D90-6-05899	يانۋار	headword	521_1R.png	unverified
 D90-6-05900	ياھەزرەت	headword	521_1R.png	verified
 D90-6-05901	ياۋ	headword	521_2L.png	unverified
@@ -5357,7 +5347,6 @@ D90-6-05944-v1	لوپنۇر كەندىرى	variant	526_1R.png	unverified
 D90-6-05945	ياۋا كورۇك	headword	526_1R.png	unverified
 D90-6-05946	ياۋا كۆك پۇرچاق	headword	526_2L.png	unverified
 D90-6-05947	ياۋا كۆكتات	headword	526_2L.png	unverified
-D90-6-05956	ياۋا ئوتياش	headword	527_2L.png	unverified
 D90-6-05948	ياۋا كۆكنار	headword	526_2L.png	unverified
 D90-6-05949	ياۋا كۈنجۈت	headword	526_2L.png	unverified
 D90-6-05950	ياۋا گۈلسامساق	headword	527_1R.png	unverified
@@ -5366,6 +5355,7 @@ D90-6-05952	ياۋا ماش	headword	527_1R.png	unverified
 D90-6-05953	ياۋا موزا	headword	527_2L.png	unverified
 D90-6-05954	ياۋا مۇشت يەپ قالماق	headword	527_2L.png	unverified
 D90-6-05955	ياۋا نەشپۈت	headword	527_2L.png	unverified
+D90-6-05956	ياۋا ئوتياش	headword	527_2L.png	unverified
 D90-6-05957	ياۋا ئوسۇڭ	headword	527_2L.png	unverified
 D90-6-05958	ياۋا ئۆچكە	headword	528_1R.png	unverified
 D90-6-05959	ياۋا ئۆردەك	headword	528_1R.png	unverified
@@ -5387,13 +5377,13 @@ D90-6-05975	ياۋايىلىق	headword	530_1R.png	unverified
 D90-6-05976	ياۋچى	headword	530_1R.png	verified
 D90-6-05977	ياۋچىلار	headword	530_2L.png	unverified
 D90-6-05978	ياۋروپا	headword	530_2L.png	unverified
-D90-6-05985	ياۋروپا قىتئەسى	headword	531_2L.png	unverified
 D90-6-05979	ياۋروپا ئەركىن سودا ئىتتىپاقى	headword	530_2L.png	unverified
 D90-6-05980	ياۋروپا پۇل سىستېمىسى	headword	530_2L.png	unverified
 D90-6-05981	ياۋروپا پۇل كېلىشىمى	headword	531_1R.png	unverified
 D90-6-05982	ياۋروپا پۇلى	headword	531_1R.png	unverified
 D90-6-05983	ياۋروپا جۈزنىكى	headword	531_1R.png	unverified
 D90-6-05984	ياۋروپا قارا قۇشقىچى	headword	531_2L.png	unverified
+D90-6-05985	ياۋروپا قىتئەسى	headword	531_2L.png	unverified
 D90-6-05986	ياۋروپا ئىرقى	headword	531_2L.png	unverified
 D90-6-05987	ياۋروپا ئىقتىسادىي ئورتاق گەۋدىسى	headword	531_2L.png	unverified
 D90-6-05988	ياۋروپاچە	headword	532_1R.png	unverified
@@ -5466,7 +5456,6 @@ D90-6-06073	يەتتىنچى فېۋرال چوڭ ئىش تاشلىشى	headword	
 D90-6-06074	يەتتىنچى ئىيۇل ۋەقەسى	headword	539_1R.png	verified
 D90-6-06074-v1	لۇگۇچياۋ ۋەقەسى	variant	539_1R.png	verified
 D90-6-06075	يەتكۈزمە	headword	539_2L.png	verified
-D90-6-08777	يەتكۈزمە دوكلات	headword	539_2L.png	verified
 D90-6-06076	يەتكۈزمەك	headword	539_2L.png	verified
 D90-6-06077	يەتكۈزۈشمەك	headword	539_2L.png	unverified
 D90-6-06078	يەتكۈزۈلمەك	headword	539_2L.png	unverified
@@ -6046,9 +6035,9 @@ D90-6-06687	يوغان باش تۇننۇس	headword	595_2L.png	unverified
 D90-6-06689	يوغان بەل	headword	596_1R.png	unverified
 D90-6-06690	يوغان سۆز	headword	596_1R.png	unverified
 D90-6-06691	يوغان سۆزلىمەك	headword	596_1R.png	unverified
-D90-6-06694	يوغان گەپ قىلماق	headword	596_1R.png	unverified
 D90-6-06692	يوغان قورساق	headword	596_1R.png	unverified
 D90-6-06693	يوغان گەپ	headword	596_1R.png	unverified
+D90-6-06694	يوغان گەپ قىلماق	headword	596_1R.png	unverified
 D90-6-06695	يوغان ئۈچەي	headword	596_2L.png	unverified
 D90-6-06696	يوغانچى	headword	596_2L.png	unverified
 D90-6-06697	يوغانچىلىق	headword	596_2L.png	unverified
@@ -6419,7 +6408,6 @@ D90-6-07101	يۇمشاق تەنلىكلەر	headword	630_2L.png	unverified
 D90-6-07102	يۇمشاق تەنلىك ھايۋانلار	headword	630_2L.png	unverified
 D90-6-07103	يۇمشاق توپا	headword	630_2L.png	unverified
 D90-6-07104	يۇمشاق دېتال	headword	630_2L.png	unverified
-D90-6-07114	يۇمشاق ماتېرىيال	headword	631_2L.png	unverified
 D90-6-07105	يۇمشاق سۇ	headword	630_2L.png	unverified
 D90-6-07106	يۇمشاق سۇپېر ئۆتكۈزگۈچ	headword	630_2L.png	unverified
 D90-6-07107	يۇمشاق شانكىر	headword	630_2L.png	unverified
@@ -6429,6 +6417,7 @@ D90-6-07110	يۇمشاق قوللۇق	headword	631_1R.png	unverified
 D90-6-07111	يۇمشاق كۆڭۈل	headword	631_1R.png	unverified
 D90-6-07112	يۇمشاق گەپ	headword	631_1R.png	unverified
 D90-6-07113	يۇمشاق گەدەن	headword	631_1R.png	unverified
+D90-6-07114	يۇمشاق ماتېرىيال	headword	631_2L.png	unverified
 D90-6-07115	يۇمشاق ماگنىتلىق ماتېرىيال	headword	631_2L.png	unverified
 D90-6-07116	يۇمشاق مانگان تېشى	headword	631_2L.png	unverified
 D90-6-07117	يۇمشاق مانگان مەدىنى	headword	631_2L.png	unverified
@@ -6610,7 +6599,6 @@ D90-6-07331	يۈرەك رىتىمى	headword	649_2L.png	unverified
 D90-6-07332	يۈرەك زەردىسى	headword	649_2L.png	unverified
 D90-6-07333	يۈرەك زەئىپلىكى	headword	649_2L.png	unverified
 D90-6-07334	يۈرەك زېدىسى	headword	650_1R.png	unverified
-D90-6-07364	يۈرەك يارىسى	headword	652_2L.png	unverified
 D90-6-07335	يۈرەك سانجىقى	headword	650_1R.png	unverified
 D90-6-07336	يۈرەك سۆزى	headword	650_1R.png	unverified
 D90-6-07337	يۈرەك سۆيۈنمەك	headword	650_1R.png	unverified
@@ -6633,16 +6621,16 @@ D90-6-07352	يۈرەك مۇسكۇلى ئۆلۈش	headword	651_2L.png	unverified
 D90-6-07353	يۈرەكنى ئەزمەك	headword	652_1R.png	unverified
 D90-6-07354	يۈرەكنى تىترەتمەك	headword	652_1R.png	unverified
 D90-6-07355	يۈرەكنى چاك قىلماق	headword	652_1R.png	unverified
-D90-6-07361	يۈرەكنى ئۆرتىمەك	headword	652_2L.png	unverified
 D90-6-07356	يۈرەكنى داغلىماق	headword	652_1R.png	unverified
 D90-6-07357	يۈرەكنى زېدە قىلماق	headword	652_1R.png	unverified
 D90-6-07358	يۈرەكنى كۆيدۈرمەك	headword	652_1R.png	unverified
 D90-6-07359	يۈرەكنىڭ بېغىشىغا تەگمەك	headword	652_2L.png	unverified
 D90-6-07360	يۈرەكنىڭ قان چىقىرىش مىقدارى	headword	652_2L.png	unverified
+D90-6-07361	يۈرەكنى ئۆرتىمەك	headword	652_2L.png	unverified
 D90-6-07362	يۈرەكنى يارا قىلماق	headword	652_2L.png	unverified
 D90-6-07363	يۈرەك ھەرىكىتىنىڭ دەۋرلىكى	headword	652_2L.png	unverified
+D90-6-07364	يۈرەك يارىسى	headword	652_2L.png	unverified
 D90-6-07365	يۈرىكى ئارامغا چۈشمەك	headword	652_2L.png	unverified
-D90-6-07428	يۈرىكى ئىزىغا چۈشمەك	headword	657_1R.png	unverified
 D90-6-07366	يۈرىكى ئاغرىماق	headword	652_2L.png	unverified
 D90-6-07366-v1	كۆڭلى ئاغرىماق	variant	652_2L.png	unverified
 D90-6-07367	يۈرىكى ئاغزىغا تىقىلماق	headword	653_1R.png	unverified
@@ -6663,8 +6651,8 @@ D90-6-07379	يۈرىكى تارتماق	headword	653_2L.png	unverified
 D90-6-07380	يۈرىكى تارتىشماق	headword	653_2L.png	unverified
 D90-6-07381	يۈرىكى توق	headword	653_2L.png	unverified
 D90-6-07382	يۈرىكى توم	headword	654_1R.png	unverified
-D90-6-07384	يۈرىكى چوڭ	headword	654_1R.png	unverified
 D90-6-07383	يۈرىكى تۇيماق	headword	654_1R.png	unverified
+D90-6-07384	يۈرىكى چوڭ	headword	654_1R.png	unverified
 D90-6-07385	يۈرىكى چىقىپ كەتكىلى تاس قالماق	headword	654_1R.png	unverified
 D90-6-07386	يۈرىكى چىلاشقۇدەك	headword	654_1R.png	unverified
 D90-6-07387	يۈرىكىدە ساقلىماق	headword	654_1R.png	unverified
@@ -6687,11 +6675,10 @@ D90-6-07402	يۈرىكى قانماق	headword	655_1R.png	unverified
 D90-6-07403	يۈرىكى قەپىسىدىن چىقىپ كە تكۈدەلە بولماق	headword	655_1R.png	unverified
 D90-6-07403-v1	يۈرىكى قىتىدىن چىقىپ كەتكۈدەك بولماق	variant	655_1R.png	unverified
 D90-6-07404	يۈرىكى قېپىدىن چىقىپ كەتكۈدەك بولماق	headword	655_2L.png	unverified
-D90-6-07406	يۈرىكى قىنىدىن چىقىپ كەتكۈدەك بولماق	headword	655_2L.png	unverified
 D90-6-07405	يۈرىكى قىسىلماق	headword	655_2L.png	unverified
+D90-6-07406	يۈرىكى قىنىدىن چىقىپ كەتكۈدەك بولماق	headword	655_2L.png	unverified
 D90-6-07407	يۈرىكى قىنىغا پاتماسلىق	headword	655_2L.png	unverified
 D90-6-07408	يۈرىكى كاۋاپ بولماق	headword	655_2L.png	unverified
-D90-6-07448	يۈرەك-باغرى كاۋاپ بولماق	headword	658_2L.png	unverified
 D90-6-07409	يۈرىكىگە سىغدۇرالماسلىق	headword	655_2L.png	unverified
 D90-6-07410	يۈرىكىگە قول سالماق	headword	656_1R.png	unverified
 D90-6-07411	يۈرىكىگە قول سېلىپ باقماق	headword	656_1R.png	unverified
@@ -6712,6 +6699,7 @@ D90-6-07424	يۈرىكى ئويناپ كەتمەك	headword	657_1R.png	unverifie
 D90-6-07425	يۈرىكى ئوينىماق	headword	657_1R.png	unverified
 D90-6-07426	يۈرىكى ئېچىشماق	headword	657_1R.png	unverified
 D90-6-07427	يۈرىكى ئېرىمەك	headword	657_1R.png	unverified
+D90-6-07428	يۈرىكى ئىزىغا چۈشمەك	headword	657_1R.png	unverified
 D90-6-07429	يۈرىكى يارا	headword	657_1R.png	unverified
 D90-6-07430	يۈرىكى بايرىماق	headword	657_1R.png	unverified
 D90-6-07431	يۈرىكى يوغىنماق	headword	657_2L.png	unverified
@@ -6727,10 +6715,11 @@ D90-6-07440	يۈرەكئالدىلىق	headword	658_1R.png	unverified
 D90-6-07441	يۈرەك-باغىر	headword	658_1R.png	unverified
 D90-6-07442	يۈرەك-باغرى پۇچۇلانماق	headword	658_1R.png	unverified
 D90-6-07443	يۈرەك-باغرى خۇن بولماق	headword	658_1R.png	unverified
-D90-6-07446	يۈرەك-باغرى قان بولماق	headword	658_2L.png	unverified
 D90-6-07444	يۈرەك-باغرى داغلانماق	headword	658_1R.png	unverified
 D90-6-07445	يۈرەك-باغرىدىكىنى تۆكمەك	headword	658_2L.png	unverified
+D90-6-07446	يۈرەك-باغرى قان بولماق	headword	658_2L.png	unverified
 D90-6-07447	يۈرەك- باغرى قان-زەرداب بولماق	headword	658_2L.png	unverified
+D90-6-07448	يۈرەك-باغرى كاۋاپ بولماق	headword	658_2L.png	unverified
 D90-6-07449	يۈرەك-باغرىنى ئەزمەك	headword	658_2L.png	unverified
 D90-6-07450	يۈرەك-باغرىنى پارە قىلماق	headword	658_2L.png	unverified
 D90-6-07451	يۈرەك-باغرىنى تۆكمەك	headword	658_2L.png	unverified
@@ -6753,11 +6742,11 @@ D90-6-07468	يۈرمەك	headword	660_1R.png	unverified
 D90-6-07469	يۈرۈپ كەتمەك	headword	661_1R.png	unverified
 D90-6-07470	يۈرۈش	headword	661_1R.png	unverified
 D90-6-07477	يۈرۈشى يوق	headword	662_1R.png	unverified
-D90-6-07483	يۈرۈشسىز	headword	662_2L.png	unverified
 D90-6-07478	يۈرۈش-تۇرۇش	headword	662_1R.png	unverified
 D90-6-07479	يۈرۈشتۈرمەك	headword	662_1R.png	unverified
 D90-6-07481	يۈرۈشتۈرۈشمەك	headword	662_2L.png	unverified
 D90-6-07482	يۈرۈشتۈرۈلمەك	headword	662_2L.png	unverified
+D90-6-07483	يۈرۈشسىز	headword	662_2L.png	unverified
 D90-6-07484	يۈرۈشلەشتۈرمەك	headword	662_2L.png	unverified
 D90-6-07485	يۈرۈشلەشتۈرۈشمەك	headword	662_2L.png	unverified
 D90-6-07486	يۈرۈشلەشتۈرۈلگەن	headword	662_2L.png	unverified
@@ -6786,7 +6775,6 @@ D90-6-07513	يۈز نېرۋىسى	headword	666_1R.png	verified
 D90-6-07515	يۈز ئۆرۈمەك	headword	666_1R.png	unverified
 D90-6-07516	يۈز ئېففېكتى	headword	666_2L.png	unverified
 D90-6-07517	يۈزى ئاق	headword	666_2L.png	unverified
-D90-6-07577	يۈزى يورۇق	headword	671_1R.png	unverified
 D90-6-07518	يۈزى بار	headword	666_2L.png	unverified
 D90-6-07519	يۈزى بولماق	headword	666_2L.png	unverified
 D90-6-07520	يۈزى پولۇ قېلىن	headword	666_2L.png	unverified
@@ -6797,7 +6785,6 @@ D90-6-07524	يۈزى چوڭ كەلمەك	headword	667_1R.png	unverified
 D90-6-07525	يۈزى چۈشۈپ كەتمەك	headword	667_1R.png	unverified
 D90-6-07526	يۈزى چىدىماسلىق	headword	667_1R.png	unverified
 D90-6-07527	يۈزى داپتەك	headword	667_1R.png	unverified
-D90-6-07537	يۈزى قېلىن	headword	668_1R.png	unverified
 D90-6-07528	يۈزىدە تۈكى بار	headword	667_1R.png	unverified
 D90-6-07529	يۈزىدىن قېنى قاچماق	headword	667_1R.png	unverified
 D90-6-07530	يۈزىدىن ئوت يانماق	headword	667_1R.png	unverified
@@ -6809,6 +6796,7 @@ D90-6-07534-v1	قارا يۈز	variant	667_2L.png	unverified
 D90-6-07535	يۈزى قارىلىق	headword	667_2L.png	unverified
 D90-6-07535-v1	قارا يۈزلۈك	variant	667_2L.png	unverified
 D90-6-07536	يۈزى قالماسلىق	headword	667_2L.png	unverified
+D90-6-07537	يۈزى قېلىن	headword	668_1R.png	unverified
 D90-6-07538	يۈزى قېلىنلىق	headword	668_1R.png	unverified
 D90-6-07539	يۈزى قېلىنلىق قىلماق	headword	668_1R.png	unverified
 D90-6-07540	يۈزى قىزارماق	headword	668_1R.png	unverified
@@ -6831,8 +6819,8 @@ D90-6-07556	يۈزى نېپىز	headword	669_2L.png	unverified
 D90-6-07557	يۈزىنى ئايمىماق	headword	669_2L.png	unverified
 D90-6-07558	يۈزىنى تۆكمەك	headword	669_2L.png	unverified
 D90-6-07559	يۈزىنى چەم قىلماق	headword	669_2L.png	unverified
-D90-6-07561	يۈزىنى داپتەك قىلماق	headword	669_2L.png	unverified
 D90-6-07560	يۈزىنى چۈشۈرمەك	headword	669_2L.png	unverified
+D90-6-07561	يۈزىنى داپتەك قىلماق	headword	669_2L.png	unverified
 D90-6-07562	يۈزىنى دېمەك	headword	669_2L.png	unverified
 D90-6-07563	يۈزىنى سىلىۋېتىپ گەپ قىلماق	headword	670_1R.png	unverified
 D90-6-07564	يۈزىنى سىپىۋەتمەك	headword	670_1R.png	unverified
@@ -6849,6 +6837,7 @@ D90-6-07573	يۈزى ئوچۇق بولماق	headword	670_2L.png	unverified
 D90-6-07574	يۈزى ئېچىلماق	headword	670_2L.png	unverified
 D90-6-07575	يۈزى ئېچىلمىغان	headword	670_2L.png	unverified
 D90-6-07576	يۈزى ئىسسىق	headword	671_1R.png	unverified
+D90-6-07577	يۈزى يورۇق	headword	671_1R.png	unverified
 D90-6-07578	يۈزى يورۇق بولماق	headword	671_1R.png	unverified
 D90-6-07579	يۈزى يوق	headword	671_1R.png	unverified
 D90-6-07580	يۈز-ئابروي	headword	671_1R.png	unverified
@@ -7097,7 +7086,6 @@ D90-6-07865	يېرىم تەييار مەھسۇلات	headword	695_2L.png	unverif
 D90-6-07866	يېرىم تۆۋەن سوزۇق تاۋۇش	headword	695_2L.png	unverified
 D90-6-07867	يېرىم تۈز سىزىق	headword	696_1R.png	unverified
 D90-6-07868	يېرىم تۈن	headword	696_1R.png	unverified
-D90-6-07891	يېرىم كېچە	headword	697_2L.png	unverified
 D90-6-07869	يېرىم جان	headword	696_1R.png	unverified
 D90-6-07870	يېرىم چاتقال	headword	696_1R.png	unverified
 D90-6-07871	يېرىم چەمبەر	headword	696_1R.png	unverified
@@ -7120,6 +7108,7 @@ D90-6-07887	يېرىم كۇبلۇق پارابولا	headword	697_2L.png	unverif
 D90-6-07888	يېرىم كۇبلۇق ھپېربولا	headword	697_2L.png	unverified
 D90-6-07889	يېرىم كۆلەڭگە	headword	697_2L.png	unverified
 D90-6-07890	يېرىم كۈنلۈك تۈزۈمىدىكى مەكتەپ	headword	697_2L.png	unverified
+D90-6-07891	يېرىم كېچە	headword	697_2L.png	unverified
 D90-6-07892	يېرىم مۇستەملىكە	headword	698_1R.png	unverified
 D90-6-07893	يېرىم مۇستەملىكە، يېرىم فېئوداللىق جەمئىيەت	headword	698_1R.png	unverified
 D90-6-07894	يېرىم مېتال	headword	698_1R.png	unverified
@@ -7254,8 +7243,8 @@ D90-6-08026	يېشىل يىڭناغۇچ	headword	711_2L.png	unverified
 D90-6-08027	يېشىل يىلان	headword	711_2L.png	unverified
 D90-6-08028	يېشىلچىلىق	headword	711_2L.png	unverified
 D90-6-08029	يېشىلزارلىق	headword	711_2L.png	unverified
-D90-6-08031	يېشىللىق	headword	712_1R.png	unverified
 D90-6-08030	يېشىلقات	headword	711_2L.png	unverified
+D90-6-08031	يېشىللىق	headword	712_1R.png	unverified
 D90-6-08032	يېشىللەمەك	headword	712_1R.png	unverified
 D90-6-08033	يېشىم	headword	712_1R.png	unverified
 D90-6-08034	يېشىندۈرمەك	headword	712_2L.png	unverified
@@ -7308,16 +7297,12 @@ D90-6-08086	يېقىننى كۆرەلمەسلىك	headword	717_2L.png	unverified
 D90-6-08087	يېقىن ئۆتمەك	headword	717_2L.png	unverified
 D90-6-08088	يېقىن يولىماسلىق	headword	717_2L.png	unverified
 D90-6-08089	يېقىنچىلىق	headword	717_2L.png	verified
-D90-6-08111	يېقىنلىق	headword	720_1R.png	unverified
-D90-6-08776	يېقىنچىلىق قىلماق	headword	718_1R.png	verified
-D90-6-08776-v1	يېقىنلىق قىلماق	variant	718_1R.png	verified
 D90-6-08090	يېقىندا	headword	718_1R.png	unverified
 D90-6-08091	يېقىنداش	headword	718_1R.png	unverified
 D90-6-08092	يېقىنداشلىق	headword	718_1R.png	unverified
 D90-6-08094	يېقىنداشماق	nonstandard	718_1R.png	unverified
 D90-6-08094-c1	يېقىنلاشماق	corrected_form	718_1R.png	unverified
 D90-6-08095	يېقىندىماق	nonstandard	718_1R.png	unverified
-D90-6-08112	يېقىنلىماق	headword	720_2L.png	unverified
 D90-6-08096	يېقىندىن	headword	718_1R.png	unverified
 D90-6-08097	يېقىندىن بۇيان	headword	718_2L.png	unverified
 D90-6-08098	يېقىندىن بېرى	headword	718_2L.png	unverified
@@ -7333,6 +7318,8 @@ D90-6-08107	يېقىنلاشتۇرماق	headword	719_2L.png	unverified
 D90-6-08108	يېقىنلاشتۇرۇشماق	headword	719_2L.png	unverified
 D90-6-08109	يېقىنلاشتۇرۇلماق	headword	719_2L.png	unverified
 D90-6-08110	يېقىنلىشماق	headword	719_2L.png	unverified
+D90-6-08111	يېقىنلىق	headword	720_1R.png	unverified
+D90-6-08112	يېقىنلىماق	headword	720_2L.png	unverified
 D90-6-08113	يېقىن-يورۇق	headword	721_1R.png	unverified
 D90-6-08114	يېقىن-يىراق	headword	721_1R.png	unverified
 D90-6-08115	يېكەن	headword	721_1R.png	unverified
@@ -7480,6 +7467,7 @@ D90-6-08272	يېنىش	headword	737_2L.png	unverified
 D90-6-08273	يېنىش قىممىتى	headword	737_2L.png	unverified
 D90-6-08274	يېنىش نۇقتىسى	headword	737_2L.png	unverified
 D90-6-08275	يېنىشتۇرماق	headword	737_2L.png	unverified
+D90-6-08276	يېنىشچان	headword	737_2L.png	unverified
 D90-6-08277	يېنىشچان گاز	headword	737_2L.png	unverified
 D90-6-08278	يېنىشلاپ	headword	737_2L.png	unverified
 D90-6-08279	يېنىشماق	headword	738_1R.png	unverified
@@ -7492,10 +7480,10 @@ D90-6-08291	يېنىك ئاتلېتىكا تەنھەرىكىتى	headword	739_2L
 D90-6-08292	يېنىك ئاتلېتىكا مۇسابىقىسى	headword	739_2L.png	unverified
 D90-6-08293	يېنىك ئاتلىڭلار	headword	739_2L.png	unverified
 D90-6-08294	يېنىك ئاھاڭ	headword	739_2L.png	unverified
-D90-6-08298	يېنىك تون	headword	740_1R.png	unverified
 D90-6-08295	يېنىك پالەچ	headword	739_2L.png	unverified
 D90-6-08296	يېنىك پىلىموت	headword	739_2L.png	unverified
 D90-6-08297	يېنىك تام	headword	739_2L.png	unverified
+D90-6-08298	يېنىك تون	headword	740_1R.png	unverified
 D90-6-08299	يېنىك تۇمان	headword	740_1R.png	verified
 D90-6-08300	يېنىك جازا	headword	740_1R.png	unverified
 D90-6-08301	يېنىك سانائەت	headword	740_1R.png	unverified
@@ -7557,6 +7545,7 @@ D90-6-08360	يىپ ئېشەلمەسلىك	headword	745_1R.png	unverified
 D90-6-08360-v1	قولغا سۇ قويۇپ بېرەلمەسلىك	variant	745_1R.png	unverified
 D90-6-08361	يىپ ئېشىپ قالماق	headword	745_1R.png	unverified
 D90-6-08362	يىپىدىن يىڭنىسىگىچە	headword	745_1R.png	unverified
+D90-6-08363	يىپەك	headword	745_2L.png	unverified
 D90-6-08371	يىپەكچى	headword	746_1R.png	unverified
 D90-6-08372	يىپەكچىلىك	headword	746_1R.png	unverified
 D90-6-08373	يىپچە	headword	746_2L.png	unverified
@@ -7638,21 +7627,21 @@ D90-6-08458	يىرىك ئىشلەپچىقىرىش	headword	755_1R.png	unverified
 D90-6-08459	يىرىك ئىشلەش	headword	755_1R.png	unverified
 D90-6-08460	يىرىكچىلىك	headword	755_1R.png	unverified
 D90-6-08461	يىرىكدەشمەك	headword	755_1R.png	unverified
-D90-6-08465	يىرىكلەشمەك	headword	755_1R.png	unverified
 D90-6-08462	يىرىكدىمەك	headword	755_1R.png	unverified
 D90-6-08462-v1	يىرىكلىمەك	variant	755_1R.png	unverified
 D90-6-08463	يىرىكلەشتۈرمەك	headword	755_1R.png	unverified
 D90-6-08464	يىرىكلەشتۈرۈلمەك	headword	755_1R.png	unverified
+D90-6-08465	يىرىكلەشمەك	headword	755_1R.png	unverified
 D90-6-08466	يىرىكلىك	headword	755_2L.png	unverified
 D90-6-08467	يىرىك-يۇمشاق	headword	755_2L.png	unverified
 D90-6-08468	يىرىڭ	headword	755_2L.png	unverified
 D90-6-08470	يىرىڭدىنماق	headword	755_2L.png	unverified
-D90-6-08476	يىرىڭلىماق	headword	756_1R.png	unverified
 D90-6-08471	يىرىڭ-زەرداب	headword	755_2L.png	unverified
 D90-6-08472	يىرىڭلىق	headword	755_2L.png	unverified
 D90-6-08473	يىرىڭلىق چاقا	headword	756_1R.png	unverified
 D90-6-08474	يىرىڭلىق قاپارتقۇ	headword	756_1R.png	unverified
 D90-6-08475	يىرىڭلىق ئىششىق	headword	756_1R.png	unverified
+D90-6-08476	يىرىڭلىماق	headword	756_1R.png	unverified
 D90-6-08477	يىرىلماق	headword	756_1R.png	unverified
 D90-6-08478	يىزۇ	headword	756_1R.png	verified
 D90-6-08480	يىزۇچە	headword	756_2L.png	unverified
@@ -7715,11 +7704,11 @@ D90-6-08544	يىغىنچاق	headword	763_1R.png	unverified
 D90-6-08545	يىغىنچاقلاتماق	headword	763_1R.png	unverified
 D90-6-08546	يىغىنچاقلاش	headword	763_1R.png	unverified
 D90-6-08549	يىغىنچاقلاشتۇرماق	headword	763_1R.png	unverified
-D90-6-08554	يىغىنچاقلىماق	headword	763_2L.png	unverified
 D90-6-08550	يىغىنچاقلاشتۇرۇلماق	headword	763_1R.png	unverified
 D90-6-08551	يىغىنچاقلاشماق	headword	763_1R.png	unverified
 D90-6-08552	يىغىنچاقلانماق	headword	763_2L.png	unverified
 D90-6-08553	يىغىنچاقلىق	headword	763_2L.png	unverified
+D90-6-08554	يىغىنچاقلىماق	headword	763_2L.png	unverified
 D90-6-08555	يىغىندى	headword	763_2L.png	unverified
 D90-6-08560	يىغىندى قار	headword	764_1R.png	verified
 D90-6-08561	يىغىندى قىممەت شەكىلى	headword	764_1R.png	unverified
@@ -7802,10 +7791,11 @@ D90-6-08651	يىڭنىمىخ	headword	773_2L.png	unverified
 D90-6-08652	يىل	headword	773_2L.png	unverified
 D90-6-08653	يىل بويى	headword	774_1R.png	unverified
 D90-6-08654	يىل چەمبىرىكى	headword	774_1R.png	unverified
-D90-6-08656	يىل ھالقىسى	headword	774_1R.png	unverified
 D90-6-08655	يىل نەزىرى	headword	774_1R.png	unverified
+D90-6-08656	يىل ھالقىسى	headword	774_1R.png	unverified
 D90-6-08657	يىل ھالقىسى ئانالىزى	headword	774_1R.png	unverified
 D90-6-08658	يىلدىن-يىلغا	headword	774_1R.png	unverified
+D90-6-08659	يىلان	headword	774_1R.png	unverified
 D90-6-08660	يىلان باش بېلىق	headword	774_2L.png	unverified
 D90-6-08661	يىلان باغرى	headword	774_2L.png	unverified
 D90-6-08662	يىلان بېلىق	headword	774_2L.png	unverified
@@ -7823,7 +7813,6 @@ D90-6-08672	يىلپىز	headword	775_2L.png	unverified
 D90-6-08674	يىلتىز	headword	775_2L.png	unverified
 D90-6-08675	يىلتىز ئالماشتۇرۇش	headword	776_1R.png	unverified
 D90-6-08676	يىلتىز باكتېرىيىسى	headword	776_1R.png	unverified
-D90-6-08686	يىلتىز تۈگۈنچە باكتېرىيىسى	headword	777_1R.png	unverified
 D90-6-08677	يىلتىز بەلگىسى	headword	776_1R.png	unverified
 D90-6-08678	يىلتىز بوينى	headword	776_1R.png	unverified
 D90-6-08679	يىلتىز بېسىمى	headword	776_2L.png	unverified
@@ -7833,6 +7822,7 @@ D90-6-08682	يىلتىز تارتماق	headword	776_2L.png	unverified
 D90-6-08683	يىلتىز تەكشۈرۈش	headword	776_2L.png	unverified
 D90-6-08684	يىلتىز تۈكچىسى	headword	776_2L.png	unverified
 D90-6-08685	يىلتىز تۈكلۈك قىسمى	headword	777_1R.png	unverified
+D90-6-08686	يىلتىز تۈگۈنچە باكتېرىيىسى	headword	777_1R.png	unverified
 D90-6-08687	يىلتىز تۈگۈنچىسى	headword	777_1R.png	unverified
 D90-6-08688	يىلتىز تىكىش	headword	777_1R.png	unverified
 D90-6-08689	يىلتىز چىقىرىش	headword	777_1R.png	unverified
@@ -7886,6 +7876,7 @@ D90-6-08744	يىلمۇيىل	headword	781_2L.png	unverified
 D90-6-08745	يىلنامە	headword	781_2L.png	unverified
 D90-6-08746	يىلنامىلىق	headword	781_2L.png	unverified
 D90-6-08747	يىلى	headword	781_2L.png	unverified
+D90-6-08748	يىلىك	headword	781_2L.png	unverified
 D90-6-08749	يىلىك غىلىپى	headword	782_1R.png	unverified
 D90-6-08750	يىلىكى توشماق	headword	782_1R.png	unverified
 D90-6-08751	يىلىكى توق	headword	782_1R.png	unverified
@@ -7909,3 +7900,12 @@ D90-6-08767	يىمىرىلىش پوستى	headword	784_2L.png	unverified
 D90-6-08768	يىمىرىلىش رولى	headword	784_2L.png	unverified
 D90-6-08769	يىمىرىلىش كونستانتى	headword	784_2L.png	unverified
 D90-6-08770	يىن	headword	784_2L.png	unverified
+D90-6-08771	ۋەدىگە ۋاپا قىلماق	headword	028_1R.png	verified
+D90-6-08772	ۋەدىمىز ۋەدە	headword	028_1R.png	verified
+D90-6-08773	ۋەدىنى بۇزماق	headword	028_1R.png	verified
+D90-6-08774	ۋىن فورمۇلىسى	headword	056_2L.png	verified
+D90-6-08775	ئىچقويۇن بولماق	headword	181_2L.png	verified
+D90-6-08775-v1	ئىچقويۇن-تاشقويۇن بولماق	variant	181_2L.png	verified
+D90-6-08776	يېقىنچىلىق قىلماق	headword	718_1R.png	verified
+D90-6-08776-v1	يېقىنلىق قىلماق	variant	718_1R.png	verified
+D90-6-08777	يەتكۈزمە دوكلات	headword	539_2L.png	verified

@@ -19,12 +19,14 @@ Milletler Neshriyati, Beijing, 1990–1999.
 The large explanatory dictionary of literary Uyghur. Six volumes, published
 across a decade.
 
+<!-- stats:work -->
 | | |
 |---|---|
-| headwords | 52,313 |
-| sub-entries | 4,835 |
-| verified against scans | 1,983 |
-| excluded as Chinese transliterations | 439 |
+| headwords | 52,309 |
+| sub-entries | 4,833 |
+| verified against scans | 1,982 |
+| excluded as Chinese transliterations | 445 |
+<!-- stats:end -->
 
 Load all six volumes at once:
 
