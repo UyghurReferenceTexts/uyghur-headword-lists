@@ -212,8 +212,7 @@ preceding lemma, which is simply how this dictionary lists compounds.
 
 ### Izahliq Lughet 2011
 
-The two volumes were audited independently, which makes the second a
-replication of the first.
+The two volumes were audited independently.
 
 | issue type                                     | vol 1     | vol 2     | combined          |
 | ---------------------------------------------- | --------- | --------- | ----------------- |
