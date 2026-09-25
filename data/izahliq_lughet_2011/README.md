@@ -10,13 +10,13 @@ First edition 1999, chief editors Abliz Yaqup and Ghenizat Gheyurani.
 
 The abridged one-work explanatory dictionary, issued in two volumes.
 
+<!-- stats:work -->
 | | |
 |---|---|
-| headwords | 38,894 |
-| sub-entries | — |
-| verified against scans | 2,722 |
-| excluded as Chinese transliterations | 343 |
-| missing pages | none |
+| headwords | 39,996 |
+| verified against scans | 8,164 |
+| excluded as Chinese transliterations | 350 |
+<!-- stats:end -->
 
 ## Structure
 
