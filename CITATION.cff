@@ -15,7 +15,7 @@ repository-code: "https://github.com/UyghurReferenceTexts/uyghur-headword-lists"
 abstract: >-
   Open, machine-readable headword lists extracted from three printed Uyghur
   dictionaries: 130,218 written forms and 48,245 sub-entry phrases in the
-  Uyghur Arabic script. Every entry is traceable to the scanned page column it
+  Uyghur (ئۇيغۇر) script. Every entry is traceable to the scanned page column it
   was extracted from and carries a per-round audit status recording whether a
   native speaker has verified it against the original scan. Orthography follows
   the 2009 Hazirqi zaman Uyghur edebiy tilining imla lughiti standard; the
