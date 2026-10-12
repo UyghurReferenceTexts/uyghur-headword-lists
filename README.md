@@ -4,7 +4,7 @@ Open, machine-readable headword lists extracted from three printed Uyghur
 dictionaries, released as plain TSV under CC BY 4.0.
 
 <!-- stats:headline -->
-**130,218 written forms** and **48,245 sub-entry phrases**, each traceable to
+**131,707 written forms** and **48,236 sub-entry phrases**, each traceable to
 the scanned column it came from.
 <!-- stats:end -->
 
@@ -12,6 +12,20 @@ the scanned column it came from.
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/UyghurReferenceTexts/uyghur-headword-lists/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/UyghurReferenceTexts/uyghur-headword-lists)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4633--0408-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4633-0408)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+<p align="center">
+  <img src="docs/images/bashsoz_reqemleshturush.png"
+       alt="Workflow diagram, in Uyghur: three printed dictionaries are OCR'd into spreadsheets, a model flags likely errors against the scans, a native speaker checks each flag, and the corrected lists are published on GitHub."
+       width="100%">
+</p>
+
+*How the lists are digitized.* The three dictionaries (2009 imla; 1990s, six
+volumes; 2011, two volumes) were converted to spreadsheets with Tesseract and
+`gemini-3.1-flash-lite`. `gemini-3.1-pro-preview` then compared each spreadsheet
+against the scanned pages and flagged likely errors. A native speaker checked
+every flag against the scan, one by one, and the headword lists were built and
+published here. The remaining headwords are being checked the same way, with
+corrections pushed to this repository as they are made.
 
 ---
 
@@ -27,7 +41,7 @@ This repository provides the concrete technical foundation for that preservation
 
 The 2011 and 1990s source dictionaries were compiled under the very same state apparatus whose assimilationist policies this project counters. One visible legacy of that state control is a layer of Chinese transliterations artificially inserted as Uyghur headwords, tagged as `[خەن]` in the original etymology columns. Standardizing a state-mandated loanword in a reference dictionary is a deliberate tactic to make it appear settled, ordinary, and official. Uyghur linguists have a specific term for the endpoint of this process: *تولۇق ئاسسىمىلياتسىيە* (total assimilation).
 
-To counteract this, 1,119 entries were reviewed individually across two rounds. We removed 986 from the final lists because they are forced transliterations that never took root in natural Uyghur usage — 1,101 TSV rows once their variant and sub-entry forms are counted. The remaining 133 were preserved—either because the original tag was an OCR error on a native Uyghur word, or because the loanword has been genuinely integrated into the living language.
+To counteract this, 1,120 entries were reviewed individually across two rounds. We removed 987 from the final lists because they are forced transliterations that never took root in natural Uyghur usage — 1,107 TSV rows once their variant and sub-entry forms are counted. The remaining 133 were preserved—either because the original tag was an OCR error on a native Uyghur word, or because the loanword has been genuinely integrated into the living language.
 
 This is a deliberate editorial intervention, and we prioritize absolute transparency over silent deletion. Every removed entry is documented in [`excluded/excluded_wordlist.tsv`](excluded/excluded_wordlist.tsv) alongside its original `row_id`, source dictionary, and scanned page, allowing anyone who disagrees with this assessment to trace or reverse the decision. Crucially, this curation was performed word-by-word by a native Uyghur speaker rather than by automated pattern matching. This human review ensures precision; for example, several rejected Chinese transliterations share spellings with legitimate Uyghur homographs (such as جازا *punishment*, پەن *science*, and باشى *his head*), which remain fully intact and protected within the dataset.
 
@@ -39,6 +53,12 @@ This is a deliberate editorial intervention, and we prioritize absolute transpar
 
 Each dictionary directory holds a `_headwords.tsv` and, where the source has
 them, a `_subentries.tsv`.
+
+**Orthography differs by source.** The 2009 imla dictionary and the 2011
+explanatory dictionary follow the 2009 orthographic standard. The six 1990s
+volumes predate it and are published in their original spelling, not
+normalized, so the same word can appear in two spellings across works. Filter
+by directory if you need one standard only.
 
 ### `*_headwords.tsv`
 
@@ -83,10 +103,10 @@ orthography, not of senses.
 | work                                                        | headwords   | sub-entries | verified   | excluded  |
 | ----------------------------------------------------------- | ----------- | ----------- | ---------- | --------- |
 | [Imla Lughiti 2009](data/imla_lughiti_2009/)                | 37,913      | 43,412      | 6,415      | 306       |
-| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 52,309      | 4,833       | 1,982      | 445       |
-| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols)   | 39,996      | 0           | 8,164      | 350       |
-| **total**                                                   | **130,218** | **48,245**  | **16,561** | **1,101** |
-| <!-- stats:end -->                                          |             |             |            |           |
+| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,798      | 4,824       | 10,630     | 451       |
+| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols)   | 39,996      | 0           | 8,167      | 350       |
+| **total**                                                   | **131,707** | **48,236**  | **25,212** | **1,107** |
+<!-- stats:end -->
 
 Counts are **after** the exclusions described above; the *excluded* column shows
 how many rows were removed from each work.
@@ -124,7 +144,7 @@ the most correct data.
 - *blank* — the entry was added after round 1 had already passed that page.
 
 <!-- stats:verified -->
-Currently **16,561 of 130,218 forms (12.7%) are verified**.
+Currently **25,212 of 131,707 forms (19.1%) are verified**.
 <!-- stats:end -->
 
  When round 2 begins, a
@@ -158,7 +178,7 @@ These are errors of the source, not of the extraction. Where the intended form
 is unambiguous it is corrected and noted in the changelog; where it is not, the
 printed form stands.
 
-**Remaining OCR errors, and missing or spurious entries.** 87.3% of entries have
+**Remaining OCR errors, and missing or spurious entries.** 80.9% of entries have
 not yet been checked by a human. Assume a residual error rate in that portion.
 The audit finds three distinct problems, not one: characters misread by OCR,
 headwords the OCR skipped entirely, and — where a machine-assisted pass was
@@ -170,23 +190,23 @@ snapshot rather than a fixed figure.
 
 ## What machines got wrong: an OCR audit benchmark
 
-Two of the dictionaries were audited with assistance from `gemini-3.1-pro-preview`,
+All three dictionaries were audited with assistance from `gemini-3.1-pro-preview`,
 which read each scanned column alongside the rows OCR had produced from it. Every
 proposed correction was then checked by a native speaker against the scan. The
 result is worth publishing on its own, because it quantifies something the field
 mostly guesses at: **how far a frontier model can be trusted on a low-resource
 script.**
 
-| dictionary                 | proposals verified | accepted  | precision |
-| -------------------------- | ------------------ | --------- | --------- |
-| Imla Lughiti 2009          | 4,045              | 3,072     | 75.9%     |
-| Izahliq Lughet 2011, vol 1 | 2,194              | 1,397     | 63.7%     |
-| Izahliq Lughet 2011, vol 2 | 2,001              | 1,418     | 70.9%     |
-| **total**                  | **8,240**          | **5,887** | **71.4%** |
+| dictionary                    | proposals verified | accepted  | precision |
+| ----------------------------- | ------------------ | --------- | --------- |
+| Imla Lughiti 2009             | 4,045              | 3,072     | 75.9%     |
+| Izahliq Lughet 2011 (2 vols)  | 4,195              | 2,815     | 67.1%     |
+| Izahliq Lughet 1990s (6 vols) | 7,694              | 3,673     | 47.7%     |
+| **total**                     | **15,934**         | **9,560** | **60.0%** |
 
-**Between one in four and one in three proposals was wrong, and the model never
-said so.** Self-reported confidence carried no information: 99.9% of the 2009
-findings and 4,194 of the 4,195 findings in 2011 were labelled "high",
+**Two proposals in five were wrong, and the model never said so.**
+Self-reported confidence carried no information: 99.9% of the 2009 findings,
+4,194 of 4,195 in 2011 and 7,688 of 7,694 in the 1990s were labelled "high",
 including every one that was wrong. There is no threshold that separates right
 from wrong.
 
@@ -228,52 +248,126 @@ The volume 2 figure is higher overall mainly because its mix is heavier in
 `missing_headword`, a class the model does well; class by class, the volumes
 agree.
 
-**Vowels are where it fails, and it fails in one direction.** Within
-`wrong_characters`, proposals whose only change was a vowel letter
-(ا ە ى و ۇ ۆ ۈ ې) were right just 36.6% of the time — 36.2% in volume 1, 37.0% in
-volume 2, 774 proposals in all. Split by direction, the same vowel pair behaves
-completely differently:
+### Izahliq Lughet 1990s
 
-| OCR read → model proposed | correct | precision | reverse direction | correct | precision |
-| ------------------------- | ------- | --------- | ----------------- | ------- | --------- |
-| ۇ → و                     | 7/116   | 6%        | و → ۇ             | 39/43   | 91%       |
-| ۈ → ۆ                     | 1/71    | 1%        | ۆ → ۈ             | 10/11   | 91%       |
-| ۇ → ۆ                     | 7/84    | 8%        | ۆ → ۇ             | 3/3     | —         |
-| ى → ا                     | 30/31   | 97%       | ا → ى             | 19/22   | 86%       |
-| ە → ى                     | 36/44   | 82%       | ى → ە             | 23/45   | 51%       |
-| ې → ى                     | 8/45    | 18%       | ى → ې             | 4/24    | 17%       |
+Six volumes, audited one after another with the same workflow. Each volume's
+spreadsheet holds a full benchmark sheet; the summary is:
 
-When the model proposes replacing ۇ or ۈ with a rounded vowel it prefers,
-the OCR was right about 94% of the time: the proposal is an anti-signal. When
-it restores a vowel the OCR dropped, it is usually right. It is not reading the
-rounded-vowel contrasts off the page; it is substituting what its training
-data made frequent. The effect is the same size in two independently audited
-volumes, which makes it a property of the model rather than of either book —
-and a cheap discriminator for future models: the ۇ/و and ۈ/ۆ proposals separate
-a model that reads Uyghur script from one that predicts it.
+| volume    | proposals | accepted  | precision | `wrong_characters` precision |
+| --------- | --------- | --------- | --------- | ---------------------------- |
+| vol 1     | 1,111     | 574       | 51.7%     | 34.8%                        |
+| vol 2     | 1,274     | 621       | 48.7%     | 32.2%                        |
+| vol 3     | 1,533     | 642       | 41.9%     | 26.3%                        |
+| vol 4     | 1,395     | 724       | 51.9%     | 37.5%                        |
+| vol 5     | 1,244     | 552       | 44.4%     | 27.5%                        |
+| vol 6     | 1,137     | 560       | 49.3%     | 34.9%                        |
+| **total** | **7,694** | **3,673** | **47.7%** | **32.0%**                    |
 
-### Across both dictionaries
+| issue type                                     | verified | accept rate |
+| ---------------------------------------------- | -------- | ----------- |
+| `missing_headword` — entry skipped by OCR      | 1,467    | 98%         |
+| `extra_row` — entry allegedly spurious         | 153      | 90%         |
+| `truncated_arrow_equals` — cross-reference cut | 282      | 86%         |
+| `wrong_order`                                  | 15       | 80%         |
+| `wrong_characters` — spelling                  | 5,770    | 32%         |
+| `other`, `inflection_error`                    | 7        | 1/7         |
 
-- **Positional work is solved.** Cut-off cross-references were 322 of 322
-  correct across both books.
+Structure was handled well; spelling was the worst of the three books. Four
+edit patterns account for most of the damage:
+
+| proposal whose only change is…  | proposals | correct |
+| ------------------------------- | --------- | ------- |
+| deleting one ى                  | 1,256     | 7%      |
+| ۇ → و                           | 447       | 4%      |
+| ۇ or ۈ → ۆ                      | 502       | 2%      |
+| ې → ى                           | 282       | 5%      |
+| **all four**                    | **2,487** | **5%**  |
+
+These four patterns are 43% of all `wrong_characters` proposals but hold only
+123 of the 1,846 real fixes (7%). Set them aside and the rest of the category is
+right 52% of the time. The pattern was stable across all six volumes: ى
+deletion scored between 4% and 10% in every one.
+
+**The model reads with a language prior, not the pixels.** In volumes 1–5
+each spelling proposal was checked against the volume's own definitions. When
+the scanned form occurs in the definitions and the model's form does not, the
+model was right 8% of the time (164 of 1,996). When it was the other way round —
+the scanned form unattested, the model's form attested — it was right 84%
+(287 of 343). Whether the proposed word exists elsewhere in the same book is a
+better guide to a proposal than anything the model says about it.
+
+The 1990s volumes predate the 2009 spelling standard, and some of these
+patterns (a second-syllable ى kept, ۇ in Russian loanwords) may be the model
+"modernizing" older spellings; the volume sheets tag 48–76% of character
+rejections as spelling-standard-sensitive. That cannot be the whole story,
+though, because the ۇ → و bias is just as strong in the 2011 dictionary, which
+follows the 2009 standard.
+
+### Vowels: the same failure in two books
+
+Proposals whose only change was a single vowel letter (ا ە ى و ۇ ۆ ۈ ې) were
+right 36.6% of the time in 2011 (774 proposals) and 15.9% in the 1990s volumes
+(1,826). Split by direction, the same vowel pair behaves completely differently,
+and the direction of the bias is the same in both books:
+
+| OCR read → model proposed | 2011         | 1990s        |
+| ------------------------- | ------------ | ------------ |
+| ۇ → و                     | 7/116 (6%)   | 18/447 (4%)  |
+| و → ۇ                     | 39/43 (91%)  | 26/50 (52%)  |
+| ۈ → ۆ                     | 1/71 (1%)    | 3/216 (1%)   |
+| ۆ → ۈ                     | 10/11        | 4/7          |
+| ۇ → ۆ                     | 7/84 (8%)    | 6/286 (2%)   |
+| ى → ا                     | 30/31 (97%)  | 35/41 (85%)  |
+| ە → ى                     | 36/44 (82%)  | 33/35 (94%)  |
+| ى → ە                     | 23/45 (51%)  | 39/113 (35%) |
+| ې → ى                     | 8/45 (18%)   | 13/282 (5%)  |
+| ى → ې                     | 4/24 (17%)   | 14/52 (27%)  |
+
+When the model proposes replacing ۇ or ۈ with a rounded vowel it prefers, the
+OCR was right well over 90% of the time in both books: the proposal is an
+anti-signal. It is not reading the rounded-vowel contrasts off the page; it is
+substituting what its training data made frequent. The effect holds across two
+dictionaries and eight independently audited volumes, which makes it a property
+of the model rather than of any one book — and a cheap discriminator for future
+models: the ۇ/و and ۈ/ۆ proposals separate a model that reads Uyghur script from
+one that predicts it.
+
+### Across all three dictionaries
+
+- **Structural checks are strong, but not uniform.** Cut-off cross-references
+  were 322 of 322 correct in 2009 and 2011, and 86% in the 1990s volumes.
+  Skipped headwords were 92% correct in 2011 and 98% in the 1990s.
 - **The same class can flip with the book.** `missing_headword` was 7% in 2009
-  and 92% in 2011. The model's skill at spotting a dropped line did not change;
-  what changed is whether the dictionary nests compounds under the preceding
-  lemma. Claims that depend on a dictionary's conventions have to be judged per
-  dictionary.
+  and 92–98% elsewhere; `extra_row` was 2% in 2011 and 90% in the 1990s;
+  `wrong_order` went from 0 of 14 to 12 of 15. What changes is whether the error
+  actually occurs in that extraction and how the dictionary is laid out: the
+  2009 dictionary nests compounds under the preceding lemma, and the 1990s
+  extraction had genuine extra rows (definitions split across rows, page-header
+  text, duplicated homonyms). A class's track record in one book does not
+  transfer to the next.
+- **Spelling accuracy is lowest in the pre-2009 book.** `wrong_characters`
+  precision was 80% in the 2009 imla dictionary, 61% in 2011 and 32% in the
+  1990s. The 1990s result fits the model pulling older spellings toward modern
+  ones; the gap between 2009 and 2011, both in the current standard, is not
+  explained by that and remains open.
 - **Perseveration runs.** Once the model adopts a false pattern it applies it
   mechanically. In 2009, one run of 28 consecutive findings carried the
   identical explanation, every one wrong; the signature is three or more
   consecutive findings with verbatim identical explanation text. In 2011 the
   same behaviour appeared as whole word families re-spelled in one sweep
   (دىڭگۇك 9 entries, زاسۈي 6, پەرمۇدە 4): every proposal rejected.
-- **Judgement classes are noise.** `extra_row`, `wrong_order` and
-  `inflection_error` together were right 15 times in 286 — the model reads
-  legitimate continuation lines, sub-entry order and recorded inflections as
-  errors.
 
-All figures are from the first audit round (`status_v1`). A small number of
-verdicts may be overturned in round 2, and the figures will be re-derived then.
+**A triage rule that works.** Review structural findings first. Treat any
+single-vowel "correction" toward a more familiar form, and any proposal whose
+result does not occur elsewhere in the same book, as probably wrong until the
+scan says otherwise.
+
+All figures are from the first audit round (`status_v1`). The 1990s vowel and
+edit-pattern counts were recomputed uniformly from the six `Processed` sheets,
+counting proposals whose only change is the one shown, so they differ slightly
+from the per-volume benchmark sheets, which count proposals containing that
+change. A small number of verdicts may be overturned in round 2, and the figures
+will be re-derived then.
 
 **This is the argument for the dataset.** A model cannot check Uyghur
 orthography against nothing. It needs ground truth, and for Uyghur that ground
@@ -295,7 +389,7 @@ this project by the works' authors, editors, or publishers.
 
 1. **ھازىرقى زامان ئۇيغۇر ئەدەبىي تىلىنىڭ ئىملا لۇغىتى** — Mirsultan Osmanof et al.
    Shinjang Xelq Neshriyati, Ürümchi, 2009. ISBN 978-7-228-12817-4.
-   *The orthographic standard followed throughout this repository.*
+   *Defines the orthographic standard that the 2009 and 2011 lists follow.*
 2. **ئۇيغۇر ئەدەبىي تىلىنىڭ ئىزاھلىق لۇغىتى، 1–6 توم** — Abliz Yaqup,
    Ghenizat Gheyurani et al. Milletler Neshriyati, Beijing, 1990–1999.
 3. **ھازىرقى زامان ئۇيغۇر تىلىنىڭ ئىزاھلىق لۇغىتى (قىسقارتىلمىسى)** —

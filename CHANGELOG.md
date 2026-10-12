@@ -5,20 +5,47 @@ All notable changes to the published lists are recorded here.
 Versions follow [semantic versioning](https://semver.org/) applied to data
 rather than code:
 
-- **MAJOR** — a breaking change to the schema. A renamed or removed column, a
-  changed `row_id` scheme, a directory reorganization. Anything that breaks a
-  script written against the previous release.
-- **MINOR** — new material or a completed body of work. A new dictionary added,
-  an audit round finished, a `status_vN` column appended, a batch of restored
-  entries.
-- **PATCH** — corrections within the existing schema. OCR fixes, status flips
-  from `unverified` to `verified`, removed duplicates.
+* **MAJOR** — a breaking change to the schema. A renamed or removed column, a
+changed `row_id` scheme, a directory reorganization. Anything that breaks a
+script written against the previous release.
+* **MINOR** — new material or a completed body of work. A new dictionary added,
+an audit round finished, a `status_vN` column appended, a batch of restored
+entries.
+* **PATCH** — corrections within the existing schema. OCR fixes, status flips
+from `unverified` to `verified`, removed duplicates.
 
 `row_id` values are permanent. A corrected entry keeps its id; only its `entry`
 or `status_vN` changes. Ids are never reused, so an id that disappears means
 that row was deleted, not renumbered.
 
 ## [Unreleased]
+
+## [1.2.0] — 2026-10-12
+
+The first full headword audit of the six 1990s volumes is now in the published lists. Corrected entries kept their original row ids. Rows inserted during the audit are new ids. Compared with 1.1.0, those volumes gained 1,827 headwords and lost 338, and 1,719 existing entries had their spelling corrected. Sub-entries went from 4,833 to 4,824. The 2009 imla lists are unchanged. In the 2011 lists, three volume-2 headwords were marked verified and nothing else moved.
+
+Of the published headwords, 25,212 of 131,707 (19.1%) are now verified. The 7,507 newly verified rows in the volume lines below already existed in 1.1.0 and flipped to verified; that figure counts sub-entries as well as headwords. Headwords added by the audit and already marked verified are included in the 25,212, not in the 7,507.
+
+The exclusion list went from 1,101 rows to 1,107 (987 rejected entries, 133 kept). `D90-2-03080` تۇخاۋ-لېيشېن is a new rejection. Five further rows are variant forms of entries that were already rejected. `D90-3-08063` (شۇ ← شۇ خانلىقى) no longer has its own row: the written form شۇ is the earlier verified headword `D90-3-08041`, so the duplicate was collapsed rather than deleted.
+
+### Added
+
+* OCR audit benchmark for the 1990s dictionary: 7,694 machine-proposed
+corrections verified by a native speaker across all six volumes (3,673
+accepted, 47.7%). The README benchmark section now covers all three
+dictionaries, with a per-volume summary, the four edit patterns behind most
+false corrections, and a side-by-side comparison of vowel substitutions in the
+1990s and 2011 dictionaries.
+
+### Changed
+
+* `izahliq_lughet_1990s_v1` — 232 entries corrected, 300 headwords added, 51 removed, 10 sub-entries added, 4 sub-entries removed, 1,294 newly verified.
+* `izahliq_lughet_1990s_v2` — 273 entries corrected, 321 headwords added, 47 removed, 1 sub-entry added, 4 sub-entries removed, 1,158 newly verified.
+* `izahliq_lughet_1990s_v3` — 292 entries corrected, 309 headwords added, 58 removed, 1 sub-entry removed, 1,405 newly verified.
+* `izahliq_lughet_1990s_v4` — 370 entries corrected, 326 headwords added, 96 removed, 3 sub-entries removed, 1,325 newly verified.
+* `izahliq_lughet_1990s_v5` — 255 entries corrected, 305 headwords added, 47 removed, 8 sub-entries removed, 1,233 newly verified.
+* `izahliq_lughet_1990s_v6` — 297 entries corrected, 266 headwords added, 39 removed, 1 sub-entry added, 1 sub-entry removed, 1,089 newly verified.
+* `izahliq_lughet_2011_v2` — 3 headwords newly verified.
 
 ## [1.1.0] — 2026-09-25
 
@@ -32,18 +59,18 @@ In the 2009 imla list, 4,045 headwords and 8,074 sub-entries were marked verifie
 
 ### Added
 
-- OCR audit benchmark for the 2011 dictionary: 4,195 machine-proposed
-  corrections verified by a native speaker across both volumes (2,815 accepted,
-  67.1%), with accept rates by error type, a vol 1 / vol 2 replication check,
-  and a direction-by-direction analysis of vowel substitutions. The README
-  benchmark section now covers both the 2009 and 2011 dictionaries.
+* OCR audit benchmark for the 2011 dictionary: 4,195 machine-proposed
+corrections verified by a native speaker across both volumes (2,815 accepted,
+67.1%), with accept rates by error type, a vol 1 / vol 2 replication check,
+and a direction-by-direction analysis of vowel substitutions. The README
+benchmark section now covers both the 2009 and 2011 dictionaries.
 
 ### Changed
 
-- `imla_lughiti_2009` — 4 headwords and 2 sub-entries removed as Chinese transliterations; 4,045 headwords and 8,074 sub-entries newly verified.
-- `izahliq_lughet_1990s_v2` — 4 headwords and 2 sub-entries removed as Chinese transliterations.
-- `izahliq_lughet_2011_v1` — 2,194 proposals audited, 1,397 accepted. Written to the sheet: 906 headwords corrected in place, 487 new headword rows inserted, 2 spurious rows deleted. Two further proposals had already been fixed by hand, and one rejected proposal was hand-fixed differently.
-- `izahliq_lughet_2011_v2` — 2,001 proposals audited, 1,418 accepted. Written to the sheet: 960 headwords corrected in place, 454 new headword rows inserted. Three further proposals had already been fixed by hand, and one accepted proposal was not applied because the row was gone. The last 4 open findings were rejected, so the volume 2 queue is complete and nothing further was written.
+* `imla_lughiti_2009` — 4 headwords and 2 sub-entries removed as Chinese transliterations; 4,045 headwords and 8,074 sub-entries newly verified.
+* `izahliq_lughet_1990s_v2` — 4 headwords and 2 sub-entries removed as Chinese transliterations.
+* `izahliq_lughet_2011_v1` — 2,194 proposals audited, 1,397 accepted. Written to the sheet: 906 headwords corrected in place, 487 new headword rows inserted, 2 spurious rows deleted. Two further proposals had already been fixed by hand, and one rejected proposal was hand-fixed differently.
+* `izahliq_lughet_2011_v2` — 2,001 proposals audited, 1,418 accepted. Written to the sheet: 960 headwords corrected in place, 454 new headword rows inserted. Three further proposals had already been fixed by hand, and one accepted proposal was not applied because the row was gone. The last 4 open findings were rejected, so the volume 2 queue is complete and nothing further was written.
 
 ## [1.0.0] — 2026-09-14
 
@@ -51,26 +78,28 @@ First public release.
 
 ### Added
 
-- 129,124 written forms and 48,249 sub-entry phrases from three dictionaries:
-  - `imla_lughiti_2009` — 37,917 headwords, 43,414 sub-entries
-  - `izahliq_lughet_1990s` — 52,313 headwords, 4,835 sub-entries (6 volumes)
-  - `izahliq_lughet_2011` — 38,894 headwords (2 volumes)
-- `status_v1` column recording the first audit round. 7,075 forms (5.5%)
-  verified against the original scans at time of release.
-- `excluded/excluded_wordlist.tsv` — 1,082 rows removed as Chinese
-  transliterations (975 entries reviewed and rejected across two rounds, out of
-  1,108 reviewed), published in full with their row_ids so the decision is
-  reversible.
-- OCR audit benchmark for the 2009 dictionary: 4,045 machine-proposed
-  corrections verified by a native speaker, with accept rates by error type.
+* 129,124 written forms and 48,249 sub-entry phrases from three dictionaries:
+
+  * `imla_lughiti_2009` — 37,917 headwords, 43,414 sub-entries
+  * `izahliq_lughet_1990s` — 52,313 headwords, 4,835 sub-entries (6 volumes)
+  * `izahliq_lughet_2011` — 38,894 headwords (2 volumes)
+* `status_v1` column recording the first audit round. 7,075 forms (5.5%)
+verified against the original scans at time of release.
+* `excluded/excluded_wordlist.tsv` — 1,082 rows removed as Chinese
+transliterations (975 entries reviewed and rejected across two rounds, out of
+1,108 reviewed), published in full with their row_ids so the decision is
+reversible.
+* OCR audit benchmark for the 2009 dictionary: 4,045 machine-proposed
+corrections verified by a native speaker, with accept rates by error type.
 
 ### Known issues
 
-- 94.5% of entries are `unverified` and carry a residual OCR error rate.
-- Several source volumes were scanned from copies with missing pages; see the
-  table in `README.md`.
-- Printing errors present in the source dictionaries are reproduced unless the
-  intended form is unambiguous.
-- The exclusion list is incomplete for the 2009 imla dictionary, which has no
-  etymology column; entries there are found by cross-reference and during the
-  audit, so `excluded/` will grow in future releases.
+* 94.5% of entries are `unverified` and carry a residual OCR error rate.
+* Several source volumes were scanned from copies with missing pages; see the
+table in `README.md`.
+* Printing errors present in the source dictionaries are reproduced unless the
+intended form is unambiguous.
+* The exclusion list is incomplete for the 2009 imla dictionary, which has no
+etymology column; entries there are found by cross-reference and during the
+audit, so `excluded/` will grow in future releases.
+

@@ -14,17 +14,19 @@ authors:
 repository-code: "https://github.com/UyghurReferenceTexts/uyghur-headword-lists"
 abstract: >-
   Open, machine-readable headword lists extracted from three printed Uyghur
-  dictionaries: 130,218 written forms and 48,245 sub-entry phrases in the
+  dictionaries: 131,707 written forms and 48,236 sub-entry phrases in the
   Uyghur (ئۇيغۇر) script. Every entry is traceable to the scanned page column it
   was extracted from and carries a per-round audit status recording whether a
-  native speaker has verified it against the original scan. Orthography follows
-  the 2009 Hazirqi zaman Uyghur edebiy tilining imla lughiti standard; the
-  other sources are the six-volume Uyghur edebiy tilining izahliq lughiti
-  (1990-1999) and the 2011 Hazirqi zaman Uyghur tilining izahliq lughiti
-  (qisqartilmisi). Chinese transliterations tagged in the sources' own
+  native speaker has verified it against the original scan. The sources are
+  the 2009 Hazirqi zaman Uyghur edebiy tilining imla lughiti, the 2011 Hazirqi
+  zaman Uyghur tilining izahliq lughiti (qisqartilmisi), and the six-volume
+  Uyghur edebiy tilining izahliq lughiti (1990-1999). The 2009 and 2011 lists
+  follow the 2009 orthographic standard; the 1990s volumes predate it and are
+  published in their original spelling. Chinese transliterations tagged in the sources' own
   etymology columns were reviewed individually and removed, with the full
   removal list published for audit. Also includes a benchmark quantifying
-  frontier-model reliability on post-OCR correction of Uyghur Arabic script.
+  frontier-model reliability on post-OCR correction of Uyghur Arabic script,
+  covering all three dictionaries.
   Intended for spellchecking, orthographic normalization, OCR ground truth, and
   language preservation.
 keywords:
@@ -39,10 +41,9 @@ keywords:
   - linguistics
 license: CC-BY-4.0
 license-url: "https://github.com/UyghurReferenceTexts/uyghur-headword-lists/blob/main/LICENSE"
-# Add after the first Zenodo release mints it, then commit before the next release:
 doi: "10.5281/zenodo.22747775"
-version: 1.1.0
-date-released: "2026-09-25"
+version: 1.2.0
+date-released: "2026-10-12"
 references:
   - type: book
     title: "ھازىرقى زامان ئۇيغۇر ئەدەبىي تىلىنىڭ ئىملا لۇغىتى"
