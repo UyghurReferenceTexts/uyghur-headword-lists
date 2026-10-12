@@ -4,7 +4,7 @@ Open, machine-readable headword lists extracted from three printed Uyghur
 dictionaries, released as plain TSV under CC BY 4.0.
 
 <!-- stats:headline -->
-**131,707 written forms** and **48,236 sub-entry phrases**, each traceable to
+**131,707 written forms** and **48,241 sub-entry phrases**, each traceable to
 the scanned column it came from.
 <!-- stats:end -->
 
@@ -41,7 +41,7 @@ This repository provides the concrete technical foundation for that preservation
 
 The 2011 and 1990s source dictionaries were compiled under the very same state apparatus whose assimilationist policies this project counters. One visible legacy of that state control is a layer of Chinese transliterations artificially inserted as Uyghur headwords, tagged as `[خەن]` in the original etymology columns. Standardizing a state-mandated loanword in a reference dictionary is a deliberate tactic to make it appear settled, ordinary, and official. Uyghur linguists have a specific term for the endpoint of this process: *تولۇق ئاسسىمىلياتسىيە* (total assimilation).
 
-To counteract this, 1,120 entries were reviewed individually across two rounds. We removed 987 from the final lists because they are forced transliterations that never took root in natural Uyghur usage — 1,107 TSV rows once their variant and sub-entry forms are counted. The remaining 133 were preserved—either because the original tag was an OCR error on a native Uyghur word, or because the loanword has been genuinely integrated into the living language.
+To counteract this, 1,120 entries were reviewed individually across two rounds. We removed 982 from the final lists because they are forced transliterations that never took root in natural Uyghur usage — 1,099 TSV rows once their variant and sub-entry forms are counted. The remaining 138 were preserved—either because the original tag was an OCR error on a native Uyghur word, or because the loanword has been genuinely integrated into the living language.
 
 This is a deliberate editorial intervention, and we prioritize absolute transparency over silent deletion. Every removed entry is documented in [`excluded/excluded_wordlist.tsv`](excluded/excluded_wordlist.tsv) alongside its original `row_id`, source dictionary, and scanned page, allowing anyone who disagrees with this assessment to trace or reverse the decision. Crucially, this curation was performed word-by-word by a native Uyghur speaker rather than by automated pattern matching. This human review ensures precision; for example, several rejected Chinese transliterations share spellings with legitimate Uyghur homographs (such as جازا *punishment*, پەن *science*, and باشى *his head*), which remain fully intact and protected within the dataset.
 
@@ -103,9 +103,9 @@ orthography, not of senses.
 | work                                                        | headwords   | sub-entries | verified   | excluded  |
 | ----------------------------------------------------------- | ----------- | ----------- | ---------- | --------- |
 | [Imla Lughiti 2009](data/imla_lughiti_2009/)                | 37,913      | 43,412      | 6,415      | 306       |
-| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,798      | 4,824       | 10,630     | 451       |
-| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols)   | 39,996      | 0           | 8,167      | 350       |
-| **total**                                                   | **131,707** | **48,236**  | **25,212** | **1,107** |
+| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,799      | 4,829       | 10,629     | 443       |
+| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols)   | 39,995      | 0           | 8,167      | 350       |
+| **total**                                                   | **131,707** | **48,241**  | **25,211** | **1,099** |
 <!-- stats:end -->
 
 Counts are **after** the exclusions described above; the *excluded* column shows
@@ -144,7 +144,7 @@ the most correct data.
 - *blank* — the entry was added after round 1 had already passed that page.
 
 <!-- stats:verified -->
-Currently **25,212 of 131,707 forms (19.1%) are verified**.
+Currently **25,211 of 131,707 forms (19.1%) are verified**.
 <!-- stats:end -->
 
  When round 2 begins, a

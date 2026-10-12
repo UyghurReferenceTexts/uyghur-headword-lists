@@ -22,11 +22,11 @@ that row was deleted, not renumbered.
 
 ## [1.2.0] — 2026-10-12
 
-The first full headword audit of the six 1990s volumes is now in the published lists. Corrected entries kept their original row ids. Rows inserted during the audit are new ids. Compared with 1.1.0, those volumes gained 1,827 headwords and lost 338, and 1,719 existing entries had their spelling corrected. Sub-entries went from 4,833 to 4,824. The 2009 imla lists are unchanged. In the 2011 lists, three volume-2 headwords were marked verified and nothing else moved.
+The first full headword audit of the six 1990s volumes is now in the published lists. Corrected entries kept their original row ids. Rows inserted during the audit are new ids. Compared with 1.1.0, those volumes gained 1,829 headwords and lost 340, and 1,720 existing entries had their spelling corrected. Sub-entries went from 4,833 to 4,829. The 2009 imla lists are unchanged. In the 2011 lists, three volume-2 headwords were marked verified. Volume 1 corrected `D01-11385` from جاك Ⅰ to جاك, and the duplicate headword `D01-11386` collapsed into it.
 
-Of the published headwords, 25,212 of 131,707 (19.1%) are now verified. The 7,507 newly verified rows in the volume lines below already existed in 1.1.0 and flipped to verified; that figure counts sub-entries as well as headwords. Headwords added by the audit and already marked verified are included in the 25,212, not in the 7,507.
+Of the published headwords, 25,211 of 131,707 (19.1%) are now verified. The 7,506 newly verified rows in the volume lines below already existed in 1.1.0 and flipped to verified; that figure counts sub-entries as well as headwords. Headwords added by the audit and already marked verified are included in the 25,211, not in the 7,506.
 
-The exclusion list went from 1,101 rows to 1,107 (987 rejected entries, 133 kept). `D90-2-03080` تۇخاۋ-لېيشېن is a new rejection. Five further rows are variant forms of entries that were already rejected. `D90-3-08063` (شۇ ← شۇ خانلىقى) no longer has its own row: the written form شۇ is the earlier verified headword `D90-3-08041`, so the duplicate was collapsed rather than deleted.
+The exclusion list went from 1,101 rows to 1,099 (982 rejected entries, 138 kept). `D90-2-03080` تۇخاۋ-لېيشېن is a new rejection. Three further rows are variant forms of entries that were already rejected. جا and پاڭ, with their sub-entries, were kept and are back in the published lists. `D90-3-08063` (شۇ ← شۇ خانلىقى) no longer has its own row: the written form شۇ is the earlier verified headword `D90-3-08041`, so the duplicate was collapsed rather than deleted.
 
 ### Added
 
@@ -39,12 +39,13 @@ false corrections, and a side-by-side comparison of vowel substitutions in the
 
 ### Changed
 
-* `izahliq_lughet_1990s_v1` — 232 entries corrected, 300 headwords added, 51 removed, 10 sub-entries added, 4 sub-entries removed, 1,294 newly verified.
-* `izahliq_lughet_1990s_v2` — 273 entries corrected, 321 headwords added, 47 removed, 1 sub-entry added, 4 sub-entries removed, 1,158 newly verified.
+* `izahliq_lughet_1990s_v1` — 232 entries corrected, 301 headwords added, 51 removed, 13 sub-entries added, 4 sub-entries removed, 1,294 newly verified.
+* `izahliq_lughet_1990s_v2` — 273 entries corrected, 322 headwords added, 47 removed, 3 sub-entries added, 4 sub-entries removed, 1,158 newly verified.
 * `izahliq_lughet_1990s_v3` — 292 entries corrected, 309 headwords added, 58 removed, 1 sub-entry removed, 1,405 newly verified.
 * `izahliq_lughet_1990s_v4` — 370 entries corrected, 326 headwords added, 96 removed, 3 sub-entries removed, 1,325 newly verified.
 * `izahliq_lughet_1990s_v5` — 255 entries corrected, 305 headwords added, 47 removed, 8 sub-entries removed, 1,233 newly verified.
-* `izahliq_lughet_1990s_v6` — 297 entries corrected, 266 headwords added, 39 removed, 1 sub-entry added, 1 sub-entry removed, 1,089 newly verified.
+* `izahliq_lughet_1990s_v6` — 297 entries corrected, 266 headwords added, 40 removed, 1 sub-entry added, 1 sub-entry removed, 1,088 newly verified.
+* `izahliq_lughet_2011_v1` — 1 entry corrected, 1 removed.
 * `izahliq_lughet_2011_v2` — 3 headwords newly verified.
 
 ## [1.1.0] — 2026-09-25

@@ -14,7 +14,7 @@ authors:
 repository-code: "https://github.com/UyghurReferenceTexts/uyghur-headword-lists"
 abstract: >-
   Open, machine-readable headword lists extracted from three printed Uyghur
-  dictionaries: 131,707 written forms and 48,236 sub-entry phrases in the
+  dictionaries: 131,707 written forms and 48,241 sub-entry phrases in the
   Uyghur (ئۇيغۇر) script. Every entry is traceable to the scanned page column it
   was extracted from and carries a per-round audit status recording whether a
   native speaker has verified it against the original scan. The sources are
