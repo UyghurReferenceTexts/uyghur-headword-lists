@@ -19,13 +19,17 @@ Milletler Neshriyati, Beijing, 1990–1999.
 The large explanatory dictionary of literary Uyghur. Six volumes, published
 across a decade.
 
+**Orthography.** These volumes predate the 2009 orthographic standard and are
+published in their original spelling, not normalized to it. The same word can
+therefore be spelled differently here than in the 2009 and 2011 lists.
+
 <!-- stats:work -->
 | | |
 |---|---|
-| headwords | 52,309 |
-| sub-entries | 4,833 |
-| verified against scans | 1,982 |
-| excluded as Chinese transliterations | 445 |
+| headwords | 53,798 |
+| sub-entries | 4,824 |
+| verified against scans | 10,630 |
+| excluded as Chinese transliterations | 451 |
 <!-- stats:end -->
 
 Load all six volumes at once:
@@ -65,9 +69,17 @@ in the lists:
 | v5 | 20, 21 |
 | v6 | none |
 
+## Audit
+
+All six volumes went through a machine-assisted audit; see the OCR audit
+benchmark in the root README. 7,694 machine-proposed corrections were verified
+by a native speaker against the scans, of which 3,673 were accepted. Applying
+them corrected the spelling of 1,719 entries, added 1,827 headwords and
+removed 338 (see `CHANGELOG.md`, release 1.2.0).
+
 ## Filtering
 
 Entries tagged `[خەن]` (Chinese origin) in the source dictionary's own etymology
 column were reviewed individually and, where confirmed as transliterations,
-removed — 439 rows across the six volumes. See the root README and
+removed — 451 rows across the six volumes. See the root README and
 `excluded/excluded_wordlist.tsv`.
