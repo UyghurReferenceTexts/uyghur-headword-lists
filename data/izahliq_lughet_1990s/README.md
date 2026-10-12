@@ -26,10 +26,10 @@ therefore be spelled differently here than in the 2009 and 2011 lists.
 <!-- stats:work -->
 | | |
 |---|---|
-| headwords | 53,798 |
-| sub-entries | 4,824 |
-| verified against scans | 10,630 |
-| excluded as Chinese transliterations | 451 |
+| headwords | 53,799 |
+| sub-entries | 4,829 |
+| verified against scans | 10,629 |
+| excluded as Chinese transliterations | 443 |
 <!-- stats:end -->
 
 Load all six volumes at once:
@@ -74,12 +74,12 @@ in the lists:
 All six volumes went through a machine-assisted audit; see the OCR audit
 benchmark in the root README. 7,694 machine-proposed corrections were verified
 by a native speaker against the scans, of which 3,673 were accepted. Applying
-them corrected the spelling of 1,719 entries, added 1,827 headwords and
-removed 338 (see `CHANGELOG.md`, release 1.2.0).
+them corrected the spelling of 1,720 entries, added 1,829 headwords and
+removed 340 (see `CHANGELOG.md`, release 1.2.0).
 
 ## Filtering
 
 Entries tagged `[خەن]` (Chinese origin) in the source dictionary's own etymology
 column were reviewed individually and, where confirmed as transliterations,
-removed — 451 rows across the six volumes. See the root README and
+removed — 443 rows across the six volumes. See the root README and
 `excluded/excluded_wordlist.tsv`.
