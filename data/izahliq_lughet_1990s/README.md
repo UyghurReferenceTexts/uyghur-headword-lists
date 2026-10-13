@@ -74,8 +74,8 @@ in the lists:
 All six volumes went through a machine-assisted audit; see the OCR audit
 benchmark in the root README. 7,694 machine-proposed corrections were verified
 by a native speaker against the scans, of which 3,673 were accepted. Applying
-them corrected the spelling of 1,720 entries, added 1,829 headwords and
-removed 340 (see `CHANGELOG.md`, release 1.2.0).
+them corrected the spelling of 1,719 entries, added 1,829 headwords and
+removed 339 (see `CHANGELOG.md`, release 1.2.0).
 
 ## Filtering
 
