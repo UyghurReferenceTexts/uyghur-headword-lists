@@ -176,7 +176,9 @@ imla dictionary:
 
 These are errors of the source, not of the extraction. Where the intended form
 is unambiguous it is corrected and noted in the changelog; where it is not, the
-printed form stands.
+printed form stands. Misprints found during the audit are listed, with the
+printed and corrected forms, in
+[`audit/print_errors.tsv`](audit/print_errors.tsv).
 
 **Remaining OCR errors, and missing or spurious entries.** 80.9% of entries have
 not yet been checked by a human. Assume a residual error rate in that portion.
@@ -203,6 +205,8 @@ script.**
 | Izahliq Lughet 2011 (2 vols)  | 4,195              | 2,815     | 67.1%     |
 | Izahliq Lughet 1990s (6 vols) | 7,694              | 3,673     | 47.7%     |
 | **total**                     | **15,934**         | **9,560** | **60.0%** |
+
+The full verdicts are in [`audit/`](audit/).
 
 **Two proposals in five were wrong, and the model never said so.**
 Self-reported confidence carried no information: 99.9% of the 2009 findings,
@@ -368,6 +372,11 @@ counting proposals whose only change is the one shown, so they differ slightly
 from the per-volume benchmark sheets, which count proposals containing that
 change. A small number of verdicts may be overturned in round 2, and the figures
 will be re-derived then.
+
+**The full data is published.** Every proposal, with the model's explanation,
+its confidence and the native speaker's verdict, is in
+[`audit/gemini_audit.tsv`](audit/), so every figure in this section can be
+recomputed.
 
 **This is the argument for the dataset.** A model cannot check Uyghur
 orthography against nothing. It needs ground truth, and for Uyghur that ground

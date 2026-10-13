@@ -20,9 +20,25 @@ that row was deleted, not renumbered.
 
 ## [Unreleased]
 
+## [1.3.0] — 2026-10-13
+
+### Added
+
+* `audit/gemini_audit.tsv` — the full record behind the OCR audit benchmark:
+every correction proposed during the audits of all three dictionaries (16,149
+rows), with the native speaker's verdict, the model's explanation and
+confidence, and who proposed it. Filtering to Gemini's accepted and rejected
+proposals reproduces the benchmark figures in the README (15,934 proposals,
+9,560 accepted).
+* `audit/print_errors.tsv` — 48 misprints in the printed books (3 in the 2009
+dictionary, 42 in the 1990s volumes 1 and 3–6, and 3 in 2011 volume 2), each
+with the printed form, the corrected form used in the lists, and the scanned
+column.
+* `export_audit.py`, which generates both files from the dictionary workbooks.
+
 ## [1.2.0] — 2026-10-12
 
-The first full headword audit of the six 1990s volumes is now in the published lists. Corrected entries kept their original row ids. Rows inserted during the audit are new ids. Compared with 1.1.0, those volumes gained 1,829 headwords and lost 340, and 1,720 existing entries had their spelling corrected. Sub-entries went from 4,833 to 4,829. The 2009 imla lists are unchanged. In the 2011 lists, three volume-2 headwords were marked verified. Volume 1 corrected `D01-11385` from جاك Ⅰ to جاك, and the duplicate headword `D01-11386` collapsed into it.
+The first full headword audit of the six 1990s volumes is now in the published lists. Corrected entries kept their original row ids. Rows inserted during the audit are new ids. Compared with 1.1.0, those volumes gained 1,829 headwords and lost 339, and 1,719 existing entries had their spelling corrected. Sub-entries went from 4,833 to 4,829. The 2009 imla lists are unchanged. In the 2011 lists, three volume-2 headwords were marked verified. Volume 1 corrected `D01-11385` from جاك Ⅰ to جاك, and the duplicate headword `D01-11386` collapsed into it.
 
 Of the published headwords, 25,211 of 131,707 (19.1%) are now verified. The 7,506 newly verified rows in the volume lines below already existed in 1.1.0 and flipped to verified; that figure counts sub-entries as well as headwords. Headwords added by the audit and already marked verified are included in the 25,211, not in the 7,506.
 

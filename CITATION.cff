@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.3.0
 title: "uyghur-headword-lists: headword inventories from three printed Uyghur dictionaries"
 message: "If you use this dataset, please cite it."
 type: dataset
@@ -25,8 +25,8 @@ abstract: >-
   published in their original spelling. Chinese transliterations tagged in the sources' own
   etymology columns were reviewed individually and removed, with the full
   removal list published for audit. Also includes a benchmark quantifying
-  frontier-model reliability on post-OCR correction of Uyghur Arabic script,
-  covering all three dictionaries.
+  frontier-model (gemini-3.1-pro-preview) reliability on post-OCR correction of Uyghur Arabic script,
+  covering all three dictionaries, with the full per-proposal verdicts.
   Intended for spellchecking, orthographic normalization, OCR ground truth, and
   language preservation.
 keywords:
@@ -42,8 +42,8 @@ keywords:
 license: CC-BY-4.0
 license-url: "https://github.com/UyghurReferenceTexts/uyghur-headword-lists/blob/main/LICENSE"
 doi: "10.5281/zenodo.22747775"
-version: 1.2.0
-date-released: "2026-10-12"
+version: 1.3.0
+date-released: "2026-10-13"
 references:
   - type: book
     title: "ھازىرقى زامان ئۇيغۇر ئەدەبىي تىلىنىڭ ئىملا لۇغىتى"
