@@ -24,7 +24,7 @@ volumes; 2011, two volumes) were converted to spreadsheets with Tesseract and
 `gemini-3.1-flash-lite`. `gemini-3.1-pro-preview` then compared each spreadsheet
 against the scanned pages and flagged likely errors. A native speaker checked
 every flag against the scan, one by one, and the headword lists were built and
-published here. The remaining headwords are being checked the same way, with
+published here. The remaining headwords are being checked manually one by one, with
 corrections pushed to this repository as they are made.
 
 ---
