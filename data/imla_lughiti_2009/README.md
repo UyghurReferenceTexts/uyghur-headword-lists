@@ -47,7 +47,7 @@ by a native speaker against the scans, of which 3,072 were accepted and applied.
 
 **This volume has no etymology column**, so Chinese transliterations cannot be
 identified systematically the way they can in the other two dictionaries. The
-306 rows removed here were found by cross-referencing forms already rejected
+312 rows removed here were found by cross-referencing forms already rejected
 in the 2011 dictionary, plus individual identification during the audit.
 
 That makes this volume's exclusion list the least complete of the three, and it
