@@ -13,10 +13,10 @@ published in its original spelling, not normalized to this standard.
 <!-- stats:work -->
 | | |
 |---|---|
-| headwords | 37,913 |
-| sub-entries | 43,412 |
-| verified against scans | 6,415 |
-| excluded as Chinese transliterations | 306 |
+| headwords | 37,926 |
+| sub-entries | 43,398 |
+| verified against scans | 10,353 |
+| excluded as Chinese transliterations | 312 |
 <!-- stats:end -->
 
 ## Structure
