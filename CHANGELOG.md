@@ -20,6 +20,15 @@ that row was deleted, not renumbered.
 
 ## [Unreleased]
 
+## [1.3.1] — 2026-10-16
+
+499 entries corrected, 26 headwords added, 15 removed, 7,178 newly verified.
+
+### Changed
+- `imla_lughiti_2009` — 473 entries corrected, 26 headwords added, 13 removed, 10 sub-entries added, 24 sub-entries removed, 7,159 newly verified.
+- `izahliq_lughet_1990s_v1` — 19 newly verified.
+- `izahliq_lughet_2011_v2` — 26 entries corrected, 2 removed.
+
 ## [1.3.0] — 2026-10-13
 
 ### Added

@@ -4,7 +4,7 @@ Open, machine-readable headword lists extracted from three printed Uyghur
 dictionaries, released as plain TSV under CC BY 4.0.
 
 <!-- stats:headline -->
-**131,707 written forms** and **48,241 sub-entry phrases**, each traceable to
+**131,718 written forms** and **48,227 sub-entry phrases**, each traceable to
 the scanned column it came from.
 <!-- stats:end -->
 
@@ -102,10 +102,10 @@ orthography, not of senses.
 
 | work                                                        | headwords   | sub-entries | verified   | excluded  |
 | ----------------------------------------------------------- | ----------- | ----------- | ---------- | --------- |
-| [Imla Lughiti 2009](data/imla_lughiti_2009/)                | 37,913      | 43,412      | 6,415      | 306       |
-| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,799      | 4,829       | 10,629     | 443       |
-| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols)   | 39,995      | 0           | 8,167      | 350       |
-| **total**                                                   | **131,707** | **48,241**  | **25,211** | **1,099** |
+| [Imla Lughiti 2009](data/imla_lughiti_2009/)                | 37,926      | 43,398      | 10,353     | 312       |
+| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,799      | 4,829       | 10,648     | 443       |
+| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols)   | 39,993      | 0           | 8,166      | 350       |
+| **total**                                                   | **131,718** | **48,227**  | **29,167** | **1,105** |
 <!-- stats:end -->
 
 Counts are **after** the exclusions described above; the *excluded* column shows
@@ -144,7 +144,7 @@ the most correct data.
 - *blank* — the entry was added after round 1 had already passed that page.
 
 <!-- stats:verified -->
-Currently **25,211 of 131,707 forms (19.1%) are verified**.
+Currently **29,167 of 131,718 forms (22.1%) are verified**.
 <!-- stats:end -->
 
  When round 2 begins, a
