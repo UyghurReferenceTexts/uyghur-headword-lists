@@ -1,25 +1,31 @@
 dictionary	row_id	entry	type	source_page	status_v1	parent_id
-Imla 2009	D_03092	باجىڭگىر	headword	070_col1.png	unverified	
-Imla 2009	D_03237	بازىمەن	headword	073_col1.png	unverified	
-Imla 2009	D_03350	باشى	headword	076_col2.png	unverified	
-Imla 2009	D_03452	باگۇ	headword	078_col2.png	unverified	
-Imla 2009	D_03452-s1	باگۇ ئەدەبىياتى	subentry	078_col2.png	unverified	D_03452
+Imla 2009	D_03092	باجىڭگىر	headword	070_col1.png	verified	
+Imla 2009	D_03237	بازىمەن	headword	073_col1.png	verified	
+Imla 2009	D_03350	باشى	headword	076_col2.png	verified	
+Imla 2009	D_03452	باگۇ	headword	078_col2.png	verified	
+Imla 2009	D_03452-s1	باگۇ ئەدەبىياتى	subentry	078_col2.png	verified	D_03452
+Imla 2009	D_03581	باۋئەن	headword	081_col1.png	verified	
+Imla 2009	D_03582	باۋئەنچە	headword	081_col1.png	verified	
 Imla 2009	D_03870	بەن	headword	086_col2.png	verified	
 Imla 2009	D_03870-i1	بەنى	inflected	086_col2.png	verified	
-Imla 2009	D_03878	بەندىڭ	headword	086_col3.png	unverified	
-Imla 2009	D_03879	بەنزە	headword	086_col3.png	unverified	
-Imla 2009	D_03879-s1	بەنزە ئالماشماق	subentry	086_col3.png	unverified	D_03879
-Imla 2009	D_03919	بوتۇڭ	headword	087_col2.png	unverified	
+Imla 2009	D_03872	بەنجاڭ	headword	086_col2.png	verified	
+Imla 2009	D_03872-i1	بەنجاڭى	inflected	086_col2.png	verified	
+Imla 2009	D_03873	بەنجاڭلىق	headword	086_col2.png	verified	
+Imla 2009	D_03878	بەندىڭ	headword	086_col3.png	verified	
+Imla 2009	D_03879	بەنزە	headword	086_col3.png	verified	
+Imla 2009	D_03879-s1	بەنزە ئالماشماق	subentry	086_col3.png	verified	D_03879
+Imla 2009	D_03897	بەيدۇ	headword	087_col1.png	verified	
+Imla 2009	D_03919	بوتۇڭ	headword	087_col2.png	verified	
 Imla 2009	D_03929	بوجاڭ	headword	087_col2.png	verified	
 Imla 2009	D_03929-i1	بوجاڭى	inflected	087_col2.png	verified	
 Imla 2009	D_03929-s1	بوجاڭلىق	subentry	087_col2.png	verified	D_03929
-Imla 2009	D_04119	بولا	headword	091_col1.png	unverified	
-Imla 2009	D_04119-s1	بولا بولماق	subentry	091_col1.png	unverified	D_04119
-Imla 2009	D_04119-s2	بولا قىلماق	subentry	091_col1.png	unverified	D_04119
-Imla 2009	D_04129	بولاڭخۇي	headword	091_col2.png	unverified	
-Imla 2009	D_04275	بۇدۇڭتەي	headword	094_col1.png	unverified	
-Imla 2009	D_04275-s1	بۇدۇڭتەي تۇرماق	subentry	094_col1.png	unverified	D_04275
-Imla 2009	D_05146	بىڭسى	headword	111_col3.png	unverified	
+Imla 2009	D_04119	بولا	headword	091_col1.png	verified	
+Imla 2009	D_04119-s1	بولا بولماق	subentry	091_col1.png	verified	D_04119
+Imla 2009	D_04119-s2	بولا قىلماق	subentry	091_col1.png	verified	D_04119
+Imla 2009	D_04129	بولاڭخۇي	headword	091_col2.png	verified	
+Imla 2009	D_04275	بۇدۇڭتەي	headword	094_col1.png	verified	
+Imla 2009	D_04275-s1	بۇدۇڭتەي تۇرماق	subentry	094_col1.png	verified	D_04275
+Imla 2009	D_05146	بىڭسى	headword	111_col3.png	verified	
 Imla 2009	D_05738	پاڭچۇ	headword	124_col2.png	unverified	
 Imla 2009	D_05739	پاڭشىڭ	headword	124_col2.png	unverified	
 Imla 2009	D_06253	پەيجاڭ	headword	135_col2.png	verified	
@@ -946,8 +952,8 @@ Imla 2009	D_37263-i1	يىڭجاڭى	inflected	835_col3.png	verified
 2011 v1	D01-18595	سەنتاڭرۇ	headword	606_2L.png	unverified	
 2011 v1	D01-18612	سەنمۇ	headword	607_1R.png	unverified	
 2011 v1	D01-18669	سەي	headword	609_1R.png	unverified	
-2011 v1	D01-18672	سەيپۇڭ	headword	609_1R.png	unverified	
-2011 v1	D01-18672-v1	ماشىنىچى	variant	609_1R.png	unverified	
+2011 v1	D01-18672	سەيپۇڭ	headword	609_1R.png	verified	
+2011 v1	D01-18672-v1	ماشىنىچى	variant	609_1R.png	verified	
 2011 v1	D01-18679	سەيدۇ	headword	609_2L.png	unverified	
 2011 v1	D01-18681	سەيسى	headword	609_2L.png	unverified	
 2011 v1	D01-18684	سەي - كۆكتات	headword	609_2L.png	verified	
