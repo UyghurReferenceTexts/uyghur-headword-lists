@@ -1,4 +1,8 @@
 dictionary	row_id	printed_form	correct_form	source_page	note
+imla_lughiti_2009	D_00651	ئارقا پىشاپ	ئارقا پېشاپ	014_col3.png	2011 dictionary was used to correct this
+imla_lughiti_2009	D_02415	ئەرمۇدون قوۋزىقى	ئەرمۇدۇن قوۋزىقى	056_col1.png	error is in sub_entry
+imla_lughiti_2009	D_04665	بۈركۈتسىمان ھۇقۇش	بۈركۈتسىمان ھوقۇش	101_col3.png	error is in sub_entry
+imla_lughiti_2009	D_04867	بېنزىن پومبا	بېنزىن پومپا	105_col3.png	error is in sub_entry
 imla_lughiti_2009	D_09331	تولدۇرغۇچى بولۇڭ	تولدۇرغۇچى بۇلۇڭ	203_col2.png	error is in sub_entry
 imla_lughiti_2009	D_27882	مەخپىيلەشتۈرۈلۈش	مەخپىيلەشتۈرۈلمەك	616_col2.png	error is in sub_entry
 imla_lughiti_2009	D_31122	ئوبراز (ئوبزارى)	ئوبراز (ئوبرازى)	690_col1.png	
@@ -44,6 +48,7 @@ izahliq_lughet_1990s_v6	D90-6-08570	يېغىۋېلىپ	يىغىۋېلىپ	765_1R
 izahliq_lughet_1990s_v6	D90-6-08794	ئېستېتىكىلىق تىلشۇناسىلىق ئېقىمى	ئېستېتىكىلىق تىلشۇناسلىق ئېقىمى	082_2L.png	
 izahliq_lughet_1990s_v6	D90-6-08827	ئىخچچاملاتماق	ئىخچاملاتماق	197_1R.png	
 izahliq_lughet_1990s_v6	D90-6-08971	يۆتكىگۈچى ئېنزم	يۆتكىگۈچى ئېنزىم	640_1R.png	
+izahliq_lughet_2011_v1	D01-00297	ئاچبىقىن	ئاچبېقىن	011_1R.png	2009 imla dicitonary was used to correct this
 izahliq_lughet_2011_v2	D02-05039	كرالاتماق	كىرالاتماق	891_2L.png	
 izahliq_lughet_2011_v2	D02-16225	ئىلىشتۇرۇرۇشماق	ئىلىشتۇرۇشماق	1298_1R.png	
 izahliq_lughet_2011_v2	D02-19058	ئېمولسىيەلەشتۈرۈشمەك	ئېمۇلسىيەلەشتۈرۈشمەك	1245_1R.png	
