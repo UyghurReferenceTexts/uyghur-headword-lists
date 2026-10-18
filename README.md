@@ -18,7 +18,6 @@ the scanned column it came from.
        alt="Workflow diagram, in Uyghur: three printed dictionaries are OCR'd into spreadsheets, a model flags likely errors against the scans, a native speaker checks each flag, and the corrected lists are published on GitHub."
        width="100%">
 </p>
-
 *How the lists are digitized.* The three dictionaries (2009 imla; 1990s, six
 volumes; 2011, two volumes) were converted to spreadsheets with Tesseract and
 `gemini-3.1-flash-lite`. `gemini-3.1-pro-preview` then compared each spreadsheet
@@ -26,6 +25,8 @@ against the scanned pages and flagged likely errors. A native speaker checked
 every flag against the scan, one by one, and the headword lists were built and
 published here. The remaining headwords are being checked manually one by one, with
 corrections pushed to this repository as they are made.
+
+\* **Human-in-the-Loop Verified (In Progress):** Entries are actively being hand-audited against original scans. The `status_v1` column tracks the real-time verification status as we release ongoing updates.
 
 ---
 
