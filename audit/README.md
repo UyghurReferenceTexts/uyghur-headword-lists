@@ -6,7 +6,7 @@ that section can be recomputed from these files.
 | file | rows | contents |
 |---|---:|---|
 | `gemini_audit.tsv` | 16,149 | every correction proposed during the audit, with the native speaker's verdict |
-| `print_errors.tsv` | 53 | misprints in the printed dictionaries themselves |
+| `print_errors.tsv` | 65 | misprints in the printed dictionaries themselves |
 
 Both files are generated from the dictionary workbooks by `export_audit.py`
 and are not edited by hand.
@@ -74,7 +74,7 @@ This gives 15,934 proposals and 9,560 accepted (60.0%), as in the root README.
 
 Headwords that are misspelled in the printed book itself, not by OCR. Each was
 confirmed against the scan during the audit. The published lists use
-`correct_form`. Five rows in the 2009 dictionary are sub-entries; the note
+`correct_form`. Fourteen rows in the 2009 dictionary are sub-entries; the note
 column says so.
 
 | column | meaning |
@@ -86,9 +86,9 @@ column says so.
 | `source_page` | the scanned column image |
 | `note` | reviewer's note, where one was made |
 
-These 53 rows are in the 2009 dictionary (7), the 1990s dictionary (42),
-2011 volume 1 (1), and 2011 volume 2 (3). The 1990s rows are in volume 1 (23),
-volume 3 (4), volume 4 (4), volume 5 (2), and volume 6 (9). 1990s volume 2
+These 65 rows are in the 2009 dictionary (17), the 1990s dictionary (43),
+2011 volume 1 (1), and 2011 volume 2 (4). The 1990s rows are in volume 1 (23),
+volume 3 (4), volume 4 (5), volume 5 (2), and volume 6 (9). 1990s volume 2
 has none.
 
 ## This is a snapshot

@@ -1,11 +1,21 @@
 dictionary	row_id	printed_form	correct_form	source_page	note
+imla_lughiti_2009	D_00494	ئارا ئىسكرىپكا	ئارا ئىسكىرىپكا	011_col3.png	error is in sub_entry
 imla_lughiti_2009	D_00651	ئارقا پىشاپ	ئارقا پېشاپ	014_col3.png	2011 dictionary was used to correct this
 imla_lughiti_2009	D_02415	ئەرمۇدون قوۋزىقى	ئەرمۇدۇن قوۋزىقى	056_col1.png	error is in sub_entry
 imla_lughiti_2009	D_04665	بۈركۈتسىمان ھۇقۇش	بۈركۈتسىمان ھوقۇش	101_col3.png	error is in sub_entry
 imla_lughiti_2009	D_04867	بېنزىن پومبا	بېنزىن پومپا	105_col3.png	error is in sub_entry
+imla_lughiti_2009	D_05381	پاتولوگىيەلىك پىسىخولوگىيە	پاتولوگىيەلىك پىسخولوگىيە	116_col2.png	error is in sub_entry
+imla_lughiti_2009	D_05932	پايدىلىنىش كوئېففىتسىنتى	پايدىلىنىش كوئېففىتسېنتى	128_col1.png	error is in sub_entry
+imla_lughiti_2009	D_07637	تارىخىي گىيولوگىيە	تارىخىي گېئولوگىيە	164_col2.png	error is in sub_entry
+imla_lughiti_2009	D_08278	تەتۈر سىممېترىيە	تەتۈر سىممېتىرىيە	179_col2.png	error is in sub_entry
 imla_lughiti_2009	D_09331	تولدۇرغۇچى بولۇڭ	تولدۇرغۇچى بۇلۇڭ	203_col2.png	error is in sub_entry
+imla_lughiti_2009	D_21192	قارشىلىق پىسىخىكىسى	قارشىلىق پىسخىكىسى	461_col1.png	error is in sub_entry
+imla_lughiti_2009	D_27239	لىجى كونسىرۋاسى	لىجى كونسېرۋاسى	601_col1.png	error is in sub_entry
 imla_lughiti_2009	D_27882	مەخپىيلەشتۈرۈلۈش	مەخپىيلەشتۈرۈلمەك	616_col2.png	error is in sub_entry
+imla_lughiti_2009	D_30211	ھادىسىچىلىك نەزەرىيىسى	ھادىسىچىلىك نەزەرىيەسى	669_col2.png	error is in sub_entry
+imla_lughiti_2009	D_30496	ھەدىيىلىك	ھەدىيەلىك	676_col2.png	2011 dictionary, D02-10799, used ھەدىيەلىك both in print and definition. the base word is ھەدىيە.
 imla_lughiti_2009	D_31122	ئوبراز (ئوبزارى)	ئوبراز (ئوبرازى)	690_col1.png	
+imla_lughiti_2009	D_32187	ئۇلانما رېپىتىتسىيە	ئۇلانما رېپېتىتسىيە	715_col3.png	error is in sub_entry
 izahliq_lughet_1990s_v1	D90-1-03382	ئەقلىي ھېسىسيات	ئەقلىي ھېسسىيات	278_1R.png	
 izahliq_lughet_1990s_v1	D90-1-04393	باشتىن ئاخىر  باشتىن ئاياغ	باشتىن ئاخىر ← باشتىن ئاياغ	355_1R.png	
 izahliq_lughet_1990s_v1	D90-1-04443	باشقا دەسىسمەك	باشقا دەسسىمەك	358_2L.png	
@@ -37,6 +47,7 @@ izahliq_lughet_1990s_v4	D90-4-00673	قارىغۇ ئۈچەي ياللۇغى ← �
 izahliq_lughet_1990s_v4	D90-4-04243	قىڭراق بورۇن	قىڭراق بۇرۇن	436_2L.png	
 izahliq_lughet_1990s_v4	D90-4-04695	كادبوكسىل كىسلاتالار	كاربوكسىل كىسلاتالار	481_1R.png	
 izahliq_lughet_1990s_v4	D90-4-07841	كېمبرىي سېستىمىسى	كېمبرىي سىستېمىسى	743_2L.png	
+izahliq_lughet_1990s_v4	D90-4-08651	گەرەح (توغرىسى: گاراخ) ← گاراخ	گەرەخ (توغرىسى: گاراخ) ← گاراخ	813_2L.png	
 izahliq_lughet_1990s_v5	D90-5-05929	ھوت بۇرچى	ھوت بۇرجى	544_2L.png	
 izahliq_lughet_1990s_v5	D90-5-08988	ئۈسۈش سپېكترى	ئۆسۈش سپېكترى	833_2L.png	
 izahliq_lughet_1990s_v6	D90-6-02401	ئىدېئال قاتتىق جىسىم كنېماتىكىسى	ئىدېئال قاتتىق جىسىم كىنېماتىكىسى	200_1R.png	
@@ -49,6 +60,7 @@ izahliq_lughet_1990s_v6	D90-6-08794	ئېستېتىكىلىق تىلشۇناسى�
 izahliq_lughet_1990s_v6	D90-6-08827	ئىخچچاملاتماق	ئىخچاملاتماق	197_1R.png	
 izahliq_lughet_1990s_v6	D90-6-08971	يۆتكىگۈچى ئېنزم	يۆتكىگۈچى ئېنزىم	640_1R.png	
 izahliq_lughet_2011_v1	D01-00297	ئاچبىقىن	ئاچبېقىن	011_1R.png	2009 imla dicitonary was used to correct this
+izahliq_lughet_2011_v2	D02-00163	فىزىيولوگىيىلىك	فىزىيولوگىيەلىك	719_2L.png	
 izahliq_lughet_2011_v2	D02-05039	كرالاتماق	كىرالاتماق	891_2L.png	
 izahliq_lughet_2011_v2	D02-16225	ئىلىشتۇرۇرۇشماق	ئىلىشتۇرۇشماق	1298_1R.png	
 izahliq_lughet_2011_v2	D02-19058	ئېمولسىيەلەشتۈرۈشمەك	ئېمۇلسىيەلەشتۈرۈشمەك	1245_1R.png	
