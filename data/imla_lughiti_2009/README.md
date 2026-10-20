@@ -13,9 +13,9 @@ published in its original spelling, not normalized to this standard.
 <!-- stats:work -->
 | | |
 |---|---|
-| headwords | 37,926 |
-| sub-entries | 43,398 |
-| verified against scans | 10,353 |
+| headwords | 37,934 |
+| sub-entries | 43,391 |
+| verified against scans | 14,394 |
 | excluded as Chinese transliterations | 312 |
 <!-- stats:end -->
 

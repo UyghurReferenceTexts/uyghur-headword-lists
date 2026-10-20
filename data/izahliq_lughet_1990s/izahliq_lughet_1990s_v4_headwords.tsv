@@ -753,12 +753,12 @@ D90-4-00811	قازىنىشماق	headword	099_1R.png	unverified
 D90-4-00812	قازىنىلماق	headword	099_1R.png	unverified
 D90-4-00813	قاس	headword	099_1R.png	unverified
 D90-4-00814	قاس چىقارماق	headword	099_2L.png	unverified
-D90-4-00815	قاساتماق	headword	099_2L.png	unverified
-D90-4-00818	قاساشماق	headword	099_2L.png	unverified
-D90-4-00821	قاساق	headword	099_2L.png	unverified
-D90-4-00822	قاسالماق	headword	099_2L.png	unverified
+D90-4-00815	قاساتماق	headword	099_2L.png	verified
+D90-4-00818	قاساشماق	headword	099_2L.png	verified
+D90-4-00821	قاساق	headword	099_2L.png	verified
+D90-4-00822	قاسالماق	headword	099_2L.png	verified
 D90-4-00823	قاسراق	nonstandard	099_2L.png	verified
-D90-4-00824	قاسساپ	headword	099_2L.png	unverified
+D90-4-00824	قاسساپ	headword	099_2L.png	verified
 D90-4-00825	قاسساپچىلىق	headword	100_1R.png	unverified
 D90-4-00826	قاسساپخانا	headword	100_1R.png	unverified
 D90-4-00827	قاسساپلىق	headword	100_1R.png	unverified
@@ -2557,10 +2557,10 @@ D90-4-02762	قوماندانلىق قىلماق	headword	291_1R.png	unverified
 D90-4-02763	قومدۇ	headword	291_1R.png	unverified
 D90-4-02764	قومۇرتماق	headword	291_1R.png	unverified
 D90-4-02765	قومۇرماق	headword	291_1R.png	unverified
-D90-4-02766	قومۇرۇشماق	headword	291_2L.png	unverified
-D90-4-02767	قومۇرۇلماق	headword	291_2L.png	unverified
-D90-4-02768	قومۇز	nonstandard	291_2L.png	unverified
-D90-4-02769	قومۇش	headword	291_2L.png	unverified
+D90-4-02766	قومۇرۇشماق	headword	291_2L.png	verified
+D90-4-02767	قومۇرۇلماق	headword	291_2L.png	verified
+D90-4-02768	قومۇز	nonstandard	291_2L.png	verified
+D90-4-02769	قومۇش	headword	291_2L.png	verified
 D90-4-02773	قومۇشچىلىق	headword	292_1R.png	verified
 D90-4-02774	قومۇشزار	headword	292_1R.png	unverified
 D90-4-02775	قومۇشزارلىق	headword	292_1R.png	unverified
@@ -7952,9 +7952,8 @@ D90-4-08646	گەدەنكەش	headword	813_1R.png	unverified
 D90-4-08647	گەدەنكەشلىك	headword	813_2L.png	unverified
 D90-4-08648	گەر	headword	813_2L.png	unverified
 D90-4-08649	گەرەتكە	headword	813_2L.png	unverified
-D90-4-08650	گەرەج	nonstandard	813_2L.png	unverified
-D90-4-08650-c1	گاراز	corrected_form	813_2L.png	unverified
-D90-4-08651	گەرەھ	nonstandard	813_2L.png	unverified
+D90-4-08650	گەرەج	nonstandard	813_2L.png	verified
+D90-4-08651	گەرەخ	nonstandard	813_2L.png	verified
 D90-4-08652	گەرچە	headword	813_2L.png	unverified
 D90-4-08653	گەرداب	nonstandard	814_1R.png	unverified
 D90-4-08654	گەردەن	nonstandard	814_1R.png	unverified
@@ -9101,11 +9100,11 @@ D90-4-09928	لەۋ شەكلى	headword	920_1R.png	unverified
 D90-4-09929	لېۋىگە باسماق	headword	920_1R.png	unverified
 D90-4-09930	لېۋىنى چىشلەپ قالماق	headword	920_1R.png	unverified
 D90-4-09931	لېۋىنى چىشلىمەك	headword	920_1R.png	unverified
-D90-4-09932	لەۋەن	headword	920_1R.png	unverified
-D90-4-09933	لەۋەنلەشمەك	headword	920_2L.png	unverified
-D90-4-09934	لەۋەنلىك	headword	920_2L.png	unverified
+D90-4-09932	لەۋەن	headword	920_1R.png	verified
+D90-4-09933	لەۋەنلەشمەك	headword	920_2L.png	verified
+D90-4-09934	لەۋەنلىك	headword	920_2L.png	verified
 D90-4-09935	لەۋەي	nonstandard	920_2L.png	verified
-D90-4-09936	لەۋ-چىش	headword	920_2L.png	unverified
+D90-4-09936	لەۋ-چىش	headword	920_2L.png	verified
 D90-4-09938	لەۋز	headword	920_2L.png	verified
 D90-4-09942	لەۋزىگە ئەمەل قىلماق	headword	921_1R.png	unverified
 D90-4-09942-v1	لەۋزىدە تۇرماق	variant	921_1R.png	unverified

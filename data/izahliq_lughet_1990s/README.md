@@ -26,9 +26,9 @@ therefore be spelled differently here than in the 2009 and 2011 lists.
 <!-- stats:work -->
 | | |
 |---|---|
-| headwords | 53,799 |
+| headwords | 53,792 |
 | sub-entries | 4,829 |
-| verified against scans | 10,648 |
+| verified against scans | 10,813 |
 | excluded as Chinese transliterations | 443 |
 <!-- stats:end -->
 
