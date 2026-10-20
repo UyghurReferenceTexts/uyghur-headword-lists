@@ -4,7 +4,7 @@ Open, machine-readable headword lists extracted from three printed Uyghur
 dictionaries, released as plain TSV under CC BY 4.0.
 
 <!-- stats:headline -->
-**131,718 written forms** and **48,227 sub-entry phrases**, each traceable to
+**131,719 written forms** and **48,220 sub-entry phrases**, each traceable to
 the scanned column it came from.
 <!-- stats:end -->
 
@@ -59,7 +59,9 @@ them, a `_subentries.tsv`.
 explanatory dictionary follow the 2009 orthographic standard. The six 1990s
 volumes predate it and are published in their original spelling, not
 normalized, so the same word can appear in two spellings across works. Filter
-by directory if you need one standard only.
+by directory if you need one standard only. To bring the 1990s spellings, or
+other Uyghur text, into the 2009 standard, use
+[uyghur-normalizer](https://github.com/UyghurReferenceTexts/uyghur-normalizer).
 
 ### `*_headwords.tsv`
 
@@ -100,17 +102,21 @@ orthography, not of senses.
 ## Coverage
 
 <!-- stats:coverage -->
-
-| work                                                        | headwords   | sub-entries | verified   | excluded  |
-| ----------------------------------------------------------- | ----------- | ----------- | ---------- | --------- |
-| [Imla Lughiti 2009](data/imla_lughiti_2009/)                | 37,926      | 43,398      | 10,353     | 312       |
-| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,799      | 4,829       | 10,648     | 443       |
-| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols)   | 39,993      | 0           | 8,166      | 350       |
-| **total**                                                   | **131,718** | **48,227**  | **29,167** | **1,105** |
+| work | headwords | sub-entries | verified | excluded |
+|---|---|---|---|---|
+| [Imla Lughiti 2009](data/imla_lughiti_2009/) | 37,934 | 43,391 | 14,394 | 312 |
+| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,792 | 4,829 | 10,813 | 443 |
+| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols) | 39,993 | 0 | 8,242 | 350 |
+| **total** | **131,719** | **48,220** | **33,449** | **1,105** |
 <!-- stats:end -->
 
 Counts are **after** the exclusions described above; the *excluded* column shows
-how many rows were removed from each work.
+how many rows were removed from each work. The verified headword count is
+33,449 out of the 131,719 headwords. Sub-entries are verified at the same
+time as their parent headwords. So, the newly verified figure in the changelog
+is the total of both the verified headwords and the words in their
+sub-entries. Therefore, the figure in the changelog is larger than the change
+shown in this table, especially regarding the 2009 Imla dictionary.
 
 Load a whole multi-volume work with a glob:
 
@@ -145,7 +151,7 @@ the most correct data.
 - *blank* — the entry was added after round 1 had already passed that page.
 
 <!-- stats:verified -->
-Currently **29,167 of 131,718 forms (22.1%) are verified**.
+Currently **33,449 of 131,719 forms (25.4%) are verified**.
 <!-- stats:end -->
 
  When round 2 begins, a

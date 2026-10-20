@@ -20,6 +20,26 @@ that row was deleted, not renumbered.
 
 ## [Unreleased]
 
+## [1.3.2] — 2026-10-20
+
+175 entries corrected, 11 headwords added, 10 removed, 8,636 newly verified.
+
+The manual audit of the 2009 imla dictionary now reaches `D_10053` تۈرمەللەن _ (source column 219_col2). In 1.3.1 it had reached `D_05539` پارتاڭچى (source column 119_col3).
+
+### Changed
+- `imla_lughiti_2009` — 168 entries corrected, 10 headwords added, 2 removed, 8 sub-entries added, 15 sub-entries removed, 8,369 newly verified.
+- `izahliq_lughet_1990s_v1` — 1 removed, 16 newly verified.
+- `izahliq_lughet_1990s_v2` — 1 entry corrected, 1 removed, 1 newly verified.
+- `izahliq_lughet_1990s_v3` — 2 entries corrected, 4 removed, 60 newly verified.
+- `izahliq_lughet_1990s_v4` — 1 entry corrected, 1 removed, 23 newly verified.
+- `izahliq_lughet_1990s_v5` — 1 headword added, 1 removed, 80 newly verified.
+- `izahliq_lughet_1990s_v6` — 11 newly verified.
+- `izahliq_lughet_2011_v1` — 2 entries corrected, 57 newly verified.
+- `izahliq_lughet_2011_v2` — 1 entry corrected, 19 newly verified.
+
+### Corrected by hand
+* `imla_lughiti_2009` — 160 OCR misspellings corrected by hand (43 headwords, 117 sub-entries); 7 misprints of the printed book corrected (listed in `audit/print_errors.tsv`); 5 headword rows inserted; 16 sub-entries moved out of a sub-entry cell (mostly into their own headword rows); 1 entry removed; 6 sub-entries added; 4,040 headwords and 4,347 sub-entries newly verified.
+
 ## [1.3.1] — 2026-10-16
 
 499 entries corrected, 26 headwords added, 15 removed, 7,178 newly verified.
