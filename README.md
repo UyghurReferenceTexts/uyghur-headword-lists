@@ -4,7 +4,7 @@ Open, machine-readable headword lists extracted from three printed Uyghur
 dictionaries, released as plain TSV under CC BY 4.0.
 
 <!-- stats:headline -->
-**131,719 written forms** and **48,220 sub-entry phrases**, each traceable to
+**131,736 written forms** and **48,183 sub-entry phrases**, each traceable to
 the scanned column it came from.
 <!-- stats:end -->
 
@@ -104,15 +104,15 @@ orthography, not of senses.
 <!-- stats:coverage -->
 | work | headwords | sub-entries | verified | excluded |
 |---|---|---|---|---|
-| [Imla Lughiti 2009](data/imla_lughiti_2009/) | 37,934 | 43,391 | 14,394 | 312 |
-| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,792 | 4,829 | 10,813 | 443 |
-| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols) | 39,993 | 0 | 8,242 | 350 |
-| **total** | **131,719** | **48,220** | **33,449** | **1,105** |
+| [Imla Lughiti 2009](data/imla_lughiti_2009/) | 37,951 | 43,354 | 21,271 | 312 |
+| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,792 | 4,829 | 10,821 | 443 |
+| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols) | 39,993 | 0 | 8,249 | 350 |
+| **total** | **131,736** | **48,183** | **40,341** | **1,105** |
 <!-- stats:end -->
 
 Counts are **after** the exclusions described above; the *excluded* column shows
 how many rows were removed from each work. The verified headword count is
-33,449 out of the 131,719 headwords. Sub-entries are verified at the same
+40,341 out of the 131,736 headwords. Sub-entries are verified at the same
 time as their parent headwords. So, the newly verified figure in the changelog
 is the total of both the verified headwords and the words in their
 sub-entries. Therefore, the figure in the changelog is larger than the change
@@ -151,7 +151,7 @@ the most correct data.
 - *blank* — the entry was added after round 1 had already passed that page.
 
 <!-- stats:verified -->
-Currently **33,449 of 131,719 forms (25.4%) are verified**.
+Currently **40,341 of 131,736 forms (30.6%) are verified**.
 <!-- stats:end -->
 
  When round 2 begins, a

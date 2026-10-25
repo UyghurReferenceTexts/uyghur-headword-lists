@@ -20,6 +20,19 @@ that row was deleted, not renumbered.
 
 ## [Unreleased]
 
+## [1.3.3] — 2026-10-25
+
+327 entries corrected, 23 headwords added, 6 removed, 13,004 newly verified.
+
+### Changed
+- `imla_lughiti_2009` — 326 entries corrected, 23 headwords added, 6 removed, 9 sub-entries added, 46 sub-entries removed, 12,989 newly verified.
+- `izahliq_lughet_1990s_v4` — 1 entries corrected, 8 newly verified.
+- `izahliq_lughet_2011_v1` — 6 newly verified.
+- `izahliq_lughet_2011_v2` — 1 newly verified.
+
+### Corrected by hand
+* `imla_lughiti_2009` — 260 OCR misspellings corrected by hand (106 headwords, 154 sub-entries); 20 headword rows inserted; 17 sub-entries moved out of a sub-entry cell (mostly into their own headword rows); 30 entries removed; 1 sub-entries added; 3 POS labels changed; 6,917 headwords and 6,158 sub-entries newly verified.
+
 ## [1.3.2] — 2026-10-20
 
 175 entries corrected, 11 headwords added, 10 removed, 8,636 newly verified.
