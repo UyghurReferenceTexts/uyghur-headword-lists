@@ -24,6 +24,8 @@ that row was deleted, not renumbered.
 
 327 entries corrected, 23 headwords added, 6 removed, 13,004 newly verified.
 
+The manual audit of the 2009 imla dictionary now reaches `D_18079` سۇلۇ (سۇلۇيۇم، سۇلۇيۇڭ، سۇلۇسى) (source column 389_col3.png). In 1.3.2 it had reached `D_10053` تۈرمەللەن _ (source column 219_col2).
+
 ### Changed
 - `imla_lughiti_2009` — 326 entries corrected, 23 headwords added, 6 removed, 9 sub-entries added, 46 sub-entries removed, 12,989 newly verified.
 - `izahliq_lughet_1990s_v4` — 1 entries corrected, 8 newly verified.
