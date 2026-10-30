@@ -15,7 +15,7 @@ the 2009 orthographic standard.
 | | |
 |---|---|
 | headwords | 39,993 |
-| verified against scans | 8,249 |
+| verified against scans | 8,298 |
 | excluded as Chinese transliterations | 350 |
 <!-- stats:end -->
 
