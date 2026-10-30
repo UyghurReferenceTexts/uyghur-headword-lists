@@ -1,0 +1,1358 @@
+row_id	form	status_v1_at_check	source_page	extracted	gheyret	resolution	published_form	note
+D_00003	headword	verified	001_col1.png	ئاباقى	ئاباڭى	his_wrong	ئاباقى	
+D_00302	headword	verified	007_col1.png	ئاچبېقىن	ئاچبىقىن	print_error	ئاچبىقىن	print_error: scan shows ئاچبېقىن; print form found nowhere; 2011 headword (D01-00297 h) and 1990s headword (D90-1-00388 h) have Gheyret's form.
+D_00499	headword	verified	012_col1.png	ئاراتۈرۈك	ئاراتۈرك	his_wrong	ئاراتۈرۈك	
+D_00744	headword	verified	016_col3.png	ئارىلاشتۇرۇش	ئارىلاشتۇرۇش _	ours_wrong	ئارىلاشتۇرۇش _	
+D_00961	headword	verified	022_col2.png	ئاسماق - تاسماق	ئاسماق-ئاسماق	his_wrong	ئاسماق - تاسماق	
+D_01642	headword	verified	039_col1.png	ئاليومىن	ئاليۇمىن	his_wrong	ئاليومىن	
+D_02193	headword	verified	051_col3.png	ئەتۋركە	ئەتۋىركە	ours_wrong	ئەتۋىركە	
+D_02286	headword	verified	053_col3.png	ئەدەپ - ئىنساپ	ئەدەپ-ئىنساب	his_wrong	ئەدەپ - ئىنساپ	
+D_02306	headword	verified	054_col1.png	ئەر²	ئەر÷	his_wrong	ئەر²	
+D_02538	headword	verified	058_col3.png	ئەسل - نەسل	ئەسل-نەسىل	ours_wrong	ئەسل - نەسىل	
+D_02539	headword	verified	058_col3.png	ئەسل - ۋەسل	ئەسل-ۋەسىل	print_error	ئەسل - ۋەسىل	print_error: scan shows ئەسل - ۋەسل; 2009's own headword ۋەسىل (D_33430 h); also 2011 (D01-21693 h) and 1990s (D90-1-03295 h).
+D_02603	headword	verified	060_col1.png	ئەقىلسىزلىق	ئەقىلسىزلىك	his_wrong	ئەقىلسىزلىق	
+D_02604	headword	verified	060_col2.png	ئەقىللىق	ئەقىللىك	his_wrong	ئەقىللىق	
+D_02605	headword	verified	060_col2.png	ئەقىللىقلىق	ئەقىللىكلىك	his_wrong	ئەقىللىقلىق	
+D_02621	headword	verified	060_col3.png	ئەكچى _	ئەكچە-	his_wrong	ئەكچى _	
+D_02639	headword	verified	061_col1.png	ئەكىتىش _	ئەكېتىش-	his_wrong	ئەكىتىش _	
+D_02640	headword	verified	061_col1.png	ئەكىتىل _	ئەكېتىل-	his_wrong	ئەكىتىل _	
+D_02645	headword	verified	061_col2.png	ئەكىلىش _	ئەكېلىش-	his_wrong	ئەكىلىش _	
+D_02646	headword	verified	061_col2.png	ئەكىلىن _	ئەكېلىن-	his_wrong	ئەكىلىن _	
+D_02752	headword	verified	063_col1.png	ئەلكۈن	ئەلگۈن	his_wrong	ئەلكۈن	
+D_02851	headword	verified	065_col2.png	ئەمىتمەك	ئەمىتمەڭ	his_wrong	ئەمىتمەك	
+D_03014	headword	verified	068_col1.png	ئەيمەنەرلىك	ئەيمىنەرلىك	ours_wrong	ئەيمىنەرلىك	
+D_03177	headword	verified	071_col3.png	بارق	بارى	his_wrong	بارق	
+D_03217	headword	verified	072_col3.png	بازار - ئوچا	بازار-ئۇچا	ours_wrong	بازار - ئۇچا	
+D_03328	headword	verified	076_col1.png	باشلات _	باشلاش-	his_wrong	باشلات _	
+D_03357	headword	verified	076_col3.png	باغاڭچە	باغاقچە	ours_wrong	باغاقچە	
+D_03526	headword	verified	080_col1.png	بالىخانلىق	بالىخانىلىق	ours_wrong	بالىخانىلىق	
+D_03615	headword	verified	081_col3.png	بايراقدار (بايراقداری)	بايراقدار (بايراقدارى)	ours_wrong	بايراقدار (بايراقدارى)	Character error in our extraction: final ى was typed as Persian/Arabic ی (U+06CC). Corrected in Imla Dictionary to بايراقدار (بايراقدارى).
+D_03803	headword	verified	085_col1.png	بەكرۇ	بەكرۈ	his_wrong	بەكرۇ	
+D_04171	headword	verified	092_col1.png	بولۇشچە	بولۇشىچە	ours_wrong	بولۇشىچە	
+D_04292	headword	verified	094_col2.png	بۇرچۇن	بۇرجۇن	ours_wrong	بۇرجۇن	
+D_04680	headword	verified	102_col1.png	بۈكەيمەك _	بۈكەيمەك	ours_wrong	بۈكەيمەك	
+D_04850	headword	verified	105_col2.png	بېلېمىنت	بېلىمىنت	his_wrong	بېلېمىنت	
+D_04907	headword	verified	106_col2.png	بىتەرەت = تەرەتسىز	بىتەرەت = تەرەپسىز	his_wrong	بىتەرەت = تەرەتسىز	
+D_05069	headword	verified	110_col2.png	بىرىككەن	بىرىككەن ز	his_wrong	بىرىككەن	
+D_05145	headword	verified	111_col3.png	بىڭتۇەن	بىڭتۈەن	his_wrong	بىڭتۇەن	
+D_05669	headword	verified	123_col1.png	پاشخور	پاشىخور	ours_wrong	پاشىخور	
+D_05799	headword	verified	125_col2.png	پالچۇقئۇت	پالچۇقئوت	ours_wrong	پالچۇقئوت	
+D_05858	headword	verified	126_col2.png	پانۇسئوت = تاۋۈزەك	پانۇسئوت = تاۋۇزەك	ours_wrong	پانۇسئوت = تاۋۇزەك	
+D_05882	headword	verified	126_col3.png	پاۋلوۋ	پاۋلوف	his_wrong	پاۋلوۋ	
+D_05980	headword	verified	129_col2.png	پەجمۈردە	پەجمۇردە	ours_wrong	پەجمۇردە	
+D_06450	headword	verified	139_col2.png	پولك = تۇەن	پولك = تۈەن	his_wrong	پولك = تۇەن	
+D_06468	headword	verified	139_col2.png	پوليارسكوپ	پوليارىسكوپ	his_wrong	پوليارسكوپ	
+D_06656	headword	verified	144_col2.png	پۇلاڭگىدە	پۇلاڭڭىدە	ours_wrong	پۇلاڭڭىدە	
+D_06667	headword	verified	144_col3.png	پۇلتاي	پۇلتاي _	ours_wrong	پۇلتاي _	
+D_06668	headword	verified	144_col3.png	پۇلتايت	پۇلتايت _	ours_wrong	پۇلتايت _	
+D_06686	headword	verified	145_col1.png	پۇئېرارىيە	پۇئېرارېيە	his_wrong	پۇئېرارىيە	
+D_06837	headword	verified	148_col2.png	پېرسۈلفات	پېرسۇلفات	ours_wrong	پېرسۇلفات	
+D_06857	headword	verified	148_col3.png	پېرىكلېن	پېرىكلىن	ours_wrong	پېرىكلىن	
+D_06880	headword	verified	149_col1.png	پېڭىش	پېقىش	ours_wrong	پېقىش	
+D_06892	headword	verified	149_col2.png	پېنسلىن	پېنسىلىن	ours_wrong	پېنسىلىن	
+D_07063	headword	verified	152_col2.png	پىروكۇرور = باش تەپتىش	پىروگۇرور = باش تەپتىش	his_wrong	پىروكۇرور = باش تەپتىش	
+D_07138	headword	verified	153_col3.png	پىستەك	پىستىك	his_wrong	پىستەك	
+D_07195	headword	verified	155_col1.png	پىكوسېكونت	پىكوسېكۇنت	ours_wrong	پىكوسېكۇنت	
+D_07243	headword	verified	156_col1.png	پىلانېتاشۇناس (پىلانېتاشۇناسى)	پىلانېتاشۇناس (پىلانېتاشۇناس)	his_wrong	پىلانېتاشۇناس (پىلانېتاشۇناسى)	
+D_07295	headword	verified	157_col1.png	پىلىمۇتلۇق	پىلىموتلۇق	print_error	پىلىموتلۇق	print_error: scan shows پىلىمۇتلۇق; print form found nowhere; 2011 headword (D01-07474 h) and 1990s headword (D90-1-09823 h) have Gheyret's form.
+D_07310	headword	verified	157_col1.png	پىندەك	پىندىك	his_wrong	پىندەك	
+D_07360	headword	verified	158_col3.png	تاپانتوزاق	تاپانتۇزاق	his_wrong	تاپانتوزاق	
+D_07455	headword	verified	160_col2.png	تاختا - نوغوچ	تاختا-نوغۇچ	print_error	تاختا - نوغۇچ	print_error: scan shows تاختا - نوغوچ; 2009's own headword نوغۇچ (D_29937–39 h); also 2011 (D01-07620 h).
+D_07597	headword	verified	163_col2.png	تارقاڭچىلىق	تارقاقچىلىق	ours_wrong	تارقاقچىلىق	
+D_07822	headword	verified	169_col2.png	تاقىر - تاقىر	تاقىر تاقىر	his_wrong	تاقىر - تاقىر	
+D_07872	headword	verified	170_col2.png	تاكىراڭ - تۇگۇرۇڭ	تاكىراڭ-تۇكۇرۇڭ	ours_wrong	تاكىراڭ - تۇكۇرۇڭ	
+D_08246	headword	verified	178_col3.png	تەپزەمەك _	تەپزەمەك	ours_wrong	تەپزەمەك	
+D_08426	headword	verified	182_col3.png	تەرڭەك	تەرگەك	his_wrong	تەرڭەك	
+D_08570	headword	verified	185_col3.png	تەشۋىق - تەرغىپ	تەشۋىق-تەرغىب	his_wrong	تەشۋىق - تەرغىپ	
+D_08909	headword	verified	193_col3.png	تەۋەڭگۈل	تەۋەككۈل	his_wrong	تەۋەڭگۈل	
+D_08935	headword	verified	194_col2.png	تەيجىچۇەن	تەيجىچۈەن	print_error	تەيجىچۈەن	print_error: scan shows تەيجىچۇەن; print form found nowhere; 2011 headword (D01-09178 h) and 1990s headword (D90-2-02170 h) have Gheyret's form.
+D_09063	headword	verified	197_col2.png	تورقا - تاۋار	تورقا-قاۋار	his_wrong	تورقا - تاۋار	
+D_09093	headword	verified	198_col1.png	تورۇڭ - تورۇك	تورۇڭ - تورۇڭ	ours_wrong	تورۇڭ - تورۇڭ	
+D_09254	headword	verified	201_col2.png	توقۇمچى	توقۇمىچى	ours_wrong	توقۇمىچى	
+D_09255	headword	verified	201_col2.png	توقۇمچىلىق	توقۇمىچىلىق	ours_wrong	توقۇمىچىلىق	
+D_09276	headword	verified	202_col1.png	توكسكولوگىيە = زەھەرشۇناسلىق	توكسىكولوگىيە = زەھەرشۇناسلىق	ours_wrong	توكسىكولوگىيە = زەھەرشۇناسلىق	
+D_09354	headword	verified	204_col2.png	تولۇئۇل	تولۇئول	ours_wrong	تولۇئول	
+D_09458	headword	verified	206_col2.png	تۇەن	تۈەن	his_wrong	تۇەن	
+D_09459	headword	verified	206_col2.png	تۇەنجاڭ (تۇەنجاڭى)	تۈەنجاڭ (تۈەنجاڭى)	his_wrong	تۇەنجاڭ (تۇەنجاڭى)	
+D_37360	headword	verified	206_col2.png	تۇەنجاڭلىق	تۈەنجاڭلىق	his_wrong	تۇەنجاڭلىق	
+D_09582	headword	verified	209_col3.png	تۇر - تۇر	تۇر-قۇر	his_wrong	تۇر - تۇر	
+D_09703	headword	verified	212_col1.png	تۇغۇش	تۇغۇشۇش	his_wrong	تۇغۇش	
+D_09765	headword	verified	213_col1.png	تۇمشۇقلىق¹	تۇمشۇقلۇق¹	ours_wrong	تۇمشۇقلۇق¹	
+D_09766	headword	verified	213_col1.png	تۇمشۇقلىق²	تۇمشۇقلۇق²	ours_wrong	تۇمشۇقلۇق²	
+D_09784	headword	verified	213_col3.png	تۇندرا	تۇندىرا	his_wrong	تۇندرا	
+D_09826	headword	verified	214_col3.png	تۆتبۈرجەك	تۆتبۇرجەك	his_wrong	تۆتبۈرجەك	
+D_09828	headword	verified	214_col3.png	تۆتۆت	تۆتتۆت	his_wrong	تۆتۆت	
+D_09829	headword	verified	214_col3.png	تۆتۆتلە _	تۆتتۆتلە-	his_wrong	تۆتۆتلە _	
+D_09844	headword	verified	215_col1.png	تۆركۈن	تۆرگۈن	his_wrong	تۆركۈن	
+D_09873	headword	verified	215_col2.png	تۆكۈر¹	تۆكۈز	his_wrong	تۆكۈر¹	
+D_10003	headword	verified	218_col3.png	تۈرتەكلە _	تۈرتەكلەن _	ours_wrong	تۈرتەكلەن _	
+D_10173	headword	verified	222_col2.png	تۈگۈنۈش	تۈگۈنۈش _	ours_wrong	تۈگۈنۈش _	
+D_10184	headword	verified	222_col2.png	تۈلفىر	تۈلغىر	his_wrong	تۈلفىر	
+D_10435	headword	verified	227_col2.png	تېلېمېتىرلىك	تېلېمېتىرلىق	his_wrong	تېلېمېتىرلىك	
+D_10616	headword	verified	231_col2.png	تىرىپانگ	تىرېپانگ	ours_wrong	تىرېپانگ	
+D_10718	headword	verified	233_col3.png	تىق = كېزىك	تىف = كېزىك	ours_wrong	تىف = كېزىك	
+D_10902	headword	verified	238_col2.png	تىنچلىق - ئامانلىق = تىنچ - ئامانلىق	تىنچلىق - ئامانلىق = تىنچ ئامانلىق	his_wrong	تىنچلىق - ئامانلىق = تىنچ - ئامانلىق	
+D_11143	headword	verified	243_col3.png	جالاقىشت _	جالاقشىت _	ours_wrong	جالاقشىت _	
+D_11357	headword	verified	249_col1.png	جەلپىكارلىق	جەلپكارلىق	ours_wrong	جەلپكارلىق	
+D_11418	headword	verified	250_col1.png	جورتىش _	جورىتىش _	ours_wrong	جورىتىش _	
+D_11456	headword	verified	250_col3.png	جويۇز	جوپۇز	his_wrong	جويۇز	
+D_11468	headword	verified	251_col1.png	جۇخارگۈل	جۈخارگۈل	his_wrong	جۇخارگۈل	
+D_11486	headword	verified	251_col1.png	جۇشۇەي	جۇشۈەي	his_wrong	جۇشۇەي	
+D_11618	headword	verified	254_col1.png	جۈسۈنلە _	جۈسۈنلەن _	ours_wrong	جۈسۈنلەن _	
+D_11657	headword	verified	254_col3.png	جېكى _	جېكە-	his_wrong	جېكى _	
+D_11682	headword	verified	255_col1.png	جىتۇەنجۈن	جىتۈەنجۈن	his_wrong	جىتۇەنجۈن	
+D_11880	headword	verified	259_col3.png	جىنۇ	جىنو	ours_wrong	جىنو	
+D_11893	headword	verified	259_col3.png	جياڭگۇەن	جياڭگۈەن	his_wrong	جياڭگۇەن	
+D_11903	headword	verified	259_col3.png	جىيەندۈي	جيەندۈي	ours_wrong	جيەندۈي	
+D_12018	headword	verified	262_col3.png	چاچىماق _	چاچىماق	ours_wrong	چاچىماق	
+D_12088	headword	verified	264_col1.png	چارىسىزلىق	چارىسىزلىك	his_wrong	چارىسىزلىق	
+D_12505	headword	verified	272_col1.png	چەلگە _	چەلگى _	ours_wrong	چەلگى _	
+D_12694	headword	verified	276_col1.png	چوڭىيىش	چوڭىيىش _	ours_wrong	چوڭىيىش _	
+D_12803	headword	verified	277_col3.png	چۇڭ - چوڭ	چۇڭ-چۇڭ	his_wrong	چۇڭ - چوڭ	
+D_12847	headword	verified	278_col2.png	چۆبىك	چۆپىك	his_wrong	چۆبىك	
+D_13410	headword	verified	290_col2.png	چىگىچىلىك	چىگىچلىك	ours_wrong	چىگىچلىك	
+D_13557	headword	verified	292_col3.png	چياڭ	چياڭزۇ	his_wrong	چياڭ	
+D_13678	headword	verified	295_col3.png	خالىسانىلىق	خالىسانىلىك	his_wrong	خالىسانىلىق	
+D_13718	headword	verified	296_col3.png	خانەنچۈ	خانەنچۇ	his_wrong	خانەنچۈ	
+D_13721	headword	verified	296_col3.png	خانزادە	خانزادەم	his_wrong	خانزادە	
+D_13738	headword	verified	297_col1.png	خاۋسى	خاۋاسى	his_wrong	خاۋسى	
+D_14283	headword	verified	308_col3.png	داجە _	داجى _	ours_wrong	داجى _	
+D_14377	headword	verified	310_col2.png	داشياۋ (داشىياۋ)	داشياۋ (داشياۋى)	ours_wrong	داشياۋ (داشياۋى)	
+D_14433	headword	verified	311_col2.png	داڭ - داڭ _	داڭ-داڭ	his_wrong	داڭ - داڭ _	
+D_14441	headword	verified	311_col3.png	داڭڭىدە _	داڭڭىدە	his_wrong	داڭڭىدە _	
+D_14476	headword	verified	312_col2.png	دام - توزاق	دام-تۇزاق	his_wrong	دام - توزاق	
+D_14579	headword	verified	314_col3.png	دايۇەنشۇەي	دايۈەنشۈەي	his_wrong	دايۇەنشۇەي	
+D_14753	headword	verified	318_col1.png	دەلدەڭشە _	دەلدەڭشى _	ours_wrong	دەلدەڭشى _	
+D_14899	headword	verified	321_col2.png	دوستانىلىق	دوستانىلىك	his_wrong	دوستانىلىق	
+D_14950	headword	verified	322_col1.png	دوككەدە	دوككىدە	ours_wrong	دوككىدە	
+D_15145	headword	verified	326_col2.png	دۆت ـ كالۋا	دۆت-كالۋا	ours_wrong	دۆت - كالۋا	Character error in our extraction: the dash was the Arabic stretching character ـ (U+0640). Corrected in Imla Dictionary to دۆت - كالۋا.
+D_15328	headword	verified	330_col3.png	دېكراتسىيە (دېكراتسىيەسى)	دېكىراتسىيە (دېكىراتسىيەسى)	ours_wrong	دېكىراتسىيە (دېكىراتسىيەسى)	
+D_15354	headword	verified	331_col3.png	دېمۇدۇلياتور	دېمودۇلياتور	his_wrong	دېمۇدۇلياتور	
+D_15365	headword	verified	332_col1.png	دېمىفىزا	دېمىغىزا	print_error	دېمىغىزا	print_error: scan shows دېمىفىزا; print form found nowhere; 2011 headword (D01-16297 h) and 1990s headword (D90-3-01725 h) have Gheyret's form.
+D_15446	headword	verified	333_col3.png	دىزېنتېرىيە	دىزىنتېرىيە	ours_wrong	دىزىنتېرىيە	
+D_15466	headword	verified	334_col1.png	دىففراكسىيە	دىفراكسىيە	print_error	دىفراكسىيە	print_error: scan shows دىففراكسىيە. 2009 prints دىففراكسىيە throughout entry D_15466 (headword and all five sub-entries on the scan), but writes دىفراكسىيەسى with one ف elsewhere (D_05478, D_22250, D_33929) and has the neighbouring headword دىفراكتومېتىر (D_15465). 2011 (D01-16405 h) and 1990s (D90-6-05461 d, D90-6-06626 d) have دىفراكسىيە.
+D_15935	headword	verified	343_col3.png	رو = ئاليومىن	رو = ئاليۇمىن	his_wrong	رو = ئاليومىن	
+D_37376	headword	verified	345_col1.png	روياپ	رويال	his_wrong	روياپ	
+D_16167	headword	verified	348_col1.png	رىقابەتلەشتۈرۈش	رىقابەتلەشتۈرۈش _	ours_wrong	رىقابەتلەشتۈرۈش _	
+D_16168	headword	verified	348_col1.png	رىقابەتلەشتۈرۈل	رىقابەتلەشتۈرۈل _	ours_wrong	رىقابەتلەشتۈرۈل _	
+D_16229	headword	verified	349_col3.png	زاغراچى	زاغرىچى	ours_wrong	زاغرىچى	
+D_16237	headword	verified	350_col1.png	زاك	زاڭ	his_wrong	زاك	
+D_16411	headword	verified	353_col3.png	زەھەرشۇناسلىق	زەھەرشۇناسلىقى	his_wrong	زەھەرشۇناسلىق	
+D_16667	headword	verified	361_col1.png	سا	س	his_wrong	سا	
+D_16680	headword	verified	361_col1.png	سابا	ساپا	his_wrong	سابا	
+D_16867	headword	verified	365_col1.png	ساسانگول	ساسانگۈل	ours_wrong	ساسانگۈل	
+D_17257	headword	verified	372_col3.png	سايىسىدا	سايىسىدە	his_wrong	سايىسىدا	
+D_17386	headword	verified	375_col1.png	سەرسان = سەرگەردان	سەرسان - سەرگەردان	ours_wrong	سەرسان - سەرگەردان	
+D_17388	headword	verified	375_col1.png	سەرسانلىق = سەرگەردانلىق	سەرسانلىق - سەرگەردانلىق	ours_wrong	سەرسانلىق - سەرگەردانلىق	
+D_17400	headword	verified	375_col2.png	سەركىت	سەرگىت	his_wrong	سەركىت	
+D_17401	headword	verified	375_col2.png	سەركىچۆپ	سەرگىچۆپ	his_wrong	سەركىچۆپ	
+D_17402	headword	verified	375_col2.png	سەركىدان	سەرگىدان	his_wrong	سەركىدان	
+D_17602	headword	verified	379_col1.png	سەۋەبكار = سەۋەپچى	سەۋەبكار = سەۋەبچى	print_error	سەۋەبكار = سەۋەبچى	print_error: scan shows سەۋەپچى; 2009's own headword سەۋەبچى (D_17600 h), also 2011 (D01-18633 h) and 1990s (D90-3-04935 h).
+D_17779	headword	verified	382_col3.png	سوغدىچە	سوغدچە	ours_wrong	سوغدچە	
+D_18007	headword	verified	388_col2.png	سۇسرات _	سۇسىرات _	ours_wrong	سۇسىرات _	
+D_18008	headword	verified	388_col2.png	سۇسراش _	سۇسىراش _	ours_wrong	سۇسىراش _	
+D_18175	headword	unverified	391_col3.png	سۆجە	سۆچە	his_wrong	سۆجە	
+D_18238	headword	unverified	393_col2.png	سۆكى	سۆگى	his_wrong	سۆكى	
+D_18284	headword	unverified	394_col2.png	سۆيۈنچۈلۈك	سۆيۈنچلۈك	ours_wrong	سۆيۈنچلۈك	
+D_18325	headword	unverified	395_col2.png	سۈتگەرمەڭ	سۈتگەرمەك	ours_wrong	سۈتگەرمەك	
+D_18334	headword	unverified	395_col3.png	سۈخۈنەك	سۈچۈنەك	his_wrong	سۈخۈنەك	
+D_18423	headword	unverified	397_col3.png	سۈگەن	سۈكەن	ours_wrong	سۈكەن	
+D_18429	headword	verified	397_col3.png	سۈكىچ	سۈگىچ	his_wrong	سۈكىچ	
+D_18440	headword	unverified	398_col1.png	سۈڭۈلەمەك _	سۈڭۈلەمەك	ours_wrong	سۈڭۈلەمەك	
+D_18587	headword	unverified	402_col1.png	سېكانس	سېكانىن	his_wrong	سېكانس	
+D_18602	headword	unverified	402_col2.png	سېگىرق	سېڭىرىق	ours_wrong	سېڭىرىق	
+D_18608	headword	unverified	402_col2.png	سېللىئۇلوزا	سېلليۇلوزا	ours_wrong	سېلليۇلوزا	
+D_18645	headword	unverified	403_col2.png	سېنتىبىر	سېنتنېر	ours_wrong	سېنتنېر	
+D_18672	headword	unverified	403_col3.png	سىبجە _	سىبجى _	ours_wrong	سىبجى _	
+D_18693	headword	unverified	404_col2.png	سىپەڭچى	سىپەنچى	ours_wrong	سىپەنچى	
+D_18737	headword	unverified	405_col2.png	سىرغە _	سىرغى _	ours_wrong	سىرغى _	
+D_18846	headword	unverified	407_col2.png	سىقتۇرۇلا _	سىقتۇرۇل _	ours_wrong	سىقتۇرۇل _	
+D_18874	headword	unverified	408_col1.png	سىڭارگۆز	سىڭاركۆز	ours_wrong	سىڭاركۆز	
+D_18906	headword	unverified	408_col3.png	سىلتس	سىلتىس	ours_wrong	سىلتىس	
+D_18907	headword	unverified	408_col3.png	سىلجە _	سىلجى _	ours_wrong	سىلجى _	
+D_18916	headword	unverified	409_col1.png	سىلكە _	سىلكى _	ours_wrong	سىلكى _	
+D_18950	headword	verified	409_col3.png	سىلىڭجاڭگۇەن	سىلىڭجاڭگۈەن	his_wrong	سىلىڭجاڭگۇەن	
+D_18951	headword	verified	409_col3.png	سىلىڭگۇەن	سىلىڭگۈەن	his_wrong	سىلىڭگۇەن	
+D_18953	headword	verified	410_col1.png	سىلىڭيۇەن	سىلىڭيۈەن	print_error	سىلىڭيۈەن	print_error: scan shows سىلىڭيۇەن; print form found nowhere; 2011 headword (D01-19906 h) and 1990s headword (D90-3-07012 h) have Gheyret's form.
+D_19002	headword	unverified	411_col1.png	سىنتومېتىسىن	سىنتومېتسىن	ours_wrong	سىنتومېتسىن	
+D_19040	headword	unverified	412_col1.png	سىنىپىيلىق	سىنىپىيلىقى	his_wrong	سىنىپىيلىق	
+D_19121	headword	unverified	414_col3.png	سىير = ئىنەك	سىيىر = ئىنەك	ours_wrong	سىيىر = ئىنەك	
+D_19122	headword	unverified	414_col3.png	سىيرچىلىق	سىيىرچىلىق	ours_wrong	سىيىرچىلىق	
+D_19319	headword	verified	419_col1.png	شالا (شالايىم، شالايىق، شالاسى)	شالا (شالايىم، شالايىڭ، شالاسى)	ours_wrong	شالا (شالايىم، شالايىڭ، شالاسى)	
+D_19456	headword	verified	421_col3.png	شەبىنەمىلىك	شەبنەملىك	ours_wrong	شەبنەملىك	
+D_19461	headword	verified	422_col1.png	شەپەگۈل	شەپەقگۈل	ours_wrong	شەپەقگۈل	
+D_19506	headword	unverified	423_col1.png	شەرق	شەرقى	his_wrong	شەرق	
+D_19578	headword	verified	425_col1.png	شەھدان = تەۋەككۇلچاي	شەھدان = تەۋەككۈلچاي	print_error	شەھدان = تەۋەككۈلچاي	print_error: scan shows شەھدان = تەۋەككۇلچاي; 2009's own headword تەۋەككۈلچاي (D_08904 h).
+D_19589	headword	unverified	425_col1.png	شەۋگىران	شەۋكىران	ours_wrong	شەۋكىران	
+D_19633	headword	unverified	426_col1.png	شورپىلا _	شورپىلان _	ours_wrong	شورپىلان _	
+D_19643	headword	unverified	426_col2.png	شورگا	شوركا	ours_wrong	شوركا	
+D_19732	headword	unverified	428_col1.png	شۇمقوش	شۇمقۇش	ours_wrong	شۇمقۇش	
+D_19785	headword	unverified	429_col1.png	شۈگرانە	شۈكرانە	ours_wrong	شۈكرانە	
+D_19866	headword	unverified	430_col2.png	شىپشىز	شىپشىر	ours_wrong	شىپشىر	
+D_19881	headword	verified	430_col3.png	شىتۇەن	شىتۈەن	his_wrong	شىتۇەن	
+D_19938	headword	unverified	431_col3.png	شىرە _	شىرى _	ours_wrong	شىرى _	
+D_19944	headword	unverified	432_col1.png	شىرىقشە _	شىرىقشى _	ours_wrong	شىرىقشى _	
+D_19959	headword	unverified	432_col2.png	شش¹	شىش¹	ours_wrong	شىش¹	
+D_19960	headword	unverified	432_col2.png	شش²	شىش²	ours_wrong	شىش²	
+D_19968	headword	unverified	432_col2.png	شق¹	شىق¹	ours_wrong	شىق¹	
+D_19969	headword	unverified	432_col2.png	شق²	شىق²	ours_wrong	شىق²	
+D_20000	headword	unverified	433_col1.png	شىلتەڭ	شىلتىڭ	ours_wrong	شىلتىڭ	
+D_20136	headword	unverified	436_col2.png	غاررىدە _	غاررىدە	his_wrong	غاررىدە _	
+D_20162	headword	unverified	436_col3.png	غازىيھەمەس	غازيېمەس	ours_wrong	غازيېمەس	
+D_20214	headword	unverified	437_col3.png	غايلىماق	غايلماق	his_wrong	غايلىماق	
+D_20215	headword	unverified	438_col1.png	غايىمۇق	غايمۇق	ours_wrong	غايمۇق	
+D_20244	headword	unverified	438_col3.png	غەزەپلە _	غەزەپلەن _	ours_wrong	غەزەپلەن _	
+D_20251	headword	verified	438_col3.png	غەزەلخان (غەزەلخانی)	غەزەلخان (غەزەلخانى)	ours_wrong	غەزەلخان (غەزەلخانى)	Character error in our extraction: final ى was typed as Persian/Arabic ی (U+06CC). Corrected in Imla Dictionary to غەزەلخان (غەزەلخانى).
+D_20292	headword	verified	439_col3.png	غەمگۈزار (غەمگۈزارى)	غەمگۇزار (غەمگۇزارى)	his_normalized	غەمگۈزار (غەمگۈزارى)	Kept as printed: scan shows غەمگۈزار, used in 2011 definitions (D01-21240 d, D02-10247 d) and 1990s (D90-5-00914 d). Other form: غەمگۇزار (2011 hw D01-21240).
+D_20345	headword	unverified	440_col3.png	غودۇڭشە _	غودۇڭشى _	ours_wrong	غودۇڭشى _	
+D_20357	headword	unverified	440_col3.png	غوررىدە _	غوررىدە	his_wrong	غوررىدە _	
+D_20377	headword	unverified	441_col1.png	غوڭشە _	غوڭشى _	ours_wrong	غوڭشى _	
+D_20493	headword	unverified	443_col3.png	غېجىرلىماق _	غېجىرلىماق	ours_wrong	غېجىرلىماق	
+D_20556	headword	unverified	444_col3.png	غىرىت	غىرت	ours_wrong	غىرت	
+D_20640	headword	unverified	446_col3.png	غىنجە	غىنچە	his_wrong	غىنجە	
+D_20653	headword	unverified	447_col2.png	فاسسيولا	فاسسىيولا	ours_wrong	فاسسىيولا	
+D_20694	headword	unverified	448_col1.png	فوتوئېلېكترون	فوتوئېلېكتىرون	ours_wrong	فوتوئېلېكتىرون	
+D_20736	headword	unverified	449_col1.png	فولكلورشۇناس (فولكلورشۇناسى)	فولكلورشۇناس (فولكلورشۇناس)	his_wrong	فولكلورشۇناس (فولكلورشۇناسى)	
+D_20837	headword	unverified	450_col3.png	فىلوگىستون	فىلوكىستون	his_wrong	فىلوگىستون	
+D_20862	headword	unverified	451_col1.png	قابىن	قابىل	ours_wrong	قابىل	
+D_20871	headword	unverified	451_col2.png	قاپارتىلا _	قاپارتىل _	ours_wrong	قاپارتىل _	
+D_20878	headword	unverified	452_col1.png	قاپاڭئوت	قاپاقئوت	ours_wrong	قاپاقئوت	
+D_20904	headword	unverified	452_col2.png	قاپقان - توزاق	قاپقان-تۇزاق	his_wrong	قاپقان - توزاق	
+D_20948	headword	unverified	453_col2.png	قاتاڭشە _	قاتاڭشى _	ours_wrong	قاتاڭشى _	
+D_21162	headword	unverified	460_col3.png	قارايتىلا _	قارايتىل _	ours_wrong	قارايتىل _	
+D_21177	headword	unverified	460_col3.png	قارسىدە	قارسسىدە	ours_wrong	قارسسىدە	
+D_21267	headword	unverified	462_col3.png	قارىقويۇق	قارىقويۇن	his_wrong	قارىقويۇق	
+D_21415	headword	unverified	465_col3.png	قاششاڭلىق	قاششاقلىق	ours_wrong	قاششاقلىق	
+D_21439	headword	unverified	466_col1.png	قاغا - قوزغۇن	قاغا-قۇزغۇن	ours_wrong	قاغا - قۇزغۇن	
+D_21483	headword	unverified	467_col1.png	قاقتەك	قاقتەڭ	his_wrong	قاقتەك	
+D_21543	headword	unverified	468_col1.png	قاڭسە _	قاڭسى _	ours_wrong	قاڭسى _	
+D_21571	headword	unverified	468_col3.png	قالاڭقۇرماق	قالاڭۇرماق	his_wrong	قالاڭقۇرماق	
+D_21639	headword	unverified	470_col1.png	قاماڭلىق	قاماقلىق	ours_wrong	قاماقلىق	
+D_21899	headword	unverified	477_col1.png	قەبىلەچىلىك	قەبىلىچىلىك	ours_wrong	قەبىلىچىلىك	
+D_22124	headword	unverified	482_col1.png	قوداڭشە _	قوداڭشى _	his_wrong	قوداڭشە _	
+D_22189	headword	unverified	483_col3.png	قورلۇغ	قورلۇق	his_wrong	قورلۇغ	
+D_22490	headword	unverified	492_col3.png	قوۋۇق²	قوۋۇق2	his_wrong	قوۋۇق²	
+D_22545	headword	unverified	494_col1.png	قۇتگىيا	قۇتگىياھ	his_wrong	قۇتگىيا	
+D_22610	headword	unverified	495_col3.png	قۇرا _	قۇرۇ-	his_wrong	قۇرا _	
+D_22752	headword	unverified	500_col2.png	قۇلاقچوپ	قۇلاقچۆپ	his_normalized	قۇلاقچوپ	Kept as printed: scan shows قۇلاقچوپ, as the 1990s headword D90-4-03290. 2011 form: قۇلاقچۆپ (D02-02062 h).
+D_22757	headword	unverified	500_col2.png	قۇلاڭنەك	قۇلاقنەك	ours_wrong	قۇلاقنەك	
+D_22829	headword	verified	502_col1.png	قۇمۇلاقلا _	قۇمىلاقلا _	ours_wrong	قۇمىلاقلا _	
+D_22965	headword	unverified	505_col1.png	قېرىنقولاق	قېرىنقۇلاق	ours_wrong	قېرىنقۇلاق	
+D_22970	headword	unverified	505_col1.png	قېزىلا _	قېزىل _	ours_wrong	قېزىل _	
+D_22973	headword	unverified	505_col1.png	قېقىر - چوڭقۇر	قېقىر - چۇقۇر	ours_wrong	قېقىر - چۇقۇر	
+D_22974	headword	verified	505_col2.png	قېقىش _	قېقىشتۇر-	his_wrong	قېقىش _	
+D_22977	headword	unverified	505_col2.png	قېقىلا _	قېقىل _	ours_wrong	قېقىل _	
+D_23008	headword	unverified	506_col1.png	قېم - قېم	قېھ - قېھ	ours_wrong	قېھ - قېھ	
+D_23027	headword	unverified	506_col2.png	قېيىنئەگىچە	قېيىنئېگىچە	ours_wrong	قېيىنئېگىچە	
+D_23060	headword	unverified	507_col1.png	قىتىڭشە _	قىتىڭشى _	ours_wrong	قىتىڭشى _	
+D_23112	headword	unverified	508_col1.png	قىرچىلا _	قىرچىل _	ours_wrong	قىرچىل _	
+D_23120	headword	unverified	508_col2.png	قىرسىدە	قىرسسىدە	ours_wrong	قىرسسىدە	
+D_23192	headword	unverified	510_col1.png	قىزا	قىز	his_wrong	قىزا	
+D_23197	headword	unverified	510_col1.png	قىزەنگۈل	قىزەيگۈل	print_error	قىزەيگۈل	print_error: scan shows قىزەنگۈل; 2009's own headword قىزەيگۈل (D_23198 h).
+D_23254	headword	unverified	512_col3.png	قىزىلپىچە	قىزىلپېجە	ours_wrong	قىزىلپېجە	
+D_23257	headword	unverified	512_col3.png	قىزىلجولا	قىزىلجۇلا	ours_wrong	قىزىلجۇلا	
+D_23286	headword	unverified	513_col1.png	قىستا - قىستاق	قىستا-قىستاڭ	ours_wrong	قىستا - قىستاڭ	
+D_23349	headword	unverified	514_col3.png	قىشچە	قىشىچە	ours_wrong	قىشىچە	
+D_23446	headword	unverified	516_col3.png	قىمشە _	قىمشى _	ours_wrong	قىمشى _	
+D_23454	headword	unverified	517_col1.png	قىممەتسىزلە _	قىممەتسىن _	ours_wrong	قىممەتسىن _	
+D_23490	headword	unverified	518_col1.png	قىم	قىھ	ours_wrong	قىھ	
+D_23591	headword	unverified	520_col3.png	كاپشتە _	كاپشت _	ours_wrong	كاپشىت _	Both wrong: ours had كاپشتە _, his كاپشت _. Corrected to كاپشىت _, as in this entry's sub-entries كاپشىتماق, كاپشىتىش.
+D_23592	headword	verified	520_col3.png	كاپشىش _	كاپشىت-	his_wrong	كاپشىش _	
+D_23689	headword	verified	522_col3.png	كارائوكې	كارائوگي	his_wrong	كارائوكې	
+D_23705	headword	verified	523_col1.png	كاربيۇراتور = گازلاشتۇرغۇچ	كاربيوراتور = گازلاشتۇرغۇچ	his_wrong	كاربيۇراتور = گازلاشتۇرغۇچ	
+D_23769	headword	unverified	524_col1.png	كاژ - كۈژ	كاژ-كۇژ	ours_wrong	كاژ - كۇژ	
+D_23832	headword	verified	525_col2.png	كاككۇكئۇتى	كاككۇكئوتى	ours_wrong	كاككۇكئوتى	
+D_23838	headword	verified	525_col2.png	كاكىنەچ = شوخلىك	كاكىنەچ = شوخلەك	ours_wrong	كاكىنەچ = شوخلەك	
+D_23842	headword	unverified	525_col2.png	كاڭشە _	كاڭشى _	ours_wrong	كاڭشى _	
+D_23987	headword	verified	528_col3.png	كانايگۈل = مەشقىپىچەك	كانايگۈل = ھەشقىپىچەك	ours_wrong	كانايگۈل = ھەشقىپىچەك	
+D_24043	headword	unverified	529_col3.png	كايە _	كايى _	ours_wrong	كايى _	
+D_24149	headword	unverified	531_col3.png	كەرژۇ	كەرژۈ	ours_wrong	كەرژۈ	
+D_24150	headword	unverified	531_col3.png	كەركۇ	كەركۈ	ours_wrong	كەركۈ	
+D_24175	headword	unverified	532_col1.png	كەزۇت	كەزۈت	his_wrong	كەزۇت	
+D_24184	headword	unverified	532_col2.png	كەس - كەسىلا	كەس - كەسلا	ours_wrong	كەس - كەسلا	
+D_24216	headword	verified	533_col1.png	كەش (كەشى)	كەش (كىشى)	his_wrong	كەش (كەشى)	
+D_24237	headword	unverified	533_col3.png	كەكەترۈن	كەكەترۇن	his_wrong	كەكەترۈن	
+D_24240	headword	unverified	533_col3.png	كەگرىلىك	كەكرىلىك	ours_wrong	كەكرىلىك	
+D_24321	headword	unverified	535_col2.png	كەم - كوتسىز	كەم-كوتىسىز	his_normalized	كەم - كوتسىز	Kept as printed: scan shows كوتسىز, as in 1990s (D90-4-09973 d). Other form: كەم-كوتىسىز (2011 D02-03614 h).
+D_24365	headword	verified	536_col2.png	كەيگۇەن = توكچاتقۇ	كەيگۈەن = توكچاتقۇ	his_wrong	كەيگۇەن = توكچاتقۇ	
+D_24373	headword	unverified	536_col3.png	كوبالت	كوپالت	his_wrong	كوبالت	
+D_24434	headword	unverified	538_col1.png	كورنېروپىن	كورنېرۇپىن	ours_wrong	كورنېرۇپىن	
+D_24439	headword	verified	538_col1.png	كورىيە	كورېيە	era_form	كورىيە	era_form: scan shows كورىيە, the only form 2009 uses (also in sub-entry D_24439 كورىيە مېھرىگىياسى). 2011 form: كورېيە (2011 appendix, not in main list).
+D_24570	headword	unverified	540_col3.png	كونسپېك	كونسپىك	ours_wrong	كونسپىك	
+D_24579	headword	verified	540_col3.png	كونسېرۋاتىپلىق = مۇتەئەسسىپ	كونسېرۋاتىپلىق = مۇتەئەسسىپلىك	ours_wrong	كونسېرۋاتىپلىق = مۇتەئەسسىپلىك	
+D_24586	headword	unverified	541_col1.png	كونكرېتلاشتۇرۇلا _	كونكرېتلاشتۇرۇل _	ours_wrong	كونكرېتلاشتۇرۇل _	
+D_24600	headword	unverified	541_col1.png	كونىرىتىلا _	كونىرىتىل _	ours_wrong	كونىرىتىل _	
+D_24612	headword	verified	541_col2.png	كوپلا	كويلا	ours_wrong	كويلا	
+D_24643	headword	unverified	542_col1.png	كۇرسە _	كۇرسى _	ours_wrong	كۇرسى _	
+D_24645	headword	unverified	542_col1.png	كۈركىرا _	كۇركىرا _	ours_wrong	كۇركىرا _	
+D_24646	headword	verified	542_col1.png	كۈركىراش _	كۇركىراش _	ours_wrong	كۇركىراش _	
+D_24679	headword	unverified	542_col3.png	كۇلتىپېر	كۇلتېر	ours_wrong	كۇلتېر	
+D_24732	headword	unverified	544_col1.png	كۆپگەك	كۆپكەك	ours_wrong	كۆپكەك	
+D_24746	headword	verified	544_col2.png	كۆپىكىدەرپا	كۆپىكىدەريا	ours_wrong	كۆپىكىدەريا	
+D_24791	headword	unverified	545_col3.png	كۆتۈۋەللىك	كۆتۋەللىك	ours_wrong	كۆتۋەللىك	
+D_24931	headword	unverified	549_col3.png	كۆزەينەك	كۆزئەينەك	his_wrong	كۆزەينەك	
+D_24932	headword	unverified	549_col3.png	كۆزەينەكلىك	كۆزئەينەكلىك	his_wrong	كۆزەينەكلىك	
+D_24945	headword	unverified	550_col1.png	كۆزلەمە	كۆزلىمە	ours_wrong	كۆزلىمە	
+D_24949	headword	unverified	550_col1.png	كۆزنىچەك	كۆزنىچىك	ours_wrong	كۆزنىچىك	
+D_24992	headword	unverified	551_col3.png	كۆكپەت	كۆكپىت	ours_wrong	كۆكپىت	
+D_25015	headword	verified	552_col1.png	كۆكسۈ	كۆكسۇ	print_error	كۆكسۇ	print_error: scan shows كۆكسۈ; print form found nowhere; 2011 headword (D02-04385 h) and 1990s headword (D90-4-06902 h) have Gheyret's form.
+D_25016	headword	verified	552_col1.png	كۆكسۈن	كۆكسۇن	his_wrong	كۆكسۈن	
+D_25019	headword	unverified	552_col1.png	كۆكسراپ	كۆكسىراپ	ours_wrong	كۆكسىراپ	
+D_25047	headword	unverified	552_col3.png	كۆگ	كۆگە	his_wrong	كۆگ	
+D_25067	headword	unverified	554_col2.png	كۆڭۈلش _	كۆڭۈلشى _	ours_wrong	كۆڭۈلشى _	
+D_25081	headword	unverified	554_col3.png	كۆلۆگەچ	كۆلۈگەچ	ours_wrong	كۆلۈگەچ	
+D_25100	headword	unverified	555_col1.png	كۆمدۈرۈل _	كۆمتۈرۈل _	his_wrong	كۆمدۈرۈل _	
+D_25260	headword	unverified	558_col3.png	كۈرە _	كۈرەل _	ours_wrong	كۈرەل _	
+D_25293	headword	unverified	559_col2.png	كۈزۈكدىمەك	كۈزۈگدىمەك	his_wrong	كۈزۈكدىمەك	
+D_25362	headword	unverified	560_col3.png	كۈمۈشۆرۈك	كۈمۈشئۆرۈك	ours_wrong	كۈمۈشئۆرۈك	
+D_25413	headword	unverified	561_col3.png	كۈنگە	كۈنىگە	ours_wrong	كۈنىگە	
+D_25414	headword	unverified	561_col3.png	كۈنيۈرۈش	كۈنيۇرۇش	his_wrong	كۈنيۈرۈش	
+D_25517	headword	unverified	564_col1.png	كېزىگمەك	كېزىكمەك	ours_wrong	كېزىكمەك	
+D_25558	headword	unverified	565_col1.png	كېڭەرگەمەك	كېكەرگەمەك	his_wrong	كېڭەرگەمەك	
+D_25574	headword	verified	565_col3.png	كېڭرۈنمەڭ	كېڭرۈنمەك	ours_wrong	كېڭرۈنمەك	
+D_25597	headword	unverified	566_col1.png	كېلىشەلمەگۈ	كېلىشەڭگۈ	ours_wrong	كېلىشەڭگۈ	
+D_25671	headword	unverified	567_col2.png	كىتابىي	كىتابى	his_wrong	كىتابىي	
+D_25727	headword	unverified	569_col1.png	كىرگىن	كىركىن	ours_wrong	كىركىن	
+D_25801	headword	unverified	571_col1.png	كىسلاتاسىزلاندۇرۇلا _	كىسلاتاسىزلاندۇرۇل _	ours_wrong	كىسلاتاسىزلاندۇرۇل _	
+D_25804	headword	unverified	571_col1.png	كىسلاتالاشتۇرۇلا _	كىسلاتالاشتۇرۇل _	ours_wrong	كىسلاتالاشتۇرۇل _	
+D_25854	headword	unverified	572_col1.png	كىلوگېرتس	كىلوگېرتىس	ours_wrong	كىلوگېرتىس	
+D_25860	headword	unverified	572_col1.png	كىلولىتر	كىلولىتىر	ours_wrong	كىلولىتىر	
+D_25874	headword	unverified	572_col2.png	كىلېتكىشۇناسلىق = ھۈجەيرىشۇناسلىق	كىلېتكىشۇناسلىق = ھۈجەيرىشۇاسلىق	his_wrong	كىلېتكىشۇناسلىق = ھۈجەيرىشۇناسلىق	
+D_25936	headword	verified	573_col3.png	كىۋي	كىۋى	ours_wrong	كىۋى	
+D_26055	headword	unverified	577_col1.png	گاڭلىڭئوت = قورچاققول	گاڭلىقئوت = قورچاققول	ours_wrong	گاڭلىقئوت = قورچاققول	
+D_26061	headword	unverified	577_col2.png	گالاچ - گۈلۈچ	گالاچ-گۇلۇچ	ours_wrong	گالاچ - گۇلۇچ	
+D_26210	headword	unverified	581_col1.png	گۇەنخۇا	گۈەنخۇا	his_wrong	گۇەنخۇا	
+D_26211	headword	unverified	581_col1.png	گۇەنسەي	گۈەنسەي	his_wrong	گۇەنسەي	
+D_26218	headword	unverified	581_col2.png	گۈچۈلدا _	گۇچۇلدا _	ours_wrong	گۇچۇلدا _	
+D_26219	headword	unverified	581_col2.png	گۈچۈلدات _	گۇچۇلدات _	ours_wrong	گۇچۇلدات _	
+D_26220	headword	unverified	581_col2.png	گۈچۈلدىتىش _	گۇچۇلدىتىش _	ours_wrong	گۇچۇلدىتىش _	
+D_26253	headword	unverified	582_col1.png	گۇڭشى	گۇڭشې	ours_wrong	گۇڭشې	
+D_26258	headword	unverified	582_col1.png	گۇڭ - گۇڭ	گۇڭ-گۈڭ	his_wrong	گۇڭ - گۇڭ	
+D_26261	headword	unverified	582_col1.png	گۇڭۇر - گۇڭۇر	گۇڭۇر-گۈڭۇر	his_wrong	گۇڭۇر - گۇڭۇر	
+D_26291	headword	verified	582_col3.png	گۇمبا - گۇمباڭ = گۇمباڭ گۇمباڭ	گۇمبا - گۇمباڭ = گۇمباڭ - گۇمباڭ	ours_wrong	گۇمبا - گۇمباڭ = گۇمباڭ - گۇمباڭ	
+D_26367	headword	unverified	584_col2.png	گۈپۈرلە _	گۈپۈرلەت _	ours_wrong	گۈپۈرلەت _	
+D_26369	headword	unverified	584_col2.png	گۈجە	گۈچە	his_wrong	گۈجە	
+D_26401	headword	unverified	585_col1.png	گۈڭگۈرتسىزلە _	گۈڭگۈرتسىزلەن _	ours_wrong	گۈڭگۈرتسىزلەن _	
+D_26415	headword	unverified	585_col3.png	گۈلبوغۇن = بادەرەنجەبۇيا	گۈلبوغۇن = بادەرەنجىبۇيا	ours_wrong	گۈلبوغۇن = بادەرەنجىبۇيا	
+D_26450	headword	unverified	586_col1.png	گۈلسۇرۇخ = قىزىلگۈل	گۈلسۇرۇغ = قىزىلگۈل	his_wrong	گۈلسۇرۇخ = قىزىلگۈل	
+D_26473	headword	unverified	586_col3.png	گۈلناز = ئۇيانچانئوت	گۈلناز = ئۇياتچانئوت	print_error	گۈلناز = ئۇياتچانئوت	print_error: scan shows گۈلناز = ئۇيانچانئوت; 2009's own headword ئۇياتچانئوت (D_32312 h); also 2011 (D02-12948 h) and 1990s (D90-5-08397 h).
+D_26492	headword	unverified	587_col1.png	گېتت	گېتىت	ours_wrong	گېتىت	
+D_26521	headword	unverified	587_col2.png	گېگىلچىلىق	گېگېلچىلىق	print_error	گېگېلچىلىق	print_error: scan shows گېگىلچىلىق; 2009's own base headword is گېگېل (D_26520), and 2011 has گېگېلچىلىق (D02-05905 h). The 1990s has گېگىل… (D90-4-09297 h), but 2009 contradicts itself.
+D_26573	headword	unverified	588_col2.png	گىپنوزلا _	گىپنوزلان _	ours_wrong	گىپنوزلان _	
+D_26719	headword	verified	591_col2.png	گىلاۋكوما	گىلاۋگوما	his_wrong	گىلاۋكوما	
+D_26732	headword	unverified	591_col3.png	گىلۇكاگون	گىلۇكاگۇن	his_wrong	گىلۇكاگون	
+D_26734	headword	unverified	591_col3.png	گىلىپتو	گىلۇپتۇ	his_wrong	گىلىپتو	
+D_26846	headword	unverified	594_col1.png	لاك¹	لاڭ	his_wrong	لاك¹	
+D_26873	headword	unverified	594_col2.png	لالو	لالۇ	print_error	لالۇ	print_error: scan shows لالو; print form found nowhere; 2011 headword (D02-06266 h) has Gheyret's form.
+D_26881	headword	unverified	594_col3.png	لاماركىزم	لامارگىزم	his_wrong	لاماركىزم	
+D_26882	headword	unverified	594_col3.png	لامپا	لامبا	ours_wrong	لامبا	
+D_26965	headword	unverified	596_col1.png	لەپەڭشە _	لەپەڭشى _	ours_wrong	لەپەڭشى _	
+D_26974	headword	unverified	596_col2.png	لەپشىرىن	لەپشېرىن	ours_wrong	لەپشېرىن	print error. Follow the rules: D01-20749, "شېرىن", «شېرىن» سۆزىنىڭ باش بوغۇمى ئانا تىلىمىزنىڭ ئۆلچەملىك ئىملا نىزامىدا جەزمەن «ئې» تاۋۇشى بىلەن (شېرىن) يېزىلىدۇ. سۆز بىرىكمە ھالەتتە كەلسىمۇ، شۇ ئاساسىي يىلتىزدىكى «شې-» بوغۇمىنىڭ «ئې» تاۋۇشى ئۆزگەرمەستىن ساقلىنىدۇ 
+D_27034	headword	unverified	597_col2.png	لەڭگىدە	لەڭڭىدە	ours_wrong	لەڭڭىدە	
+D_27041	headword	unverified	597_col2.png	لەلەڭشە _	لەلەڭشى _	ours_wrong	لەلەڭشى _	
+D_27051	headword	unverified	597_col3.png	لەنەتلە _	لەنەتلەن _	ours_wrong	لەنەتلەن _	
+D_27088	headword	unverified	598_col3.png	لوپا	لوپ	his_wrong	لوپا	
+D_27134	headword	unverified	599_col2.png	لوڭگىدە	لوڭڭىدە	ours_wrong	لوڭڭىدە	
+D_27164	headword	unverified	600_col1.png	لۆمشە _	لۆمشى _	ours_wrong	لۆمشى _	
+D_27187	headword	unverified	600_col2.png	لېتۇ	لېتۈ	ours_wrong	لېتۈ	
+D_27197	headword	unverified	600_col2.png	لېكسىكوگرافىيە = لۇغەتشۇناسلىق	لېكسكوگرافىيە = لۇغەتشۇناسلىق	his_wrong	لېكسىكوگرافىيە = لۇغەتشۇناسلىق	
+D_27248	headword	unverified	601_col2.png	لىزوفورم	لىزوقورم	his_wrong	لىزوفورم	
+D_27273	headword	unverified	601_col3.png	لىقمولىق	لىقمۇلىق	ours_wrong	لىقمۇلىق	
+D_27280	headword	unverified	602_col1.png	لىككەدە	لىككىدە	ours_wrong	لىككىدە	
+D_27292	headword	unverified	602_col1.png	لىڭشىت _	لىڭشى-	his_wrong	لىڭشىت _	
+D_27299	headword	unverified	602_col2.png	لىڭگىدە	لىڭڭىدە	ours_wrong	لىڭڭىدە	
+D_27351	headword	unverified	603_col3.png	ماتكا¹ = بالاياتقۇ	ماتكا¹ = بالىياتقۇ	print_error	ماتكا¹ = بالىياتقۇ	print_error: scan shows ماتكا¹ = بالاياتقۇ; 2009's own headword بالىياتقۇ (D_03542 h); also 2011 (D01-03639 h) and 1990s (D90-1-04985 h).
+D_27407	headword	unverified	605_col2.png	ماخوۋىڭ	ماخوۋىك	ours_wrong	ماخوۋىك	
+D_37426	headword	verified	605_col3.png	ماددىيلاش _	ماددىيلاش-	his_wrong	ماددىيلاش _	
+D_27471	headword	unverified	606_col3.png	مارشال = يۈەنشۇەي	مارشال = يۈەنشۈەي	his_wrong	مارشال = يۈەنشۇەي	
+D_27472	headword	verified	606_col3.png	مارشاللىق = يۈەنشۇەيلىك	مارشاللىق = يۈەنشۈەيلىك	his_wrong	مارشاللىق = يۈەنشۇەيلىك	
+D_27652	headword	unverified	611_col3.png	مال - بېسات	مال-بىسات	print_error	مال - بىسات	print_error: scan shows مال - بېسات; 2009's own headword بىسات (D_05095, D_06662 h); also 2011 (D02-07123 h) and 1990s (D90-5-00557 h).
+D_27745	headword	unverified	613_col1.png	مانگو	مانگۇ	his_wrong	مانگو	
+D_27751	headword	verified	613_col2.png	مانىفېست = خىتاپنامە	مانېفىست = خىتاپنامە	ours_wrong	مانېفىست = خىتاپنامە	
+D_27804	headword	verified	614_col2.png	مايقۇرىت	مايقۇرت	ours_wrong	مايقۇرت	
+D_28007	headword	unverified	619_col1.png	مەزلۈمچە = ئايالچە	مەزلۇمچە = ئايالچە	ours_wrong	مەزلۇمچە = ئايالچە	
+D_28026	headword	unverified	619_col1.png	مەسە - گالاچ	مەسە - كالاچ	ours_wrong	مەسە - كالاچ	
+D_28044	headword	unverified	619_col3.png	مەسخىرىلە _	مەسخىرىلەن _	ours_wrong	مەسخىرىلەن _	
+D_28062	headword	unverified	620_col1.png	مەسئۇللۇق	مەسئۇللۇقى	his_wrong	مەسئۇللۇق	
+D_28091	headword	verified	620_col2.png	مەشق (مەشقى)	مەشىق (مەشقى)	ours_wrong	مەشىق (مەشقى)	ours_wrong: scan shows مەشىق (مەشقى); ى dropped in extraction. Matches its sub-entries (مەشىق ئاپتوموبىلى, مەشىق قىلماق …). Corrected in Imla Dictionary.
+D_28133	headword	verified	621_col2.png	مەڭگۈ	مەڭكۈ	ours_wrong	مەڭكۈ	Alphabetical order. The entries around it run مەڭزەك، مەڭزەمەك، D_28133، مەڭگەن، مەڭگۈ. In the Uyghur alphabet ك comes before گ, so مەڭكۈ fits exactly in that slot. مەڭگۈ doesn’t: it would have to come after مەڭگەن, where it already stands as D_28135. A dictionary’s alphabetical order is strong evidence of what the editors meant.
+D_28148	headword	unverified	621_col3.png	مەلغۈزە	مەلغۇزە	ours_wrong	مەلغۇزە	
+D_28241	headword	verified	623_col3.png	مەنۈش	مەنۇش	print_error	مەنۇش	print_error: scan shows مەنۈش; print form found nowhere; 2011 headword (D02-07861 h) has Gheyret's form.
+D_28386	headword	unverified	626_col3.png	موزايبېشى	موزايبىشى	his_wrong	موزايبېشى	
+D_28474	headword	verified	628_col3.png	موندىلاڭكۆك	موندىلاقكۆك	ours_wrong	موندىلاقكۆك	
+D_37433	headword	verified	629_col2.png	مۇئەللىمچىلىك = مۇئەللىملىك	مۇئەللىمىچىلىك = مۇئەللىملىك	his_wrong	مۇئەللىمچىلىك = مۇئەللىملىك	
+D_28803	headword	unverified	636_col3.png	مۇلغۇي = سىراچ	مۇلغۇي = سىراج	ours_wrong	مۇلغۇي = سىراج	
+D_28811	headword	verified	636_col3.png	مۇمىيا (مۇمىيايىم، مۇمىيايىڭ، مۇمىي...)	مۇمىيا (مۇمىيايىم، مۇمىيايىڭ، مۇمىياسى)	ours_wrong	مۇمىيا (مۇمىيايىم، مۇمىيايىڭ، مۇمىياسى)	
+D_28865	headword	unverified	638_col1.png	مۇنقەرىز	مۇنقەرز	era_form	مۇنقەرىز	era_form: 2009 prints مۇنقەرىز consistently (headwords D_28865–67 and sub-entries). 2011 form: مۇنقەرز (D02-08649 h, D02-08654 h); 1990s also مۇنقەرز (D90-5-02504 h, D90-5-02507 h).
+D_28866	headword	unverified	638_col1.png	مۇنقەرىزچىلىك	مۇنقەرزچىلىك	era_form	مۇنقەرىزچىلىك	era_form: 2009 prints مۇنقەرىز consistently (headwords D_28865–67 and sub-entries). 2011 form: مۇنقەرز (D02-08649 h, D02-08654 h); 1990s also مۇنقەرز (D90-5-02504 h, D90-5-02507 h).
+D_28867	headword	unverified	638_col1.png	مۇنقەرىزلىك	مۇنقەرزلىك	era_form	مۇنقەرىزلىك	era_form: 2009 prints مۇنقەرىز consistently (headwords D_28865–67 and sub-entries). 2011 form: مۇنقەرز (D02-08649 h, D02-08654 h); 1990s also مۇنقەرز (D90-5-02504 h, D90-5-02507 h).
+D_28899	headword	unverified	639_col1.png	مۇۋەببەلىسپىت	مۇۋەببەلسىپىت	his_normalized	مۇۋەببەلىسپىت	spelling variant: 1990s D90-5-02567 agrees with the print; 2011 D02-08701 spells مۇۋەببەلسىپىت. Kept as printed.
+D_28918	headword	unverified	639_col2.png	مۆتىدىللىك	مۆتىدىل	ours_wrong	مۆتىدىل	
+D_28966	headword	unverified	640_col2.png	مۆنۈرمەك	مۆنۈرىمەك	ours_wrong	مۆنۈرىمەك	
+D_29007	headword	verified	641_col1.png	مۈشۈكقۇيرۇق	مۈشۈگقۇيرۇق	his_wrong	مۈشۈكقۇيرۇق	
+D_29029	headword	unverified	641_col3.png	مۈلكى	مۈلكىي	ours_wrong	مۈلكىي	
+D_29072	headword	verified	642_col2.png	مېخانىكشۇناس (مېخانىكشۇناسى)	مېخانىكىشۇناس (مېخانىكىشۇناسى)	ours_wrong	مېخانىكىشۇناس (مېخانىكىشۇناسى)	
+D_29158	headword	verified	644_col3.png	مېۋىشۇناس (مېۋىشۇناسى)	مېۋىشۇناس (مېۋىشۇناس)	his_wrong	مېۋىشۇناس (مېۋىشۇناسى)	
+D_29173	headword	unverified	644_col3.png	مىتەۋەشمەك	مىتەۋىلەشمەك	ours_wrong	مىتەۋىلەشمەك	
+D_29214	headword	unverified	645_col3.png	مىخۇاگۈل	مېيخۇاگۈل	era_form	مىخۇاگۈل	era_form: scan shows مىخۇاگۈل (2009 files it under مىخ…, so a deliberate 2009 choice). 2011 form: مېيخۇاگۈل (D02-09018 h); 1990s D90-5-03000 مېيخۇا.
+D_29246	headword	unverified	646_col2.png	مىزگۈل	مىزىگۈل	ours_wrong	مىزىگۈل	
+D_29402	headword	verified	650_col3.png	مىللىيلىق	مىلونىتلىق	ours_wrong	مىلونىتلىق	
+D_29417	headword	unverified	650_col3.png	مىلىق - سىلىق	مىلىق-مىلىق	his_wrong	مىلىق - سىلىق	
+D_29485	headword	unverified	652_col2.png	مىياۋزۇ	مياۋزۇ	his_normalized	مىياۋزۇ	spelling variant: 2011 D02-09398 h and 1990s D90-5-03513 h agree with the print; مياۋزۇ appears in running text (e.g. D02-06666, D90-5-03514). Kept as printed.
+D_29486	headword	unverified	652_col3.png	مىياۋزۇچە	مياۋزۇچە	his_normalized	مىياۋزۇچە	spelling variant: 2011 D02-09399 h agrees with the print; 1990s D90-5-03515 h spells مياۋزۇچە, as does 2011 running text (D02-08402 d). Kept as printed.
+D_29560	headword	unverified	654_col2.png	نازاكەتلىك	نازاگەتلىك	his_wrong	نازاكەتلىك	
+D_29692	headword	unverified	656_col3.png	نائىلاج = ئىلاجىسىز	نائىلاج = ئىلاجسىز	print_error	نائىلاج = ئىلاجسىز	print_error: scan shows ئىلاجىسىز (our extraction had ئېلاجسىز, corrected to the print). ئىلاجىسىز is found in no dictionary; 2009's own headword ئىلاجسىز (D_35068 h), also 2011 (D02-09686 h) and 1990s (D90-6-03779 h). Correct form: نائىلاج = ئىلاجسىز.
+D_29693	headword	unverified	656_col3.png	نائىنساب = ئېنسابسىز	نائىنساب = ئىنسابسىز	ours_wrong	نائىنساب = ئىنسابسىز	
+D_29694	headword	unverified	656_col3.png	نائىنسابلىق = ئېنسابسىزلىق	نائىنسابلىق = ئىنسابسىزلىق	ours_wrong	نائىنسابلىق = ئىنسابسىزلىق	
+D_29798	headword	verified	659_col1.png	نەسىھەت (نەسىھىتى)	نەسىھەت (نەسىھەتى)	ours_wrong	نەسىھەت (نەسىھەتى)	
+D_29909	headword	unverified	661_col2.png	نوختىباغ = چۈلۋۇر	نوختىباغ = چۇلۋۇر	ours_wrong	نوختىباغ = چۇلۋۇر	
+D_30065	headword	unverified	665_col2.png	نېمىدىگەن	نېمىدېگەن	ours_wrong	نېمىدېگەن	
+D_30139	headword	verified	667_col1.png	قاب (نىقابى)	نىقاب (نىقابى)	ours_wrong	نىقاب (نىقابى)	orginal image was cut on the edge, resulting poor extraction on our side
+D_37441	headword	verified	667_col1.png	قابسىز	نىقابسىز	ours_wrong	نىقابسىز	orginal image was cut on the edge, resulting poor extraction on our side
+D_30144	headword	unverified	667_col1.png	قابلىق	نىقابلىق	ours_wrong	نىقابلىق	orginal image was cut on the edge, resulting poor extraction on our side
+D_30148	headword	unverified	667_col1.png	نىقسە _	نىقسى _	ours_wrong	نىقسى _	orginal image was cut on the edge, resulting poor extraction on our side
+D_30149	headword	verified	667_col1.png	كاھ (نىكاھى)	نىكاھ (نىكاھى)	ours_wrong	نىكاھ (نىكاھى)	orginal image was cut on the edge, resulting poor extraction on our side
+D_30212	headword	verified	669_col2.png	ھادىسىشۇناس (ھادىسشۇناسى)	ھادىسىشۇناس (ھادىسىشۇناسى)	ours_wrong	ھادىسىشۇناس (ھادىسىشۇناسى)	
+D_30407	headword	unverified	674_col2.png	ھاۋالسىز	ھاۋالىسىز	ours_wrong	ھاۋالىسىز	
+D_30412	headword	unverified	674_col3.png	ھاۋشە _	ھاۋشى _	ours_wrong	ھاۋشى _	
+D_30433	headword	verified	675_col1.png	ھايالشە _	ھايالشى _	ours_wrong	ھايالشى _	
+D_30448	headword	verified	675_col2.png	ھايۋانشۇناس (ھايۋاناتشۇناسى)	ھايۋانشۇناس (ھايۋانشۇناسى)	ours_wrong	ھايۋانشۇناس (ھايۋانشۇناسى)	
+D_30467	headword	verified	675_col3.png	ھەپشە _	ھەپشى _	ours_wrong	ھەپشى _	
+D_30496	headword	verified	676_col2.png	ھەدىيەلىك	ھەدىيىلىك	ours_wrong	ھەدىيىلىك	Scan shows ھەدىيىلىك (older spelling, as in 1990s D90-5-05439 h); our extraction had ھەدىيەلىك, corrected to the print. 2011 form: ھەدىيەلىك (D02-10799 h).
+D_37443	headword	verified	682_col1.png	ھودگىن	ھودكىن	ours_wrong	ھودكىن	
+D_30906	headword	unverified	685_col3.png	ھۈپ	ھۈ	his_wrong	ھۈپ	
+D_30913	headword	unverified	686_col1.png	ھۈجەيرىشۇناسلىق	ھۈجەيرىشۇاسلىق	his_wrong	ھۈجەيرىشۇناسلىق	
+D_30933	headword	unverified	686_col2.png	ھېجقىز = ھەزىلەك	ھېجىقىز = ھەزىلەك	ours_wrong	ھېجىقىز = ھەزىلەك	
+D_31136	headword	unverified	690_col2.png	ئوبىسدىيان	ئوبىسدنيان	his_wrong	ئوبىسدىيان	
+D_31552	headword	unverified	700_col3.png	ئوقيا (ئوقۇيايىم، ئوقۇيايىڭ، ئوقياسى)	ئوقيا (ئوقيايىم، ئوقيايىڭ، ئوقياسى)	ours_wrong	ئوقيا (ئوقيايىم، ئوقيايىڭ، ئوقياسى)	
+D_31574	headword	unverified	701_col1.png	ئوكسىگېن - ئاتسېتلېن	ئوكسىگېن-ئاتسېتىلېن	print_error	ئوكسىگېن - ئاتسېتىلېن	print_error: scan shows ئوكسىگېن - ئاتسېتلېن; 2009's own headword ئاتسېتىلېن (D_00186 h).
+D_31580	headword	unverified	701_col2.png	ئوكسىگېنسىزلاندۇرغۇچ	ئوكسىگېنسىزلاندۇرۇشغۇچ	his_wrong	ئوكسىگېنسىزلاندۇرغۇچ	
+D_31581	headword	unverified	701_col2.png	ئوكسىگېنسىزلاندۇرغۇچى	ئوكسىگېنسىزلاندۇرۇشغۇچى	his_wrong	ئوكسىگېنسىزلاندۇرغۇچى	
+D_31648	headword	unverified	703_col1.png	ئۇلپان	ئولپان	ours_wrong	ئولپان	
+D_31691	headword	verified	703_col3.png	ئوممىتېر	ئوممېتىر	his_wrong	ئوممىتېر	
+D_31721	headword	unverified	705_col1.png	ئونمىڭلاپ - يۈزمىڭلاپ	ئونمىڭلاپ-يۇزمىڭلاپ	his_wrong	ئونمىڭلاپ - يۈزمىڭلاپ	
+D_31761	headword	unverified	705_col3.png	ئويغاڭلىق	ئويغاقلىق	ours_wrong	ئويغاقلىق	
+D_31814	headword	verified	707_col1.png	ئۇپا - ئەڭلىڭ	ئۇپا-ئەڭلىك	print_error	ئۇپا - ئەڭلىك	print error based on appearance of his version on multiple dictionaries.
+D_31978	headword	verified	710_col3.png	ئۇرۇپ - سۇقۇپ	ئۇرۇپ-سوقۇپ	ours_wrong	ئۇرۇپ - سوقۇپ	
+D_32058	headword	unverified	713_col1.png	ئۇزىتىلا _	ئۇزىتىل _	ours_wrong	ئۇزىتىل _	
+D_32193	headword	unverified	716_col1.png	ئۈلتىماتوم	ئۇلتىماتوم	ours_wrong	ئۇلتىماتوم	
+D_32343	headword	verified	719_col1.png	ئۇيىلە	ئۇيلە	ours_wrong	ئۇيلە	
+D_32374	headword	unverified	720_col2.png	ئۆپكە - ھەپسەپ	ئۆپكە-ھېسىپ	ours_wrong	ئۆپكە - ھېسىپ	
+D_32400	headword	verified	721_col1.png	ئۆتەلا _	ئۆتەل _	ours_wrong	ئۆتەل _	
+D_32578	headword	unverified	725_col2.png	ئۆزگەي	ئۆزكەي	ours_wrong	ئۆزكەي	
+D_32629	headword	unverified	726_col3.png	ئۆسگىلەڭ	ئۆسكىلەڭ	ours_wrong	ئۆسكىلەڭ	
+D_32701	headword	unverified	728_col1.png	ئۆڭدى	ئۆگدى	ours_wrong	ئۆگدى	
+D_32747	headword	unverified	728_col3.png	ئۆڭگەر	ئۆڭكەر	ours_wrong	ئۆڭكەر	
+D_32813	headword	verified	730_col2.png	ئۆلۈم - يىتىم	ئۆلۈم-يېتىم	print_error	ئۆلۈم - يېتىم	print error based on appearance of his version on multiple dictionaries.
+D_32875	headword	unverified	731_col3.png	ئۆيموئۆي	ئۆيمۇئۆي	ours_wrong	ئۆيمۇئۆي	
+D_32881	headword	unverified	731_col3.png	ئۆيئىشچى	ئۆيئىچى	ours_wrong	ئۆيئىچى	
+D_32882	headword	unverified	731_col3.png	ئۆيئىشچىلىك	ئۆيئىچىلىك	ours_wrong	ئۆيئىچىلىك	
+D_33025	headword	unverified	735_col3.png	ئۈشقىر _	ئۇشقىر-	misaligned	ئۈشقىر _	misaligned: his form ئۇشقىر- is not a 2009 headword; the ئۇشقىر… word is entry ئۇشقىرت _ (D_32121). ئۈشقىرماق confirmed by 2011 D02-13724 h and 1990s D90-5-09591 h.
+D_33026	headword	verified	735_col3.png	ئۈشقىرت _	ئۇشقىرت-	misaligned	ئۈشقىرت _	misaligned: his form belongs to the separate entry ئۇشقىرت _ (D_32121). ئۈشقىرتماق confirmed by 2011 D02-13721 h and 1990s D90-5-09589 h.
+D_33027	headword	unverified	735_col3.png	ئۈشقىرتىش _	ئۇشقىرتىش-	misaligned	ئۈشقىرتىش _	misaligned: his form ئۇشقىرتىش is a sub-entry of ئۇشقىرت _ (D_32121), not a 2009 headword. ئۈشقىرتىشماق confirmed by 2011 D02-13722 h and 1990s D90-5-09590 h.
+D_33257	headword	unverified	740_col3.png	ۋاستە	ۋاسىتە	ours_wrong	ۋاسىتە	
+D_33258	headword	unverified	740_col3.png	ۋاستەپەرەس	ۋاسىتەپەرەس	ours_wrong	ۋاسىتەپەرەس	
+D_33264	headword	unverified	741_col2.png	ۋاسدەميان = ۋاسا تاق	ۋاسىدەميان = ۋاسا تاق	ours_wrong	ۋاسىدەميان = ۋاسا تاق	
+D_33267	headword	unverified	741_col2.png	ۋاشاڭ = پاساك¹	ۋاشاڭ = پاساڭ¹	ours_wrong	ۋاشاڭ = پاساڭ¹	
+D_33273	headword	unverified	741_col2.png	ۋاغجىر	ۋاغچىر	his_wrong	ۋاغجىر	
+D_33321	headword	unverified	742_col3.png	ۋاڭشە _	ۋاڭشى _	his_wrong	ۋاڭشە _	
+D_33430	headword	verified	744_col3.png	ۋەسىل (ۋەسىلى)	ۋەسىل (ۋەسلى)	ours_wrong	ۋەسىل (ۋەسلى)	
+D_33479	headword	unverified	745_col2.png	ۋولفگراف	ۋولىفگراف	ours_wrong	ۋولىفگراف	
+D_33657	headword	unverified	749_col2.png	ئېتىكلىق	ئېتىكىلىق	ours_wrong	ئېتىكىلىق	
+D_33746	headword	unverified	751_col1.png	ئېرىگ	ئېرگ	ours_wrong	ئېرگ	
+D_33747	headword	unverified	751_col1.png	ئېرىگە	ئېرگە	ours_wrong	ئېرگە	scan shows ئېرگە. Hits for ئېرىگە in other dictionaries are the inflected noun ئېرى+گە "to her husband" (e.g. D01-00125 d), not this entry. Alphabetical order (ئېركە < ئېرگە < ئېرى _) supports the scan.
+D_33748	headword	unverified	751_col1.png	ئېرىگوتىن	ئېرگوتىن	ours_wrong	ئېرگوتىن	
+D_33749	headword	unverified	751_col1.png	ئېرىنەك	ئېرنەك	ours_wrong	ئېرنەك	
+D_33786	headword	unverified	751_col3.png	ئېزىپ - يانچىپ	ئېزىپ-يانجىپ	his_wrong	ئېزىپ - يانچىپ	
+D_33798	headword	unverified	752_col1.png	ئېزىلىپ - يانچىلىپ	ئېزىلىپ-يانجىلىپ	his_normalized	ئېزىلىپ - يانچىلىپ	preserved as print
+D_33817	headword	verified	752_col2.png	ئېستېتىكشۇناس (ئېستېتىكشۇناسى)	ئېستېتىكىشۇناس (ئېستېتىكىشۇناسى)	ours_wrong	ئېستېتىكىشۇناس (ئېستېتىكىشۇناسى)	
+D_33823	headword	unverified	752_col2.png	ئېسكولۇس	ئېسكۇلۇس	ours_wrong	ئېسكۇلۇس	
+D_33915	headword	unverified	754_col3.png	ئېگە	ئېكە	ours_wrong	ئېكە	
+D_33938	headword	unverified	755_col1.png	ئېكسپىدىتسىيە	ئېكسپېدىتسىيە	ours_wrong	ئېكسپېدىتسىيە	
+D_33939	headword	unverified	755_col1.png	ئېكسپىدىتسىيەچى	ئېكسپېدىتسىيەچى	ours_wrong	ئېكسپېدىتسىيەچى	
+D_33981	headword	unverified	755_col3.png	ئېگەرلەكلەك	ئېگەرلەكلىك	ours_wrong	ئېگەرلەكلىك	
+D_34026	headword	unverified	756_col3.png	ئېڭىشش _	ئېڭىشىش _	ours_wrong	ئېڭىشىش _	
+D_34046	headword	unverified	757_col1.png	ئېلونچون	ئېلۇنچۈن	ours_wrong	ئېلۇنچۈن	
+D_34047	headword	unverified	757_col1.png	ئېلونچونچە	ئېلۇنچۈنچە	ours_wrong	ئېلۇنچۈنچە	
+D_34204	headword	unverified	760_col3.png	ئېيتىشش	ئېيتىشىش	ours_wrong	ئېيتىشىش	
+D_34206	headword	unverified	760_col3.png	ئېيىنشتىيىن	ئېينىشتىيىن	ours_wrong	ئېينىشتىيىن	
+D_34210	headword	unverified	760_col3.png	ئېيىقتۆزۈمى	ئېيىقئۈزۈمى	ours_wrong	ئېيىقئۈزۈمى	
+D_34288	headword	verified	762_col3.png	ئىتتىش _	ئىتتى _	ours_wrong	ئىتتى _	
+D_34299	headword	unverified	763_col1.png	ئىتتىت	ئىتتىت _	ours_wrong	ئىتتىت _	
+D_34300	headword	verified	763_col1.png	ئىتتىرىش	ئىتتىرىش _	ours_wrong	ئىتتىرىش _	
+D_34301	headword	unverified	763_col1.png	ئىتتىرىل	ئىتتىرىل _	ours_wrong	ئىتتىرىل _	
+D_34305	headword	verified	763_col1.png	ئىتتىكلەش	ئىتتىكلەش _	ours_wrong	ئىتتىكلەش _	
+D_34560	headword	unverified	770_col2.png	ئىزدەك	ئىزدەڭ	ours_wrong	ئىزدەڭ	
+D_34632	headword	verified	771_col3.png	ئىسپورا (ئىسپورىسى)	ئىسپورا (ئىسپوراسى)	ours_wrong	ئىسپورا (ئىسپوراسى)	
+D_34670	headword	verified	772_col2.png	ئىستراتېگىيەشۇناس (ئىستراتېگىيە ـ شۇناسى)	ئىستراتېگىيەشۇناس (ئىستراتېگىيەشۇناسى)	ours_wrong	ئىستراتېگىيەشۇناس (ئىستراتېگىيەشۇناسى)	Our extraction had ئىستراتېگىيە ـ شۇناسى with the Arabic stretching character ـ (U+0640). Applied Gheyret's form (scan) in Imla Dictionary: ئىستراتېگىيەشۇناس (ئىستراتېگىيەشۇناسى).
+D_34708	headword	unverified	773_col1.png	ئىستىرىپتومىتسىن	ئىستىرېپتومىتسىن	ours_wrong	ئىستىرېپتومىتسىن	
+D_34723	headword	unverified	773_col2.png	ئىستىنچا	ئىستىنجا	ours_wrong	ئىستىنجا	
+D_34813	headword	unverified	775_col3.png	ئىسمېنەزەم	ئىسمىئەزەم	ours_wrong	ئىسمىئەزەم	
+D_34895	headword	unverified	777_col3.png	ئىششە _	ئىششى _	ours_wrong	ئىششى _	
+D_35027	headword	verified	781_col3.png	ئىگە - چاقسىز	ئىگە - چاقىسىز	ours_wrong	ئىگە - چاقىسىز	
+D_35066	headword	unverified	782_col2.png	ئىلا _	ئىل _	ours_wrong	ئىل _	
+D_35170	headword	unverified	784_col2.png	ئىلە _	ئىلى _	ours_wrong	ئىلى _	
+D_35171	headword	verified	784_col2.png	ئىلەت _	ئىلىت _	ours_wrong	ئىلىت _	
+D_35173	headword	unverified	784_col3.png	ئىلىتىلا _	ئىلىتىل _	ours_wrong	ئىلىتىل _	
+D_35254	headword	verified	786_col1.png	ئىملا (ئىملىيىم، ئىملايىڭ، ئىملاسى)	ئىملا (ئىملايىم، ئىملايىڭ، ئىملاسى)	ours_wrong	ئىملا (ئىملايىم، ئىملايىڭ، ئىملاسى)	
+D_35266	headword	verified	786_col2.png	ئىممۇنوگېنېتىكا = ئىممۇنىتېت ئىرسىيەتتەشۇناسلىقى	ئىممۇنوگېنېتىكا = ئىممۇنىتېت ئىرسىيەتشۇناسلىقى	ours_wrong	ئىممۇنوگېنېتىكا = ئىممۇنىتېت ئىرسىيەتشۇناسلىقى	
+D_35328	headword	unverified	787_col3.png	ئىنتىلا _	ئىنتىل _	ours_wrong	ئىنتىل _	
+D_35343	headword	verified	788_col1.png	ئىنجىقلاش	ئىنجىقلاش _	ours_wrong	ئىنجىقلاش _	
+D_35412	headword	verified	789_col2.png	ئىنشا (ئىنشايىم، ئىنشايىك، ئىنشاسى)	ئىنشا (ئىنشايىم، ئىنشايىڭ، ئىنشاسى)	ours_wrong	ئىنشا (ئىنشايىم، ئىنشايىڭ، ئىنشاسى)	
+D_35470	headword	unverified	790_col3.png	ئىيول	ئىيۇل	ours_wrong	ئىيۇل	
+D_35639	headword	unverified	795_col1.png	يارسىغاغ	يارسغاغ	ours_wrong	يارسغاغ	
+D_35692	headword	unverified	796_col1.png	يارىيېلىم	ياريېلىم	ours_wrong	ياريېلىم	
+D_35942	headword	unverified	801_col3.png	يالجە _	يالجى _	ours_wrong	يالجى _	
+D_35969	headword	unverified	802_col2.png	يالگۇ	يالڭۇ	ours_wrong	يالڭۇ	
+D_35970	headword	unverified	802_col2.png	يالگۇق	يالڭۇق	ours_wrong	يالڭۇق	
+D_35971	headword	unverified	802_col2.png	يالگۇماق	يالڭۇماق	ours_wrong	يالڭۇماق	
+D_36032	headword	verified	803_col3.png	يامبۇسمان	يامبۇسىمان	ours_wrong	يامبۇسىمان	
+D_36080	headword	unverified	805_col2.png	يانجە _	يانجى _	ours_wrong	يانجى _	
+D_36177	headword	unverified	808_col1.png	يايلىتىلا _	يايلىتىل _	ours_wrong	يايلىتىل _	
+D_36255	headword	unverified	810_col2.png	يەكۈنلە _	يەكۈنلەن _	ours_wrong	يەكۈنلەن _	
+D_36268	headword	unverified	810_col2.png	يەڭگە _	يەڭگى _	ours_wrong	يەڭگى _	
+D_36281	headword	unverified	811_col1.png	يەللەڭ	يەلەك	ours_wrong	يەلەك	
+D_36296	headword	unverified	811_col2.png	يەلگۈ	يەلكۇ	ours_wrong	يەلكۇ	
+D_36297	headword	unverified	811_col2.png	يەلگىلىك	يەلكىلىك	ours_wrong	يەلكىلىك	
+D_36298	headword	unverified	811_col2.png	يەلگىن	يەلكىن	ours_wrong	يەلكىن	
+D_36335	headword	unverified	812_col1.png	يەنمۇ	يەنىمۇ	ours_wrong	يەنىمۇ	
+D_36730	headword	unverified	821_col1.png	يۆمەلا _	يۆمەل _	ours_wrong	يۆمەل _	
+D_36731	headword	unverified	821_col1.png	يۆنەلا _	يۆنەل _	ours_wrong	يۆنەل _	
+D_36740	headword	unverified	821_col2.png	يۈەنشۇەي	يۈەنشۈەي	his_wrong	يۈەنشۇەي	
+D_36741	headword	unverified	821_col2.png	يۈەنشۇەيلىك	يۈەنشۈەيلىك	his_wrong	يۈەنشۇەيلىك	
+D_36869	headword	verified	825_col2.png	يېپەكلىمەك	يېپەڭلىمەك	ours_wrong	يېپەڭلىمەك	
+D_36880	headword	unverified	825_col3.png	يېپىشق	يېپىشىق	ours_wrong	يېپىشىق	
+D_36883	headword	unverified	826_col1.png	يېپىلا _	يېپىل _	ours_wrong	يېپىل _	
+D_36902	headword	unverified	826_col2.png	يېتوك	يېتۈك	ours_wrong	يېتۈك	
+D_36964	headword	unverified	828_col3.png	يېزىلا _	يېزىل _	ours_wrong	يېزىل _	
+D_36989	headword	unverified	829_col2.png	يېشىندۇر _	يېشىندۈر _	ours_wrong	يېشىندۈر _	
+D_36990	headword	unverified	829_col2.png	يېشىندۇرۇل _	يېشىندۈرۈل _	ours_wrong	يېشىندۈرۈل _	
+D_36991	headword	verified	829_col2.png	يېشىننىش _	يېشىنىش _	ours_wrong	يېشىنىش _	
+D_36996	headword	unverified	829_col3.png	يېغلىق	يېغىلىق	ours_wrong	يېغىلىق	
+D_37002	headword	unverified	829_col3.png	يېقىلا _	يېقىل _	ours_wrong	يېقىل _	
+D_37114	headword	unverified	832_col3.png	يىپەز	يىپبەز	ours_wrong	يىپبەز	
+D_37273	headword	verified	836_col1.png	يىڭنىلىق	يىڭنىلىك	his_normalized	يىڭنىلىق	
+D_37274	headword	unverified	836_col1.png	يىڭنىمىق	يىڭنىمىخ	his_normalized	يىڭنىمىق	
+D_00494	sub-entry	verified	011_col3.png	ئارا كەككۈك	ئارا كاككۇك	ours_wrong	ئارا كاككۇك	
+D_00494	sub-entry	verified	011_col3.png	ئارا ئىسكرىپكا	ئارا ئىسكىرىپكا	print_error	ئارا ئىسكىرىپكا	print_error: scan shows ئىسكرىپكا; 2009's own headword ئىسكىرىپكا (D_34776 h), also 2011 (D02-15760 h) and 1990s (D90-6-02953 h).
+D_00499	sub-entry	verified	012_col1.png	ئاراتۈرۈك ئېتى	ئاراتۈرك ئېتى	his_wrong	ئاراتۈرۈك ئېتى	
+D_00651	sub-entry	verified	014_col3.png	ئارقا پىشاپ	ئارقا پېشاب	print_error	ئارقا پېشاب	print_error: scan shows پىشاپ. 2009's own headword پېشاب (D_06863 h) and sub-entry ئالدى پېشاب (D_01463), and 2011 «ئالدى پېشاب. ئارقا پېشاب» (D01-07070 d). 2011 headword D01-00633 «ئارقا پېشاپ» looks like 2011's own slip.
+D_00747	sub-entry	verified	016_col3.png	ئارىلاشما چۆكۈندە	ئارىلاشما چۆكۈندى	his_normalized	ئارىلاشما چۆكۈندە	Kept as printed: scan shows چۆكۈندە, used in 2011 (D02-03889 d) and 1990s (D90-4-08410 s). Other form: چۆكۈندى (2009 hw D_12907, 2011 D01-13330 h).
+D_00747	sub-entry	verified	016_col3.png	ئارىلاشما ئوقۇنۇش	ئارىلاشما ئوقۇتۇش	ours_wrong	ئارىلاشما ئوقۇتۇش	
+D_00801	sub-entry	verified	018_col2.png	ئازغان مۇنچىقى	ئازغان مونچىقى	print_error	ئازغان مونچىقى	print_error: scan shows ئازغان مۇنچىقى; print form found nowhere; 1990s has مونچىقى (D90-4-03245, verified).
+D_00964	sub-entry	verified	022_col2.png	ئاسمان قۇتۈپى	ئاسمان قۇتۇپى	ours_wrong	ئاسمان قۇتۇپى	
+D_00980	sub-entry	verified	022_col3.png	ئاش سۇيى	ئاش سۈيى	ours_wrong	ئاش سۈيى	يامغۇر سۈيى، بۇلاق سۈيى، ۇرۇبا سۈيى
+D_01003	sub-entry	verified	023_col2.png	ئاشقازان يىگىلەش	ئاشقازان يىگلەش	his_normalized	ئاشقازان يىگىلەش	Kept as printed: scan shows يىگىلەش (also 2009 D_29107 s, 1990s D90-6-07079 d). Same case as D_16687. Other form: يىگلەش (2009 hw D_37249, 2011 D02-18586 h).
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) ئاچماق	ئېغىز (ئېغىز) ئاچماق	his_wrong	ئاغىز (ئېغىز) ئاچماق	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) بارماسلىق	ئېغىز (ئېغىز) بارماسلىق	his_wrong	ئاغىز (ئېغىز) بارماسلىق	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) بۇزماق	ئېغىز (ئېغىز) بۇزماق	his_wrong	ئاغىز (ئېغىز) بۇزماق	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) بېسىقماق	ئېغىز (ئېغىز) بېسىقماق	his_wrong	ئاغىز (ئېغىز) بېسىقماق	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) بېسىلماي	ئېغىز (ئېغىز) بېسىلماي	his_wrong	ئاغىز (ئېغىز) بېسىلماي	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) تاتلىق قىلماق	ئېغىز (ئېغىز) تاتلىق قىلماق	his_wrong	ئاغىز (ئېغىز) تاتلىق قىلماق	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) تاتىلىماق	ئېغىز (ئېغىز) تاتىلىماق	his_wrong	ئاغىز (ئېغىز) تاتىلىماق	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) تامشىماق	ئېغىز (ئېغىز) تامشىماق	his_wrong	ئاغىز (ئېغىز) تامشىماق	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) تەگمەك	ئېغىز (ئېغىز) تەگمەك	his_wrong	ئاغىز (ئېغىز) تەگمەك	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) تۇۋاقلىماق	ئېغىز (ئېغىز) تۇۋاقلىماق	his_wrong	ئاغىز (ئېغىز) تۇۋاقلىماق	
+D_01109	sub-entry	verified	025_col3.png	ئاغىز (ئېغىز) تىيماق	ئېغىز (ئېغىز) تىيماق	his_wrong	ئاغىز (ئېغىز) تىيماق	
+D_01130	sub-entry	verified	026_col2.png	ئاق توندىرا كەكلىكى	ئاق تۇندىرا كەكلىكى	print_error	ئاق تۇندرا كەكلىكى	print_error: scan shows ئاق توندىرا كەكلىكى; print form توندىرا found nowhere. Correct form follows 2009's own headword تۇندرا (D_09784 h), consistent with D_09784 «تۇندرا كەكلىكى»/D_09784 «تۇندرا كىلىماتى» (not Gheyret's تۇندىرا, the 2011 form D01-10008). Correct form: ئاق تۇندرا كەكلىكى (do not copy F).
+D_01130	sub-entry	verified	026_col2.png	ئاق چوغلۇق	ئاق چۇغلۇق	his_wrong	ئاق چوغلۇق	
+D_01130	sub-entry	verified	026_col2.png	ئاق زوپار	ئاق زۇپا	his_wrong	ئاق زوپار	
+D_01130	sub-entry	verified	026_col2.png	ئاق سېپەگۈل	ئاق سىپەگۈل	ours_wrong	ئاق سىپەگۈل	
+D_01130	sub-entry	verified	026_col2.png	ئاق سىراچ	ئاق سىراج	his_wrong	ئاق سىراچ	
+D_01130	sub-entry	verified	026_col2.png	ئاق قار - كۆك مۇز	ئاق قار—كۆك مۇز	his_wrong	ئاق قار - كۆك مۇز	
+D_01357	sub-entry	verified	032_col3.png	ئالا بۇغداش	ئالا بوغداش	his_wrong	ئالا بۇغداش	
+D_01414	sub-entry	verified	034_col1.png	ئالەم ئۈچقۇچىسى	ئالەم ئۇچقۇچىسى	ours_wrong	ئالەم ئۇچقۇچىسى	
+D_01437	sub-entry	verified	034_col3.png	ئالتۇن پىرېمىئۇمى	ئالتۇن پىرېمىيومى	his_wrong	ئالتۇن پىرېمىئۇمى	
+D_01497	sub-entry	verified	036_col2.png	ئالدىن كۈچەندۈرۈش	ئالدىن كۈچلەندۈرۈش	print_error	ئالدىن كۈچلەندۈرۈش	print_error: scan shows ئالدىن كۈچەندۈرۈش; 2009's own headword كۈچلەندۈرۈش (D_25224 h).
+D_01634	sub-entry	verified	038_col3.png	ئالىي ئاگرانوم	ئالىي ئاگرونوم	print_error	ئالىي ئاگرونوم	print_error: scan shows ئالىي ئاگرانوم; 2009's own headword ئاگرونوم (D_01306 h); also 2011 (D01-01262 h) and 1990s (D90-1-01846 h).
+D_01634	sub-entry	verified	038_col3.png	ئالىي لىكتور	ئالىي لېكتور	ours_wrong	ئالىي لېكتور	print error, D02-06603 verified
+D_01642	sub-entry	verified	039_col1.png	ئاليومىن قەغەز	ئاليۇمىن قەغەز	ours_wrong	ئاليۇمىن قەغەز	print error, D01-01595 verified
+D_01723	sub-entry	verified	041_col1.png	ئامېرىكا مېھرىگىياسى	ئامېرىكا مېھرىگىياھى	print_error	ئامېرىكا مېھرىگىياھى	print_error: scan shows مېھرىگىياسى. 2009's own headword D_29134 «مېھرىگىياھ (مېھرىگىياھى)» gives the possessive مېھرىگىياھى; 2011 headword مېھرىگىياھ (D02-08985 h). مېھرىگىياسى is printed in D_01723, D_15340 and D_24439 only.
+D_01758	sub-entry	verified	041_col3.png	ئانالىتىك ئىستراتېگىرافىيە	ئانالىتىك ئىستراتېگرافىيە	ours_wrong	ئانالىتىك ئىستراتېگرافىيە	
+D_02017	sub-entry	verified	047_col1.png	ئايسىمان مىدوزا	ئايسىمان مېدۇزا	ours_wrong	ئايسىمان مېدۇزا	print error, D02-08915, D02-00858, D02-04758
+D_02133	sub-entry	verified	050_col2.png	ئەپقىچىش	ئەپقېچىش	ours_wrong	ئەپقېچىش	print error, follow rules: «ئېلىپ قاچماق» → «ئەپقاچماق» پېئىلىدىن ھەرىكەت ئىسمى ياسالغاندا جەزمەن ئەپقېچىش شەكلى ھاسىل بولىدۇ. «قاچماق» پېئىلىدىن ھېچقاشان «قىچىش» شەكلى ياسالمايدۇ.
+D_02331	sub-entry	verified	054_col2.png	ئەرچە سىيغا	ئەرچە سىرغا	print_error	ئەرچە سىرغا	print_error: scan shows ئەرچە سىيغا; 2009's own headword سىرغا (D_18735 h, earring); also 2011 (D01-19725 h) and 1990s (D90-3-06769 h).
+D_02418	sub-entry	verified	056_col1.png	ئەرۋاھى ئۈركىمەك	ئەرۋاھى ئۈركۈمەك	his_wrong	ئەرۋاھى ئۈركىمەك	
+D_02439	sub-entry	verified	056_col3.png	ئەزەلىيەت ئىدېيالىزمى	ئەزەلىيەت ئىدېئالىزمى	his_normalized	ئەزەلىيەت ئىدېيالىزمى	Kept as printed: scan shows ئىدېيالىزمى. Same family as D_07637/D_31138. Other form: ئىدېئالىزمى (2009 hw ئىدېئالىزم D_34439).
+D_02441	sub-entry	verified	056_col3.png	ئەزەلىيلىك ئىدېيالىزمى	ئەزەلىيلىك ئىدېئالىزمى	his_normalized	ئەزەلىيلىك ئىدېيالىزمى	Kept as printed: scan shows ئىدېيالىزمى. Same family as D_07637/D_31138. Other form: ئىدېئالىزمى (2009 hw ئىدېئالىزم D_34439).
+D_02611	sub-entry	verified	060_col2.png	ئەكىتىش	ئەكېتىش	his_normalized	ئەكىتىش	
+D_02613	sub-entry	verified	060_col2.png	ئەكىلىش	ئەكېلىش	his_normalized	ئەكىلىش	
+D_02639	sub-entry	verified	061_col1.png	ئەكىتىشمەك	ئەكېتىشمەك	his_normalized	ئەكىتىشمەك	
+D_02639	sub-entry	verified	061_col1.png	ئەكىتىشىش	ئەكېتىشىش	his_normalized	ئەكىتىشىش	
+D_02640	sub-entry	verified	061_col1.png	ئەكىتىلمەك	ئەكېتىلمەك	his_normalized	ئەكىتىلمەك	
+D_02640	sub-entry	verified	061_col1.png	ئەكىتىلىش	ئەكېتىلىش	his_normalized	ئەكىتىلىش	
+D_02645	sub-entry	verified	061_col2.png	ئەكىلىشمەك	ئەكېلىشمەك	his_normalized	ئەكىلىشمەك	
+D_02645	sub-entry	verified	061_col2.png	ئەكىلىشىش	ئەكېلىشىش	his_normalized	ئەكىلىشىش	
+D_02646	sub-entry	verified	061_col2.png	ئەكىلىنمەك	ئەكېلىنمەك	his_normalized	ئەكىلىنمەك	
+D_02646	sub-entry	verified	061_col2.png	ئەكىلىنىش	ئەكېلىنىش	his_normalized	ئەكىلىنىش	
+D_02682	sub-entry	verified	062_col1.png	ئەگمە توغان	ئەگمە تۇغان	his_normalized	ئەگمە توغان	
+D_03184	sub-entry	verified	071_col3.png	بارماق چۆگىلىمىچى	بارماق چۆرگۈلىمىچى	his_normalized	بارماق چۆگىلىمىچى	scan shows چۆگىلىمىچى, exactly as the 1990s headword D90-1-04201 (older spelling without ر, cf. 1990s پەلەك چۆگىلىمەك D90-1-08445). His چۆرگۈلىمىچى follows the standard stem in 2009 (D_12877) and 2011 (D01-13301 h). The print is not an error.
+D_03184	sub-entry	verified	071_col3.png	بارماق ئۇسۇلى	بارماق ئۇسسۇلى	his_normalized	بارماق ئۇسۇلى	
+D_03200	sub-entry	verified	072_col1.png	بارىي دالا شىپاتى	بارىي دالا ئىشپاتى	variant	بارىي دالا شىپاتى	Both spellings are headwords: شىپات (2009 D_19850 h; 2011 D01-20790 h) and ئىشپات (2011 D02-19079 h). Same case as D_16375.
+D_03205	sub-entry	verified	072_col1.png	بازار ئۈچۈرى	بازار ئۇچۇرى	ours_wrong	بازار ئۇچۇرى	
+D_03285	sub-entry	verified	074_col1.png	باش تىكەك	باش تىكمەك	ours_wrong	باش تىكمەك	
+D_03285	sub-entry	verified	074_col1.png	باش مارشال = جۈشۈەي	باش مارشال=جۇشۈەي	ours_wrong	باش مارشال = جۇشۇەي	Both wrong: scan shows باش مارشال = جۇشۇەي (ours had جۈشۈەي, his جۇشۈەي). Corrected in Imla Dictionary.
+D_03285	sub-entry	verified	074_col1.png	باش ۋەلىي	باش ۋالىي	ours_wrong	باش ۋالىي	
+D_03328	sub-entry	verified	076_col1.png	باشلاتماق	باشلاشماق	misaligned	باشلاتماق	
+D_03328	sub-entry	verified	076_col1.png	باشلىتىش	باشلىشىش	misaligned	باشلىتىش	
+D_03354	sub-entry	verified	076_col3.png	باغاش قىلماق	باش قىلماق	his_wrong	باغاش قىلماق	
+D_03460	sub-entry	verified	078_col2.png	بالىلار كېسەللىكلىرى ئىلم	بالىلار كېسەللىكلىرى ئىلمى	ours_wrong	بالىلار كېسەللىكلىرى ئىلمى	
+D_03718	sub-entry	verified	083_col2.png	بەرەس مەجۇنى	بەرەس مەجۈنى	print_error	بەرەس مەجۈنى	print_error: scan shows مەجۇنى; 2009's own headword مەجۈن (D_27875 h), also 2011 (D02-07380 h) and 1990s (D90-5-00879 h). Same misprint as D_10907.
+D_03821	sub-entry	verified	085_col2.png	بېلىنى ئۇشتۇماق	بېلىنى ئوشتۇماق	his_wrong	بېلىنى ئۇشتۇماق	
+D_03985	sub-entry	verified	088_col2.png	بوز ئېزەن	بوز ئىزەن	print_error	بوز ئىزەن	print_error: scan shows بوز ئېزەن; 2009's own headword ئىزەن (D_34542 h).
+D_04229	sub-entry	verified	093_col2.png	بويۇن ئۇمۇرتقىسى	بويۇن ئومۇرتقىسى	his_normalized	بويۇن ئۇمۇرتقىسى	Kept as printed: scan shows ئۇمۇرتقىسى; 2009 itself is split (D_23512 has the print; D_03821, D_25008 have ئومۇرتقىسى). Other form: ئومۇرتقىسى (1990s D90-1-05937 h).
+D_04307	sub-entry	verified	094_col3.png	بۇرژۇئازىيە دېكتاتۇرىسى	بۇرژۇئازىيە دىكتاتۇرىسى	print_error	بۇرژۇئازىيە دىكتاتۇرىسى	print_error: scan shows دېكتاتۇرىسى; 2009's own headword دىكتاتۇرا (D_15486) and sub-entries D_07072 and D_13807 have دىكتاتۇرىسى, as do 2011 (D02-06617) and the 1990s (D90-1-06050).
+D_04400	sub-entry	verified	096_col3.png	بۇغا تىنجىقى	بۇغا تىنچىقى	his_wrong	بۇغا تىنجىقى	
+D_04513	sub-entry	verified	098_col3.png	بۇي سالماق = ئسىرىق سالماق	بۇي سالماق = ئىسرىق سالماق	print_error	بۇي سالماق = ئىسرىق سالماق	print_error: scan shows ئسىرىق (ى and س swapped); 2009's own headword ئىسرىق (D_34733) and 2011 (D02-15706 h) have ئىسرىق.
+D_04665	sub-entry	verified	101_col3.png	بۈركۈتسىمان ھۇقۇش	بۈركۈتسىمان ھۇۋقۇش	his_normalized	بۈركۈتسىمان ھۇقۇش	scan shows ھۇقۇش (older spelling, as in 1990s D90-1-05084 d and D90-3-08118 d); ours corrected from ھوقۇش. His ھۇۋقۇش matches 2009's own headword D_30819 and 2011 D01-04835 d.
+D_04667	sub-entry	verified	101_col3.png	بۈرگىدىن پوستۇمبا ئالماق	بۈرگىدىن پوستومبا ئالماق	his_wrong	بۈرگىدىن پوستۇمبا ئالماق	scan shows پوستۇمبا, as in 2011 (D01-06567 h) and 1990s (D90-1-06426 s). His پوستومبا follows 2009's own headword D_06375. 2009 is inconsistent here; the print is not an error.
+D_04867	sub-entry	verified	105_col3.png	بېنزىن پومپا	بېنزىن پومبا	print_error	بېنزىن پومپا	print_error: scan shows پومبا; intended form is پومپا (pump). Our extraction already has پومپا. Logged in print_errors.
+D_04968	sub-entry	verified	107_col2.png	بىر ئات - بىر قامچا	بىر ئات، بىر قامچا	his_wrong	بىر ئات - بىر قامچا	
+D_04968	sub-entry	verified	107_col2.png	بىر بۆلۈك	بىر بۆلەك	his_normalized	بىر بۆلۈك	scan shows بىر بۆلۈك, as used in 2011 (D01-08609 d) and 1990s (D90-1-06887 d). His بىر بۆلەك follows the 1990s headword D90-1-06787. Both are valid words (بۆلۈك group, بۆلەك part); the print is not an error.
+D_05034	sub-entry	verified	109_col3.png	بىرلەمچى مېنېرال	بىرلەمچى مىنېرال	print_error	بىرلەمچى مىنېرال	
+D_05070	sub-entry	verified	110_col2.png	بىرىكمە لېنزا	بىرىكمە لىنزا	print_error	بىرىكمە لىنزا	print_error: scan shows لېنزا (same in D_05070, D_06819, D_24247); 2009's own headword لىنزا (D_27320, verified) and its other sub-entries have لىنزا, as does 2011 (D02-06735 h, verified). لېنزا is not found outside these three rows.
+D_05564	sub-entry	verified	120_col2.png	پارچە كوررېكتور	پارچە كوررېكتورلۇق	his_wrong	پارچە كوررېكتور	
+D_05586	sub-entry	verified	121_col1.png	پارقىراق مەرزەنجۈش	پارقىراق مەرزەنجۇش	his_normalized	پارقىراق مەرزەنجۈش	scan shows مەرزەنجۈش, as in 2011 (D02-07474 h) and 1990s (D90-5-00994 h). His مەرزەنجۇش follows 2009's own headword D_27956. 2009 is inconsistent here; the print is not an error.
+D_05669	sub-entry	verified	123_col1.png	پاشخورلار ئائىلىسى	پاشىخورلار ئائىلىسى	ours_wrong	پاشىخورلار ئائىلىسى	
+D_05766	sub-entry	verified	124_col3.png	پالاقچە پۇت	پالاقچە پۈت	his_wrong	پالاقچە پۇت	
+D_05882	sub-entry	verified	126_col3.png	پاۋلوۋ تەلىماتى	پاۋلوف تەلىماتى	his_wrong	پاۋلوۋ تەلىماتى	
+D_05980	sub-entry	verified	129_col2.png	پەجمۈردە بولماق	پەجمۇردە بولماق	ours_wrong	پەجمۇردە بولماق	
+D_05980	sub-entry	verified	129_col2.png	پەجمۈردە قىلماق	پەجمۇردە قىلماق	ours_wrong	پەجمۇردە قىلماق	
+D_06159	sub-entry	verified	133_col1.png	پەلەك چۆرگىلىمەك	پەلەك چۆرگۈلىمەك	his_normalized	پەلەك چۆرگىلىمەك	scan shows چۆرگىلىمەك, a variant also used in 2011 definitions (D01-07238 d) and quotes (D01-01353, D90-1-01944). His چۆرگۈلىمەك follows the headword in 2009 (D_12877) and 2011 (D01-13301 h). The print is not an error.
+D_06161	sub-entry	verified	133_col1.png	پەلەمپەي ئېتىز	پەلەمپەي ئېتىش	his_wrong	پەلەمپەي ئېتىز	
+D_06246	sub-entry	verified	135_col1.png	پەي رېفلېكىسى	پەي رېفلېكسى	print_error	پەي رېفلېكسى	print_error: scan shows پەي رېفلېكىسى; print form found nowhere; Gheyret's form is the intended one.
+D_06247	sub-entry	verified	135_col1.png	پەي شەمشات	پەي شەمشاد	print_error	پەي شەمشاد	print_error: scan shows شەمشات; 2009's own headword شەمشاد (D_19561) and sub-entries D_01130 and D_21088 have شەمشاد, as do 2011 (D01-20502 h) and the 1990s (D90-3-07844 h). شەمشات is not found in any dictionary.
+D_06577	sub-entry	verified	142_col1.png	پۇرچاق كۈنجۇرىسى	پۇرچاق كۈنجۈرىسى	ours_wrong	پۇرچاق كۈنجۈرىسى	
+D_06577	sub-entry	verified	142_col1.png	پۇرچاق مېتىسى	پۇرچاق مىتىسى	print_error	پۇرچاق مىتىسى	print_error: scan shows مېتىسى (same in D_06577 and D_24974); 2009's other pest sub-entries (D_01021, D_03423, D_25103, D_26385, D_27516) have مىتىسى, as does the 1990s (D90-5-09341 s). مېتىسى is not found outside these two rows.
+D_06595	sub-entry	verified	142_col3.png	پۇرۇپكىلىق دۇب	پۇرۇپكىلىق دۇپ	his_wrong	پۇرۇپكىلىق دۇب	
+D_06652	sub-entry	verified	143_col3.png	پۇل پېربۇۋتى	پۇل پېرېۋوتى	print_error	پۇل پېرېۋوتى	print_error: scan shows پۇل پېربۇۋتى; print form found nowhere; Gheyret's form is the intended one (پېرېۋوت: 2009 hw D_06852, 2011 D01-07058 h).
+D_06819	sub-entry	verified	148_col1.png	پېتىنغۇ لېنزا	پېتىنغۇ لىنزا	print_error	پېتىنغۇ لىنزا	print_error: scan shows لېنزا (same in D_05070, D_06819, D_24247); 2009's own headword لىنزا (D_27320, verified) and its other sub-entries have لىنزا, as does 2011 (D02-06735 h, verified). لېنزا is not found outside these three rows.
+D_06864	sub-entry	verified	148_col3.png	پېشانىغا پۈتۈلمەك	پېشانىگە پۈتۈلمەك	his_normalized	پېشانىغا پۈتۈلمەك	scan shows پېشانىغا (older dative, as in the 1990s headwords D90-1-09446 and D90-1-09447). His پېشانىگە follows 2011 (D01-07074 h, D01-07075 h). The print is not an error.
+D_06864	sub-entry	verified	148_col3.png	پېشانىغا تەگمەك	پېشانىگە تەگمەك	his_normalized	پېشانىغا تەگمەك	scan shows پېشانىغا تەگمەك (older dative), exactly as the 1990s headword D90-1-09446. His پېشانىگە follows 2011 (D01-07074 h, D01-07075 h). The print is not an error.
+D_06864	sub-entry	verified	148_col3.png	پېشانىغا قويماق	پېشانىگە قويماق	his_normalized	پېشانىغا قويماق	scan shows پېشانىغا قويماق (older dative), exactly as the 1990s headwords D90-1-09447 and D90-1-10086. His پېشانىگە follows 2011 (D01-07074 h, D01-07075 h). The print is not an error.
+D_07028	sub-entry	verified	151_col3.png	پىرقىراش رادىئۇسى	پىرقىراش رادىيوسى	his_wrong	پىرقىراش رادىئۇسى	his_wrong: scan shows رادىئۇسى (radius: 2009 headword D_15644, 2011 D01-16600 h). His رادىيوسى is the possessive of رادىيو "radio" (D_15653), a different word.
+D_07080	sub-entry	verified	152_col3.png	پىرويېكسىيە گېئومېتىرىيە	پىرويېكسىيە گېئومېتىرىيەسى	ours_wrong	پىرويېكسىيە گېئومېتىرىيەسى	
+D_07249	sub-entry	verified	156_col1.png	پىلە قۇرتى قوچىقى	پىلە قۇرتى قورچىقى	print_error	پىلە قۇرتى قورچىقى	print_error: scan shows قوچىقى (not found in any dictionary). The pupa word is قورچاق / قورچىقى (2009 D_22152; 2011 D02-14529 d; 1990s D90-4-06177 d). قۇچىقى (D_22578, D90-4-02951) is a different word, from قۇچاق "embrace".
+D_07249	sub-entry	verified	156_col1.png	پىلە قۇرتىدەك كىمىرمەك	پىلە قۇرتىدەك كېمىرمەك	print_error	پىلە قۇرتىدەك كېمىرمەك	print_error: scan shows كىمىرمەك (not found in any dictionary). Standard form is كېمىرمەك (2009 D_25630 s; 2011 D02-04961 h; 1990s D90-4-07848 h).
+D_07321	sub-entry	verified	157_col2.png	پىيادە پوست	پىيادە دوست	his_wrong	پىيادە پوست	
+D_07329	sub-entry	verified	157_col3.png	پىيونېرلار لاگىرى	پىيونېرلار لاگېرى	his_normalized	پىيونېرلار لاگىرى	his_normalized: scan shows لاگىرى, and 2009 itself is inconsistent (لاگىرى D_11039; لاگېرى D_02563, D_28657). Gheyret's لاگېرى matches the full phrase in 2011 (D02-06251) and the majority in 1990s (D90-1-04876, D90-1-09844, D90-4-09697 vs لاگىرى D90-2-05117).
+D_07637	sub-entry	verified	164_col2.png	تارىخىي ئىدىيالىزم	تارىخىي ئىدېئالىزم	his_normalized	تارىخىي ئىدىيالىزم	his_normalized: scan shows ئىدىيالىزم (also in D_31138). Dominant form ئىدېئالىزم is the 2009 headword (D_34439 h) and used in D_06175, D_08864, D_17959; also 2011 headword D02-15361 h and 1990s D90-2-00356 h. Kept as printed.
+D_07680	sub-entry	verified	165_col3.png	تاسما جۆدەر	تاسما چېدەر	his_normalized	تاسما جۆدەر	his_normalized: scan shows جۆدەر, the older spelling of the same word (hobble strap). 1990s headword جۆدەر D90-2-05907; also تاسما جۆدەر D90-2-00407 and ھالقىلىق جۆدەر D90-5-05126. 2009 headword is چېدەر (D_13088); 2011 D01-13545 h (also glosses D01-13408, D01-13505). Kept as printed.
+D_07688	sub-entry	verified	165_col3.png	تاش دۆمبەل	تاش دۈمبەل	print_error	تاش دۈمبەل	print_error: scan shows دۆمبەل. The 1990s marks it wrong itself: D90-3-01420 «دۆمبەل (توغرىسى: دۈمبەل)». Headword is دۈمبەل in 2009 (D_15262 h), 2011 (D01-16178 h) and 1990s (D90-3-01533 h).
+D_07688	sub-entry	verified	165_col3.png	تاش كۆزەينەك	تاش كۆزئەينەك	his_wrong	تاش كۆزەينەك	
+D_07688	sub-entry	verified	165_col3.png	تاش ئۈستەڭ	تاش ئۆستەڭ	ours_wrong	تاش ئۆستەڭ	
+D_07689	sub-entry	verified	166_col1.png	تاش چاتقۇ	تاش چاقۇ	his_wrong	تاش چاتقۇ	We follow the print (ours). چاتقۇ = tool for joining things, clamp (2011 D01-12369 h); printed in 2009 sub-entries under تاش² (D_07689). His چاقۇ is a different word: slander / hook (2011 D01-12609, D01-12610; 2009 D_12184).
+D_07738	sub-entry	verified	167_col2.png	تاشلىق قاراقېتى	تاشلىق قارىقېتى	his_wrong	تاشلىق قاراقېتى	We follow the print (ours): تاشلىق قاراقېتى is the D_07738 sub-entry. No other dictionary has either form. His قارىقېتى looks like ا→ى vowel weakening, but nothing supports it.
+D_07747	sub-entry	verified	167_col3.png	تاغ ئۈچكىسى	تاغ ئۆچكىسى	ours_wrong	تاغ ئۆچكىسى	
+D_07781	sub-entry	verified	168_col2.png	تاق ئىنتېرۋال	تاق ئېنتېرۋال	variant	تاق ئىنتېرۋال	variant: scan shows ئىنتېرۋال. Both spellings are full headwords with the same etymology and meaning in 2011 (D02-16375 / D02-14968) and 1990s (D90-6-04193 / D90-6-01643). 2009 headword is ئېنتېرۋال (D_34142), but 6 sub-entries use ئىنتېرۋال (D_12475, D_16683, D_22250, D_26008 +2). Kept as printed.
+D_07787	sub-entry	verified	168_col3.png	تاقىش	تاقاش	ours_wrong	تاقاش	
+D_07861	sub-entry	verified	170_col2.png	تاكتىكا مەشىقى	تاكتىكا مەشقى	his_normalized	تاكتىكا مەشىقى	his_normalized: scan shows مەشىقى. 2009 headword D_28091 «مەشىق (مەشقى)» gives the possessive as مەشقى (ى drops), also used in D_14451 (دالا مەشقى); Gheyret follows that. But مەشىقى is common in 2011 (D02-02732, D02-06132, D02-12067) and 1990s (D90-1-04779, D90-2-02019 +12) definitions. Kept as printed.
+D_07865	sub-entry	verified	170_col2.png	تاكتىكىلىق يادرو قوراللىزى	تاكتىكىلىق يادرو قوراللىرى	ours_wrong	تاكتىكىلىق يادرو قوراللىرى	
+D_07919	sub-entry	verified	171_col2.png	تال چۇقۇقى	تال چىقۇقى	his_wrong	تال چۇقۇقى	
+D_07946	sub-entry	verified	172_col1.png	تالالىق ئاگاۋى	تالالىق ئاگاۋا	his_wrong	تالالىق ئاگاۋى	
+D_07995	sub-entry	verified	172_col3.png	تاللىما يالىنىش	تاللىما يالىتىش	his_wrong	تاللىما يالىنىش	
+D_08029	sub-entry	verified	173_col3.png	تاماكا مەشۈتى	تاماكا مەشۇتى	print_error	تاماكا مەشۇتى	Scan shows مەشۈتى (ours matches the print), but مەشۈتى occurs nowhere else. مەشۇتى with ۇ appears in 2009 (D_07249 s), 2011 (D01-07428 d) and 1990s (D90-1-09777 d). Gheyret's form is the intended one.
+D_08092	sub-entry	verified	175_col1.png	تانكا قىسمى	تانكا قىسىم	ours_wrong	تانكا قىسىم	
+D_08109	sub-entry	verified	175_col1.png	تاۋار بىرژىسى	تاۋار بېرژىسى	his_wrong	تاۋار بىرژىسى	
+D_08170	sub-entry	verified	176_col3.png	تايانچ بولت	تايانچ بولتا	print_error	تايانچ بولتا	print_error: scan shows بولت. 2009's own headword بولتا (D_04131 h) and its other sub-entries (D_22230, D_22250, D_28760) have بولتا, as do 2011 (D01-04279 h) and 1990s (D90-1-05783 h). بولت appears only once, inside a 2011 definition (D01-02362 d).
+D_08194	sub-entry	verified	177_col1.png	تايلاقلىق ھىنگان	تايلاقلىق ھىڭگان	print_error	تايلاقلىق ھىڭگان	print_error: scan shows ھىنگان. 2009's own headwords D_21871 and D_31081 have ھىڭگان, as do 2011 (D02-11554 h) and the 1990s headword (D90-5-06397 h). ھىنگان occurs only in two 1990s definitions (D90-4-00307 d, D90-6-06519 d).
+D_08226	sub-entry	verified	178_col1.png	تەبىئىي پەسل	تەبىئىي پەسىل	ours_wrong	تەبىئىي پەسىل	
+D_08226	sub-entry	verified	178_col1.png	تەبىئىي سولفات	تەبىئىي سۇلفات	print_error	تەبىئىي سۇلفات	print_error: scan shows سولفات. 2009's own headword سۇلفات (D_18070 h) and its other sub-entries (D_03200, D_09917, D_23884, …) have سۇلفات, as do 2011 (D01-19101 h) and the 1990s (D90-3-05816 s). سولفات also appears in 2009 D_19022 and twice in the 1990s (D90-1-02299 s, D90-4-09365 d).
+D_08278	sub-entry	verified	179_col2.png	تەتۈر تېئورىما	تەتۈر تېئورېما	print_error	تەتۈر تېئورېما	print_error: scan shows تېئورىما. 2009's own headword تېئورېما (D_10468 h) and its other sub-entries (D_00867, D_31593, D_35424) have تېئورېما, as does the 1990s headword (D90-2-01205 h). 2011 is split: headword D01-10739 has تېئورىما, but D02-16500 d uses تېئورېما. تېئورىما also appears in 2009 D_26564.
+D_08283	sub-entry	verified	179_col3.png	تەجرىبە سۇبىستانسىيەسى	تەجرىبە سۇبستانسىيەسى	his_wrong	تەجرىبە سۇبىستانسىيەسى	
+D_08355	sub-entry	verified	181_col2.png	تەرەققىيات جۇغراپىيەسى	تەرەققىيات جۇغراپىيە	his_wrong	تەرەققىيات جۇغراپىيەسى	
+D_08378	sub-entry	verified	182_col1.png	تەرتىپلىك دەۋرلىنىش	تەرتىپلىك دەۋرىيلىنىش	his_wrong	تەرتىپلىك دەۋرلىنىش	
+D_08510	sub-entry	verified	184_col3.png	تەسۋىسىمان يۇسۇن	تەسۋىسىمان يۈسۈن	his_wrong	تەسۋىسىمان يۇسۇن	
+D_08793	sub-entry	verified	191_col1.png	تەمە قىلماق	تەمە قىلما	his_wrong	تەمە قىلماق	
+D_08864	sub-entry	verified	192_col3.png	تەنقىدىي ئەقلىيچىلىق	تەنقىدىي ئەقلىيچىلىك	ours_wrong	تەنقىدىي ئەقلىيچىلىك	
+D_09039	sub-entry	verified	196_col3.png	تور كارتى	تور كارتىسى	his_wrong	تور كارتى	
+D_09055	sub-entry	verified	197_col1.png	تورسىمان يۇسۇن	تورسىمان يۈسۈن	ours_wrong	تورسىمان يۈسۈن	
+D_09057	sub-entry	verified	197_col1.png	تورغاي چۇچىلىماستا	تورغاي چۇچۇلىماستا	his_wrong	تورغاي چۇچىلىماستا	
+D_09130	sub-entry	verified	198_col3.png	توسمىدىن سەكرەش ئات بەيگ	توسمىدىن سەكرەش ئات بەيگىسى	ours_wrong	توسمىدىن سەكرەش ئات بەيگىسى	
+D_09255	sub-entry	verified	201_col2.png	توقۇمچىلىق سانائىتى	توقۇمىچىلىق سانائىتى	ours_wrong	توقۇمىچىلىق سانائىتى	
+D_09255	sub-entry	verified	201_col2.png	توقۇمچىلىق فابرىكىسى	توقۇمىچىلىق فابرىكىسى	ours_wrong	توقۇمىچىلىق فابرىكىسى	
+D_09255	sub-entry	verified	201_col2.png	توقۇمچىلىق ئىشچىسى	توقۇمىچىلىق ئىشچىسى	ours_wrong	توقۇمىچىلىق ئىشچىسى	
+D_09268	sub-entry	verified	201_col2.png	توك دۇخۇپكا	توك دۇخوپكا	print_error	توك دۇخوپكا	print_error: scan shows دۇخۇپكا; 2009's own headword دۇخوپكا (D_15067 h), also 2011 (D01-15969 h) and 1990s (D90-3-01232 h).
+D_09346	sub-entry	verified	203_col3.png	تولۇق ئانتېگېن	تولۇق ئانتىگېن	print_error	تولۇق ئانتىگېن	print_error: scan shows ئانتېگېن; 2009's own headword ئانتىگېن (D_01782 h) and sub-entry D_36940, also 2011 (D01-01714 h) and 1990s (D90-1-02397 h).
+D_09359	sub-entry	verified	204_col2.png	توم سالاماندىرا	توم سالاماندرا	print_error	توم سالاماندرا	print_error: scan shows سالاماندىرا; 2009's own headword سالاماندرا (D_17000 h) and sub-entry D_37280. سالاماندىرا appears only once, in a 1990s definition (D90-4-02285 d).
+D_09703	sub-entry	verified	212_col1.png	تۇغۇش قىلماق	تۇغۇشۇش قىلماق	his_wrong	تۇغۇش قىلماق	Scan supports ours: تۇغۇش قىلماق is a headword in 2011 (D01-09929 h) and 1990s (D90-2-09576 h); his تۇغۇشۇش قىلماق not found.
+D_09774	sub-entry	verified	213_col2.png	تۇمۇقىلاش	تۇمۇقاش	misaligned	تۇمۇقىلاش	Not a real difference: ours تۇمۇقىلاش is a sub-entry of D_09774 تۇمۇقا _; his تۇمۇقاش is the next headword D_09775 تۇمۇقاش _.
+D_09784	sub-entry	verified	213_col3.png	تۇندرا كەكلىكى	تۇندىرا كەكلىكى	his_normalized	تۇندرا كەكلىكى	Kept as printed: scan shows تۇندرا, as 2009's own headword D_09784 and the 1990s headword D90-2-03425. 2011 form: تۇندىرا (D01-10008 h).
+D_09784	sub-entry	verified	213_col3.png	تۇندرا كىلىماتى	تۇندىرا كىلىماتى	his_normalized	تۇندرا كىلىماتى	Kept as printed: scan shows تۇندرا, as 2009's own headword D_09784 and the 1990s headword D90-2-03425. 2011 form: تۇندىرا (D01-10008 h).
+D_09829	sub-entry	verified	214_col3.png	تۆتۆتلىمەك	تۆتتۆتلىمەك	his_wrong	تۆتۆتلىمەك	
+D_09829	sub-entry	verified	214_col3.png	تۆتۆتلەش	تۆتتۆتلەش	his_wrong	تۆتۆتلەش	
+D_09878	sub-entry	verified	215_col3.png	تۆگىنى ئۇسۇلغا سالماق	تۆگىنى ئۇسسۇلغا سالماق	print_error	تۆگىنى ئۇسسۇلغا سالماق	print_error: scan shows ئۇسۇلغا (ئۇسۇل = method); the idiom is about dancing, ئۇسسۇل. 2009's own headword ئۇسسۇل (D_32087 h) and the parallel sub-entry جىننى ئۇسسۇلغا سالماق (D_11847), also 2011 (D02-12729 h) and 1990s (D90-2-06208 s).
+D_09917	sub-entry	verified	216_col2.png	تۆمۈر II سۇلفات	تۆمۈر سۇلفات	his_wrong	تۆمۈر II سۇلفات	Scan shows تۆمۈر II سۇلفات; Gheyret dropped the oxidation number II. Elsewhere 2009 writes it in brackets: ئازوت (II) ئوكسىدى (D_00824), كاربون (II) ئوكسىدى (D_23696).
+D_09917	sub-entry	verified	216_col2.png	تۆمۈر II ئوكسىد	تۆمۈر ئوكسىد	his_wrong	تۆمۈر II ئوكسىد	Scan shows تۆمۈر II ئوكسىد; Gheyret dropped the oxidation number II. Elsewhere 2009 writes it in brackets: ئازوت (II) ئوكسىدى (D_00824), كاربون (II) ئوكسىدى (D_23696).
+D_10245	sub-entry	verified	223_col3.png	تېپىلماسلىق خورمىسى	تېپىلماسنىڭ خورمىسى	ours_wrong	تېپىلماسنىڭ خورمىسى	
+D_10435	sub-entry	verified	227_col2.png	تېلېمېتىرلىك پىليۇۋىيوگراف	تېلېمېتىرلىق پىليۇۋىيوگراف	his_wrong	تېلېمېتىرلىك پىليۇۋىيوگراف	
+D_10437	sub-entry	verified	227_col2.png	تېلېۋىزىيە سىنارىيەسى	تېلېۋىزىيە سېنارىيەسى	ours_wrong	تېلېۋىزىيە سېنارىيەسى	
+D_10643	sub-entry	verified	231_col3.png	تىرىكلىكنىڭ نىشانىسى	تىرىكلىكنىڭ نىشانى	print_error	تىرىكلىكنىڭ نىشانى	print_error: scan shows نىشانىسى (double possessive). 2009's own headword «نىشان (نىشانى)» (D_30131 h) gives نىشانى, as in sub-entry ئېتىش نىشانى (D_33641); also 2011 (D01-01598 d) and 1990s (D90-6-03751 s). نىشانىسى appears only in two 1990s definitions.
+D_10646	sub-entry	verified	231_col3.png	تىرىگونومېتىرىيەلىك فونكىسىيە	تىرىگونومېتىرىيەلىك فۇنكسىيە	ours_wrong	تىرىگونومېتىرىيەلىك فۇنكسىيە	
+D_10731	sub-entry	verified	233_col3.png	تىك قىزتقۇچ	تىك قىزىتقۇچ	ours_wrong	تىك قىزىتقۇچ	
+D_10731	sub-entry	verified	233_col3.png	تىك نۇرلاتغۇچ	تىك نۇرلاتقۇچ	ours_wrong	تىك نۇرلاتقۇچ	
+D_10742	sub-entry	verified	234_col2.png	تىكەنلىك توخۇمەك	تىكەنلىك تۇخۇمەك	ours_wrong	تىكەنلىك تۇخۇمەك	
+D_10907	sub-entry	verified	238_col3.png	تىنچىتما مەجۇن	تىنچىتما مەجۈن	print_error	تىنچىتما مەجۈن	print_error: scan shows مەجۇن; 2009's own headword مەجۈن (D_27875 h), also 2011 (D02-07380 h) and 1990s (D90-5-00879 h). مەجۇن appears only in a few definitions.
+D_11039	sub-entry	verified	241_col3.png	جازا لاگىرى	جازا لاگېرى	his_normalized	جازا لاگىرى	Kept as printed: scan shows لاگىرى; 2009 itself is split (لاگىرى here and D_07329; لاگېرى D_02563, D_28657). The 1990s has لاگىرى (D90-2-05117 s). Gheyret's form: لاگېرى (2011 D02-06251 d).
+D_11223	sub-entry	verified	246_col2.png	جاھاننى ئاستىن - ئۈستۈن قىلماق	جاھاننى ئاستىن-ئۈستۈن تىلماق	his_wrong	جاھاننى ئاستىن - ئۈستۈن قىلماق	
+D_11379	sub-entry	verified	249_col2.png	جەنۇبىي ماگنىت قۇتۇبى	جەنۇبىي ماگنىت قۇتۇپى	print_error	جەنۇبىي ماگنىت قۇتۇپى	print_error: scan shows قۇتۇبى; 2009's own headword ئېلېكتىرود = ئېلېكتىر قۇتۇپى (D_34055 h) and sub-entries D_01414, D_17086, D_27588 have قۇتۇپى, as do 2011 (D02-07054 h) and 1990s (D90-2-05661 h).
+D_11512	sub-entry	verified	251_col3.png	جۇڭغار بوۋانىسى	جۇڭغار بۇۋانىسى	his_wrong	جۇڭغار بوۋانىسى	
+D_11514	sub-entry	verified	251_col3.png	جۇڭگو پېچەكگۈلى	جۇڭگو پىچەكگۈلى	print_error	جۇڭگو پىچەكگۈلى	print_error: scan shows پېچەكگۈلى; 2009's own headword پىچەكگۈل (D_06954 h) and sub-entry ئېتىز پىچەكگۈلى (D_33638), also 2011 (D01-07166 h). پېچەكگۈل also printed in 2009 D_20446 (غۇژمەك).
+D_11753	sub-entry	verified	256_col3.png	جىگەر زۇلۈكى	جىگەر زۈلۈكى	ours_wrong	جىگەر زۈلۈكى	
+D_11870	sub-entry	verified	259_col2.png	جىنسىي ئۆسپورا	جىنسىي ئىسپورا	ours_wrong	جىنسىي ئىسپورا	
+D_11880	sub-entry	verified	259_col3.png	جىنۇ تىلى	جىنو تىلى	ours_wrong	جىنو تىلى	
+D_11955	sub-entry	verified	261_col2.png	چاپلىما ئولاق	چاپلىما ئۇلاق	ours_wrong	چاپلىما ئۇلاق	
+D_12093	sub-entry	verified	264_col1.png	چاسا پىلتە	چاسا پىل	his_wrong	چاسا پىلتە	Scan shows پىلتە (wick); ours matches. Gheyret's پىل (elephant) cuts the word short. پىلتە is a 1990s headword (D90-1-09785 h); not in 2009 or 2011 outside this row.
+D_12165	sub-entry	verified	265_col2.png	چاقلاش ئىستانۇكى	چاقلاش ئىستانوكى	print_error	چاقلاش ئىستانوكى	print_error: scan shows ئىستانۇكى; 2009's own headword ئىستانوك (D_34661 h) and sub-entries D_07089, D_09236, D_15898 have ئىستانوكى, as does 2011 (D02-15606 h).
+D_12463	sub-entry	verified	271_col1.png	چەك پېرىۋوتى	چەك پېرېۋوتى	his_normalized	چەك پېرىۋوتى	Kept as printed: scan shows پېرىۋوتى. The stem پېرىۋوت is a 1990s headword (D90-6-02234 h, verified), whose definition uses چەك in the same sense, so چەك پېرىۋوتى is supported. Same case as D_34370 «ئىچكى پېرىۋوت». Other form: چەك پېرېۋوتى (2009 hw پېرېۋوت D_06852, 2011 D01-07058 h).
+D_12475	sub-entry	verified	271_col2.png	چەكسىز ئىنتېرۋال	چەكسىز ئېنتېرۋال	variant	چەكسىز ئىنتېرۋال	Same case as D_07781: ئىنتېرۋال and ئېنتېرۋال are both headwords (2009 D_34142 h; 2011 D02-16375 h / D02-14968 h; 1990s D90-6-04193 h / D90-6-01643 h). Ours follows the print.
+D_12475	sub-entry	verified	271_col2.png	چەكسىز يېىشم	چەكسىز يېشىم	ours_wrong	چەكسىز يېشىم	
+D_12644	sub-entry	verified	274_col3.png	چوڭ جاغ	چوڭ باغ	his_wrong	چوڭ جاغ	
+D_12644	sub-entry	verified	274_col3.png	چوڭ كاككۈك	چوڭ كاككۇك	ours_wrong	چوڭ كاككۇك	
+D_12695	sub-entry	verified	276_col1.png	چولىسى تەگمەك	چولا تەگمەك	his_wrong	چولىسى تەگمەك	
+D_12870	sub-entry	verified	278_col3.png	چۆچۈرە بادامدويپا	چۆچۈرە بادام دوپپا	print_error	چۆچۈرە بادام دوپپا	print_error: scan shows بادامدويپا (ي for پ; دويپا is not a word). 2009's own sub-entry بادام دوپپا (D_03110) and headword دوپپا (D_14845 h) give Gheyret's form; 2011 writes it as one word بادامدوپپا (D01-03138 h).
+D_12895	sub-entry	verified	279_col2.png	چۆكتۈرۈپ سۇغۇرماق	چۆكتۈرۈپ سۇغارماق	his_wrong	چۆكتۈرۈپ سۇغۇرماق	Kept as printed: scan shows سۇغۇرماق (to pull out), a valid word (2011 D01-19068 h; 1990s D90-3-05776 h). Gheyret's سۇغارماق (to irrigate) is not supported; phrase occurs only here. Low confidence: meaning not checked against a definition.
+D_13107	sub-entry	verified	283_col3.png	چېقىر كۆز چۆككەك ئۆردەك	چېقىر كۆز چۈمگەك ئۆردەك	print_error	چېقىر كۆز چۈمگەك ئۆردەك	print_error: scan shows چۆككەك; 2009's own headword چۈمگەك (D_13034 h), also 2011 (D01-13481 h) and 1990s (D90-2-07635 h). چۆككەك occurs only in 2009 sub-entries (here, D_21088, D_23247).
+D_13152	sub-entry	verified	284_col3.png	چېگرا رايون ئىقتىسادشۇناسى	چېگرا رايون ئىقتىسادشۇناسلىقى	ours_wrong	چېگرا رايون ئىقتىسادشۇناسلىقى	
+D_13197	sub-entry	verified	285_col3.png	چىپار تۇرۇلغا	چىپار تورۇلغا	his_wrong	چىپار تۇرۇلغا	
+D_13326	sub-entry	verified	288_col2.png	چىش تاجىسى	چىش تاجى	his_wrong	چىش تاجىسى	
+D_13469	sub-entry	verified	291_col2.png	چىلگە بىشەكەشېرىن	چىلگە بىشەكشېرىن	ours_wrong	چىلگە بىشەكشېرىن	
+D_13550	sub-entry	verified	292_col3.png	چىنلىق نەزەرىيەسى = رېئاللىق	چىنلىق نەزەرىيەسى = رېئالىزم	ours_wrong	چىنلىق نەزەرىيەسى = رېئالىزم	
+D_13634	sub-entry	verified	294_col3.png	خاس ۋېكسىل	خاس ۋېكسېل	print_error	خاس ۋېكسېل	print_error: scan shows ۋېكسىل (found nowhere else); 2009's own headword ۋېكسېل (D_33498 h), also 2011 (D02-14270 h) and 1990s (D90-6-00605 h).
+D_13714	sub-entry	verified	296_col3.png	خان تۇرۇلغا	خان تورۇلغا	his_wrong	خان تۇرۇلغا	
+D_13747	sub-entry	verified	297_col1.png	خەت باسمىق	خەت باسماق	ours_wrong	خەت باسماق	
+D_13801	sub-entry	verified	298_col1.png	خەقنىڭ سايىسىدا جان باقماق	خەقنىڭ سايىسىدە جان باقماق	his_wrong	خەقنىڭ سايىسىدا جان باقماق	
+D_13822	sub-entry	verified	299_col1.png	خەمەك توپچە	خەمەك توپچا	his_normalized	خەمەك توپچە	Kept as printed: scan shows خەمەك توپچە, exactly as the 1990s headword D90-2-08792. 2011 form: توپچا (D01-09214 h); 2009 headword توپچا (D_08974).
+D_13881	sub-entry	verified	300_col2.png	خەينەن چىپار قاقىرىسى	خەينەن چىپار قاقىراسى	print_error	خەينەن چىپار قاقىراسى	print_error: scan shows قاقىرىسى (found nowhere else); 2009's own headword «قاقىرا (قاقىراسى)» (D_21511 h) gives the possessive قاقىراسى, as does sub-entry D_16848.
+D_13919	sub-entry	verified	301_col1.png	خورەك تارتماق	خورەك ئارتماق	his_wrong	خورەك تارتماق	
+D_14371	sub-entry	verified	310_col2.png	داش قازاننىڭ ئېشى	داش قازاننىڭ ئىشى	his_wrong	داش قازاننىڭ ئېشى	
+D_14451	sub-entry	verified	312_col1.png	دالا شىپاتى	دالا ئىشپاتى	his_wrong	دالا شىپاتى	
+D_14470	sub-entry	verified	312_col2.png	دالۋايلىشماق	دالۋايلاشماق	ours_wrong	دالۋايلاشماق	
+D_14542	sub-entry	verified	314_col1.png	داۋاملىق ئۇچماق	داۋالىق ئۇچماق	his_wrong	داۋاملىق ئۇچماق	
+D_14784	sub-entry	verified	318_col3.png	دېمى ئىچىگە چۈشۈپ كەتتى	دېمى ئىچىگە چۈشۈپ كەتمەك	ours_wrong	دېمى ئىچىگە چۈشۈپ كەتمەك	
+D_14891	sub-entry	verified	321_col1.png	دورىلىق ماگنولوگىيە	دورىلىق ماگنولىيە	his_wrong	دورىلىق ماگنولوگىيە	
+D_14986	sub-entry	verified	322_col3.png	دولا قورىماق	دولا قورۇماق	print_error	دولا قورۇماق	print_error: scan shows قورىماق, which appears in no dictionary (not even in definitions). 2009's own headword قورۇ _ (D_22194) gives قورۇماق, with sub-entries D_32561, D_36293; also 2011 (D02-01531 h) and 1990s (D90-4-02212 h).
+D_14996	sub-entry	verified	323_col1.png	دولقۇنسىمان ئىلگىرلىمەك	دولقۇنسىمان ئىلگىرىلىمەك	print_error	دولقۇنسىمان ئىلگىرىلىمەك	print_error: scan shows ئىلگىرلىمەك (found nowhere else); 2009 sub-entries D_01501, D_35141 have ئىلگىرىلىمەك, as do 2011 (D02-16183 h) and 1990s (D90-6-03868 h).
+D_15092	sub-entry	verified	325_col2.png	دۇغ چۆكمە	دۇغ چۆك	his_wrong	دۇغ چۆكمە	
+D_15096	sub-entry	verified	325_col2.png	دۇغلىشىش	دۇغلىنىش	print_error	دۇغلىنىش	headword is دۇغلان _, therefore the print is wrong.
+D_15171	sub-entry	verified	327_col1.png	دۆلەت جوغلانمىسى	دۆلەت جۇغلانمىسى	print_error	دۆلەت جۇغلانمىسى	print_error: scan shows جوغلانمىسى (found nowhere else); 2009 sub-entries D_02836, D_05564, D_11173, D_23601 have جۇغلانمىسى, as does 1990s (D90-3-01392 h).
+D_15203	sub-entry	verified	328_col1.png	دۈپۈرلەمەك	دۈپۈرلىمەك	ours_wrong	دۈپۈرلىمەك	
+D_15239	sub-entry	verified	328_col3.png	دۈكۈرلەمەك	دۈكۈرلىمەك	ours_wrong	دۈكۈرلىمەك	
+D_15252	sub-entry	verified	329_col1.png	دۈگىلەك شىپاك	دۈگىلەك شىپاڭ	ours_wrong	دۈگىلەك شىپاڭ	
+D_15306	sub-entry	verified	330_col2.png	دېرىكلىمەك	دېرەكلىمەك	print_error	دېرەكلىمەك	print_error: scan shows دېرىكلىمەك (found nowhere else); 2009's own headword دېرەكلە _ (D_15306 h), also 2011 دېرەكلىمەك (D01-16232 h) and 1990s (D90-3-01593 h).
+D_15340	sub-entry	verified	331_col1.png	دېڭىز قارۇنىسى	دېڭىز قارونىسى	his_wrong	دېڭىز قارۇنىسى	
+D_15340	sub-entry	verified	331_col1.png	دېڭىز مېھرىگىياسى	دېڭىز مېھرىگىياھى	print_error	دېڭىز مېھرىگىياھى	print_error: scan shows مېھرىگىياسى. 2009's own headword D_29134 «مېھرىگىياھ (مېھرىگىياھى)» gives the possessive مېھرىگىياھى; 2011 headword مېھرىگىياھ (D02-08985 h). مېھرىگىياسى is printed in D_01723, D_15340 and D_24439 only.
+D_15368	sub-entry	verified	332_col1.png	دېھقانچىلىق ھېرىسلىقى	دېھقانچىلىق ھېرىسلىكى	print_error	دېھقانچىلىق ھېرىسلىكى	print_error: scan shows ھېرىسلىقى (found nowhere else); 2009's own headword ھېرىسلىك (D_30948 h) and sub-entry D_17704 ھېرىسلىكى, also 2011 (D02-11402 h).
+D_15392	sub-entry	verified	332_col3.png	دىپلوماتىيە مىنىستىرلىكى	دىپلوماتىيە مىنىستىرلىقى	print_error	دىپلوماتىيە مىنىستىرلىقى	print_error: scan shows مىنىستىرلىكى; 2009's own headword مىنىستىرلىق (D_29472 h) and sub-entry D_34370 مىنىستىرلىقى, also 2011 (D02-09380 h). مىنىستىرلىكى only in one 1990s definition (D90-5-05243 d).
+D_15466	sub-entry	verified	334_col1.png	دىففراكسىيە ئانالىزى	دىفراكسىيە ئانالىزى	print_error	دىفراكسىيە ئانالىزى	print_error: scan shows دىففراكسىيە. 2009 prints دىففراكسىيە throughout entry D_15466 (headword and all five sub-entries on the scan), but writes دىفراكسىيەسى with one ف elsewhere (D_05478, D_22250, D_33929) and has the neighbouring headword دىفراكتومېتىر (D_15465). 2011 (D01-16405 h) and 1990s (D90-6-05461 d, D90-6-06626 d) have دىفراكسىيە.
+D_15466	sub-entry	verified	334_col1.png	دىففراكسىيە بۇلۇڭى	دىفراكسىيە بۇلۇڭى	print_error	دىفراكسىيە بۇلۇڭى	print_error: scan shows دىففراكسىيە. 2009 prints دىففراكسىيە throughout entry D_15466 (headword and all five sub-entries on the scan), but writes دىفراكسىيەسى with one ف elsewhere (D_05478, D_22250, D_33929) and has the neighbouring headword دىفراكتومېتىر (D_15465). 2011 (D01-16405 h) and 1990s (D90-6-05461 d, D90-6-06626 d) have دىفراكسىيە.
+D_15466	sub-entry	verified	334_col1.png	دىففراكسىيە دەرىجىسى	دىفراكسىيە دەرىجىسى	print_error	دىفراكسىيە دەرىجىسى	print_error: scan shows دىففراكسىيە. 2009 prints دىففراكسىيە throughout entry D_15466 (headword and all five sub-entries on the scan), but writes دىفراكسىيەسى with one ف elsewhere (D_05478, D_22250, D_33929) and has the neighbouring headword دىفراكتومېتىر (D_15465). 2011 (D01-16405 h) and 1990s (D90-6-05461 d, D90-6-06626 d) have دىفراكسىيە.
+D_15466	sub-entry	verified	334_col1.png	دىففراكسىيە نۇسخىسى	دىفراكسىيە نۇسخىسى	print_error	دىفراكسىيە نۇسخىسى	print_error: scan shows دىففراكسىيە. 2009 prints دىففراكسىيە throughout entry D_15466 (headword and all five sub-entries on the scan), but writes دىفراكسىيەسى with one ف elsewhere (D_05478, D_22250, D_33929) and has the neighbouring headword دىفراكتومېتىر (D_15465). 2011 (D01-16405 h) and 1990s (D90-6-05461 d, D90-6-06626 d) have دىفراكسىيە.
+D_15611	sub-entry	verified	336_col3.png	دىيالېكتىكىلىق ماتېرىيالىز	دىيالېكتىكىلىق ماتېرىيالىزم	ours_wrong	دىيالېكتىكىلىق ماتېرىيالىزم	
+D_15653	sub-entry	verified	338_col1.png	رادىيو رۇجىكى	رادىيو روجىكى	print_error	رادىيو روجىكى	print_error: scan shows رۇجىكى (found nowhere else); 2009's own headword روجەك (D_15941 h), also 2011 (D01-16901 h) and 1990s روجىكى (D90-3-02574 d).
+D_15680	sub-entry	verified	338_col2.png	رازۋېدكا پونكىنى	رازۋېدكا پونكىتى	ours_wrong	رازۋېدكا پونكىتى	
+D_15719	sub-entry	verified	339_col2.png	رالاشىش	رالىشىش	ours_wrong	رالىشىش	
+D_15817	sub-entry	verified	341_col1.png	رەسمىي قىسم	رەسمىي قىسىم	ours_wrong	رەسمىي قىسىم	
+D_15854	sub-entry	verified	342_col1.png	رەقەملىك چاستوتامېتىر	رەقەملىك چاستوتىمېتىر	print_error	رەقەملىك چاستوتىمېتىر	print_error: scan shows چاستوتامېتىر (found nowhere else); 2009's own headword چاستوتىمېتىر (D_12095 h).
+D_16023	sub-entry	verified	345_col2.png	رۇدا ئۈۋىسى	رۇدا ئۇۋىسى	ours_wrong	رۇدا ئۇۋىسى	
+D_16025	sub-entry	verified	345_col2.png	رۇداۋچە چېلىش	رۇداۋچە چېلىشىش	his_wrong	رۇداۋچە چېلىش	Kept as printed: scan shows چېلىش (wrestling), a headword in 2009 (D_13162–64 h), 2011 (D01-13630 h) and 1990s (D90-2-07789 h). Gheyret changed the word to چېلىشىش.
+D_16201	sub-entry	verified	349_col1.png	زار قاقشاماق	زار قاقشىماق	ours_wrong	زار قاقشىماق	
+D_16375	sub-entry	verified	352_col3.png	زەڭگەر شىپات	زەڭگەر ئىشپات	variant	زەڭگەر شىپات	Both spellings are headwords: شىپات (2009 D_19850 h; 2011 D01-20790 h) and ئىشپات (2011 D02-19079 h). Same case as D_03200.
+D_16400	sub-entry	verified	353_col2.png	زەھەر سانچىماق	زەھەر سانجىماق	print_error	زەھەر سانجىماق	print_error: scan shows سانچىماق (found nowhere else); 2009 sub-entries D_01130, D_17136, D_29807 have سانجىماق, as do 2011 (D01-18167 h) and 1990s (D90-3-04323 h).
+D_16414	sub-entry	verified	353_col3.png	زەھەرلىك كاككۈكگۈل	زەھەرلىك كاككۇكگۈل	ours_wrong	زەھەرلىك كاككۇكگۈل	
+D_16625	sub-entry	verified	358_col2.png	زىماتى كالىزىر	زىماتى كالىزىرە	print_error	زىماتى كالىزىرە	print_error: scan shows كالىزىر (found nowhere else); 2009's own headword كالىزىرە (D_23939 h).
+D_16683	sub-entry	verified	361_col2.png	ساپ ئىنتېرۋال	ساپ ئېنتېرۋال	variant	ساپ ئىنتېرۋال	Both spellings are headwords: ئىنتېرۋال (2011 D02-16375 h; 1990s D90-6-04193 h) and ئېنتېرۋال (2009 D_34142 h; 2011 D02-14968 h). Same case as D_07781, D_12475 «چەكسىز ئىنتېرۋال».
+D_16687	sub-entry	verified	361_col3.png	ساپىقىدا يىگىلەپ قالماق	ساپىقىدا يىگلەپ قالماق	his_normalized	ساپىقىدا يىگىلەپ قالماق	Kept as printed: scan shows ساپىقىدا يىگىلەپ قالماق (our extraction corrected to match). Only يىگىلەپ / يىگلەپ differ; the print form is used in 2011 (D02-15150 d) and 1990s definitions (D90-3-03720 d). 2011 form: «ساپىقىدا يىگلەپ قالغان» (D01-17753 h), verb يىگلىمەك (D02-18588).
+D_16920	sub-entry	verified	366_col1.png	ساقچى قىسىمى	ساقچى قىسىم	his_wrong	ساقچى قىسىمى	Kept as printed: ساقچى قىسىمى needs the possessive (unit of the police). Gheyret dropped the ى.
+D_16927	sub-entry	verified	366_col2.png	ساقلاش راسخودى	ساقلاش راسخوتى	print_error	ساقلاش راسخوتى	print_error: scan shows راسخودى (found nowhere else); 2009's own headword راسخوت (D_15703 h), also 2011 (D01-16647 h) and 1990s راسخوتى (D90-2-02312 d).
+D_17090	sub-entry	verified	369_col2.png	ساماۋى ئوسسۇل	ساماۋى ئۇسسۇل	ours_wrong	ساماۋى ئۇسسۇل	
+D_17257	sub-entry	verified	372_col3.png	سايىسىدا بولماق	سايىسىدە بولماق	variant	سايىسىدا بولماق	Both spellings are headwords: سايىسىدا (2011 D01-18277 h; 1990s D90-3-04479 h; 2009 D_13801 s) and سايىسىدە (2011 D01-16083 h).
+D_17257	sub-entry	verified	372_col3.png	سايىسىدا يۈرمەك	سايىسىدە يۈرمەك	variant	سايىسىدا يۈرمەك	Both spellings are headwords: سايىسىدا (2011 D01-18277 h; 1990s whole phrase D90-3-09674 h) and سايىسىدە (2011 D01-16083 h).
+D_17257	sub-entry	verified	372_col3.png	سايىسىدىن ئۈركىمەك	سايىسىدىن ئۈركۈمەك	his_normalized	سايىسىدىن ئۈركىمەك	Kept as printed: scan shows ئۈركىمەك, as the 1990s headword D90-3-04432 (whole phrase) and 2009 D_02418. 2011 form: سايىسىدىن ئۈركۈمەك (D01-18244 h).
+D_17273	sub-entry	verified	373_col1.png	سەپتىن قالماق	سەپ قالماق	his_wrong	سەپتىن قالماق	Kept as printed: scan shows سەپتىن قالماق, exactly as the 1990s headword D90-3-04507. Gheyret dropped تىن.
+D_17282	sub-entry	verified	373_col1.png	سەپەرۋەر قىلماق	سەپەر قىلماق	his_wrong	سەپەرۋەر قىلماق	
+D_17297	sub-entry	verified	373_col2.png	سەپسىلىش	سەپسېلىش	print_error	سەپسېلىش	print_error: scan shows سەپسىلىش (found nowhere else); 2009's own headword سەپسېلىش (D_17305 h).
+D_17438	sub-entry	verified	376_col1.png	سەزگۈرلەشتۈرگۈچى خۇرۇچ	سەزگۈرلەشتۈرگۈچى خۇرۇج	his_wrong	سەزگۈرلەشتۈرگۈچى خۇرۇچ	Kept as printed: خۇرۇچ means raw material / agent (2011 D01-14747 h), which fits here. خۇرۇج is a different word (attack; fit of anger, 2011 D01-14745 h).
+D_17464	sub-entry	verified	376_col3.png	سەكرىمە ئوسسۇل	سەكرىمە ئۇسسۇل	ours_wrong	سەكرىمە ئۇسسۇل	
+D_17481	sub-entry	verified	377_col1.png	سەگىلدەشمەك	سەكىلدەشمەك	ours_wrong	سەكىلدەشمەك	
+D_17481	sub-entry	verified	377_col1.png	سەگىلدىشىش	سەكىلدىشىش	ours_wrong	سەكىلدىشىش	
+D_17922	sub-entry	verified	385_col3.png	سوۋۇتۇش خۇرۇچى	سوۋۇتۇش خۇرۇجى	his_wrong	سوۋۇتۇش خۇرۇچى	Kept as printed: خۇرۇچى means agent (coolant). خۇرۇجى is a different word (2011 D01-14746 h خۇرۇجى تۇتماق, fit of anger).
+D_17948	sub-entry	verified	386_col1.png	سۇ سېلىندىرى	سۇ سىلىندىرى	print_error	سۇ سىلىندىرى	print_error: scan shows سېلىندىرى (found nowhere else); 2009's own headword سىلىندىر (D_18954 h), also 2011 (D01-19908 h).
+D_17948	sub-entry	verified	386_col1.png	سۇ مۇنارىسى	سۇ مۇنارى	print_error	سۇ مۇنارى	print_error: scan shows مۇنارىسى (double possessive, found nowhere else); 2009 has مۇنارى (D_03977 h, D_28820 h), as do 2011 (D02-08595 d) and 1990s (D90-3-05644 h).
+D_17948	sub-entry	verified	386_col1.png	سۇ مېڭياپرىقى	سۇ مىڭياپرىقى	ours_wrong	سۇ مىڭياپرىقى	
+D_18013	sub-entry	verified	388_col2.png	سۇسىزلاندۇرغۇچى خۇرۇچ	سۇسىزلاندۇرغۇچى خۇرۇج	his_wrong	سۇسىزلاندۇرغۇچى خۇرۇچ	Kept as printed: خۇرۇچ means raw material / agent (2011 D01-14747 h), which fits here. خۇرۇج is a different word (attack; fit of anger, 2011 D01-14745 h).
+D_18101	sub-entry	unverified	390_col2.png	سۇنايلىنىشۇش	سۇنايلىنىشىش	ours_wrong	سۇنايلىنىشىش	
+D_18198	sub-entry	unverified	392_col2.png	سۆزگە كىرمەك = گەپكە كىرمە	سۆزگە كىرمەك = گەپكە كىرمەك	ours_wrong	سۆزگە كىرمەك = گەپكە كىرمەك	
+D_18198	sub-entry	unverified	392_col2.png	سۆزنى يىرماق = گەپنى يىرما	سۆزنى يىرماق = گەپنى يىرماق	ours_wrong	سۆزنى يىرماق = گەپنى يىرماق	
+D_18203	sub-entry	unverified	392_col3.png	سۆزلەمەك	سۆزلىمەك	ours_wrong	سۆزلىمەك	
+D_18221	sub-entry	unverified	393_col1.png	سۆسۈن يېسىۋىلەك	سۆسۈن يېسسىۋېلەك	ours_wrong	سۆسۈن يېسسىۋېلەك	
+D_18248	sub-entry	verified	393_col3.png	سۆڭەك تۇبېركۇليوزى = سۆڭەك سىلى	سۆڭەك تۇبېركۇليۇزى = سۆڭەك سىلى	his_normalized	سۆڭەك تۇبېركۇليوزى = سۆڭەك سىلى	Kept as printed: scan shows تۇبېركۇليوزى, as the 2011 headword تۇبېركۇليوز (D01-09701 h) and 1990s (D90-5-08487 s). 2009 is split (headword تۇبېركۇليۇز D_09462).
+D_18326	sub-entry	unverified	395_col2.png	سۈتلەمەك	سۈتلىمەك	ours_wrong	سۈتلىمەك	
+D_18328	sub-entry	unverified	395_col2.png	سۈتلەنىش	سۈتلىنىش	ours_wrong	سۈتلىنىش	
+D_18329	sub-entry	unverified	395_col2.png	سۈتلۈك ئۇماغ	سۈتلۈك ئۇماچ	ours_wrong	سۈتلۈك ئۇماچ	
+D_18365	sub-entry	unverified	396_col2.png	سۈركەمەك	سۈركىمەك	ours_wrong	سۈركىمەك	
+D_18375	sub-entry	unverified	396_col2.png	سۈرگە تۇز	سۈرگە تۈز	his_wrong	سۈرگە تۇز	Kept as printed: تۇز = salt (purgative salt). Gheyret's تۈز means straight.
+D_18378	sub-entry	unverified	396_col3.png	سۈرلەمەك	سۈرلىمەك	ours_wrong	سۈرلىمەك	
+D_18412	sub-entry	unverified	397_col2.png	سۈزمە تۇز	سۈزمە تۈز	his_wrong	سۈزمە تۇز	Kept as printed: تۇز = salt (refined salt). Gheyret's تۈز means straight.
+D_18415	sub-entry	unverified	397_col2.png	سۈزۈك كاۋچۈك	سۈزۈك كاۋچۇك	ours_wrong	سۈزۈك كاۋچۇك	
+D_18509	sub-entry	unverified	399_col3.png	سېخى ئادەم	سېخىي ئادەم	print_error	سېخىي ئادەم	headword is سېخىي, a clear print error.
+D_18525	sub-entry	verified	400_col1.png	سېرىق ئال	سېرىق ئالا	his_wrong	سېرىق ئال	
+D_18525	sub-entry	verified	400_col1.png	سېرىق تۇمشۇق ئاققۇتان	سېرىق تۇمشۇق ئاققوتان	his_normalized	سېرىق تۇمشۇق ئاققۇتان	Kept as printed: scan shows ئاققۇتان, as the 2011 headword D01-01147. 2009 is split (headword ئاققوتان D_01192).
+D_18525	sub-entry	verified	400_col1.png	سېرىق تۆش كاككۈك	سېرىق تۆش كاككۇك	ours_wrong	سېرىق تۆش كاككۇك	
+D_18525	sub-entry	verified	400_col1.png	سېرىق كامچا	سېرىق كامپا	ours_wrong	سېرىق كامپا	
+D_18525	sub-entry	verified	400_col1.png	سېرىق كامپورا	سېرىق كامفورا	print_error	سېرىق كامفورا	print_error: scan shows كامپورا (only here and D_18560); 2009's own headword كامفورا (D_23965 h), also 2011 (D02-03264 h) and 1990s (D90-4-05054 h).
+D_18525	sub-entry	verified	400_col1.png	سېرىق كىپارىس	سېرىق كىپارس	his_wrong	سېرىق كىپارىس	
+D_18525	sub-entry	verified	400_col1.png	سېرىق نىلوپەر	سېرىق نېلۇپەر	print_error	سېرىق نېلۇپەر	print_error: scan shows نىلوپەر (found nowhere else); 2009's own headword نېلۇپەر (D_30058 h), also 2011 (D02-10183 h) and 1990s (D90-5-04554 h).
+D_18530	sub-entry	unverified	401_col1.png	سېرىقتال ئاقتى	سېرىقتال ۋاقتى	ours_wrong	سېرىقتال ۋاقتى	
+D_18560	sub-entry	verified	401_col2.png	سېسىق كامپورا	سېسىق كامفورا	print_error	سېسىق كامفورا	print_error: scan shows كامپورا (only here and D_18525); 2009's own headword كامفورا (D_23965 h), also 2011 (D02-03264 h) and 1990s (D90-4-05054 h).
+D_18577	sub-entry	unverified	401_col3.png	سېغىن ئىنىك	سېغىن ئىنەك	ours_wrong	سېغىن ئىنەك	
+D_18593	sub-entry	verified	402_col1.png	سېكۇنت كۇپ مېتىر	سېكۇنت كۇب مېتىر	print_error	سېكۇنت كۇب مېتىر	print_error: scan shows كۇپ مېتىر (كۇپ = vat, D_23594); «كۇپ مېتىر» found nowhere else. 2009's own headword كۇب (D_24615) has the sub-entry كۇب مېتىر, as does 2011 (D02-03940).
+D_18615	sub-entry	verified	402_col2.png	سېلىشتۇرما سەنئەتتەشۇناسلىق	سېلىشتۇرما سەنئەتشۇناسلىق	ours_wrong	سېلىشتۇرما سەنئەتشۇناسلىق	
+D_18615	sub-entry	verified	402_col2.png	سېلىشتۇرما ئىستاتىستىكا	سېلىشتۇرما ئىستىلىستىكا	his_wrong	سېلىشتۇرما ئىستاتىستىكا	
+D_18655	sub-entry	verified	403_col3.png	سېھىرلىتمەك	سېھىرلەتمەك	ours_wrong	سېھىرلەتمەك	
+D_18657	sub-entry	verified	403_col3.png	سېھىرلىنمەك	سېھىرلەنمەك	ours_wrong	سېھىرلەنمەك	
+D_18675	sub-entry	unverified	404_col1.png	سىبىرىيە ئاغىمچىنى	سىبىرىيە ئاغمىخىنى	ours_wrong	سىبىرىيە ئاغمىخىنى	
+D_18675	sub-entry	unverified	404_col1.png	سىبىرىيە چىنلى	سىبىرىيە چىلى	ours_wrong	سىبىرىيە چىلى	
+D_18712	sub-entry	unverified	404_col2.png	سىر دەريخى	سىر دەرىخى	ours_wrong	سىر دەرىخى	
+D_18712	sub-entry	unverified	404_col2.png	سىر سۇرۇغ	سىر سۇرۇخ	ours_wrong	سىر سۇرۇخ	
+D_18785	sub-entry	unverified	406_col1.png	سىزلەمەك	سىزلىمەك	ours_wrong	سىزلىمەك	
+D_18800	sub-entry	unverified	406_col2.png	سىزىقلىق كۆچەيتكۈچ	سىزىقلىق كۈچەيتكۈچ	ours_wrong	سىزىقلىق كۈچەيتكۈچ	
+D_18853	sub-entry	verified	407_col3.png	سىقىلىش ئىمپۇلىسى	سىقىلىش ئىمپۇلسى	print_error	سىقىلىش ئىمپۇلسى	print_error: scan shows ئىمپۇلىسى (found nowhere). 2009 sub-entry D_30035, 2011 (D02-16285 d) and 1990s (D90-6-04028 d) have ئىمپۇلسى.
+D_18911	sub-entry	unverified	408_col3.png	سىلجىتىلماق	سىلجىتماق	his_wrong	سىلجىتىلماق	Print سىلجىتىلماق (passive) is a headword in 2011 (D01-19867 h) and 1990s (D90-3-06952 h). Gheyret's سىلجىتماق is the causative, a different word.
+D_18937	sub-entry	unverified	409_col2.png	سىلىق دۆپ	سىلىق دۇپ	ours_wrong	سىلىق دۇپ	
+D_18955	sub-entry	unverified	410_col1.png	سىم ھەرە	سىم ھەر	his_wrong	سىم ھەرە	
+D_19003	sub-entry	unverified	411_col1.png	سىنتېتىك ئاممياك	سىنتېتىك ئاممىياك	ours_wrong	سىنتېتىك ئاممىياك	
+D_19003	sub-entry	unverified	411_col1.png	سىنتېتىك سەمۇلا	سىنتېتىك سىمولا	ours_wrong	سىنتېتىك سىمولا	
+D_19022	sub-entry	unverified	411_col2.png	سىنك سولفات	سىنك سۇلفات	print_error	سىنك سۇلفات	print_error: scan shows سولفات. 2009's own headword سۇلفات (D_18070 h) and its other sub-entries have سۇلفات, as do 2011 (D01-19101 h) and the 1990s (D90-3-05816 s). Same misprint as D_08226.
+D_19022	sub-entry	unverified	411_col2.png	سىنك ئۈشپاتى	سىنك ئىشپاتى	ours_wrong	سىنك ئىشپاتى	
+D_19044	sub-entry	unverified	412_col1.png	سىيەمەك	سىيمەك	ours_wrong	سىيمەك	
+D_19048	sub-entry	unverified	412_col1.png	سىياسەت تۈزمەك	سىياسەت ئۈزمەك	his_wrong	سىياسەت تۈزمەك	
+D_19055	sub-entry	verified	412_col2.png	سىياسىي كۆرەش	سىياسىي كۈرەش	ours_wrong	سىياسىي كۈرەش	
+D_19121	sub-entry	unverified	414_col3.png	سىير بۆلجۈرگەن	سىيىر بۆلجۈرگەن	ours_wrong	سىيىر بۆلجۈرگەن	
+D_19121	sub-entry	unverified	414_col3.png	سىير خوجىلىقى	سىيىر خوجىلىقى	ours_wrong	سىيىر خوجىلىقى	
+D_19144	sub-entry	unverified	415_col2.png	شاپتۇل پېتى	شاپتۇل پىتى	ours_wrong	شاپتۇل پىتى	
+D_19144	sub-entry	unverified	415_col2.png	شاپتۇل قېپى	شاپتۇل قېقى	ours_wrong	شاپتۇل قېقى	
+D_19202	sub-entry	unverified	416_col3.png	شادا پاپورتنىك	شادا پاپوروتنىك	his_wrong	شادا پاپورتنىك	
+D_19202	sub-entry	unverified	416_col3.png	شادا جۇخارگۈل	شادا جۈخارگۈل	his_wrong	شادا جۇخارگۈل	
+D_19209	sub-entry	verified	417_col1.png	شادلاندۇرۇلىماق	شادلاندۇرۇلماق	ours_wrong	شادلاندۇرۇلماق	
+D_19314	sub-entry	unverified	418_col3.png	شال پاخلى	شال پاخىلى	ours_wrong	شال پاخىلى	
+D_19314	sub-entry	unverified	418_col3.png	شال پېتى	شال پىتى	ours_wrong	شال پىتى	
+D_19377	sub-entry	unverified	420_col1.png	شام چىپچىقى	شام چېچىكى	ours_wrong	شام چېچىكى	
+D_19379	sub-entry	verified	420_col2.png	شامال كۆزەينىكى	شامال كۆزئەينىكى	his_wrong	شامال كۆزەينىكى	
+D_19379	sub-entry	verified	420_col2.png	شامال ئېلېكتر ئىستانسىسى	شامال ئېلېكتىر ئىستانسىسى	ours_wrong	شامال ئېلېكتىر ئىستانسىسى	
+D_19388	sub-entry	unverified	420_col3.png	شاماللىق يەلباغ	شاماللىق بەلباغ	ours_wrong	شاماللىق بەلباغ	
+D_19449	sub-entry	unverified	421_col3.png	شايى سۈگەت	شايى سۆگەت	print_error	شايى سۆگەت	print_error: scan shows سۈگەت (found nowhere). 2009's own headword سۆگەت (D_18240 h) and its sub-entries, also 2011 (D01-19266 h) and 1990s (D90-3-06087 h).
+D_19590	sub-entry	unverified	425_col1.png	شەيتان توساق	شەيتان توسۇق	his_normalized	شەيتان توساق	Kept as printed: scan shows توساق, also in 2009 D_22250 and 1990s multi-word headwords (D90-2-02477 s). Gheyret's form: توسۇق (2009 D_09133 h; 2011 D01-09375 h).
+D_19590	sub-entry	unverified	425_col1.png	شەيتانلىق پەيلى	شەيتاننىڭ پەيلى	ours_wrong	شەيتاننىڭ پەيلى	
+D_19624	sub-entry	unverified	425_col3.png	شور ئاپتى	شور ئاپىتى	ours_wrong	شور ئاپىتى	
+D_19625	sub-entry	unverified	426_col1.png	شورى قۇرىماق	شورى قۇرۇماق	his_normalized	شورى قۇرىماق	Kept as printed: scan shows قۇرىماق, which is 2009's own headword (D_22610) and a 1990s headword (D90-4-03165 h). 2011 form: قۇرۇماق (D02-02013 h).
+D_19723	sub-entry	verified	428_col1.png	شۇم تەلەي	شۈم تەلەي	his_wrong	شۇم تەلەي	
+D_19723	sub-entry	verified	428_col1.png	شۇم خەۋەر	شۈم خەۋەر	ours_wrong	شۈم خەۋەر	
+D_19760	sub-entry	verified	428_col2.png	شۆلگىيى ئاقماق	شۆلگىيى ئاتما	his_wrong	شۆلگىيى ئاقماق	
+D_19827	sub-entry	unverified	429_col3.png	شېكەر پالىمىسى	شېكەر پالمىسى	ours_wrong	شېكەر پالمىسى	
+D_19848	sub-entry	verified	430_col2.png	شىپا تايماق	شىپا تاپماق	ours_wrong	شىپا تاپماق	
+D_19848	sub-entry	verified	430_col2.png	شىپا كۇمۇلىچى	شىپا كۇمىلىچى	his_normalized	شىپا كۇمۇلىچى	Kept as printed: 2009 is split (كۇمۇلىچى in D_37337, D_23939, D_29601; كۇمىلىچى in D_05532, D_12024, D_31416). Gheyret's form: كۇمىلىچى (1990s D90-5-03695 s).
+D_19998	sub-entry	unverified	433_col1.png	شىلتەماق	شىلتىماق	ours_wrong	شىلتىماق	
+D_19998	sub-entry	unverified	433_col1.png	شىلتەش	شىلتىش	ours_wrong	شىلتىش	
+D_20000	sub-entry	unverified	433_col1.png	شىلتەڭ ئاتماق	شىلتىڭ ئاتماق	ours_wrong	شىلتىڭ ئاتماق	
+D_20274	sub-entry	unverified	439_col1.png	غەلىتە رېتىم	غەلىتە رىتىم	print_error	غەلىتە رىتىم	print_error: scan shows رېتىم. 2009's own headword رىتىم (D_16135 h), also 2011 (D01-17119 h) and 1990s (D90-3-02840 h). رېتىم only in one 2011 definition (D02-01575).
+D_20312	sub-entry	unverified	440_col1.png	غەيرىي رېتسىپ	غەيرىي رېتسېپ	his_normalized	غەيرىي رېتسىپ	Kept as printed: scan shows رېتسىپ, as in 2009 D_27876 and D_28609, 2011 D02-10092 d and 1990s D90-5-04408 d. Gheyret's form: رېتسېپ (2009 D_16070 h; 2011 D01-17052 h).
+D_20446	sub-entry	unverified	442_col3.png	غۇژمەك پېچەكگۈل	غۇژمەك پىچەكگۈل	print_error	غۇژمەك پىچەكگۈل	print_error: scan shows پېچەكگۈل; 2009's own headword پىچەكگۈل (D_06954 h) and sub-entry ئېتىز پىچەكگۈلى (D_33638), also 2011 (D01-07166 h). Same misprint as D_11514.
+D_20786	sub-entry	unverified	449_col3.png	فېنىتوئىن ناترى	فېنىتوئىن ناترىي	print_error	فېنىتوئىن ناترىي	print_error: scan shows ناترى (found nowhere). 2009's own headword ناترىي (D_29508 h), also 2011 (D02-09423 h) and 1990s (D90-5-03537 h).
+D_20797	sub-entry	unverified	450_col1.png	فىتور شىپاتى	فىتور ئىشپاتى	variant	فىتور شىپاتى	Both spellings are headwords: شىپات (2009 D_19850 h) and ئىشپات. Same case as D_03200 and D_16375.
+D_20797	sub-entry	unverified	450_col1.png	فىتور شۆلتىسى	فىتور شۇلتىسى	ours_wrong	فىتور شۇلتىسى	
+D_20873	sub-entry	unverified	451_col2.png	قاپاق گىلاش	قاپاق گىلاس	ours_wrong	قاپاق گىلاس	
+D_20873	sub-entry	unverified	451_col2.png	قاپاق مۇغ	قاپاق مۇخ	ours_wrong	قاپاق مۇخ	
+D_20874	sub-entry	unverified	451_col3.png	قاپاق تارتماق	قاپاق ئارتماق	his_wrong	قاپاق تارتماق	Print قاپاق تارتماق is correct: 2011 قاپاق (brow, D02-00213) lists the idiom «قاپىقى تارتماق». تارتماق and ئارتماق are different verbs, so Gheyret's ئارتماق changes the meaning (his_wrong).
+D_20893	sub-entry	verified	452_col1.png	قاپاتماق	قاپساتماق	print_error	قاپساتماق	print_error: scan shows قاپاتماق, but the headword is قاپسات _, so the print dropped س. Gheyret's قاپساتماق is in 2011 (D02-00234 h) and 1990s (D90-4-00058 h).
+D_20951	sub-entry	unverified	453_col2.png	قاتتىق بالا	قاتتىق تالا	ours_wrong	قاتتىق تالا	
+D_20951	sub-entry	unverified	453_col2.png	قاتتىق نەگمەك	قاتتىق تەگمەك	ours_wrong	قاتتىق تەگمەك	
+D_20951	sub-entry	unverified	453_col2.png	قاتتىق جىنسىم	قاتتىق جىسىم	ours_wrong	قاتتىق جىسىم	
+D_20951	sub-entry	unverified	453_col2.png	قاتتىق شانكەر	قاتتىق شانكىر	ours_wrong	قاتتىق شانكىر	
+D_20951	sub-entry	unverified	453_col2.png	قاتتىق قورغاقچىلىق	قاتتىق قۇرغاقچىلىق	ours_wrong	قاتتىق قۇرغاقچىلىق	
+D_21086	sub-entry	unverified	456_col3.png	قار كۈمىلىچى	قار كۇمىلىچى	ours_wrong	قار كۇمىلىچى	
+D_21088	sub-entry	verified	457_col1.png	قارا بويۇن قارۇنا	قارا بويۇن قارونا	variant	قارا بويۇن قارۇنا	Both spellings are headwords: قارۇنا (2011 D02-00539 h) and قارونا (2009 D_21224 h).
+D_21088	sub-entry	verified	457_col1.png	قارا پوكان چۆككەك	قارا پوكان چۈمگەك	print_error	قارا پوكان چۈمگەك	print_error: scan shows چۆككەك (also in 2009 D_13107 and D_23247; found in no other dictionary). 2009's own headword چۈمگەك (D_13034 h), also 2011 (D01-13481 h) and 1990s (D90-2-07635 h).
+D_21088	sub-entry	verified	457_col1.png	قارا تاجلىق تاغ قۇشچى	قارا تاجىلىق تاغ قۇشقىچى	ours_wrong	قارا تاجىلىق تاغ قۇشقىچى	
+D_21088	sub-entry	verified	457_col1.png	قارا جاغ تۇرۇلغا	قارا جاغ تورۇلغا	variant	قارا جاغ تۇرۇلغا	Both spellings are headwords: تۇرۇلغا (2011 D01-09864 h; 1990s D90-2-03231 h) and تورۇلغا (2009 D_09098 h; 1990s D90-2-02455 h).
+D_21088	sub-entry	verified	457_col1.png	قارا جۇخارگۈل	قارا جۈخارگۈل	his_normalized	قارا جۇخارگۈل	Kept as printed: scan shows جۇخارگۈل, which is 2009's own headword (D_11468 h) and a 1990s headword (D90-2-05760 h). 2011 form: جۈخارگۈل (D01-11970 h).
+D_21088	sub-entry	verified	457_col1.png	قارا چېكەنكە	قارا چېكەتكە	ours_wrong	قارا چېكەتكە	
+D_21088	sub-entry	verified	457_col1.png	قازا قار	قارا قار	ours_wrong	قارا قار	
+D_21088	sub-entry	verified	457_col1.png	قارا كۆزەينەك	قارا كۆزئەينەك	his_normalized	قارا كۆزەينەك	Kept as printed: scan shows كۆزەينەك, which is 2009's own headword (D_24931 h) and a 1990s headword (D90-4-00407 h). 2011 form: كۆزئەينەك (D02-04316 h).
+D_21088	sub-entry	verified	457_col1.png	قارا ئېبىس	قارا ئىبىس	ours_wrong	قارا ئىبىس	
+D_21088	sub-entry	verified	457_col1.png	قارىسىنى ئۇشتۇماق	قارىسىنى ئوشتۇماق	his_normalized	قارىسىنى ئۇشتۇماق	Kept as printed: scan shows ئۇشتۇماق, a headword in 2011 (D02-18704 h) and 1990s (D90-4-00455 h). Gheyret's ئوشتۇماق appears only in 2009 sub-entries (D_31444, D_35796).
+D_21147	sub-entry	verified	460_col2.png	قارامتۇل مېنىرال	قارامتۇل مىنېرال	print_error	قارامتۇل مىنېرال	print_error: scan shows مېنىرال. 2009's own headword مىنېرال (D_29463 h), also 2011 (D02-09371 h) and 1990s (D90-5-03470 h). مېنىرال only in one 1990s definition (D90-4-04040).
+D_21187	sub-entry	unverified	461_col1.png	قارشى تىزىس	قارشى تېزىس	print_error	قارشى تېزىس	print_error: scan shows تىزىس (found nowhere). 2009's own headword تېزىس (D_10375 h), also 2011 (D01-21940 h).
+D_21202	sub-entry	unverified	461_col2.png	قارغىشقا قالماق	قارغىش قالماق	his_wrong	قارغىشقا قالماق	
+D_21310	sub-entry	unverified	463_col2.png	قازا يەتمەك	قاز يەتمەك	his_wrong	قازا يەتمەك	Print قازا يەتمەك is a sub-entry of 2009 headword قازا (قازاسى) (D_21310), and a 1990s headword (D90-4-00763 h). Gheyret's قاز (goose) changes the word.
+D_21315	sub-entry	unverified	463_col3.png	قازان تېنى	قازان نېنى	ours_wrong	قازان نېنى	
+D_21316	sub-entry	unverified	463_col3.png	قازان نۆكچىسى	قازان ئۆكچىسى	his_wrong	قازان نۆكچىسى	Print قازان نۆكچىسى is valid: نۆكچە is a 2009 headword (D_30010), and 2009 also has قان نۆكچىسى (D_21682). Gheyret's ئۆكچىسى (heel) changes the word.
+D_21389	sub-entry	unverified	465_col1.png	قاش ياسماق	قاش ياسىماق	ours_wrong	قاش ياسىماق	
+D_21459	sub-entry	unverified	466_col2.png	قاغىسىمان كاككۈك	قاغىسىمان كاككۇك	ours_wrong	قاغىسىمان كاككۇك	
+D_21551	sub-entry	verified	468_col2.png	قاڭغىراش	قاڭغىرىش	his_wrong	قاڭغىراش	
+D_21587	sub-entry	unverified	469_col1.png	قالپاقلىق مىخ	قالپاقلىق مىغ	variant	قالپاقلىق مىخ	Both spellings are headwords: مىخ (2009 D_29206 h; 2011 D02-09071 h) and مىغ (2009 D_29306 h; 2011 D02-09195 h).
+D_21599	sub-entry	unverified	469_col2.png	قالدۇق ئېسىقلىق	قالدۇق ئىسسىقلىق	ours_wrong	قالدۇق ئىسسىقلىق	
+D_21682	sub-entry	unverified	471_col1.png	قان چۆكۇش	قان چۆكۈش	ours_wrong	قان چۆكۈش	
+D_21833	sub-entry	unverified	475_col2.png	قايتىلاتماق	قايتىلىماق	misaligned	قايتىلاتماق	
+D_21833	sub-entry	unverified	475_col2.png	قايتىلىتىش	قايتىلىشىش	his_wrong	قايتىلىتىش	
+D_21867	sub-entry	verified	476_col2.png	قايماق يوتازا	قايماق يۇتازا	print_error	قايماق يۇتازا	print_error: scan shows يوتازا (found nowhere). 2009's own headword يۇتازا (D_36503 h), also 2011 (D02-17651 h).
+D_21870	sub-entry	unverified	476_col2.png	قايماقلىق چاي	قايماقلىق چاپ	his_wrong	قايماقلىق چاي	
+D_21946	sub-entry	unverified	478_col1.png	قەدىرلەمەك	قەدىرلىمەك	ours_wrong	قەدىرلىمەك	
+D_21983	sub-entry	unverified	479_col1.png	قەغەز قىيما فىلىمى	قەغەز قىيا فىلىمى	his_wrong	قەغەز قىيما فىلىمى	Print قەغەز قىيما (paper cutting) is correct: قىيما is a headword in 2009 (D_23531 h), 2011 (D02-02832 h) and 1990s (D90-4-01832 h). Gheyret's قىيا (slope) changes the word.
+D_22015	sub-entry	unverified	479_col3.png	قەلبى ئىللىماق	قەلبى ئىلىماق	his_normalized	قەلبى ئىللىماق	Kept as printed: scan shows ئىللىماق, a headword in 2011 (D02-16198 h) and 1990s (D90-4-01898 h). Gheyret's ئىلىماق appears only in 2009 sub-entry D_35170.
+D_22054	sub-entry	unverified	480_col2.png	قەۋەتلەمەك	قەۋەتلىمەك	ours_wrong	قەۋەتلىمەك	
+D_22091	sub-entry	unverified	481_col2.png	قوپۇرۇشۈش	قوپۇرۇشۇش	ours_wrong	قوپۇرۇشۇش	
+D_22221	sub-entry	unverified	484_col2.png	قوزا دىزېنتېرىيەسى	قوزا دىزىنتېرىيەسى	his_wrong	قوزا دىزېنتېرىيەسى	Scan shows دىزېنتېرىيەسى (ours matches the print). Neither form found elsewhere; kept as printed.
+D_22250	sub-entry	verified	485_col1.png	قوش توساق	قوش توسۇق	his_normalized	قوش توساق	Kept as printed: scan shows توساق, also in 2009 D_19590 and 1990s multi-word headwords (D90-2-02477 s). Gheyret's form: توسۇق (2009 D_09133 h; 2011 D01-09375 h).
+D_22250	sub-entry	verified	485_col1.png	قوش لوككىلىق تۆگە	قوش لوككىلىق تۆك	his_wrong	قوش لوككىلىق تۆگە	Print قوش لوككىلىق تۆگە (two-humped camel) is correct; تۆگە is a headword in 2009 (D_09878 h), 2011 and 1990s. Gheyret's تۆك changes the word.
+D_22250	sub-entry	verified	485_col1.png	قوش ئىنتېرۋال	قوش ئېنتېرۋال	variant	قوش ئىنتېرۋال	Both spellings are headwords: ئىنتېرۋال (2011 D02-16375 h; 1990s D90-6-04193 h) and ئېنتېرۋال (2009 D_34142 h; 2011 D02-14968 h). Same case as D_07781 and D_12475 «چەكسىز ئىنتېرۋال».
+D_22280	sub-entry	verified	486_col2.png	قوشما تۇز	قوشما تور	his_wrong	قوشما تۇز	Print قوشما تۇز (double salt) is correct; تۇز is a headword in 2009 (D_09632 h) and 2011 (D01-09872 h). Gheyret's تور (net) changes the word.
+D_22300	sub-entry	unverified	486_col3.png	قوشۇلما خۇرۇچ	قوشۇلما خۇرۇج	his_wrong	قوشۇلما خۇرۇچ	Print خۇرۇچ (agent, raw material; 2011 D01-14747 h) is correct and used in 2009 sub-entries D_17438, D_18013, D_22300, D_22303, D_22523. Gheyret's خۇرۇج (attack, fit of anger; D01-14745 h) is a different word.
+D_22303	sub-entry	unverified	487_col1.png	قوشۇمچە خۇرۇچ	قوشۇمچە خۇرۇج	his_wrong	قوشۇمچە خۇرۇچ	Print خۇرۇچ (agent, raw material; 2011 D01-14747 h) is correct and used in 2009 sub-entries D_17438, D_18013, D_22300, D_22303, D_22523. Gheyret's خۇرۇج (attack, fit of anger; D01-14745 h) is a different word.
+D_22320	sub-entry	unverified	487_col3.png	قوغدىنىش ۋاسىتىسى	قوغدىتىش ۋاسىتىسى	his_wrong	قوغدىنىش ۋاسىتىسى	Print قوغدىنىش is a headword in 2011 (D02-01634 h) and 1990s (D90-4-02432 h). Gheyret's قوغدىتىش is found only in 2009 D_22315.
+D_22347	sub-entry	unverified	488_col2.png	قوقىقى قورۈماق	قوقىقى قورۇماق	ours_wrong	قوقىقى قورۇماق	
+D_22370	sub-entry	unverified	489_col1.png	قوڭۇر جوڭغۇر	قوڭۇر جۇغۇر	ours_wrong	قوڭۇر جۇغۇر	
+D_22370	sub-entry	unverified	489_col1.png	قوڭۇر كىرىسقال	قوڭۇر كىرىستال	ours_wrong	قوڭۇر كىرىستال	
+D_22370	sub-entry	unverified	489_col1.png	قوڭۇر يىلىپىز	قوڭۇر يىلپىز	ours_wrong	قوڭۇر يىلپىز	
+D_22374	sub-entry	unverified	489_col2.png	قولنىڭ ئەگرى	قولنىڭ كىرى	ours_wrong	قولنىڭ كىرى	
+D_22374	sub-entry	unverified	489_col2.png	قولى بېرىكتىلىك	قولى بەرىكەتلىك	ours_wrong	قولى بەرىكەتلىك	
+D_22412	sub-entry	unverified	491_col2.png	قوللاپ - قۇۋۋەتلەمەك	قوللاپ-قۇۋۋەتلىمەك	ours_wrong	قوللاپ - قۇۋۋەتلىمەك	
+D_22523	sub-entry	unverified	493_col2.png	قويۇلدۇرغۇچ خۇرۇچ	قويۇلدۇرغۇچ خۇرۇج	his_wrong	قويۇلدۇرغۇچ خۇرۇچ	Print خۇرۇچ (agent, raw material; 2011 D01-14747 h) is correct and used in 2009 sub-entries D_17438, D_18013, D_22300, D_22303, D_22523. Gheyret's خۇرۇج (attack, fit of anger; D01-14745 h) is a different word.
+D_22555	sub-entry	unverified	494_col1.png	قۇتۇپ تاجىسى	قۇتۇپ تاجى	ours_wrong	قۇتۇپ تاجى	
+D_22563	sub-entry	unverified	494_col3.png	قۇتۇپلانغان زەرىچە	قۇتۇپلانغان زەررىچە	print_error	قۇتۇپلانغان زەررىچە	print_error: scan shows زەرىچە (found nowhere). 2009's own headword زەررىچە (D_16361 h), also 2011 (D01-17388 h) and 1990s (D90-3-03185 h).
+D_22607	sub-entry	unverified	495_col3.png	قۇر ئارغامچە	قۇر ئارغامچا	print_error	قۇر ئارغامچا	print_error: scan shows ئارغامچە (found nowhere). 2009's own headword ئارغامچا (D_00631 h), also 2011 (D02-01923 d) and 1990s (D90-4-02980 d).
+D_22610	sub-entry	unverified	495_col3.png	قۇرىماق	قۇرۇماق	his_normalized	قۇرىماق	Kept as printed: scan shows قۇرىماق, a 1990s headword (D90-4-03165 h) and used in 2009 D_19625. 2011 form: قۇرۇماق (D02-02013 h).
+D_22610	sub-entry	unverified	495_col3.png	قۇراش	قۇرۇش	his_wrong	قۇراش	
+D_22662	sub-entry	verified	496_col3.png	قۇرلاپ تېرىش سىيالكىسى	قۇرلاپ تېرىش سېيالكىسى	his_wrong	قۇرلاپ تېرىش سىيالكىسى	
+D_22673	sub-entry	unverified	497_col1.png	قۇرۇتقۇچ خۇرۇچ	قۇرۇتقۇچ خۇرۇج	his_wrong	قۇرۇتقۇچ خۇرۇچ	Print خۇرۇچ (agent, raw material; 2011 D01-14747 h) is correct and used in 2009 sub-entries D_17438, D_18013, D_22300, D_22303, D_22523. Gheyret's خۇرۇج (attack, fit of anger; D01-14745 h) is a different word.
+D_22695	sub-entry	unverified	498_col2.png	قۇرۇلۇش گېدرولوگىيەسى	قۇرۇلۇش گىدرولوگىيەسى	print_error	قۇرۇلۇش گىدرولوگىيەسى	print_error: scan shows گېدرولوگىيەسى (found nowhere). 2009 sub-entries D_16862, D_22686 and D_25070 have گىدرولوگىيەسى.
+D_22749	sub-entry	unverified	499_col3.png	قۇلاق غۇڭۇلدىماق	قۇلاق غوڭۇلدىماق	print_error	قۇلاق غوڭۇلدىماق	print_error: scan shows غۇڭۇلدىماق (found nowhere). 2009 sub-entry D_20385, 2011 (D01-21337 h) and 1990s (D90-3-09017 h) have غوڭۇلدىماق.
+D_22749	sub-entry	unverified	499_col3.png	قۇلاققا يەتتەك	قۇلاققا يەتمەك	ours_wrong	قۇلاققا يەتمەك	
+D_22749	sub-entry	unverified	499_col3.png	قۇلاقنى پاڭ قىلۋەتمەك	قۇلاقنى پاڭ قىلىۋەتمەك	ours_wrong	قۇلاقنى پاڭ قىلىۋەتمەك	
+D_22879	sub-entry	unverified	503_col1.png	قۇيرۇق شىپاڭشىتماق	قۇيرۇق شىپپاڭشىتماق	print_error	قۇيرۇق شىپپاڭشىتماق	print_error: scan shows شىپاڭشىتماق (found nowhere). 2009 sub-entry D_19860 and 1990s headword D90-3-08291 have شىپپاڭشىتماق.
+D_22879	sub-entry	unverified	503_col1.png	قۇيرۇق شىپاڭلاتماق	قۇيرۇق شىپپاڭلاتماق	print_error	قۇيرۇق شىپپاڭلاتماق	print_error: scan shows شىپاڭلاتماق (found nowhere). 2009 sub-entry D_19861, 2011 (D02-18746 h) and 1990s (D90-4-03485 h) have شىپپاڭلاتماق.
+D_22879	sub-entry	unverified	503_col1.png	قۇيرۇقىنى قۇم باسباق	قۇيرۇقىنى قۇم باسماق	ours_wrong	قۇيرۇقىنى قۇم باسماق	
+D_22917	sub-entry	unverified	504_col1.png	قېتىشتۇرغۇچى خۇرۇچ	قېتىشتۇرغۇچى خۇرۇج	his_wrong	قېتىشتۇرغۇچى خۇرۇچ	Print خۇرۇچ (agent, raw material; 2011 D01-14747 h) is correct and used in 2009 sub-entries D_17438, D_18013, D_22300, D_22303, D_22523. Gheyret's خۇرۇج (attack, fit of anger; D01-14745 h) is a different word.
+D_22961	sub-entry	unverified	505_col1.png	قېرىنداش ئوچلىغۇچ	قېرىنداش ئۇچلىغۇچ	ours_wrong	قېرىنداش ئۇچلىغۇچ	
+D_22968	sub-entry	unverified	505_col1.png	قېزىش كۆپى	قېزىش كۇبى	ours_wrong	قېزىش كۇبى	
+D_22974	sub-entry	verified	505_col2.png	قېقىشماق	قېقىشتۇرماق	misaligned	قېقىشماق	
+D_22988	sub-entry	verified	505_col3.png	قېلىپلاشتۇرۇش ئىقتىسادىشۇناسلىقى	قېلىپلاشتۇرۇش ئىقتىسادشۇناسلىقى	ours_wrong	قېلىپلاشتۇرۇش ئىقتىسادشۇناسلىقى	
+D_23006	sub-entry	unverified	506_col1.png	قېنىقماق	قېنىقلىماق	misaligned	قېنىقماق	
+D_23015	sub-entry	unverified	506_col2.png	قېيىق ئىشك	قېيىق ئىشىك	ours_wrong	قېيىق ئىشىك	
+D_23016	sub-entry	unverified	506_col2.png	قېيىق پالقى	قېيىق پالىقى	ours_wrong	قېيىق پالىقى	
+D_23165	sub-entry	unverified	509_col1.png	قىرلىق پېيزەك	قىرلىق پىيىزەك	ours_wrong	قىرلىق پىيىزەك	
+D_23180	sub-entry	unverified	509_col3.png	قىرىق چىپچى	قىرىق چېچى	ours_wrong	قىرىق چېچى	
+D_23190	sub-entry	unverified	509_col3.png	قىز يۆتكەمەك	قىز يۆتكىمەك	ours_wrong	قىز يۆتكىمەك	
+D_23193	sub-entry	unverified	510_col1.png	قىزارىش	قىزىرىش	ours_wrong	قىزىرىش	
+D_23247	sub-entry	unverified	511_col1.png	قىزىل ئەپىيۈنگۈل	قىزىل ئەپيۈنگۈل	ours_wrong	قىزىل ئەپيۈنگۈل	
+D_23247	sub-entry	unverified	511_col1.png	قىزىل ئەتقا	قىزىل ئەنقا	ours_wrong	قىزىل ئەنقا	
+D_23247	sub-entry	unverified	511_col1.png	قىزىل باش چۆككەك ئۆردەك	قىزىل باش چۈمگەك ئۆردەك	print_error	قىزىل باش چۈمگەك ئۆردەك	print_error: scan shows چۆككەك (also in 2009 D_13107 and D_21088; found in no other dictionary). 2009's own headword چۈمگەك (D_13034 h), also 2011 (D01-13481 h) and 1990s (D90-2-07635 h).
+D_23247	sub-entry	unverified	511_col1.png	قىزىل پىچاڭگۈل	قىزىل پىچانگۈل	ours_wrong	قىزىل پىچانگۈل	
+D_23247	sub-entry	unverified	511_col1.png	قىزىل چېرىپباشكا	قىزىل چېرېپاشكا	ours_wrong	قىزىل چېرېپاشكا	
+D_23247	sub-entry	unverified	511_col1.png	قىزىل شەنمشاد	قىزىل شەمشاد	ours_wrong	قىزىل شەمشاد	
+D_23247	sub-entry	unverified	511_col1.png	قىزىل گۈل	قىزىل گىل	ours_wrong	قىزىل گىل	
+D_23247	sub-entry	unverified	511_col1.png	قىزىل ئېپىچتۇ	قىزىل ئېچىتقۇ	ours_wrong	قىزىل ئېچىتقۇ	
+D_23247	sub-entry	unverified	511_col1.png	قىزىل ئېبىس	قىزىل ئىبىس	ours_wrong	قىزىل ئىبىس	
+D_23247	sub-entry	unverified	511_col1.png	قىزىل ئىڭەك كۈسۈتكە	قىزىل ئېڭەك كۈسۈتكە	print_error	قىزىل ئېڭەك كۈسۈتكە	print_error: scan shows ئىڭەك (found nowhere). 2009's own headword ئېڭەك (D_34015 h), also 2011 (D02-14836 h) and 1990s (D90-6-01397 h).
+D_23265	sub-entry	unverified	512_col3.png	قىزىلگۈل ئىچىملىكى	قىزىلگۈل ئىچىملىك	his_wrong	قىزىلگۈل ئىچىملىكى	Print قىزىلگۈل ئىچىملىكى (possessive) is correct, like 2009 D_29156. Gheyret dropped the possessive ending.
+D_23328	sub-entry	unverified	514_col2.png	قىسمەن يېتىلىشلىك	قىسمەن يېتىلمەسلىك	ours_wrong	قىسمەن يېتىلمەسلىك	
+D_23380	sub-entry	unverified	515_col2.png	قىڭغىر ئىڭغىز بېلىق	قىڭغىر ئېغىز بېلى	print_error	قىڭغىر ئېغىز بېلىق	print_error, and Gheyret also wrong: scan shows ئىڭغىز (found nowhere); correct is ئېغىز (2009 headword D_01110 h). Gheyret's بېلى dropped ق. Correct form: قىڭغىر ئېغىز بېلىق (do not copy F).
+D_23454	sub-entry	unverified	517_col1.png	قىممەتسىزلەنمەك	قىممەتسىنمەك	ours_wrong	قىممەتسىنمەك	
+D_23454	sub-entry	unverified	517_col1.png	قىممەتسىزلىنىش	قىممەتسىنىش	ours_wrong	قىممەتسىنىش	
+D_23475	sub-entry	unverified	517_col3.png	قىنىغا چۈشمەك	قىنىغا چۈشەك	his_wrong	قىنىغا چۈشمەك	Print قىنىغا چۈشمەك (verb) is correct and a 1990s headword (D90-4-04395 h). Gheyret's چۈشەك (bedding) changes the word.
+D_23499	sub-entry	unverified	518_col1.png	قىيا - چىيا كۆتۈرمەك	قىيا-چىيا كۆرمەك	his_wrong	قىيا - چىيا كۆتۈرمەك	Print قىيا - چىيا كۆتۈرمەك is a 1990s headword (D90-4-04420 h). Gheyret's كۆرمەك changes the verb.
+D_23505	sub-entry	unverified	518_col2.png	قىيالىق تۈندىرا كەكلىكى	قىيالىق تۇندىرا كەكلىكى	ours_wrong	قىيالىق تۇندىرا كەكلىكى	
+D_23512	sub-entry	unverified	518_col2.png	قىيپاش تاش ئۇمۇرتقىسى	قىيپاش تاش ئومۇرتقىسى	print_error	قىيپاش تاش ئومۇرتقىسى	print_error: scan shows ئۇمۇرتقىسى (only here and D_04229). 2009's own headword ئومۇرتقا (D_31693 h) and sub-entries D_03821, D_25008, also 2011 (D02-12234 h) and 1990s (D90-1-05408 s).
+D_23548	sub-entry	unverified	519_col2.png	قىيىق كېسەلمەك	قىيىق كېسىلمەك	ours_wrong	قىيىق كېسىلمەك	
+D_23829	sub-entry	unverified	525_col1.png	كاككۇك تۇرۇلغا	كاككۇك تورۇلغا	variant	كاككۇك تۇرۇلغا	Both spellings are headwords: تۇرۇلغا (2011 D01-09864 h; 1990s D90-2-03231 h) and تورۇلغا (2009 D_09098 h; 1990s D90-2-02455 h). Same case as D_21088 «قارا جاغ تۇرۇلغا».
+D_23870	sub-entry	unverified	526_col1.png	كالپۇكنى چىشلىمەك	كالپۇكىنى چىشلىمەك	ours_wrong	كالپۇكىنى چىشلىمەك	
+D_23876	sub-entry	verified	526_col1.png	كالتەكسىمان ۋىبىراتور	كالتەكسىمان ۋىبراتور	print_error	كالتەكسىمان ۋىبراتور	print_error: scan shows ۋىبىراتور (found nowhere). 2009's own headword ۋىبراتور (D_33507 h), also 2011 (D02-14282 h) and 1990s (D90-6-00635 h).
+D_23877	sub-entry	unverified	526_col1.png	كالتەكلەمەك	كالتەكلىمەك	ours_wrong	كالتەكلىمەك	
+D_23884	sub-entry	unverified	526_col2.png	كالتسىي گىلۈكونات	كالتسىي گىلۇكونات	ours_wrong	كالتسىي گىلۇكونات	
+D_23900	sub-entry	unverified	526_col3.png	كاللا چىگىشلەشمەك	كاللا چىگىچلەشمەك	his_normalized	كاللا چىگىشلەشمەك	Kept as printed: scan shows چىگىشلەشمەك, a headword in 2011 (D01-13917 h) and 1990s (D90-2-08120 h). Gheyret's چىگىچلەشمەك appears only in 2009 sub-entries (D_13406, D_25058).
+D_23939	sub-entry	unverified	527_col3.png	كالىزىرە كۇمۇلىچى	كالىزىرە كۇمىلىچى	his_normalized	كالىزىرە كۇمۇلىچى	Kept as printed: 2009 is split (كۇمۇلىچى in D_37337, D_19848, D_29601; كۇمىلىچى in D_05532, D_12024, D_31416). Gheyret's form: كۇمىلىچى (1990s D90-5-03695 s). Same case as D_19848 «شىپا كۇمۇلىچى».
+D_24003	sub-entry	verified	529_col1.png	كاندىدات باش مۇنژىنېر	كاندىدات باش ئىنژېنېر	ours_wrong	كاندىدات باش ئىنژېنېر	
+D_24098	sub-entry	unverified	530_col3.png	كەتكۈزۈلۇش	كەتكۈزۈلۈش	ours_wrong	كەتكۈزۈلۈش	
+D_24111	sub-entry	unverified	531_col1.png	كەچىش	كېچىش	ours_wrong	كېچىش	
+D_24171	sub-entry	unverified	532_col1.png	كەزىش	كېزىش	ours_wrong	كېزىش	
+D_24179	sub-entry	verified	532_col1.png	كەسپىي كېسىلىك	كەسپىي كېسەللىك	ours_wrong	كەسپىي كېسەللىك	
+D_24247	sub-entry	unverified	533_col3.png	كەڭ بۇلۇڭلۇق لېنزا	كەڭ بۇلۇڭلۇق لىنزا	print_error	كەڭ بۇلۇڭلۇق لىنزا	print_error: scan shows لېنزا (same in D_05070, D_06819, D_24247); 2009's own headword لىنزا (D_27320, verified) and its other sub-entries have لىنزا, as does 2011 (D02-06735 h, verified). لېنزا is not found outside these three rows.
+D_24278	sub-entry	unverified	534_col3.png	كەم ئەقىللىق	كەم ئەقىللىك	his_wrong	كەم ئەقىللىق	Print ئەقىللىق is 2009's own headword (D_02604 h) and a 2011 headword (D01-02566 h). Gheyret's ئەقىللىك is found nowhere.
+D_24278	sub-entry	unverified	534_col3.png	كەم ئەقىللىق قىلماق	كەم ئەقىللىك قىلماق	his_wrong	كەم ئەقىللىق قىلماق	Print ئەقىللىق is 2009's own headword (D_02604 h) and a 2011 headword (D01-02566 h); the phrase is a 1990s headword (D90-4-05476 h). Gheyret's ئەقىللىك is found nowhere.
+D_24439	sub-entry	verified	538_col1.png	كورىيە مېھرىگىياسى	كورېيە مېھرىگىياھى	print_error	كورىيە مېھرىگىياھى	print_error in مېھرىگىياسى: 2009's own headword D_29134 «مېھرىگىياھ (مېھرىگىياھى)» gives the possessive مېھرىگىياھى; 2011 headword مېھرىگىياھ (D02-08985 h). مېھرىگىياسى is printed in D_01723, D_15340 and D_24439 only. كورىيە is era_form, kept as printed; 2011 form: كورېيە (2011 appendix, not in main list). Correct form: كورىيە مېھرىگىياھى (do NOT copy F).
+D_24470	sub-entry	unverified	538_col2.png	كوكۇس كەمپۇت	كوكۇس كەمپۈت	ours_wrong	كوكۇس كەمپۈت	
+D_24496	sub-entry	unverified	539_col1.png	كولدۇرلىتىلمەك	كولدۇرلىتىلماق	ours_wrong	كولدۇرلىتىلماق	
+D_24533	sub-entry	unverified	539_col3.png	كومپلېكس سۈندۈرۈشچانلىق	كومپلېكس سۇندۇرۇشچانلىق	ours_wrong	كومپلېكس سۇندۇرۇشچانلىق	
+D_24562	sub-entry	unverified	540_col2.png	كونا تاش قورال دەۋرى	كونا تاش قورالى دەۋرى	his_wrong	كونا تاش قورال دەۋرى	Print كونا تاش قورال دەۋرى is a 1990s headword (D90-4-05965 h). Gheyret added a possessive (قورالى).
+D_24698	sub-entry	unverified	543_col1.png	كۇندۇر توقىچىقى	كۇندۇر توقىچى	era_form	كۇندۇر توقىچىقى	era_form: 2009 prints توقىچىقى consistently (about 21 sub-entries, e.g. D_01003, D_01197). Not found in 2011 or 1990s; 1990s form: توقىچى (D90-3-04519 s).
+D_24706	sub-entry	verified	543_col1.png	كۆپ خانلىق سان	كۆپ خانىلىق سان	ours_wrong	كۆپ خانىلىق سان	
+D_24706	sub-entry	verified	543_col1.png	كۆپ ئىلاھلىق دىن	كۆپ ئىلاھچىلىق دىن	his_normalized	كۆپ ئىلاھلىق دىن	Print ئىلاھلىق is used in 1990s (D90-6-00580 d). Gheyret's ئىلاھچىلىق (2011 D02-16108 h) changes the word; kept as printed. → his_normalized. Gheyret «ئىلاھچىلىق»: 2011 hw D02-16108, 1990s hw D90-6-03787.
+D_24743	sub-entry	unverified	544_col2.png	كۆپۈكلەندۈرگۈچى خۇرۇچ	كۆپۈكلەندۈرگۈچى خۇرۇج	his_wrong	كۆپۈكلەندۈرگۈچى خۇرۇچ	Print خۇرۇچ (agent, raw material; 2011 D01-14747 h) is correct and used in 2009 sub-entries D_17438, D_18013, D_22300, D_22303. Gheyret's خۇرۇج (attack, fit of anger; D01-14745 h) is a different word.
+D_24774	sub-entry	verified	545_col1.png	كۆتۈرتىش	كۆتۈرتۈش	his_wrong	كۆتۈرتىش	
+D_24902	sub-entry	verified	548_col1.png	كۆز يەتكۈزسىز	كۆز يەتكۈسىز	ours_wrong	كۆز يەتكۈسىز	
+D_24902	sub-entry	verified	548_col1.png	كۆزدىن غايىپ بولماق	كۆزدىن غايىب بولماق	print_error	كۆزدىن غايىب بولماق	print_error: scan shows غايىپ (only here and D_30149). 2009's own headword غايىب (D_20217 h), also 2011 (D01-05530 d) and 1990s (D90-4-06565 h).
+D_24932	sub-entry	unverified	549_col3.png	كۆزەينەكلىك يىلان	كۆزئەينەكلىك يىلان	his_normalized	كۆزەينەكلىك يىلان	Kept as printed: scan shows كۆزەينەكلىك, as in 1990s D90-4-06758 s and 2009 headword كۆزەينەك (D_24931). 2011 form: كۆزئەينەكلىك (D02-04317 h). Same case as D_21088 «قارا كۆزەينەك».
+D_24941	sub-entry	unverified	550_col1.png	كۆزلەمەك	كۆزلىمەك	ours_wrong	كۆزلىمەك	
+D_24945	sub-entry	unverified	550_col1.png	كۆزلەمە قىممەت	كۆزلىمە قىممەت	ours_wrong	كۆزلىمە قىممەت	
+D_24974	sub-entry	verified	550_col3.png	كۆك پۇرچاق مېتىسى	كۆك پۇرچاق مىتىسى	print_error	كۆك پۇرچاق مىتىسى	print_error: scan shows مېتىسى (same in D_06577 and D_24974); 2009's other pest sub-entries (D_01021, D_03423, D_25103, D_26385, D_27516) have مىتىسى, as does the 1990s (D90-5-09341 s). مېتىسى is not found outside these two rows.
+D_24974	sub-entry	verified	550_col3.png	كۆك جۇخارگۈل	كۆك جۈخارگۈل	his_normalized	كۆك جۇخارگۈل	Kept as printed: scan shows جۇخارگۈل (extraction corrected: the gap in «جۇخار گۈل» is a typesetting gap). 2009's own headword جۇخارگۈل (D_11468 h). 2011 form: جۈخارگۈل (D01-11970 h). Same word as D_21088 «قارا جۇخارگۈل».
+D_24974	sub-entry	verified	550_col3.png	كۆك چېرتيۇژ	كۆك چېرتيوژ	print_error	كۆك چېرتيوژ	print_error: scan shows چېرتيۇژ (found nowhere). 2009's own headword چېرتيوژ (D_13095 h), also 2011 (D01-13551 h) and 1990s (D90-2-07699 h).
+D_24975	sub-entry	verified	551_col1.png	كۆككە كۆتۈرەك	كۆككە كۆتۈرمەك	ours_wrong	كۆككە كۆتۈرمەك	
+D_25058	sub-entry	unverified	552_col3.png	كۆڭلى چېكىچ	كۆڭلى چىگىچ	ours_wrong	كۆڭلى چىگىچ	
+D_25058	sub-entry	unverified	552_col3.png	كۆڭۈل خىر	كۆڭۈل خىرە	ours_wrong	كۆڭۈل خىرە	
+D_25058	sub-entry	unverified	552_col3.png	كۆڭۈل سۈ ئىچمەك	كۆڭۈل سۇ ئىچمەك	ours_wrong	كۆڭۈل سۇ ئىچمەك	
+D_25058	sub-entry	unverified	552_col3.png	كۆڭۈل كەنىىك	كۆڭۈل كەتمەك	ours_wrong	كۆڭۈل كەتمەك	
+D_25058	sub-entry	unverified	552_col3.png	كۆڭۈل ئېلىشماق	كۆڭۈل ئىلىشماق	his_wrong	كۆڭۈل ئېلىشماق	his_wrong: scan shows «ئېلىشماق». Print: 2009 hw D_34104 2009 sub D_03821 (+4) 2011 hw D02-14923 (+1) 2011 def D01-01524 (+13), 1990s hw D90-1-05394 1990s def D90-1-02162 (+21). Gheyret «ئىلىشماق»: 2009 sub D_35174 2011 hw D02-16228 (+1) 2011 def D01-01980 (+5), 1990s hw D90-4-07147 1990s def D90-4-07089 (+5). كۆڭۈل ئېلىشماق = feel nauseous (2011 D02-08618 «مۇنايقىماق: كۆڭۈل ئېلىشماق»); ئىلىشماق is a different verb.
+D_25058	sub-entry	unverified	552_col3.png	كۆڭۈلگە يارشا	كۆڭۈلگە يارىشا	ours_wrong	كۆڭۈلگە يارىشا	
+D_25067	sub-entry	unverified	554_col2.png	كۆڭۈلشمەك	كۆڭۈلشىمەك	ours_wrong	كۆڭۈلشىمەك	
+D_25067	sub-entry	unverified	554_col2.png	كۆڭۈلشۈش	كۆڭۈلشىش	ours_wrong	كۆڭۈلشىش	
+D_25068	sub-entry	unverified	554_col2.png	كۆڭلى - كۆكسى كەڭ	كۆڭۈل-كۆكسى كەڭ	ours_wrong	كۆڭۈل - كۆكسى كەڭ	
+D_25100	sub-entry	unverified	555_col1.png	كۆمدۈرۈلمەك	كۆمتۈرۈلمەك	his_wrong	كۆمدۈرۈلمەك	
+D_25100	sub-entry	unverified	555_col1.png	كۆمدۈرۈلۈش	كۆمتۈرۈلۈش	his_wrong	كۆمدۈرۈلۈش	
+D_25105	sub-entry	unverified	555_col1.png	كۆمۈر قاشتىشى	كۆمۈر قاشتېشى	ours_wrong	كۆمۈر قاشتېشى	
+D_25247	sub-entry	unverified	558_col2.png	كۈرەمەك	كۈرىمەك	ours_wrong	كۈرىمەك	
+D_25283	sub-entry	unverified	559_col1.png	كۈز تىنجىقى	كۈز تىنچىقى	his_wrong	كۈز تىنجىقى	his_wrong: scan shows «تىنجىقى». Print: 2009 sub D_04400, 1990s hw D90-1-06160 1990s def D90-1-06160. Gheyret «تىنچىقى»: none.
+D_25318	sub-entry	unverified	559_col3.png	كۈل خەش	كۈل خىش	ours_wrong	كۈل خىش	
+D_25318	sub-entry	unverified	559_col3.png	كۈل رەڭ مۇغا	كۈل رەڭ موغا	print_error	كۈل رەڭ موغا	print_error: scan shows «مۇغا». Print: none. Gheyret «موغا»: 2009 hw D_28399 2009 sub D_23247 2011 def D01-00479 (+6), 1990s def D90-1-00647 (+11).
+D_25352	sub-entry	unverified	560_col2.png	كۈلۈمسىرەمەك	كۈلۈمسىرىمەك	ours_wrong	كۈلۈمسىرىمەك	
+D_25460	sub-entry	verified	562_col3.png	كېپىللىك توختىمى	كېپىللىك توختامى	his_normalized	كېپىللىك توختىمى	Kept as printed: scan shows «توختىمى». Print: 2009 sub D_30149 (+1), 1990s hw D90-5-04711 1990s def D90-2-02351 (+1). Gheyret «توختامى»: 2009 hw D_09024 2009 sub D_00726 (+4) 2011 def D01-08700 (+8), 1990s hw D90-6-00252 1990s def D90-1-03733 (+4). Other form: كېپىللىك توختامى.
+D_25463	sub-entry	verified	562_col3.png	كېپىنەكسىمان گۈل تاجىسى	كېپىنەكسىمان گۈل تاجى	his_normalized	كېپىنەكسىمان گۈل تاجىسى	Kept as printed: scan shows «تاجىسى». Print: 2009 sub D_13326 (+3) 2011 def D01-05199 (+6), 1990s hw D90-2-07976 1990s def D90-1-01619 (+24). Gheyret «تاجى»: 2009 hw D_07433 2009 sub D_22555 (+3) 2011 def D01-07601 (+22), 1990s hw D90-2-02981 1990s def D90-1-01564 (+78). Other form: كېپىنەكسىمان گۈل تاجى.
+D_25485	sub-entry	unverified	563_col2.png	كېچىكىشۈش	كېچىكىشىش	ours_wrong	كېچىكىشىش	
+D_25487	sub-entry	verified	563_col2.png	كېچىلىك بەزمە	كېچىلىك بەرمە	his_wrong	كېچىلىك بەزمە	
+D_25488	sub-entry	unverified	563_col2.png	كېچىلەمەك	كېچىلىمەك	ours_wrong	كېچىلىمەك	
+D_25495	sub-entry	unverified	563_col3.png	كېرەكسىز تۆمۈر - تەسەك	كېرەكسىز تۆمۈر-تەرسەك	print_error	كېرەكسىز تۆمۈر - تەرسەك	print_error: scan shows «تەسەك». Print: 1990s def D90-1-08140. Gheyret «تەرسەك»: 2009 hw D_09918 (+1) 2011 hw D01-10154 (+1) 2011 def D01-10561 (+2), 1990s hw D90-2-03642 1990s def D90-2-03642 (+4).
+D_25498	sub-entry	unverified	563_col3.png	كېرەلەمەك	كېرەلىمەك	ours_wrong	كېرەلىمەك	
+D_25522	sub-entry	unverified	564_col1.png	كېسەل كارۋىتى	كېسەل كارىۋىتى	his_normalized	كېسەل كارۋىتى	Kept as printed: scan shows «كارۋىتى». Print: 2009 sub D_17278, 1990s hw D90-4-07701. Gheyret «كارىۋىتى»: 2009 sub D_31161 2011 def D02-03051 (+1), 1990s def D90-2-00276 (+3). Other form: كېسەل كارىۋىتى.
+D_25533	sub-entry	unverified	564_col2.png	كېسىشمە ئورسېيەت	كېسىشمە ئىرسىيەت	ours_wrong	كېسىشمە ئىرسىيەت	
+D_25547	sub-entry	unverified	564_col3.png	كېكەچلىمەك	كېكەچلەنمەك	misaligned	كېكەچلىمەك	
+D_25547	sub-entry	unverified	564_col3.png	كېكەچلەش	كېكەچلىنىش	misaligned	كېكەچلەش	
+D_25570	sub-entry	unverified	565_col2.png	كېڭەيتىلگەن كارد	كېڭەيتىلگەن كارت	print_error	كېڭەيتىلگەن كارت	print_error: scan shows «كارد». Print: none. Gheyret «كارت»: 2009 hw D_23709 (+3) 2011 hw D02-03008 (+3) 2011 def D02-03010 (+6), 1990s hw D90-4-04717 1990s def D90-4-04719 (+1).
+D_25619	sub-entry	unverified	566_col2.png	كېمەيىش	كېمىيىش	ours_wrong	كېمىيىش	
+D_25639	sub-entry	verified	566_col3.png	كېۋەز پەتى	كېۋەز پىتى	ours_wrong	كېۋەز پىتى	
+D_25657	sub-entry	unverified	567_col1.png	كىتاب جاۋۇنى	كىتاب جاۋىنى	ours_wrong	كىتاب جاۋىنى	
+D_25671	sub-entry	unverified	567_col2.png	كىتابىي بىلىم	كىتابى بىلىم	variant	كىتابىي بىلىم	variant: scan shows «كىتابىي». Print: 2011 hw D02-05005 2011 def D02-04989 (+2), 1990s hw D90-4-07910 1990s def D90-2-03201 (+12). Gheyret «كىتابى»: 2009 hw D_25657 2009 sub D_31543 2011 hw D01-18626 2011 def D01-09161 (+13), 1990s hw D90-3-04919 1990s def D90-1-03035 (+18).
+D_25680	sub-entry	verified	567_col2.png	كىچىك جىنسىي لەۋ	كىچىك جىنسى لەۋ	his_wrong	كىچىك جىنسىي لەۋ	his_wrong: scan shows «جىنسىي». Print: 2009 hw D_11870 2009 sub D_07720 (+16) 2011 hw D01-12246 2011 def D01-00349 (+92), 1990s hw D90-2-06261 1990s def D90-1-00457 (+137). Gheyret «جىنسى»: 2009 sub D_07747 (+2) 2011 def D01-02960 (+20), 1990s def D90-1-02240 (+49).
+D_25680	sub-entry	verified	567_col2.png	كىچىك مونگۇس	كىچىك موڭگۇس	his_wrong	كىچىك مونگۇس	
+D_25680	sub-entry	verified	567_col2.png	كىچىك يوپۇرماقلىق ئەرمىدۇن	كىچىك يوپۇرماقلىق ئەرمۇدۇن	his_normalized	كىچىك يوپۇرماقلىق ئەرمىدۇن	Kept as printed: scan shows «ئەرمىدۇن». Print: 1990s hw D90-4-07978 1990s def D90-1-01668 (+4). Gheyret «ئەرمۇدۇن»: 2009 hw D_02415 2009 sub D_02415 (+1) 2011 hw D01-02370 2011 def D01-02370 (+2), 1990s def D90-1-06034 (+1). Other form: كىچىك يوپۇرماقلىق ئەرمۇدۇن.
+D_25680	sub-entry	verified	567_col2.png	كىچىك يوپۇرماقلىق تېرەك	كىچىك يوپۇرماقلىق تىرەك	his_wrong	كىچىك يوپۇرماقلىق تېرەك	his_wrong: scan shows «تېرەك». Print: 2009 hw D_10289 (+1) 2009 sub D_01130 (+10) 2011 hw D01-04283 (+2) 2011 def D01-03143 (+29), 1990s hw D90-1-01594 1990s def D90-1-01594 (+63). Gheyret «تىرەك»: 2009 hw D_10569 2009 sub D_00287 (+5) 2011 hw D01-00634 (+1) 2011 def D01-00286 (+22), 1990s hw D90-1-00826 1990s def D90-1-00374 (+28). تېرەك = poplar; تىرەك = prop/support, a different word.
+D_25748	sub-entry	verified	569_col2.png	كىرېست ئارمىيەسى = ئەھلى - سەلب	كىرېست ئارمىيەسى = ئەھلىسەلىپ	ours_wrong	كىرېست ئارمىيەسى = ئەھلىسەلىپ	
+D_25776	sub-entry	unverified	570_col2.png	كىرىشمە ئېرسىيەت	كىرىشمە ئىرسىيەت	ours_wrong	كىرىشمە ئىرسىيەت	
+D_25800	sub-entry	verified	570_col3.png	كىسلاتاسىزلاندۇرماق	كىسلاتاسىزلاتدۇرماق	his_wrong	كىسلاتاسىزلاندۇرماق	
+D_25841	sub-entry	unverified	571_col3.png	كىلاسسىفىكاتسىيەلەمەك	كىلاسسىفىكاتسىيەلىمەك	ours_wrong	كىلاسسىفىكاتسىيەلىمەك	
+D_25882	sub-entry	unverified	572_col2.png	كىلىنىك ئاپادە	كىلىنىك ئىپادە	ours_wrong	كىلىنىك ئىپادە	
+D_25884	sub-entry	verified	572_col3.png	كىلىنىكىلىق ئىرسىيەتشۇناس	كىلىنىكىلىق ئىرسىيەتشۇناسلىق	ours_wrong	كىلىنىكىلىق ئىرسىيەتشۇناسلىق	
+D_25886	sub-entry	unverified	572_col3.png	كىم بىلىسۇن	كىم بىلسۇن	ours_wrong	كىم بىلسۇن	
+D_25912	sub-entry	verified	573_col1.png	كىنو سىنارىيەسى	كىنو سېنارىيەسى	print_error	كىنو سېنارىيەسى	print_error: scan shows «سىنارىيەسى». Print: 2009 sub D_10437. Gheyret «سېنارىيەسى»: 2009 hw D_18639 2011 def D01-07055 (+1).
+D_25933	sub-entry	unverified	573_col2.png	كىۋارتىسلىق جىنىس	كىۋارتىسلىق جىنس	ours_wrong	كىۋارتىسلىق جىنس	
+D_26008	sub-entry	unverified	576_col1.png	گارمونىيەلىك ئىنتىرۋال	گارمونىيەلىك ئېنتېرۋال	print_error	گارمونىيەلىك ئىنتېرۋال	print_error: scan shows «ئىنتىرۋال». Print: none. Gheyret «ئېنتېرۋال»: 2009 hw D_34142 2011 hw D02-14968 2011 def D02-08959, 1990s hw D90-5-02916 1990s def D90-5-02915. Correct form uses 2009's own sub-entry spelling ئىنتېرۋال (D_07781 etc.), not his ئېنتېرۋال — do NOT copy F.
+D_26009	sub-entry	verified	576_col1.png	گاز يېپىقلىغۇ	گاز يېقىلغۇ	ours_wrong	گاز يېقىلغۇ	
+D_26056	sub-entry	verified	577_col1.png	گال ئاۋازىسى	گال ئاۋارىسى	ours_wrong	گال ئاۋارىسى	
+D_26101	sub-entry	unverified	578_col1.png	گەپنى يۈتۈۋەتمەك	گەپنى يۇتۇۋەتمەك	print_error	گەپنى يۇتۇۋەتمەك	print_error: scan shows «يۈتۈۋەتمەك». Print: 1990s hw D90-4-08566. Gheyret «يۇتۇۋەتمەك»: 2011 hw D01-19221, 1990s hw D90-3-06004 1990s def D90-1-07515. يۈتمەك = to lose; the idiom is يۇتماق (swallow).
+D_26101	sub-entry	unverified	578_col1.png	گەپنىڭ بىلىگە تەپمەك	گەپنىڭ بېلىگە تەپمەك	print_error	گەپنىڭ بېلىگە تەپمەك	print_error: scan shows «بىلىگە». Print: 1990s def D90-2-03979 (+1). Gheyret «بېلىگە»: 2009 sub D_03821 2011 hw D01-03951 (+2) 2011 def D01-01071 (+23), 1990s hw D90-1-09979 1990s def D90-1-01555 (+50). بېل = waist; the idiom is گەپنىڭ بېلىگە تەپمەك.
+D_26142	sub-entry	unverified	580_col1.png	گەزلەنىش	گەزلىنىش	ours_wrong	گەزلىنىش	
+D_26232	sub-entry	verified	581_col3.png	گۇرۇپپىلىق كۇي	گۇرۇپپىلىق كۈي	print_error	گۇرۇپپىلىق كۈي	print_error: scan shows «كۇي». Print: 2011 def D02-17442. Gheyret «كۈي»: 2009 hw D_25424 (+1) 2009 sub D_00867 (+7) 2011 hw D02-04764 2011 def D01-01752 (+27), 1990s hw D90-1-01102 1990s def D90-1-01102 (+49).
+D_26320	sub-entry	unverified	583_col2.png	گۆرىدىن توڭگۈز قوپقۇر	گۆرىدىن توڭگۇز قوپقۇر	ours_wrong	گۆرىدىن توڭگۇز قوپقۇر	
+D_26337	sub-entry	verified	583_col3.png	گۆشەيىش	گۆشىيىش	ours_wrong	گۆشىيىش	
+D_26353	sub-entry	unverified	584_col1.png	گۆھەر پۇرۇش	گۆھەر پۈرۈش	print_error	گۆھەر پۈرۈش	print_error: scan shows «پۇرۇش». Print: 1990s def D90-4-09042 (+1). Gheyret «پۈرۈش»: 2009 hw D_06756 2009 sub D_06726 2011 def D02-18573.
+D_26407	sub-entry	unverified	585_col2.png	گۈڭگۈرتلۈك ئارشاڭ	گۈڭگۈرتلۈك ئارىشاڭ	print_error	گۈڭگۈرتلۈك ئارىشاڭ	print_error: scan shows «ئارشاڭ». Print: 2011 def D01-10525, 1990s def D90-4-04196. Gheyret «ئارىشاڭ»: 2009 hw D_00732 2011 hw D01-00695 2011 def D02-05763 (+1), 1990s hw D90-1-00916 1990s def D90-4-01646 (+3).
+D_26466	sub-entry	unverified	586_col2.png	گۈللىش	گۈللەش	ours_wrong	گۈللەش	
+D_26484	sub-entry	unverified	586_col3.png	گۈمبۈرلەمەك	گۈمبۈرلىمەك	ours_wrong	گۈمبۈرلىمەك	
+D_26564	sub-entry	verified	588_col1.png	گېئومېتىرىيەلىك تېئورىما	گېئومېتىرىيەلىك تېئورېما	print_error	گېئومېتىرىيەلىك تېئورېما	print_error: scan shows تېئورىما. 2009's own headword تېئورېما (D_10468 h) and sub-entries D_00867, D_31593, D_35424 have تېئورېما, as does the 1990s headword (D90-2-01205 h). 2011 is split (D01-10739 h تېئورىما; D02-16500 d تېئورېما). Same misprint as D_08278.
+D_26564	sub-entry	verified	588_col1.png	گېئومېتىرىيەلىك كىرىستالوگرافىيە	گېئومېتىرىيەلىك كىرىستاللوگرافىيە	ours_wrong	گېئومېتىرىيەلىك كىرىستاللوگرافىيە	
+D_26614	sub-entry	unverified	589_col1.png	گىر تېپىشى	گىر تېشى	ours_wrong	گىر تېشى	
+D_26624	sub-entry	unverified	589_col1.png	گىرام ئاتوم	گىرام ئاتومى	his_wrong	گىرام ئاتوم	his_wrong: scan shows «ئاتوم». Print: 2009 hw D_00233 2009 sub D_00233 (+12) 2011 hw D01-00218 (+5) 2011 def D01-00218 (+84), 1990s hw D90-1-00293 1990s def D90-1-00282 (+192). Gheyret «ئاتومى»: 2009 sub D_31041 (+2) 2011 def D01-00224 (+9), 1990s def D90-1-08617 (+23). گىرام ئاتوم is the 2009 sub-entry form beside گىرام مولېكۇلا; Gheyret added a possessive.
+D_26642	sub-entry	unverified	589_col3.png	گىرەلەمەك	گىرەلىمەك	ours_wrong	گىرەلىمەك	
+D_26657	sub-entry	unverified	590_col1.png	گىرلەمەك	گىرلىمەك	ours_wrong	گىرلىمەك	
+D_26666	sub-entry	unverified	590_col2.png	گىرۋەكلىك چىرباشكا	گىرۋەكلىك چېرېپاشكا	ours_wrong	گىرۋەكلىك چېرېپاشكا	
+D_26690	sub-entry	unverified	590_col3.png	گىژ - گىژگە سالماق	گىژ-گىژ سالماق	his_wrong	گىژ - گىژگە سالماق	his_wrong: scan shows «گىژگە». Print: 1990s hw D90-4-10477 1990s def D90-4-09510 (+1). Gheyret «گىژ-گىژ سالماق»: none. 2009 headword گىژ - گىژ (D_26690) and 1990s D90-4-10477 have گىژگە.
+D_26915	sub-entry	unverified	595_col1.png	لاي پىچەت	لاي پېچەت	ours_wrong	لاي پېچەت	
+D_27190	sub-entry	unverified	600_col2.png	لېدىبور تەڭچىسى	لېدىبور تەنچىسى	ours_wrong	لېدىبور تەنچىسى	
+D_27205	sub-entry	unverified	600_col3.png	لېنتىسىمان رېپىكا	لېنتىسىمان رېيكا	ours_wrong	لېنتىسىمان رېيكا	
+D_27242	sub-entry	verified	601_col1.png	لىرىك چەككىنىش	لىرىك چېكىنىش	ours_wrong	لىرىك چېكىنىش	
+D_27242	sub-entry	verified	601_col1.png	لىرىك نەسىر	لىرىك نەسر	print_error	لىرىك نەسر	print_error: scan shows «نەسىر». Print: 1990s def D90-1-08618 (+3). Gheyret «نەسر»: 2009 hw D_29783 2011 hw D02-09831 2011 def D01-06704 (+7), 1990s hw D90-5-04056 1990s def D90-5-04057 (+1).
+D_27265	sub-entry	unverified	601_col3.png	لىغىلداماق	لىغىلدىماق	ours_wrong	لىغىلدىماق	
+D_27292	sub-entry	unverified	602_col1.png	لىڭشىتماق	لىڭشىماق	misaligned	لىڭشىتماق	
+D_27292	sub-entry	unverified	602_col1.png	لىڭشىتىش	لىڭشىش	misaligned	لىڭشىتىش	
+D_27345	sub-entry	unverified	603_col3.png	ماتەم نۇتۇقى	ماتەم نۇتقى	print_error	ماتەم نۇتقى	print_error: scan shows «نۇتۇقى». Print: 2011 def D02-16366, 1990s def D90-6-01807. Gheyret «نۇتقى»: 2009 hw D_29971 2009 sub D_08466 2011 def D02-10062, 1990s hw D90-2-01443 1990s def D90-5-02066 (+1).
+D_27354	sub-entry	verified	604_col1.png	ماتېرىيال ئىتتىرگۈچ	ماتېرىيال ئىتتەرگۈچ	his_wrong	ماتېرىيال ئىتتىرگۈچ	
+D_27433	sub-entry	unverified	605_col3.png	ماددىي نوقتا	ماددىي نۇقتا	ours_wrong	ماددىي نۇقتا	
+D_27488	sub-entry	unverified	607_col1.png	ماز پايىنەك	ماز پاينەك	ours_wrong	ماز پاينەك	
+D_27500	sub-entry	verified	607_col2.png	ماس ئىنتېرۋال	ماس ئېنتېرۋال	variant	ماس ئىنتېرۋال	variant: scan shows «ئىنتېرۋال». Print: 2009 sub D_07781 (+4) 2011 hw D02-16375, 1990s hw D90-1-02480 1990s def D90-2-02797 (+4). Gheyret «ئېنتېرۋال»: 2009 hw D_34142 2011 hw D02-14968 2011 def D02-08959, 1990s hw D90-5-02916 1990s def D90-5-02915. Same as D_07781/D_12475 «چەكسىز ئىنتېرۋال»: ئىنتېرۋال and ئېنتېرۋال are both headwords.
+D_27582	sub-entry	unverified	609_col3.png	ماگما جىنسى	ماگما جىنس	ours_wrong	ماگما جىنس	
+D_27588	sub-entry	unverified	609_col3.png	ماگنىت شىشە	ماگنىت شېشە	variant	ماگنىت شىشە	variant: scan shows «شىشە». Print: 2009 hw D_19961 2011 def D01-04058 (+1), 1990s def D90-1-01609 (+3). Gheyret «شېشە»: 2009 hw D_19824 2011 hw D01-20759 (+1) 2011 def D01-01626 (+14), 1990s hw D90-3-02441 1990s def D90-1-03971 (+20).
+D_27588	sub-entry	unverified	609_col3.png	ماگنىت كاندۇۋچىسى	ماگنىت كاندۇكچىسى	ours_wrong	ماگنىت كاندۇكچىسى	
+D_27604	sub-entry	unverified	610_col3.png	ماگنىيلىق پېروكسىد	ماگنىيلىق پىروكسېن	ours_wrong	ماگنىيلىق پىروكسېن	
+D_27638	sub-entry	unverified	611_col1.png	مال باقۇچى	مال باققۇچى	ours_wrong	مال باققۇچى	
+D_27638	sub-entry	unverified	611_col1.png	مال زاكاس تالونى	مال زاكاز تالونى	print_error	مال زاكاز تالونى	print_error: scan shows «زاكاس». Print: 2009 sub D_28890. Gheyret «زاكاز»: 2009 hw D_16241 2009 sub D_00454 (+3) 2011 hw D01-17252 2011 def D01-00098 (+11), 1990s hw D90-1-00604 1990s def D90-1-00127 (+22).
+D_27740	sub-entry	unverified	613_col1.png	مانگان شىپاتى	مانگان ئىشپاتى	variant	مانگان شىپاتى	variant: scan shows «شىپاتى». Print: 2009 hw D_19850 2009 sub D_03200 (+2) 2011 def D02-00089, 1990s def D90-3-00033 (+4). Gheyret «ئىشپاتى»: 2009 sub D_09917 (+4) 2011 def D01-19902 (+8). Same as D_03200/D_16375 (شىپات / ئىشپات).
+D_27754	sub-entry	unverified	613_col2.png	مانى دېنى	مانى دىنى	print_error	مانى دىنى	print_error: scan shows «دېنى». Print: 2011 def D01-00530 (+28), 1990s def D90-1-00725 (+63). Gheyret «دىنى»: 2009 hw D_19390 2009 sub D_04265 (+13) 2011 hw D01-04448 (+5) 2011 def D01-04447 (+44), 1990s hw D90-1-09992 1990s def D90-1-05520 (+61). دېنى = grain; the religion is دىن (2009 hw D_19390).
+D_27778	sub-entry	unverified	613_col3.png	ماي پۈركىگۈچ	ماي پۈركۈگۈچ	print_error	ماي پۈركۈگۈچ	print_error: scan shows «پۈركىگۈچ». Print: 2009 sub D_31169. Gheyret «پۈركۈگۈچ»: 2009 hw D_06737 2009 sub D_05478 (+3) 2011 hw D01-06966, 1990s hw D90-1-09313 1990s def D90-1-09314 (+2).
+D_27832	sub-entry	unverified	615_col1.png	مەبلەغنىڭ ئىككى ياقلىمىلىقلىقى	مەبلەغنىڭ ئىككى ياقلىمىلىقى	his_wrong	مەبلەغنىڭ ئىككى ياقلىمىلىقلىقى	
+D_27876	sub-entry	unverified	616_col1.png	مەخپىي رېتسىپ	مەخپىي رېتسېپ	print_error	مەخپىي رېتسېپ	print_error: scan shows «رېتسىپ». Print: 2009 sub D_20312 (+1) 2011 def D02-10092, 1990s def D90-5-04408. Gheyret «رېتسېپ»: 2009 hw D_16070 2009 sub D_36216 2011 hw D01-17052 2011 def D01-17055 (+1), 1990s hw D90-3-00992.
+D_27908	sub-entry	unverified	617_col1.png	مەدەنىيەت جۇغراپىيەسى	مەدەنىيەت جۇغراپىيە	his_wrong	مەدەنىيەت جۇغراپىيەسى	his_wrong: scan shows «جۇغراپىيەسى». Print: 2009 hw D_11490 2009 sub D_04021 (+26). Gheyret «جۇغراپىيە»: 2009 hw D_11490 2009 sub D_00909 (+12) 2011 hw D01-11841 2011 def D01-07631 (+7), 1990s hw D90-1-07323 1990s def D90-1-06603 (+13). Both forms are valid; Gheyret dropped the possessive.
+D_27929	sub-entry	unverified	617_col2.png	مەدھىيەلىشمەك	مەدھىيەلەشمەك	ours_wrong	مەدھىيەلەشمەك	
+D_27930	sub-entry	unverified	617_col2.png	مەدھىيەلىنمەك	مەدھىيەلەنمەك	ours_wrong	مەدھىيەلەنمەك	
+D_27972	sub-entry	unverified	618_col2.png	مەركىزىي جىسمى	مەركىزىي جىسىم	ours_wrong	مەركىزىي جىسىم	
+D_28054	sub-entry	unverified	619_col3.png	مەسلىھەت چىيى	مەسلىھەت چېيى	ours_wrong	مەسلىھەت چېيى	
+D_28107	sub-entry	unverified	620_col3.png	مەقسەت پېئىلى	مەقسەت-پېئىلى	his_wrong	مەقسەت پېئىلى	his_wrong: scan shows «مەقسەت پېئىلى». Print: none. Gheyret «مەقسەت-پېئىلى»: none. Only the hyphen differs; 2009 prints a space.
+D_28406	sub-entry	unverified	627_col1.png	موكىسىمان دېپلوماتىيە	موكىسىمان دىپلوماتىيە	print_error	موكىسىمان دىپلوماتىيە	print_error: scan shows «دېپلوماتىيە». Print: 1990s def D90-4-02340. Gheyret «دىپلوماتىيە»: 2009 hw D_15392 2009 sub D_15392 (+2) 2011 hw D01-16330 2011 def D01-01077 (+8), 1990s hw D90-3-01802 1990s def D90-1-01580 (+16).
+D_28411	sub-entry	unverified	627_col1.png	موڭغۇل قىيىقى	موڭغۇل قېيىقى	print_error	موڭغۇل قېيىقى	print_error: scan shows «قىيىقى». Print: none. Gheyret «قېيىقى»: 2009 sub D_09048 (+1) 2011 def D02-02335, 1990s hw D90-4-10340 1990s def D90-4-02748 (+1).
+D_28436	sub-entry	verified	627_col3.png	مولېكۇلا كونغورماتسىيەسى	مولېكۇلا كونفورماتسىيەسى	ours_wrong	مولېكۇلا كونفورماتسىيەسى	
+D_28436	sub-entry	verified	627_col3.png	مولېكۇلا ئېۋوليۇتسىيەسى	مولېكۇلا ئېۋوليوتسىيەسى	his_normalized	مولېكۇلا ئېۋوليۇتسىيەسى	Kept as printed: scan shows «ئېۋوليۇتسىيەسى». Print: none. Gheyret «ئېۋوليوتسىيەسى»: none. 2009 hw ئېۋوليوتسىيە (D_34194); 1990s writes ئېۋوليۇتسىيە (D90-2-06717 s). Other form: مولېكۇلا ئېۋوليوتسىيەسى.
+D_28516	sub-entry	unverified	629_col3.png	مۇبارەكلەمەك	مۇبارەكلىمەك	ours_wrong	مۇبارەكلىمەك	
+D_28534	sub-entry	unverified	630_col1.png	مۇتەخەسسىس بىدىك	مۇتەخەسسىس بېدىك	print_error	مۇتەخەسسىس بېدىك	print_error: scan shows «مۇتەخەسسىس بىدىك» (our extraction had بەدئى). Intended بېدىك: 2009 hw D_04736 and sub-entry D_24179, 2011 hw D01-04887, 1990s hw D90-1-06479. بىدىك is found nowhere else.
+D_28553	sub-entry	unverified	630_col3.png	مۇجەسسەملىشمەك	مۇجەسسەملەشمەك	ours_wrong	مۇجەسسەملەشمەك	
+D_28609	sub-entry	verified	632_col1.png	مۇرەككەپ رېتسىپ	مۇرەككەپ رېتسېپ	print_error	مۇرەككەپ رېتسېپ	print_error: scan shows «رېتسىپ». Print: 2009 sub D_20312 (+1) 2011 def D02-10092, 1990s def D90-5-04408. Gheyret «رېتسېپ»: 2009 hw D_16070 2009 sub D_36216 2011 hw D01-17052 2011 def D01-17055 (+1), 1990s hw D90-3-00992.
+D_28629	sub-entry	unverified	632_col2.png	مۇز دۇمبەل	مۇز دۈمبەل	ours_wrong	مۇز دۈمبەل	
+D_28651	sub-entry	unverified	633_col2.png	مۇزىكىلىق دىكلاماتسىيە	مۇزىكىلىق دېكلاماتسىيە	ours_wrong	مۇزىكىلىق دېكلاماتسىيە	
+D_28652	sub-entry	unverified	633_col2.png	مۇسابىقە موتسىكلىتى	مۇسابىقە موتوسىكلىتى	his_wrong	مۇسابىقە موتسىكلىتى	
+D_28678	sub-entry	unverified	634_col1.png	مۇستەقىل ئاكورد	مۇستەقىل ئاككورد	print_error	مۇستەقىل ئاككورد	print_error: scan shows «ئاكورد». Print: none. Gheyret «ئاككورد»: 2009 hw D_01268 2009 sub D_03143 (+2) 2011 hw D01-01221 2011 def D02-05320, 1990s hw D90-1-01821 1990s def D90-2-08944 (+1).
+D_28689	sub-entry	unverified	634_col2.png	مۇستەھكەملەنمەك	مۇستەھكەملىمەك	ours_wrong	مۇستەھكەملىمەك	
+D_28865	sub-entry	unverified	638_col1.png	مۇنقەرىز بولماق	مۇنقەرز بولماق	era_form	مۇنقەرىز بولماق	era_form: 2009 prints مۇنقەرىز consistently (headwords D_28865–67 and sub-entries). 2011 form: مۇنقەرز (D02-08649 h, D02-08654 h); 1990s also مۇنقەرز (D90-5-02504 h, D90-5-02507 h).
+D_28865	sub-entry	unverified	638_col1.png	مۇنقەرىز قىلماق	مۇنقەرز قىلماق	era_form	مۇنقەرىز قىلماق	era_form: 2009 prints مۇنقەرىز consistently (headwords D_28865–67 and sub-entries). 2011 form: مۇنقەرز (D02-08649 h, D02-08654 h); 1990s also مۇنقەرز (D90-5-02504 h, D90-5-02507 h).
+D_28872	sub-entry	unverified	638_col1.png	مۇھاپىزەت قېپى	مۇھاپىزەت قېشى	ours_wrong	مۇھاپىزەت قېشى	
+D_28889	sub-entry	unverified	638_col2.png	مۇھىت ئاكوستىكىسى	مۇھىت ئاكۇستىكىسى	print_error	مۇھىت ئاكۇستىكىسى	print_error: scan shows «ئاكوستىكىسى». Print: none. Gheyret «ئاكۇستىكىسى»: 2009 sub D_05228 (+1), 1990s hw D90-5-01783. 2009 hw ئاكۇستىكا (D_01283).
+D_28889	sub-entry	unverified	638_col2.png	مۇھىت گېئولوگىيەسى	مۇھىت گېئوخىمىيەسى	ours_wrong	مۇھىت گېئوخىمىيەسى	ours are duplicated "مۇھىت گېئولوگىيەسى", change one of them to "مۇھىت گېئوخىمىيەسى"
+D_28890	sub-entry	unverified	638_col3.png	مۇھىم زاكاس	مۇھىم زاكاز	print_error	مۇھىم زاكاز	print_error: scan shows «زاكاس». Print: 2009 sub D_27638. Gheyret «زاكاز»: 2009 hw D_16241 2009 sub D_00454 (+3) 2011 hw D01-17252 2011 def D01-00098 (+11), 1990s hw D90-1-00604 1990s def D90-1-00127 (+22).
+D_28924	sub-entry	unverified	639_col2.png	مۆرەمەك	مۆرىمەك	ours_wrong	مۆرىمەك	
+D_28974	sub-entry	unverified	640_col2.png	مۆھۈرلەمەك	مۆھۈرلىمەك	ours_wrong	مۆھۈرلىمەك	
+D_29029	sub-entry	unverified	641_col3.png	مۈلكى ئەمەلدار	مۈلكىي ئەمەلدار	ours_wrong	مۈلكىي ئەمەلدار	
+D_29073	sub-entry	verified	642_col2.png	مېخانىكىلىق ئەستە قالدۇرۇش	مېخانىكىلىق ئەستە قىلدۇرۇش	his_wrong	مېخانىكىلىق ئەستە قالدۇرۇش	his_wrong: scan shows «قالدۇرۇش». Print: 2009 hw D_21596 2009 sub D_21594 2011 def D01-00154 (+12), 1990s hw D90-5-02821 1990s def D90-1-01738 (+28). Gheyret «قىلدۇرۇش»: 2009 hw D_23409 2009 sub D_23408 2011 def D01-09372 (+10), 1990s def D90-1-00583 (+28). ئەستە قالدۇرماق = to memorize; قىلدۇرۇش changes the meaning.
+D_29073	sub-entry	verified	642_col2.png	مېخانىكىلىق سانغۇچ	مېخانىكىلىق سانىغۇچ	ours_wrong	مېخانىكىلىق سانىغۇچ	
+D_29091	sub-entry	unverified	643_col1.png	مېغىز چوچۇرىسى	مېغىز چۆچۈرىسى	ours_wrong	مېغىز چۆچۈرىسى	
+D_29107	sub-entry	verified	643_col2.png	مېڭە ئېلېكتر دولقۇنى	مېڭە ئېلېكتىر دولقۇنى	ours_wrong	مېڭە ئېلېكتىر دولقۇنى	
+D_29107	sub-entry	verified	643_col2.png	مېڭە يىگىلەش	مېڭە يىگلەش	ours_wrong	مېڭە يىگلەش	
+D_29107	sub-entry	verified	643_col2.png	مېڭىسى ئىلەشمەك	مېڭىسى ئىشلىمەك	his_wrong	مېڭىسى ئىلەشمەك	his_wrong: scan shows «ئىلەشمەك». Print: 2009 sub D_35083 2011 hw D02-16129 2011 def D02-16125, 1990s hw D90-6-03805 1990s def D90-6-03801. Gheyret «ئىشلىمەك»: 2009 sub D_03240 (+8) 2011 hw D02-15961 2011 def D01-01213 (+56), 1990s hw D90-1-04340 1990s def D90-1-00220 (+92). ئىلەشمەك is a 2011 headword (D02-16129); ئىشلىمەك changes the meaning.
+D_29112	sub-entry	verified	643_col3.png	مېلودىيە ئىلىمى	مېلودىيە ئىلمى	ours_wrong	مېلودىيە ئىلمى	many ocr errors in definition of other dictionary, please update the cells in column I, J, K
+D_29156	sub-entry	verified	644_col2.png	مېۋە چۆنى	مېۋە چىۋىنى	ours_wrong	مېۋە چىۋىنى	
+D_29156	sub-entry	verified	644_col2.png	مېۋە شۈپۈكى	مېۋە شۆپۈكى	print_error	مېۋە شۆپۈكى	print_error: scan shows «شۈپۈكى». Print: none. Gheyret «شۆپۈكى»: 2011 def D01-01162 (+8), 1990s hw D90-5-02986 1990s def D90-1-02327 (+23).
+D_29156	sub-entry	verified	644_col2.png	مېۋە شىرىنىسى	مېۋە شىرنىسى	ours_wrong	مېۋە شىرنىسى	
+D_29156	sub-entry	verified	644_col2.png	مېۋە قېپى	مېۋە قېقى	ours_wrong	مېۋە قېقى	
+D_29156	sub-entry	verified	644_col2.png	مېۋە ئوسسۇزلۇقى	مېۋە ئۇسسۇزلۇقى	ours_wrong	مېۋە ئۇسسۇزلۇقى	
+D_29163	sub-entry	unverified	644_col3.png	مېۋىلەنمەك	مېۋىلىمەك	ours_wrong	مېۋىلىمەك	
+D_29186	sub-entry	unverified	645_col1.png	مىجەزى پېتەر	مىجەزى پېتىر	ours_wrong	مىجەزى پېتىر	
+D_29194	sub-entry	verified	645_col2.png	مىجىق چىلەك	مىجىق چېلەك	his_normalized	مىجىق چىلەك	Kept as printed: scan shows «چىلەك». چىلەك is a 2011 dialect headword (D01-13977 'little finger'; D01-13978 a ladder-shaped shelf), neither of which fits مىجىق. Gheyret's چېلەك (metal pail) matches 2011 D02-09057 «مىجىق چېلەك. مىجىق داس». Other form: مىجىق چېلەك.
+D_29266	sub-entry	unverified	646_col3.png	مىسقاللىماق	مىسقاللاتماق	misaligned	مىسقاللىماق	
+D_29266	sub-entry	unverified	646_col3.png	مىسقاللاش	مىسقاللىتىش	misaligned	مىسقاللاش	
+D_29316	sub-entry	unverified	647_col3.png	مىكرو كۇلون	مىكرو كۇلۇن	print_error	مىكرو كۇلۇن	print_error: scan shows «كۇلون». Print: 1990s def D90-6-01456 (+1). Gheyret «كۇلۇن»: 2009 hw D_24686 2009 sub D_24686 (+1) 2011 hw D02-04020 2011 def D02-00005 (+2), 1990s hw D90-4-06167 1990s def D90-3-09342 (+3).
+D_29316	sub-entry	unverified	647_col3.png	مىكرو كىبۇرى	مىكرو كىيۇرى	ours_wrong	مىكرو كىيۇرى	
+D_29363	sub-entry	unverified	649_col2.png	مىلەنىش	مىلىنىش	ours_wrong	مىلىنىش	
+D_29395	sub-entry	unverified	649_col3.png	مىللىي غورۇر	مىللىي غۇرۇر	print_error	مىللىي غۇرۇر	print_error: scan shows «غورۇر». Print: 1990s def D90-2-05863 (+1). Gheyret «غۇرۇر»: 2009 hw D_20440 2009 sub D_00453 (+1) 2011 hw D01-21399 (+1) 2011 def D01-06180 (+8), 1990s hw D90-3-09088 1990s def D90-1-08228 (+10).
+D_29395	sub-entry	unverified	649_col3.png	مىللىي ئۈسلۇب	مىللىي ئۇسلۇب	ours_wrong	مىللىي ئۇسلۇب	
+D_29508	sub-entry	unverified	653_col1.png	ناترىي سۇلغات	ناترىي سۇلفات	ours_wrong	ناترىي سۇلفات	
+D_29601	sub-entry	unverified	655_col1.png	نافتالىن كۇمۇلىچى	نافتالىن كۇمىلىچى	print_error	نافتالىن كۇمىلىچى	print_error: scan shows «كۇمۇلىچى». Print: 2009 sub D_37337 (+2). Gheyret «كۇمىلىچى»: 2009 sub D_05532 (+2), 1990s hw D90-5-03695. 2009 itself is split 3/3; 1990s hw كۇمىلىچى (D90-5-03695). Borderline.
+D_29645	sub-entry	unverified	656_col1.png	نامراتلىق توزىقى	نامراتلىق تۇزىقى	his_wrong	نامراتلىق توزىقى	mine is the same as scan
+D_29662	sub-entry	unverified	656_col1.png	نان تەپىپ يېمەك	نان تېپىپ يېمەك	ours_wrong	نان تېپىپ يېمەك	
+D_29662	sub-entry	unverified	656_col1.png	نان كورلۇق قىلماق	نان كور قىلماق	his_wrong	نان كورلۇق قىلماق	his_wrong: scan shows «كورلۇق». Print: 2009 hw D_24431 2011 hw D02-03719 (+1) 2011 def D02-03719 (+1), 1990s hw D90-4-05791 1990s def D90-4-05791 (+1). Gheyret «كور»: 2009 hw D_24411 (+3) 2011 hw D02-03696 (+4) 2011 def D01-04914 (+23), 1990s hw D90-4-05763 1990s def D90-1-00348 (+28). 2009 headword كورلۇق (D_24431).
+D_29852	sub-entry	unverified	660_col1.png	نەم ھاۋا	نەم ھاۋ	his_wrong	نەم ھاۋا	mine is the same as scan
+D_29921	sub-entry	unverified	661_col3.png	نورمال قۇرۇلۇش	نورمال قورۇلۇش	ours_wrong	نورمال قورۇلۇش	
+D_29957	sub-entry	unverified	662_col2.png	نومۇر قىممىنى	نومۇر قىممىتى	ours_wrong	نومۇر قىممىتى	
+D_29972	sub-entry	unverified	662_col3.png	نۇر يىغقۇچ كۆزەينەك	نۇر يىغقۇچ كۆزئەينەك	his_normalized	نۇر يىغقۇچ كۆزەينەك	Kept as printed: scan shows «كۆزەينەك». Print: 2009 hw D_24931 2009 sub D_07688 (+1) 2011 def D01-03026 (+3), 1990s hw D90-4-00407 1990s def D90-1-03971 (+15). Gheyret «كۆزئەينەك»: 2011 hw D02-04316 2011 def D01-13756 (+1). Other form: نۇر يىغقۇچ كۆزئەينەك.
+D_30035	sub-entry	verified	664_col2.png	نېرۋا تەشكى	نېرۋا تەڭشىكى	ours_wrong	نېرۋا تەڭشىكى	
+D_30037	sub-entry	unverified	664_col3.png	نېرى - بېرى دېيىشىپ قالما	نېرى-بېرى دېيىشىپ قالماق	ours_wrong	نېرى - بېرى دېيىشىپ قالماق	
+D_30041	sub-entry	unverified	664_col3.png	نېزىقماق	نېزىقىماق	ours_wrong	نېزىقىماق	
+D_30048	sub-entry	unverified	664_col3.png	نېفىت ئوۋىسى	نېفىت ئۇۋىسى	ours_wrong	نېفىت ئۇۋىسى	
+D_30048	sub-entry	unverified	664_col3.png	نېفىت ئامبارگوسى	نېفىت ئېمبارگوسى	ours_wrong	نېفىت ئېمبارگوسى	
+D_30077	sub-entry	verified	665_col2.png	نېيترال تۇز	نېيترال تۈز	his_wrong	نېيترال تۇز	his_wrong: scan shows «تۇز». Print: 2009 hw D_00995 (+3) 2009 sub D_00866 (+15) 2011 hw D01-00922 (+8) 2011 def D01-00801 (+78), 1990s hw D90-1-01291 1990s def D90-1-00309 (+161). Gheyret «تۈز»: 2009 hw D_07931 (+2) 2009 sub D_10063 (+16) 2011 hw D01-08092 (+2) 2011 def D01-00483 (+123), 1990s hw D90-2-00767 1990s def D90-1-00636 (+359). تۇز = salt (neutral salt); تۈز = straight.
+D_30124	sub-entry	verified	666_col2.png	نىسپىي پەرق	نىسپىي پەرقى	his_wrong	نىسپىي پەرق	his_wrong: scan shows «پەرق». Print: 2009 hw D_06046 (+1) 2009 sub D_01191 (+20) 2011 hw D01-06229 (+1) 2011 def D01-00118 (+66), 1990s hw D90-1-01261 1990s def D90-1-00593 (+165). Gheyret «پەرقى»: 2009 sub D_03567 (+14) 2011 hw D01-00118 (+1) 2011 def D01-00118 (+23), 1990s hw D90-1-05009 1990s def D90-1-01261 (+76). Both valid; Gheyret added a possessive.
+D_30127	sub-entry	verified	666_col2.png	نىسپىيلىك ئېففېكتى	نىسپىيلىك ئېففېكت	his_wrong	نىسپىيلىك ئېففېكتى	his_wrong: scan shows «ئېففېكتى». Print: 2009 sub D_00512 (+17) 2011 def D02-00031 (+1), 1990s hw D90-2-04161 1990s def D90-2-02668 (+13). Gheyret «ئېففېكت»: 2009 hw D_33893 2011 hw D02-14736 2011 def D02-14736, 1990s hw D90-6-01225 1990s def D90-2-02668 (+2). Both valid; Gheyret dropped the possessive.
+D_30137	sub-entry	unverified	666_col3.png	نىشانلىق رېفلىكىس	نىشانلىق رېفلېكس	ours_wrong	نىشانلىق رېفلېكس	
+D_30141	sub-entry	unverified	667_col1.png	نىقابلتىش	نىقابلىتىش	ours_wrong	نىقابلىتىش	
+D_30143	sub-entry	verified	667_col1.png	نىقابلنىش	نىقابلىنىش	ours_wrong	نىقابلىنىش	
+D_30149	sub-entry	verified	667_col1.png	نىكاھ توختىمى	نىكاھ توختامى	his_normalized	نىكاھ توختىمى	Kept as printed: scan shows «توختىمى». Print: 2009 sub D_25460 (+1), 1990s hw D90-5-04711 1990s def D90-2-02351 (+1). Gheyret «توختامى»: 2009 hw D_09024 2009 sub D_00726 (+4) 2011 def D01-08700 (+8), 1990s hw D90-6-00252 1990s def D90-1-03733 (+4). Other form: نىكاھ توختامى.
+D_30149	sub-entry	verified	667_col1.png	نىكاھ غايىپ	نىكاھ غايىب	his_normalized	نىكاھ غايىپ	Kept as printed: scan shows «غايىپ». Print: 2009 sub D_24902, 1990s def D90-1-06091 (+9). Gheyret «غايىب»: 2009 hw D_20217 2009 sub D_20217 (+3) 2011 hw D01-21153 (+1) 2011 def D01-00625 (+38), 1990s hw D90-3-08740 1990s def D90-1-00818 (+81). Other form: نىكاھ غايىب.
+D_30184	sub-entry	unverified	668_col1.png	نىۋېلىرلەنمەك	نىۋېلىرلىمەك	ours_wrong	نىۋېلىرلىمەك	
+D_30257	sub-entry	unverified	670_col2.png	ھازىرقى زامان ئىممۇنولوگىيە	ھازىرقى زامان ئىممۇنولوگىيەسى	ours_wrong	ھازىرقى زامان ئىممۇنولوگىيەسى	
+D_30332	sub-entry	verified	672_col2.png	ھاڭۋىقىش	ھاڭۋېقىش	his_normalized	ھاڭۋىقىش	Kept as printed: scan shows «ھاڭۋىقىش». Print: none. Gheyret «ھاڭۋېقىش»: 2011 def D02-10565. Follows 2009's own reduction ھاڭۋاق → ھاڭۋىقىش (D_30332); his form once in 2011 (D02-10565 d). Other form: ھاڭۋېقىش.
+D_30366	sub-entry	verified	673_col2.png	ھالقىلىق ئالكىن	ھالقىلىق ئالكېن	ours_wrong	ھالقىلىق ئالكېن	
+D_30498	sub-entry	unverified	676_col3.png	ھەرە يىلىمى	ھەرە يېلىمى	his_normalized	ھەرە يىلىمى	Kept as printed: scan shows «يىلىمى». Print: 2011 def D01-08134, 1990s hw D90-1-03758 1990s def D90-1-09123 (+2). Gheyret «يېلىمى»: 2009 sub D_01288 (+10) 2011 hw D02-18373 2011 def D01-05000 (+16), 1990s hw D90-1-03041 1990s def D90-1-02914 (+28). Other form: ھەرە يېلىمى.
+D_30588	sub-entry	verified	679_col1.png	ھەق تەلەپ ھۆكۈمى	ھەق تەلەپ ھۆكمى	his_normalized	ھەق تەلەپ ھۆكۈمى	Kept as printed: scan shows «ھۆكۈمى». Print: 2011 def D02-01084, 1990s hw D90-2-06236 1990s def D90-1-02414 (+12). Gheyret «ھۆكمى»: 2009 hw D_30871 2011 def D01-02748 (+5), 1990s def D90-1-03655 (+6). Other form: ھەق تەلەپ ھۆكمى.
+D_37443	sub-entry	verified	682_col1.png	ھودگىن كېسەللىكى	ھودكىن كېسەللىكى	ours_wrong	ھودكىن كېسەللىكى	
+D_30788	sub-entry	unverified	683_col1.png	ھويلا چۆرىمەك	ھويلا چۆرۈمەك	his_normalized	ھويلا چۆرىمەك	Kept as printed: scan shows «چۆرىمەك». Print: 2011 def D01-12114 (+1), 1990s def D90-2-02789 (+2). Gheyret «چۆرۈمەك»: 2009 sub D_11546 (+4) 2011 hw D01-12285 (+1) 2011 def D01-09593 (+6), 1990s hw D90-2-05890 1990s def D90-2-05889 (+5). Other form: ھويلا چۆرۈمەك.
+D_30832	sub-entry	unverified	684_col1.png	ھۆتۈتلەنمەك	ھۆتۈتلىمەك	ours_wrong	ھۆتۈتلىمەك	
+D_30887	sub-entry	verified	685_col1.png	ھۆڭرەتىش	ھۆڭرىتىش	ours_wrong	ھۆڭرىتىش	
+D_30910	sub-entry	verified	685_col3.png	ھۈجەيرە ئودۇمى	ھۈجەيرە ئۇدۇمى	ours_wrong	ھۈجەيرە ئۇدۇمى	
+D_31093	sub-entry	verified	689_col2.png	ھىمالايا چۈپۈرلۇق قويى	ھىمالايا چۇپۇرلۇق قويى	ours_wrong	ھىمالايا چۇپۇرلۇق قويى	
+D_31109	sub-entry	unverified	689_col3.png	ھىندى نېلۇپىرى	ھىندى نېلۇپەر	his_wrong	ھىندى نېلۇپىرى	his_wrong: scan shows «نېلۇپىرى». Print: 1990s hw D90-1-07864. Gheyret «نېلۇپەر»: 2009 hw D_30058 2009 sub D_30058 (+1) 2011 hw D02-10183 2011 def D02-02142 (+3), 1990s hw D90-5-04554 1990s def D90-2-08447 (+18). Possessive form is needed; 1990s headword has نېلۇپىرى.
+D_31109	sub-entry	unverified	689_col3.png	ھىندى ئۆسمىسى	ھىندى ئوسمىسى	ours_wrong	ھىندى ئوسمىسى	
+D_31138	sub-entry	unverified	690_col2.png	ئوبيېكتىپ ئىدىيالىزم	ئوبيېكتىپ ئىدېئالىزم	his_normalized	ئوبيېكتىپ ئىدىيالىزم	his_normalized: scan shows ئىدىيالىزم (also in D_07637). Dominant form ئىدېئالىزم is the 2009 headword (D_34439 h); also 2011 D02-15361 h and 1990s D90-2-00356 h. Kept as printed.
+D_31169	sub-entry	unverified	691_col2.png	ئوت پۈركىگۈچ	ئوت پۈركۈگۈچ	print_error	ئوت پۈركۈگۈچ	print_error: scan shows «پۈركىگۈچ». Print: 2009 sub D_27778. Gheyret «پۈركۈگۈچ»: 2009 hw D_06737 2009 sub D_05478 (+3) 2011 hw D01-06966, 1990s hw D90-1-09313 1990s def D90-1-09314 (+2).
+D_31332	sub-entry	verified	695_col3.png	ئورمان تاجىسى	ئورمان تاجى	his_normalized	ئورمان تاجىسى	Kept as printed: scan shows «تاجىسى». Print: 2009 sub D_13326 (+3) 2011 def D01-05199 (+6), 1990s hw D90-2-07976 1990s def D90-1-01619 (+24). Gheyret «تاجى»: 2009 hw D_07433 2009 sub D_22555 (+3) 2011 def D01-07601 (+22), 1990s hw D90-2-02981 1990s def D90-1-01564 (+78). Other form: ئورمان تاجى.
+D_31353	sub-entry	unverified	696_col2.png	ئورنىتىشۇش	ئورنىتىشىش	ours_wrong	ئورنىتىشىش	
+D_31581	sub-entry	unverified	701_col2.png	ئوكسىگېنسىزلاندۇرغۇچى خۇرۇچ	ئوكسىگېنسىزلاندۇرۇشغۇچى خۇرۇج	his_wrong	ئوكسىگېنسىزلاندۇرغۇچى خۇرۇچ	his_wrong: scan shows «ئوكسىگېنسىزلاندۇرغۇچى خۇرۇچ». Print: — ; 2009 sub D_17438 (+8) 2011 hw D01-14747 2011 def D01-17303 (+1), —; 1990s def D90-1-03948 (+3). Gheyret «ئوكسىگېنسىزلاندۇرۇشغۇچى خۇرۇج»: — ; 2009 hw D_14020 (+1) 2009 sub D_08726 (+1) 2011 hw D01-14745, —;1990s hw D90-2-09103 1990s def D90-2-09103. His ئوكسىگېنسىزلاندۇرۇشغۇچى is not a word; خۇرۇچ = agent, خۇرۇج = attack.
+D_31704	sub-entry	unverified	704_col1.png	ئومۇمىي بۆلۈك	ئومۇمىي بۇلۇڭ	ours_wrong	ئومۇمىي بۇلۇڭ	
+D_31704	sub-entry	unverified	704_col1.png	ئومۇمىي سۇغۇرتىشۇناسلىق	ئومۇمىي سۇغۇرتاشۇناسلىق	print_error	ئومۇمىي سۇغۇرتاشۇناسلىق	print_error: scan shows «سۇغۇرتىشۇناسلىق». Print: none. Gheyret «سۇغۇرتاشۇناسلىق»: 2009 hw D_18025 2009 sub D_11732.
+D_31711	sub-entry	unverified	704_col3.png	ئون جىنىنىڭ بىرى قالماق	ئون جېنىنىڭ بىرى قالماق	print_error	ئون جېنىنىڭ بىرى قالماق	print_error: scan shows «جىنىنىڭ». Print: 1990s def D90-4-00944. Gheyret «جېنىنىڭ»: 2011 hw D02-12262 2011 def D01-04327 (+3), 1990s hw D90-2-05383 1990s def D90-1-01711 (+11). جىن = jinn; the idiom uses جان (life).
+D_31989	sub-entry	unverified	711_col1.png	ئۇرۇقلار كۈمىلىچى	ئۇرۇقلار كۇمىلىچى	ours_wrong	ئۇرۇقلار كۇمىلىچى	
+D_32012	sub-entry	verified	711_col3.png	ئۇرۇنما ئېللىپس	ئۇرۇنما ئېللىپىس	his_normalized	ئۇرۇنما ئېللىپس	Kept as printed: scan shows «ئېللىپس». Print: 2011 def D01-01500 (+26), 1990s def D90-1-09096 (+123). Gheyret «ئېللىپىس»: 2009 hw D_34040 2011 hw D02-14856 2011 def D01-18706 (+18), 1990s hw D90-6-01433 1990s def D90-1-01619 (+26). Other form: ئۇرۇنما ئېللىپىس.
+D_32047	sub-entry	verified	712_col2.png	ئۈزۈن بۇرۇتلۇق كىت	ئۇزۇن بۇرۇتلۇق كىت	ours_wrong	ئۇزۇن بۇرۇتلۇق كىت	
+D_32047	sub-entry	verified	712_col2.png	ئۈزۈن بۇرۇنلۇقلار ئەترىتى	ئۇزۇن بۇرۇنلۇقلار ئەترىتى	ours_wrong	ئۇزۇن بۇرۇنلۇقلار ئەترىتى	
+D_32047	sub-entry	verified	712_col2.png	ئۇزۇن بېغىش سىيا بېلىق	ئۇزۇن بېغىش سىياھبېلىق	his_wrong	ئۇزۇن بېغىش سىيا بېلىق	his_wrong: scan shows «سىيا بېلىق». Print: 2009 hw D_19045 2009 sub D_19045 2011 hw D01-19983 (+2) 2011 def D02-16345 ; 2009 hw D_04853 2009 sub D_01130 (+55) 2011 hw D01-05000 (+3) 2011 def D01-01242 (+90), 1990s hw D90-3-07159 1990s def D90-2-09678 (+1);1990s hw D90-1-01575 1990s def D90-1-01575 (+203). Gheyret «سىياھبېلىق»: none. سىيا بېلىق: both words attested (2009 hw D_19045); سىياھبېلىق is found nowhere.
+D_32047	sub-entry	verified	712_col2.png	ئۇزۇن بىلەك ئادەمسىمان مايمۇ	ئۇزۇن بىلەك ئادەمسىمان مايمۇن	ours_wrong	ئۇزۇن بىلەك ئادەمسىمان مايمۇن	
+D_32047	sub-entry	verified	712_col2.png	ئۈزۈن پىلە	ئۇزۇن پىلە	ours_wrong	ئۇزۇن پىلە	
+D_32047	sub-entry	verified	712_col2.png	ئۈزۈن تۇمشۇق تىۋىتلىق كۆكۈيۈن	ئۇزۇن تۇمشۇق تىۋىتلىق كۆكۈيۈن	ours_wrong	ئۇزۇن تۇمشۇق تىۋىتلىق كۆكۈيۈن	
+D_32047	sub-entry	verified	712_col2.png	ئۇزۇن شاغ	ئۇزۇن شاخ	ours_wrong	ئۇزۇن شاخ	
+D_32047	sub-entry	verified	712_col2.png	ئۇزۇن قۇلاق مۇۋقۇش	ئۇزۇن قۇلاق ھۇۋقۇش	ours_wrong	ئۇزۇن قۇلاق ھۇۋقۇش	
+D_32047	sub-entry	verified	712_col2.png	ئۈزۈن قۇيرۇق كۈسۈتكە	ئۇزۇن قۇيرۇق كۈسۈتكە	ours_wrong	ئۇزۇن قۇيرۇق كۈسۈتكە	
+D_32047	sub-entry	verified	712_col2.png	ئۇزۇن كۆيرەك	ئۇزۇن كۈيرەك	print_error	ئۇزۇن كۈيرەك	print_error: scan shows «كۆيرەك». Print: 2011 def D01-17898, 1990s def D90-5-04733. Gheyret «كۈيرەك»: 2009 hw D_25431 2009 sub D_36125 2011 hw D02-04770.
+D_32047	sub-entry	verified	712_col2.png	ئۈزۈن ئۆتمەي	ئۇزۇن ئۆتمەي	ours_wrong	ئۇزۇن ئۆتمەي	
+D_32087	sub-entry	verified	713_col3.png	ئۇسسۇل مىتودىكىسى	ئۇسسۇل مېتودىكىسى	print_error	ئۇسسۇل مېتودىكىسى	print_error: scan shows «مىتودىكىسى». Print: none. Gheyret «مېتودىكىسى»: none. Stem is مېتودىكا (2011 D02-08885 h, 1990s D90-5-02786 h).
+D_32206	sub-entry	unverified	716_col1.png	ئۇلۇغ بەھەلىك	ئۇلۇغ بەھەڭ	ours_wrong	ئۇلۇغ بەھەڭ	
+D_32512	sub-entry	unverified	723_col2.png	ئۆركەشلەمەك	ئۆركەشلىمەك	ours_wrong	ئۆركەشلىمەك	
+D_32529	sub-entry	unverified	723_col3.png	ئۆرلەمەك	ئۆرلىمەك	ours_wrong	ئۆرلىمەك	
+D_32530	sub-entry	unverified	723_col3.png	ئۆرلتىش كۈچى	ئۆرلىتىش كۈچى	ours_wrong	ئۆرلىتىش كۈچى	
+D_32542	sub-entry	unverified	723_col3.png	ئۆرۈشۇش	ئۆرۈشۈش	ours_wrong	ئۆرۈشۈش	
+D_32561	sub-entry	unverified	724_col2.png	ئۆز بەگ - ئۆز خان	ئۆز بەگ، ئۆز خان	his_wrong	ئۆز بەگ - ئۆز خان	his_wrong: scan shows «ئۆز بەگ - ئۆز خان». Print: none. Gheyret «ئۆز بەگ، ئۆز خان»: none. Only punctuation differs; 2009 prints a dash.
+D_32561	sub-entry	unverified	724_col2.png	ئۆز سايىسىغا مۇشت ئاتماق	ئۆز سايىسىگە مۇشت ئاتماق	his_normalized	ئۆز سايىسىغا مۇشت ئاتماق	Kept as printed: scan shows «سايىسىغا». Print: 2011 def D02-17299, 1990s hw D90-5-08857 1990s def D90-1-02139 (+1). Gheyret «سايىسىگە»: 2011 hw D02-13265 2011 def D01-01507 (+1), 1990s def D90-3-04424 (+3). Other form: ئۆز سايىسىگە مۇشت ئاتماق.
+D_32561	sub-entry	unverified	724_col2.png	ئۆز - ئۆزىدىن يېگىلىنىماق	ئۆز-ئۆزىدىن يېڭىلانماق	ours_wrong	ئۆز - ئۆزىدىن يېڭىلانماق	
+D_32561	sub-entry	unverified	724_col2.png	ئۆز يېغىدا ئۆز گۆشىنى قورۇما	ئۆز يېغىدا ئۆز گۆشىنى قورۇماق	ours_wrong	ئۆز يېغىدا ئۆز گۆشىنى قورۇماق	
+D_32561	sub-entry	unverified	724_col2.png	ئۆزى بىلگەن سەنەمگە دەسسىمە	ئۆزى بىلگەن سەنەمگە دەسسىمەك	ours_wrong	ئۆزى بىلگەن سەنەمگە دەسسىمەك	
+D_32561	sub-entry	unverified	724_col2.png	ئۆزىنى قويىدىغان يەر تاپالماسل	ئۆزىنى قويىدىغان يەر تاپالماسلىق	ours_wrong	ئۆزىنى قويىدىغان يەر تاپالماسلىق	
+D_32773	sub-entry	unverified	729_col1.png	ئۆلتۈرۈشۇش	ئۆلتۈرۈشۈش	ours_wrong	ئۆلتۈرۈشۈش	
+D_32810	sub-entry	unverified	730_col2.png	ئۆلۈمگە مەھكۈم	ئۆلۈمگە مەھكۇم	ours_wrong	ئۆلۈمگە مەھكۇم	
+D_32862	sub-entry	unverified	731_col2.png	ئۆينى چۆرگىلەتمەك	ئۆينى چۆرگۈلەتمەك	his_normalized	ئۆينى چۆرگىلەتمەك	scan shows چۆرگىلەتمەك; the ى variant is also used in 2011 definitions (D01-07238 d, D01-07300 d). His چۆرگۈلەتمەك follows 2009's own headword D_12878 and 2011 (D02-13548 h). The print is not an error.
+D_32898	sub-entry	unverified	732_col2.png	ئۈجمىلىك باققا كىرىپ قالماق	ئۈجمىلىك باغقا كىرىپ قالماق	print_error	ئۈجمىلىك باغقا كىرىپ قالماق	print_error: scan shows «باققا». Print: 2011 def D01-00740, 1990s def D90-1-03142 (+2). Gheyret «باغقا»: 2011 def D01-00210 (+40), 1990s hw D90-5-09345 1990s def D90-1-00279 (+93).
+D_32902	sub-entry	verified	732_col2.png	ئۈچ مۈڭگۈزلۈك دىنازاۋۈر	ئۈچ مۈڭگۈزلۈك دىنازاۋۇر	ours_wrong	ئۈچ مۈڭگۈزلۈك دىنازاۋۇر	
+D_33024	sub-entry	unverified	735_col3.png	ئۈششۈك مەلىھەمى	ئۈششۈك مەلھىمى	ours_wrong	ئۈششۈك مەلھىمى	
+D_33025	sub-entry	unverified	735_col3.png	ئۈشقىرماق	ئۇشقىرماق	his_wrong	ئۈشقىرماق	
+D_33025	sub-entry	unverified	735_col3.png	ئۈشقىرىش	ئۇشقىرىش	his_wrong	ئۈشقىرىش	
+D_33026	sub-entry	verified	735_col3.png	ئۈشقىرتماق	ئۇشقىرتماق	his_wrong	ئۈشقىرتماق	
+D_33026	sub-entry	verified	735_col3.png	ئۈشقىرتىش	ئۇشقىرتىش	his_wrong	ئۈشقىرتىش	
+D_33027	sub-entry	unverified	735_col3.png	ئۈشقىرتىشماق	ئۇشقىرتىشماق	his_wrong	ئۈشقىرتىشماق	
+D_33027	sub-entry	unverified	735_col3.png	ئۈشقىرتىشىش	ئۇشقىرتىشىش	his_wrong	ئۈشقىرتىشىش	
+D_33249	sub-entry	unverified	740_col3.png	ۋاژىلداماق	ۋاژىلدىماق	ours_wrong	ۋاژىلدىماق	
+D_33257	sub-entry	unverified	740_col3.png	ۋاستە كېلىش	ۋاسىتە كېلىش	ours_wrong	ۋاسىتە كېلىش	
+D_33289	sub-entry	verified	741_col3.png	ۋاقتى خوش	ۋاقتى خۇش	ours_wrong	ۋاقتى خۇش	
+D_33289	sub-entry	verified	741_col3.png	ۋاقىت چەكى	ۋاقىت چېكى	ours_wrong	ۋاقىت چېكى	
+D_33289	sub-entry	verified	741_col3.png	ۋاقىت خاتىرلىگۈچى	ۋاقىت خاتىرىلىگۈچى	ours_wrong	ۋاقىت خاتىرىلىگۈچى	
+D_33312	sub-entry	unverified	742_col3.png	ۋاكۇئۇم ئېلېكتىر سىغىمچانلىق	ۋاكۇئۇم ئېلېكتىر سىغىمچانلىقى	ours_wrong	ۋاكۇئۇم ئېلېكتىر سىغىمچانلىقى	
+D_33350	sub-entry	unverified	743_col2.png	ۋالېنتلىق ئېلېكترون	ۋالېنتلىق ئېلېكتىرون	ours_wrong	ۋالېنتلىق ئېلېكتىرون	
+D_33639	sub-entry	unverified	749_col1.png	ئېتىزلىق قىرقىبوغۇمى	ئېتىزلىق قىرىقبوغۇمى	ours_wrong	ئېتىزلىق قىرىقبوغۇمى	
+D_33752	sub-entry	unverified	751_col1.png	ئېرىتىش خورۇچى	ئېرىتىش خۇرۇج	print_error	ئېرىتىش خۇرۇچى	print_error: scan shows «خورۇچى». Print: none. Gheyret «خۇرۇج»: 2009 hw D_14020 (+1) 2009 sub D_08726 (+1) 2011 hw D01-14745, 1990s hw D90-2-09103 1990s def D90-2-09103. خورۇچى is found nowhere; intended خۇرۇچى (agent). His خۇرۇج (attack) is wrong too — correct form ئېرىتىش خۇرۇچى, do NOT copy F.
+D_33761	sub-entry	verified	751_col2.png	ئېرىشچان ئوكسېگىن	ئېرىشچان ئوكسىگېن	print_error	ئېرىشچان ئوكسىگېن	print_error: scan shows «ئوكسېگىن». Print: none. Gheyret «ئوكسىگېن»: 2009 hw D_25806 (+2) 2009 sub D_31573 (+2) 2011 hw D02-05134 (+1) 2011 def D01-05238 (+30), 1990s hw D90-4-08101 1990s def D90-1-07017 (+61).
+D_33764	sub-entry	unverified	751_col2.png	ئېرىشىلگەن ئېرسىيەت	ئېرىشىلگەن ئىرسىيەت	print_error	ئېرىشىلگەن ئىرسىيەت	print_error: scan shows «ئېرسىيەت». Print: 2009 sub D_25776, 1990s def D90-5-01687. Gheyret «ئىرسىيەت»: 2009 hw D_34483 2009 sub D_00747 (+7) 2011 hw D02-15406 2011 def D01-17423 (+19), 1990s hw D90-2-06247 1990s def D90-1-02336 (+55).
+D_33839	sub-entry	unverified	752_col3.png	ئېشەك ئۈچىسى	ئېشەك ئۇچىسى	ours_wrong	ئېشەك ئۇچىسى	
+D_33860	sub-entry	verified	753_col1.png	ئېغىر پېلىموت	ئېغىر پىلىموت	ours_wrong	ئېغىر پىلىموت	
+D_33876	sub-entry	unverified	753_col3.png	ئېغىز يېلىكى	ئېغىز يەللىكى	ours_wrong	ئېغىز يەللىكى	
+D_33889	sub-entry	unverified	754_col1.png	ئېغىنماق	ئېغىنىماق	ours_wrong	ئېغىنىماق	
+D_33898	sub-entry	unverified	754_col1.png	ئېفىر شاملى	ئېفىر شامىلى	ours_wrong	ئېفىر شامىلى	
+D_33926	sub-entry	verified	754_col3.png	ئېكران خىپتى	ئېكران خېتى	ours_wrong	ئېكران خېتى	
+D_33994	sub-entry	unverified	756_col1.png	ئېگىز بارىيەر	ئېگىز باريېر	ours_wrong	ئېگىز باريېر	
+D_33997	sub-entry	verified	756_col1.png	ئېگىزلەنمەك	ئېگىزلىمەك	ours_wrong	ئېگىزلىمەك	
+D_34026	sub-entry	unverified	756_col3.png	ئېڭىششىمەك	ئېڭىشىشمەك	ours_wrong	ئېڭىشىشمەك	
+D_34026	sub-entry	unverified	756_col3.png	ئېڭىششىش	ئېڭىشىشىش	ours_wrong	ئېڭىشىشىش	
+D_34048	sub-entry	unverified	757_col1.png	ئېلېكتىر شاملى	ئېلېكتىر شامىلى	ours_wrong	ئېلېكتىر شامىلى	
+D_34048	sub-entry	unverified	757_col1.png	ئېلېكتىر كۈنۈپكىسى	ئېلېكتىر كۇنۇپكىسى	ours_wrong	ئېلېكتىر كۇنۇپكىسى	
+D_34048	sub-entry	unverified	757_col1.png	ئېلېكتىر ماگنىتلىق رېلى	ئېلېكتىر ماگنىتلىق رېلې	ours_wrong	ئېلېكتىر ماگنىتلىق رېلې	
+D_34048	sub-entry	unverified	757_col1.png	ئېلېكتىر ئېقىشى	ئېلېكتىر ئېغىشى	ours_wrong	ئېلېكتىر ئېغىشى	
+D_34048	sub-entry	unverified	757_col1.png	ئېلېكتىر ئېستانسىسى	ئېلېكتىر ئىستانسىسى	ours_wrong	ئېلېكتىر ئىستانسىسى	
+D_34052	sub-entry	unverified	757_col3.png	ئېلېكتىرلىك دەرىژابىل	ئېلېكتىرلىك دىرىژابىل	ours_wrong	ئېلېكتىرلىك دىرىژابىل	
+D_34076	sub-entry	verified	758_col1.png	ئېلېكتىرونلۇق پىروژىكتور	ئېلېكتىرونلۇق پىروژېكتور	print_error	ئېلېكتىرونلۇق پىروژېكتور	print_error: scan shows «پىروژىكتور». Print: none. Gheyret «پىروژېكتور»: 2009 hw D_07052.
+D_34099	sub-entry	unverified	758_col3.png	ئېلىش ئەمەلى	ئېلىش ئەمىلى	print_error	ئېلىش ئەمىلى	print_error: scan shows «ئەمەلى». Print: 2011 def D01-02640 (+1). Gheyret «ئەمىلى»: 2009 sub D_22254 (+2) 2011 def D01-02766 (+15), 1990s hw D90-1-06397 1990s def D90-1-02180 (+25).
+D_34170	sub-entry	unverified	760_col1.png	ئېھتىماللىق تەھلىلىسى	ئېھتىماللىق تەڭلىمىسى	ours_wrong	ئېھتىماللىق تەڭلىمىسى	
+D_34197	sub-entry	unverified	760_col2.png	ئېيتقىنەك كەلسۇن	ئېيتقىنىڭ كەلسۇن	ours_wrong	ئېيتقىنىڭ كەلسۇن	
+D_34206	sub-entry	unverified	760_col3.png	ئېيىنشتىيىن تەڭلىمىسى	ئېينىشتىيىن تەڭلىمىسى	ours_wrong	ئېينىشتىيىن تەڭلىمىسى	
+D_34269	sub-entry	verified	762_col2.png	ئىت باش قارچۇغا	ئىت باش قارچىغا	print_error	ئىت باش قارچىغا	print_error: scan shows «قارچۇغا». Print: none. Gheyret «قارچىغا»: 2009 hw D_21171 2009 sub D_21171 2011 hw D02-00496 2011 def D01-01509 (+10), 1990s hw D90-4-00564 1990s def D90-1-02148 (+16).
+D_34286	sub-entry	verified	762_col3.png	ئىتتەرىش	ئىتتىرىش	ours_wrong	ئىتتىرىش	
+D_34286	sub-entry	verified	762_col3.png	ئىتتەرىپ كۆتۈرۈش	ئىتتىرىپ كۆتۈرۈش	ours_wrong	ئىتتىرىپ كۆتۈرۈش	
+D_34286	sub-entry	verified	762_col3.png	ئىتتەرىش كۈچى	ئىتتىرىش كۈچى	ours_wrong	ئىتتىرىش كۈچى	
+D_34332	sub-entry	verified	763_col3.png	ئىجارە بىدىكى	ئىجارە بېدىكى	print_error	ئىجارە بېدىكى	print_error: scan shows «بىدىكى». Print: none. Gheyret «بېدىكى»: 2009 sub D_00437 (+1) 2011 def D01-01768, 1990s def D90-1-02452 (+1).
+D_34340	sub-entry	verified	764_col1.png	ئىجتىمائىي تەپەككۈرشۇناسلىق	ئىجتىمائىي تەپەككۇرشۇناسلىق	ours_wrong	ئىجتىمائىي تەپەككۇرشۇناسلىق	
+D_34355	sub-entry	verified	764_col3.png	ئىچ قىلىپ	ئىچ قېلىپ	ours_wrong	ئىچ قېلىپ	
+D_34370	sub-entry	unverified	765_col3.png	ئىچكى پېرىۋوت	ئىچكى پېرېۋوت	his_normalized	ئىچكى پېرىۋوت	Kept as printed: scan shows «پېرىۋوت», as the 1990s headword D90-6-02234 (verified). Same case as D_12463. Other form: ئىچكى پېرېۋوت (2009 hw پېرېۋوت D_06852, 2011 D01-07058 h).
+D_34370	sub-entry	unverified	765_col3.png	ئىچكى زەخىمىلىنىش	ئىچكى زەخىملىنىش	ours_wrong	ئىچكى زەخىملىنىش	
+D_34370	sub-entry	unverified	765_col3.png	ئىچكى يارا	ئىچكى پارا	his_wrong	ئىچكى يارا	his_wrong: scan shows «يارا». Print: 2009 hw D_35599 (+1) 2009 sub D_01206 (+6) 2011 hw D02-16702 (+2) 2011 def D01-01383 (+39), 1990s hw D90-1-01771 1990s def D90-1-03963 (+80). Gheyret «پارا»: 2009 hw D_00750 (+1) 2009 sub D_05450 (+4) 2011 hw D01-05610 2011 def D01-00506 (+19), 1990s hw D90-1-00941 1990s def D90-1-02829 (+27). ئىچكى يارا = internal wound; پارا = bribe, a different word.
+D_34384	sub-entry	unverified	766_col3.png	ئىچ - ئىچىدىن خۇشال بولم	ئىچ - ئىچىدىن خۇشال بولماق	ours_wrong	ئىچ - ئىچىدىن خۇشال بولماق	
+D_34512	sub-entry	unverified	769_col2.png	ئىرقىي ئايرىمچىلىق	ئىرقىي ئايرىمىچىلىق	ours_wrong	ئىرقىي ئايرىمىچىلىق	
+D_34554	sub-entry	unverified	770_col2.png	ئىزدەمەك	ئىزدىمەك	ours_wrong	ئىزدىمەك	
+D_34569	sub-entry	unverified	770_col3.png	ئىززەتلەمەك	ئىززەتلىمەك	ours_wrong	ئىززەتلىمەك	
+D_34585	sub-entry	unverified	770_col3.png	ئىزمىلەمەك	ئىزمىلىمەك	ours_wrong	ئىزمىلىمەك	
+D_34604	sub-entry	unverified	771_col1.png	ئىزولياتسىيەلەنمەك	ئىزولياتسىيەلىمەك	ours_wrong	ئىزولياتسىيەلىمەك	
+D_34699	sub-entry	verified	772_col3.png	ئىستېمال ۋاستىلىرى	ئىستېمال ۋاسىتىلىرى	ours_wrong	ئىستېمال ۋاسىتىلىرى	
+D_34747	sub-entry	unverified	773_col3.png	ئىسسىق لېنىيە	ئىسسىق لىنىيە	ours_wrong	ئىسسىق لىنىيە	
+D_34747	sub-entry	unverified	773_col3.png	ئىسسىق ئويۇن	ئىسسىق ئىيون	ours_wrong	ئىسسىق ئىيون	
+D_34798	sub-entry	unverified	775_col2.png	ئىسلاندىيە ئەپيۇنگۈلى	ئىسلاندىيە ئەپيۈنگۈلى	his_normalized	ئىسلاندىيە ئەپيۇنگۈلى	Kept as printed: scan shows «ئەپيۇنگۈلى». Print: none. Gheyret «ئەپيۈنگۈلى»: none. Other form: ئىسلاندىيە ئەپيۈنگۈلى.
+D_34806	sub-entry	verified	775_col2.png	ئىسلىق بىللور	ئىسلىق بىللۇر	his_normalized	ئىسلىق بىللور	Kept as printed: scan shows «بىللور». Print: 1990s hw D90-6-02997 1990s def D90-6-02997. Gheyret «بىللۇر»: 2009 hw D_05183 2009 sub D_18525 (+2) 2011 hw D01-05358 (+2) 2011 def D01-05412 (+1), 1990s hw D90-1-07213 1990s def D90-1-01660 (+7). Other form: ئىسلىق بىللۇر.
+D_34834	sub-entry	verified	776_col1.png	ئىش بېشى	ئىشى بېشى	his_wrong	ئىش بېشى	his_wrong: scan shows «ئىش». Print: 2009 hw D_34852 (+2) 2009 sub D_01130 (+70) 2011 hw D01-18988 (+22) 2011 def D01-00009 (+1684), 1990s hw D90-1-00569 1990s def D90-1-00016 (+2993). Gheyret «ئىشى»: 2009 hw D_34939 2009 sub D_11173 (+1) 2011 def D01-00085 (+619), 1990s hw D90-3-02510 1990s def D90-1-00021 (+528). ئىش بېشى = foreman; Gheyret added a possessive.
+D_34834	sub-entry	verified	776_col1.png	ئىش بېلىتى	ئىشى بېلىتى	his_wrong	ئىش بېلىتى	his_wrong: scan shows «ئىش». Print: 2009 hw D_34852 (+2) 2009 sub D_01130 (+70) 2011 hw D01-18988 (+22) 2011 def D01-00009 (+1684), 1990s hw D90-1-00569 1990s def D90-1-00016 (+2993). Gheyret «ئىشى»: 2009 hw D_34939 2009 sub D_11173 (+1) 2011 def D01-00085 (+619), 1990s hw D90-3-02510 1990s def D90-1-00021 (+528). ئىش بېلىتى = work ticket; Gheyret added a possessive.
+D_34834	sub-entry	verified	776_col1.png	ئىشكىنى قىل	ئىشىڭنى قىل	ours_wrong	ئىشىڭنى قىل	
+D_34837	sub-entry	unverified	776_col3.png	ئىشارەتلەنمەك	ئىشارەتلىمەك	ours_wrong	ئىشارەتلىمەك	
+D_34897	sub-entry	unverified	777_col3.png	ئىششىق چۆنى	ئىششىق چىۋىنى	ours_wrong	ئىششىق چىۋىنى	
+D_34907	sub-entry	verified	777_col3.png	ئىشقارلىق ئاككومۇلياتور	ئىشقارلىق ئاككۇمۇلياتور	print_error	ئىشقارلىق ئاككۇمۇلياتور	print_error: scan shows «ئاككومۇلياتور». Print: 1990s def D90-6-03249. Gheyret «ئاككۇمۇلياتور»: 2009 hw D_01280 2011 hw D01-01232 2011 def D01-01233 (+2), 1990s hw D90-1-01828 1990s def D90-3-05734 (+2).
+D_34907	sub-entry	verified	777_col3.png	ئىشقارلىق تۈز	ئىشقارلىق تۇز	ours_wrong	ئىشقارلىق تۇز	
+D_34907	sub-entry	verified	777_col3.png	ئىشقارلىق جىنىس	ئىشقارلىق جىنس	ours_wrong	ئىشقارلىق جىنس	
+D_34924	sub-entry	verified	778_col2.png	ئىشلەپچىقىرىش تېمپى	ئىشلەپچىقىرىش تىپى	ours_wrong	ئىشلەپچىقىرىش تىپى	
+D_34924	sub-entry	verified	778_col2.png	ئىشلەپچىقىرىش ۋاستىلىرى	ئىشلەپچىقىرىش ۋاسىتىلىرى	ours_wrong	ئىشلەپچىقىرىش ۋاسىتىلىرى	
+D_34925	sub-entry	unverified	778_col2.png	ئىشلىتمەك	ئىشلەتمەك	ours_wrong	ئىشلەتمەك	
+D_34943	sub-entry	unverified	778_col3.png	ئىشىك قاتتى	ئىشىك قانىتى	ours_wrong	ئىشىك قانىتى	
+D_34977	sub-entry	unverified	779_col2.png	ئىقتىسادىي ئۈچۈر	ئىقتىسادىي ئۇچۇر	ours_wrong	ئىقتىسادىي ئۇچۇر	
+D_35011	sub-entry	verified	781_col1.png	ئىككىنچى جو	ئىككىنچى جۇ	ours_wrong	ئىككىنچى جۇ	
+D_35011	sub-entry	verified	781_col1.png	ئىككىنچى ئېنتېرناتسىيونال	ئىككىنچى ئىنتېرناتسىيونال	ours_wrong	ئىككىنچى ئىنتېرناتسىيونال	
+D_35058	sub-entry	unverified	782_col1.png	ئىڭەلەمەك	ئىڭەلىمەك	ours_wrong	ئىڭەلىمەك	
+D_35066	sub-entry	unverified	782_col2.png	ئىلاماق	ئىلماق	ours_wrong	ئىلماق	
+D_35066	sub-entry	unverified	782_col2.png	ئىلاش	ئىلىش	ours_wrong	ئىلىش	
+D_35070	sub-entry	verified	782_col2.png	ئىلاھ ئىزلەش تەلىماتى	ئىلاھ ئىزدەش تەلىماتى	his_normalized	ئىلاھ ئىزلەش تەلىماتى	Kept as printed: scan shows «ئىزلەش». Print: 1990s def D90-2-03868 (+8). Gheyret «ئىزدەش»: 2009 hw D_34557 2009 sub D_34554 2011 def D01-05560 (+5), 1990s hw D90-5-09903 1990s def D90-1-00783 (+18). Other form: ئىلاھ ئىزدەش تەلىماتى.
+D_35156	sub-entry	unverified	784_col1.png	ئىلمەك كولۇچ	ئىلمەك كۇلۇچ	ours_wrong	ئىلمەك كۇلۇچ	
+D_35232	sub-entry	unverified	785_col3.png	ئىمتىھان بەلگىسى	ئىمتىھان بېلىتى	ours_wrong	ئىمتىھان بېلىتى	
+D_35242	sub-entry	unverified	785_col3.png	ئىمزالاماق	ئىمزالىماق	ours_wrong	ئىمزالىماق	
+D_35269	sub-entry	verified	786_col2.png	ئىممۇنىتېت چىداملىقلىقى	ئىممۇنىتېت چىدامچانلىقى	his_wrong	ئىممۇنىتېت چىداملىقلىقى	his_wrong: scan shows «چىداملىقلىقى». Print: 2009 sub D_25536 2011 def D01-22013 (+1), 1990s def D90-2-08167 (+3). Gheyret «چىدامچانلىقى»: none. His چىدامچانلىقى is found nowhere.
+D_35269	sub-entry	verified	786_col2.png	ئىممۇنىتېت ئىرسىيەتتەشۇناسلىقى	ئىممۇنىتېت ئىرسىيەتشۇناسلىقى	ours_wrong	ئىممۇنىتېت ئىرسىيەتشۇناسلىقى	
+D_35272	sub-entry	unverified	786_col3.png	ئىممۇنىتېتلىق ئېقىش	ئىممۇنىتېتلىق ئېغىش	ours_wrong	ئىممۇنىتېتلىق ئېغىش	
+D_35370	sub-entry	unverified	788_col2.png	ئىندۇكسىيەلىك كاشلا	ئىندۇكسىيەلىك كاشىلا	ours_wrong	ئىندۇكسىيەلىك كاشىلا	
+D_35437	sub-entry	unverified	790_col1.png	ئىنېرتسىيە كۆپەيتىلمىسى	ئىنېرتسىيە كۆپەيتمىسى	ours_wrong	ئىنېرتسىيە كۆپەيتمىسى	
+D_35560	sub-entry	unverified	793_col2.png	ياخشىلاماق	ياخشىلىماق	ours_wrong	ياخشىلىماق	
+D_35705	sub-entry	unverified	796_col1.png	يازلىق لاگىر	يازلىق لاگېر	his_normalized	يازلىق لاگىر	Kept as printed: scan shows «لاگىر». Print: none. Gheyret «لاگېر»: 2009 hw D_26860 2009 sub D_30506 2011 hw D02-06251 2011 def D01-09376 (+2), 1990s hw D90-4-09697 1990s def D90-2-02499 (+2). Same case as D_07329/D_11039 (لاگىرى). Other form: يازلىق لاگېر.
+D_35771	sub-entry	verified	797_col3.png	ياشانغانلار تەبابىتى	ياشانغانلار تېبابىتى	ours_wrong	ياشانغانلار تېبابىتى	
+D_35796	sub-entry	unverified	798_col2.png	ياغاچ قونچاق	ياغاچ قورچاق	variant	ياغاچ قونچاق	variant: scan shows «قونچاق». Print: 2011 hw D02-01776, 1990s hw D90-4-02788 1990s def D90-1-04848. Gheyret «قورچاق»: 2009 hw D_22152 (+2) 2009 sub D_22152 (+1) 2011 hw D02-01463 (+3) 2011 def D01-11442 (+11), 1990s hw D90-4-02073 1990s def D90-1-07591 (+29). قونچاق is a headword in 2011 (D02-01776) and 1990s (D90-4-02788).
+D_35826	sub-entry	unverified	799_col1.png	ياغلىق يېسىۋىلەك	ياغلىق يېسسىۋېلەك	ours_wrong	ياغلىق يېسسىۋېلەك	
+D_35939	sub-entry	verified	801_col2.png	يالتىراق ئامىيۇبا	يالتىراق ئاميوبا	ours_wrong	يالتىراق ئاميوبا	
+D_35950	sub-entry	unverified	801_col3.png	يالغان جەنتىيانا	يالغان جېنتىيانا	ours_wrong	يالغان جېنتىيانا	
+D_35950	sub-entry	unverified	801_col3.png	يالغان چېتەن	يالغان چىتەن	print_error	يالغان چىتەن	print_error: scan shows «چېتەن». Print: none. Gheyret «چىتەن»: 2009 hw D_13215 2011 hw D01-13697, 1990s hw D90-2-07855 1990s def D90-2-07855.
+D_35950	sub-entry	unverified	801_col3.png	يالغان مۆھ	يالغان مېۋە	ours_wrong	يالغان مېۋە	
+D_36032	sub-entry	verified	803_col3.png	يامبۇسمان مېۋە	يامبۇسىمان مېۋە	ours_wrong	يامبۇسىمان مېۋە	
+D_36032	sub-entry	verified	803_col3.png	يامبۇسمان مېۋىلىك ئېرەن	يامبۇسىمان مېۋىلىك ئېرەن	ours_wrong	يامبۇسىمان مېۋىلىك ئېرەن	
+D_36125	sub-entry	unverified	806_col1.png	ياۋا ئەپيۇنگۈل	ياۋا ئەپيۈنگۈل	his_normalized	ياۋا ئەپيۇنگۈل	Kept as printed: scan shows «ئەپيۇنگۈل». Print: 1990s hw D90-1-02796 1990s def D90-1-02796 (+7). Gheyret «ئەپيۈنگۈل»: 2009 hw D_02156 2011 hw D01-02091 2011 def D01-02091 (+4), 1990s hw D90-6-05907 1990s def D90-3-06192 (+1). Other form: ياۋا ئەپيۈنگۈل.
+D_36125	sub-entry	unverified	806_col1.png	ياۋا چىپچەك	ياۋا چېچەك	ours_wrong	ياۋا چېچەك	
+D_36125	sub-entry	unverified	806_col1.png	ياۋا لال	ياۋا لالە	ours_wrong	ياۋا لالە	
+D_36204	sub-entry	verified	808_col2.png	يەر شارى رادىئۇسى	يەر شارى رادىيوسى	his_wrong	يەر شارى رادىئۇسى	
+D_36204	sub-entry	verified	808_col2.png	يەر ئۇشنىسى	يەر ئۆشنىسى	ours_wrong	يەر ئۆشنىسى	
+D_36216	sub-entry	unverified	809_col1.png	يەرلىك نەسل	يەرلىك نەسىل	ours_wrong	يەرلىك نەسىل	
+D_36264	sub-entry	unverified	810_col2.png	يەڭگۈشلەمەك	يەڭگۈشلىمەك	ours_wrong	يەڭگۈشلىمەك	
+D_36394	sub-entry	unverified	813_col2.png	يورۇقلۇق ئېفېرى	يورۇقلۇق ئېفىرى	his_wrong	يورۇقلۇق ئېفېرى	
+D_36425	sub-entry	unverified	814_col1.png	يوقنىك ئورنىدا	يوقنىڭ ئورنىدا	ours_wrong	يوقنىڭ ئورنىدا	
+D_36452	sub-entry	unverified	815_col1.png	يولماق	يولىماق	ours_wrong	يولىماق	
+D_36738	sub-entry	unverified	821_col2.png	يۆنىلىشلىك ئانتېنا	يۆنىلىشلىك ئانتېننا	print_error	يۆنىلىشلىك ئانتېننا	print_error: scan shows «ئانتېنا». Print: none. Gheyret «ئانتېننا»: 2009 hw D_01774 2009 sub D_08307 (+1) 2011 hw D01-01711 2011 def D01-01711 (+3), 1990s hw D90-6-07288 1990s def D90-5-00112 (+3).
+D_36750	sub-entry	verified	821_col3.png	يۈرەك پۇچۇلانماق	يۈرەك پۇچىلانماق	his_normalized	يۈرەك پۇچۇلانماق	Kept as printed: scan shows «پۇچۇلانماق». Print: 2011 def D02-17929, 1990s hw D90-4-01884. Gheyret «پۇچىلانماق»: 2009 sub D_06556 2011 hw D01-06760, 1990s hw D90-1-09062. Other form: يۈرەك پۇچىلانماق.
+D_36750	sub-entry	verified	821_col3.png	يۈرەك ئورنىغا چۈشەك	يۈرەك ئورنىغا چۈشمەك	ours_wrong	يۈرەك ئورنىغا چۈشمەك	
+D_36854	sub-entry	unverified	825_col1.png	يۈگۈرۈش يولى-	يۈگۈرۈش يولى	ours_wrong	يۈگۈرۈش يولى	
+D_36875	sub-entry	unverified	825_col2.png	يېپىشقاق ئاققۇناق	يېپىشقاق ئاق قوناق	print_error	يېپىشقاق ئاق قوناق	print_error: scan shows «يېپىشقاق ئاققۇناق» (our extraction had ئاققۈناق). ئاققۇناق is found nowhere; intended ئاق قوناق (2009 hw قوناق D_22451, 2011 hw D01-00485).
+D_36896	sub-entry	unverified	826_col2.png	يېتەكلەمەك	يېتەكلىمەك	ours_wrong	يېتەكلىمەك	
+D_36913	sub-entry	unverified	826_col3.png	يېتىشمەسلىك ئىقتىسادىشۇناسلىقى	يېتىشمەسلىك ئىقتىسادشۇناسلىقى	ours_wrong	يېتىشمەسلىك ئىقتىسادشۇناسلىقى	
+D_36926	sub-entry	unverified	827_col1.png	يېتىمسىرەمەك	يېتىمسىرىمەك	ours_wrong	يېتىمسىرىمەك	
+D_36981	sub-entry	verified	829_col1.png	يېشىل تۇرۇلغا	يېشىل تورۇلغا	variant	يېشىل تۇرۇلغا	variant: scan shows «تۇرۇلغا». Print: 2009 sub D_13197 (+3) 2011 hw D01-09864 2011 def D01-09844, 1990s hw D90-2-03231 1990s def D90-2-03123 (+3). Gheyret «تورۇلغا»: 2009 hw D_09098, 1990s hw D90-2-02455. تۇرۇلغا is a headword in 2011 (D01-09864) and 1990s (D90-2-03231).
+D_36981	sub-entry	verified	829_col1.png	يېشىل پالپۇز	يېشىل يالپۇز	ours_wrong	يېشىل يالپۇز	
+D_36989	sub-entry	unverified	829_col2.png	يېشىندۇرمەك	يېشىندۈرمەك	ours_wrong	يېشىندۈرمەك	
+D_36989	sub-entry	unverified	829_col2.png	يېشىندۇرۇش	يېشىندۈرۈش	ours_wrong	يېشىندۈرۈش	
+D_36990	sub-entry	unverified	829_col2.png	يېشىندۇرۇلمەك	يېشىندۈرۈلمەك	ours_wrong	يېشىندۈرۈلمەك	
+D_36990	sub-entry	unverified	829_col2.png	يېشىندۇرۇلۇش	يېشىندۈرۈلۈش	ours_wrong	يېشىندۈرۈلۈش	
+D_36991	sub-entry	verified	829_col2.png	يېشىننىشمەك	يېشىنىشمەك	ours_wrong	يېشىنىشمەك	
+D_36991	sub-entry	verified	829_col2.png	يېشىننىشىش	يېشىنىشىش	ours_wrong	يېشىنىشىش	
+D_36993	sub-entry	unverified	829_col2.png	يېغىرغا تەگمەك	يېغىرىغا تەگمەك	ours_wrong	يېغىرىغا تەگمەك	
+D_36993	sub-entry	unverified	829_col2.png	يېغىرغا تۈز سەپمەك	يېغىرىغا تۇز سەپمەك	ours_wrong	يېغىرىغا تۇز سەپمەك	
+D_36993	sub-entry	unverified	829_col2.png	يېغىرنى ئاچماق	يېغىرىنى ئاچماق	ours_wrong	يېغىرىنى ئاچماق	
+D_36993	sub-entry	unverified	829_col2.png	يېغىرنى تاتىلىماق	يېغىرىنى تاتىلىماق	ours_wrong	يېغىرىنى تاتىلىماق	
+D_36993	sub-entry	unverified	829_col2.png	يېغىرنى ياپماق	يېغىرىنى ياپماق	ours_wrong	يېغىرىنى ياپماق	
+D_37033	sub-entry	verified	830_col2.png	يېڭى زېللاندىيە پالىكى	يېڭى زېلاندىيە پالىكى	print_error	يېڭى زېلاندىيە پالىكى	print_error: scan shows «زېللاندىيە». Print: 1990s def D90-6-04427. Gheyret «زېلاندىيە»: 2011 def D01-15902 (+2), 1990s def D90-1-08616 (+3). 2011 appendix country table has يېڭى زېلاندىيە.
+D_37033	sub-entry	verified	830_col2.png	يېڭى گېگىچىلىق	يېڭى گېگېلچىلىق	print_error	يېڭى گېگېلچىلىق	print_error: scan shows «گېگىچىلىق». Print: none. Gheyret «گېگېلچىلىق»: 2011 hw D02-05905 (+1) 2011 def D02-05906, 1990s hw D90-6-08174. ل is missing and ى/ې differs; 2011 hw گېگېلچىلىق (D02-05905).
+D_37033	sub-entry	verified	830_col2.png	يېڭى مېخانىزىم	يېڭى مېخانىزم	ours_wrong	يېڭى مېخانىزم	
+D_37038	sub-entry	verified	830_col3.png	يېڭىلىمەك	يېڭىلمەك	ours_wrong	يېڭىلمەك	
+D_37044	sub-entry	verified	831_col1.png	يېڭىلىشماق	يېڭىلىشمەك	his_wrong	يېڭىلىشماق	
+D_37085	sub-entry	verified	831_col3.png	يېنىك ئاتلېتكا	يېنىك ئاتلېتىكا	his_normalized	يېنىك ئاتلېتكا	Kept as printed: scan shows «ئاتلېتكا». Print: 1990s hw D90-1-00268 1990s def D90-1-00268 (+10). Gheyret «ئاتلېتىكا»: 2009 hw D_00217 2011 hw D01-00200 (+1) 2011 def D01-00200 (+1), 1990s hw D90-6-08290 1990s def D90-1-05335 (+11). Other form: يېنىك ئاتلېتىكا.
+D_37085	sub-entry	verified	831_col3.png	يېنىك بەتون	يېنىك بېتون	ours_wrong	يېنىك بېتون	
+D_37085	sub-entry	verified	831_col3.png	يېنىك مۇتال	يېنىك مېتال	ours_wrong	يېنىك مېتال	
+D_37218	sub-entry	unverified	835_col1.png	يىغىلىشۇش	يىغىلىشىش	ours_wrong	يىغىلىشىش	
+D_37247	sub-entry	unverified	835_col3.png	يىگلەمەك	يىگلىمەك	ours_wrong	يىگلىمەك	
+D_37273	sub-entry	verified	836_col1.png	يىڭنىلىق پىرىنتېر	يىڭنىلىك پىرىنتېر	his_normalized	يىڭنىلىق پىرىنتېر	Kept as printed: scan shows «يىڭنىلىق». Print: none. Gheyret «يىڭنىلىك»: 2011 hw D02-18607 2011 def D02-18607 (+1), 1990s hw D90-6-04478. Same as D_37273 (يىڭنىلىق). Other form: يىڭنىلىك پىرىنتېر.
+D_37285	sub-entry	unverified	836_col2.png	يىلتىز بېخى	يىلتىز بىخى	ours_wrong	يىلتىز بىخى	
+D_37285	sub-entry	unverified	836_col2.png	يىلتىز تاجىسى	يىلتىز تاجى	his_normalized	يىلتىز تاجىسى	Kept as printed: scan shows «تاجىسى». Print: 2009 sub D_13326 (+3) 2011 def D01-05199 (+6), 1990s hw D90-2-07976 1990s def D90-1-01619 (+24). Gheyret «تاجى»: 2009 hw D_07433 2009 sub D_22555 (+3) 2011 def D01-07601 (+22), 1990s hw D90-2-02981 1990s def D90-1-01564 (+78). Other form: يىلتىز تاجى.
+D_37289	sub-entry	verified	836_col3.png	يىلتىزلىق بۆۋانە	يىلتىزلىق بۇۋانە	ours_wrong	يىلتىزلىق بۇۋانە	
