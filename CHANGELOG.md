@@ -20,6 +20,24 @@ that row was deleted, not renumbered.
 
 ## [Unreleased]
 
+## [1.3.4] — 2026-10-30
+
+881 entries corrected, 18 headwords added, 23 removed, 178 newly verified.
+
+### Changed
+- `imla_lughiti_2009` — 877 entries corrected, 18 headwords added, 23 removed, 1 sub-entries added, 2 sub-entries removed, 108 newly verified.
+- `izahliq_lughet_1990s_v1` — 1 newly verified.
+- `izahliq_lughet_1990s_v2` — 2 newly verified.
+- `izahliq_lughet_1990s_v3` — 2 newly verified.
+- `izahliq_lughet_1990s_v4` — 5 newly verified.
+- `izahliq_lughet_1990s_v5` — 4 newly verified.
+- `izahliq_lughet_1990s_v6` — 1 entries corrected, 7 newly verified.
+- `izahliq_lughet_2011_v1` — 1 entries corrected, 18 newly verified.
+- `izahliq_lughet_2011_v2` — 2 entries corrected, 31 newly verified.
+
+### Corrected by hand
+* `imla_lughiti_2009` — 752 OCR misspellings corrected by hand (319 headwords, 433 sub-entries); 157 misprints of the printed book corrected (listed in `audit/print_errors.tsv`); 19 formatting-only changes; 23 headwords and 87 sub-entries newly verified.
+
 ## [1.3.3] — 2026-10-25
 
 327 entries corrected, 23 headwords added, 6 removed, 13,004 newly verified.

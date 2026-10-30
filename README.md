@@ -4,7 +4,7 @@ Open, machine-readable headword lists extracted from three printed Uyghur
 dictionaries, released as plain TSV under CC BY 4.0.
 
 <!-- stats:headline -->
-**131,736 written forms** and **48,183 sub-entry phrases**, each traceable to
+**131,731 written forms** and **48,182 sub-entry phrases**, each traceable to
 the scanned column it came from.
 <!-- stats:end -->
 
@@ -105,15 +105,15 @@ orthography, not of senses.
 <!-- stats:coverage -->
 | work | headwords | sub-entries | verified | excluded |
 |---|---|---|---|---|
-| [Imla Lughiti 2009](data/imla_lughiti_2009/) | 37,951 | 43,354 | 21,271 | 312 |
-| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,792 | 4,829 | 10,821 | 443 |
-| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols) | 39,993 | 0 | 8,249 | 350 |
-| **total** | **131,736** | **48,183** | **40,341** | **1,105** |
+| [Imla Lughiti 2009](data/imla_lughiti_2009/) | 37,946 | 43,353 | 21,292 | 312 |
+| [Izahliq Lughet 1990s](data/izahliq_lughet_1990s/) (6 vols) | 53,792 | 4,829 | 10,840 | 443 |
+| [Izahliq Lughet 2011](data/izahliq_lughet_2011/) (2 vols) | 39,993 | 0 | 8,298 | 350 |
+| **total** | **131,731** | **48,182** | **40,430** | **1,105** |
 <!-- stats:end -->
 
 Counts are **after** the exclusions described above; the *excluded* column shows
 how many rows were removed from each work. The verified headword count is
-40,341 out of the 131,736 headwords. Sub-entries are verified at the same
+40,430 out of the 131,731 headwords. Sub-entries are verified at the same
 time as their parent headwords. So, the newly verified figure in the changelog
 is the total of both the verified headwords and the words in their
 sub-entries. Therefore, the figure in the changelog is larger than the change
@@ -152,13 +152,27 @@ the most correct data.
 - *blank* — the entry was added after round 1 had already passed that page.
 
 <!-- stats:verified -->
-Currently **40,341 of 131,736 forms (30.6%) are verified**.
+Currently **40,430 of 131,731 forms (30.7%) are verified**.
 <!-- stats:end -->
 
  When round 2 begins, a
 `status_v2` column is appended rather than overwriting round 1, so the history
 of what was checked when stays in the file. **The current status of an entry is
 its last non-empty `status_vN` column.**
+
+### Cross-check against an independent digitization
+
+The 2009 list was compared with Gheyret's independent digitization of the
+same dictionary ([gheyret/imlalughet](https://github.com/gheyret/imlalughet)).
+Of 80,864 entries, 1,357 (1.7%) differed; each was resolved against the scan.
+743 were our OCR errors (now corrected), 320 were errors in the other list,
+162 were misprints in the book itself (corrected, see
+[`audit/print_errors.tsv`](audit/print_errors.tsv)), 117 are genuine spelling
+variants kept as printed, and 15 were alignment artefacts. 269 of our errors
+were in rows already marked `verified`: a single human pass misses things,
+which is why a second, independent source is worth having. Errors that both
+digitizations share cannot show up in such a comparison, so the manual audit
+continues. Details in [`audit/README.md`](audit/README.md).
 
 ### Known limitations
 
@@ -188,7 +202,7 @@ printed form stands. Misprints found during the audit are listed, with the
 printed and corrected forms, in
 [`audit/print_errors.tsv`](audit/print_errors.tsv).
 
-**Remaining OCR errors, and missing or spurious entries.** 80.9% of entries have
+**Remaining OCR errors, and missing or spurious entries.** 69.3% of entries have
 not yet been checked by a human. Assume a residual error rate in that portion.
 The audit finds three distinct problems, not one: characters misread by OCR,
 headwords the OCR skipped entirely, and — where a machine-assisted pass was
