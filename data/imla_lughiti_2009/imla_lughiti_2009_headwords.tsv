@@ -308,7 +308,7 @@ D_00298	ئاچاڭزۇچە	headword	007_col1.png	verified
 D_00299	ئاچال	headword	007_col1.png	verified
 D_00300	ئاچالچى	headword	007_col1.png	verified
 D_00301	ئاچالگۆش	headword	007_col1.png	verified
-D_00302	ئاچبېقىن	headword	007_col1.png	verified
+D_00302	ئاچبىقىن	headword	007_col1.png	verified
 D_00303	ئاچ - توق	headword	007_col1.png	verified
 D_00304	ئاچ - توقلۇق	headword	007_col1.png	verified
 D_00305	ئاچچىق	headword	007_col1.png	verified
@@ -757,7 +757,7 @@ D_00739	ئارىلات	verb_stem	016_col2.png	verified
 D_00740	ئارىلاش	headword	016_col2.png	verified
 D_00742	ئارىلاشتۇر	verb_stem	016_col2.png	verified
 D_00743	ئارىلاشتۇرغۇچ	headword	016_col3.png	verified
-D_00744	ئارىلاشتۇرۇش	headword	016_col3.png	verified
+D_00744	ئارىلاشتۇرۇش	verb_stem	016_col3.png	verified
 D_00745	ئارىلاشتۇرۇل	verb_stem	016_col3.png	verified
 D_00746	ئارىلاش - قۇرلاش	headword	016_col3.png	verified
 D_00747	ئارىلاشما	headword	016_col3.png	verified
@@ -2221,7 +2221,7 @@ D_02189	ئەتلىمە	headword	051_col2.png	verified
 D_02190	ئەتمەك	headword	051_col3.png	verified
 D_02191	ئەتنار	headword	051_col3.png	verified
 D_02192	ئەت - ئۆز	headword	051_col3.png	verified
-D_02193	ئەتۋركە	headword	051_col3.png	verified
+D_02193	ئەتۋىركە	headword	051_col3.png	verified
 D_02194	ئەتىر	headword	051_col3.png	verified
 D_02195	ئەتىرگۈل	headword	051_col3.png	verified
 D_02196	ئەتىرلىك	headword	051_col3.png	verified
@@ -2576,8 +2576,8 @@ D_02534	ئەسلەت	verb_stem	058_col2.png	verified
 D_02535	ئەسلەتمە	headword	058_col3.png	verified
 D_02536	ئەسلەش	verb_stem	058_col3.png	verified
 D_02537	ئەسلەن	verb_stem	058_col3.png	verified
-D_02538	ئەسل - نەسل	headword	058_col3.png	verified
-D_02539	ئەسل - ۋەسل	headword	058_col3.png	verified
+D_02538	ئەسل - نەسىل	headword	058_col3.png	verified
+D_02539	ئەسل - ۋەسىل	headword	058_col3.png	verified
 D_02540	ئەسلىدە	headword	058_col3.png	verified
 D_02541	ئەسلىك	headword	058_col3.png	verified
 D_02542	ئەسلىمە	headword	058_col3.png	verified
@@ -3063,7 +3063,7 @@ D_03010	ئەيلەن	verb_stem	068_col1.png	verified
 D_03011	ئەيلىگۈچ	headword	068_col1.png	verified
 D_03012	ئەيمەن	verb_stem	068_col1.png	verified
 D_03013	ئەيمەندۈر	verb_stem	068_col1.png	verified
-D_03014	ئەيمەنەرلىك	headword	068_col1.png	verified
+D_03014	ئەيمىنەرلىك	headword	068_col1.png	verified
 D_03015	ئەيمىنىش	verb_stem	068_col1.png	verified
 D_03016	ئەينەك	headword	068_col2.png	verified
 D_03017	ئەينەكچى	headword	068_col2.png	verified
@@ -3272,7 +3272,7 @@ D_03213	بازارلاشتۇرۇش	verb_stem	072_col2.png	verified
 D_03214	بازارلاشتۇرۇل	verb_stem	072_col3.png	verified
 D_03215	بازارلىق	headword	072_col3.png	verified
 D_03216	بازارمۇبازار	headword	072_col3.png	verified
-D_03217	بازار - ئوچا	headword	072_col3.png	verified
+D_03217	بازار - ئۇچا	headword	072_col3.png	verified
 D_03218	بازار - ۋېلىق	headword	072_col3.png	verified
 D_03219	بازالت	headword	072_col3.png	verified
 D_03220	بازالتلىق	headword	072_col3.png	verified
@@ -3411,7 +3411,7 @@ D_03353	باغ²	headword	076_col3.png	verified
 D_03354	باغاش	headword	076_col3.png	verified
 D_03355	باغاشلا	verb_stem	076_col3.png	verified
 D_03356	باغاق	headword	076_col3.png	verified
-D_03357	باغاڭچە	headword	076_col3.png	verified
+D_03357	باغاقچە	headword	076_col3.png	verified
 D_03358	باغباراڭ	headword	076_col3.png	verified
 D_03359	باغباراڭلاش	verb_stem	076_col3.png	verified
 D_03360	باغباراڭلاشتۇر	verb_stem	076_col3.png	verified
@@ -3584,7 +3584,7 @@ D_03522	بالىچۇق	headword	079_col3.png	verified
 D_03523	بالىچۇلا	headword	079_col3.png	verified
 D_03524	بالىچىلىق	headword	080_col1.png	verified
 D_03525	بالىخانا	headword	080_col1.png	verified
-D_03526	بالىخانلىق	headword	080_col1.png	verified
+D_03526	بالىخانىلىق	headword	080_col1.png	verified
 D_03527	بالىسىرا	verb_stem	080_col1.png	verified
 D_03528	بالىسىز	headword	080_col1.png	verified
 D_03529	بالىسىزلىق	headword	080_col1.png	verified
@@ -3680,7 +3680,7 @@ D_03612	بايراق	headword	081_col3.png	verified
 D_03613	بايراقچە	headword	081_col3.png	verified
 D_03614	بايراقچى	headword	081_col3.png	verified
 D_03615	بايراقدار	headword	081_col3.png	verified
-D_03615-i1	بايراقداری	inflected	081_col3.png	verified
+D_03615-i1	بايراقدارى	inflected	081_col3.png	verified
 D_03616	بايراقسىمان	headword	081_col3.png	verified
 D_03617	بايراقلىق	headword	081_col3.png	verified
 D_03618	بايرام	headword	081_col3.png	verified
@@ -4226,7 +4226,7 @@ D_04167	بولۇشسىز	headword	092_col1.png	verified
 D_04168	بولۇشقاق	headword	092_col1.png	verified
 D_04169	بولۇشلۇق	headword	092_col1.png	verified
 D_04170	بولۇشلۇق - بولۇشسىزلىق	headword	092_col1.png	verified
-D_04171	بولۇشچە	headword	092_col1.png	verified
+D_04171	بولۇشىچە	headword	092_col1.png	verified
 D_04172	بولۇشىغا	headword	092_col1.png	verified
 D_04173	بولۇغ	headword	092_col1.png	verified
 D_04174	بولۇق¹	headword	092_col1.png	verified
@@ -4348,7 +4348,7 @@ D_04288	بۇرتا	headword	094_col2.png	verified
 D_04289	بۇرتاق	headword	094_col2.png	verified
 D_04290	بۇرج	headword	094_col2.png	verified
 D_04291	بۇرجەك	headword	094_col2.png	verified
-D_04292	بۇرچۇن	headword	094_col2.png	verified
+D_04292	بۇرجۇن	headword	094_col2.png	verified
 D_04293	بۇرچ	headword	094_col2.png	verified
 D_04294	بۇرچاق	headword	094_col2.png	verified
 D_04295	بۇرخان	headword	094_col2.png	verified
@@ -4736,7 +4736,7 @@ D_04676-i1	بۈزرۈكگاھى	inflected	102_col1.png	verified
 D_04677	بۈك¹	headword	102_col1.png	verified
 D_04678	بۈك²	headword	102_col1.png	verified
 D_04679	بۈكەن	headword	102_col1.png	verified
-D_04680	بۈكەيمەك	verb_stem	102_col1.png	verified
+D_04680	بۈكەيمەك	headword	102_col1.png	verified
 D_04681	بۈك - باراقسان	headword	102_col1.png	verified
 D_04682	بۈك - باراقسانلىق	headword	102_col1.png	verified
 D_04683	بۈكرەيمەك	headword	102_col1.png	verified
@@ -5748,7 +5748,7 @@ D_05666	پاش	headword	123_col1.png	verified
 D_05667	پاشا¹	headword	123_col1.png	verified
 D_05667-i1	پاشاسى	inflected	123_col1.png	verified
 D_05668	پاشا²	headword	123_col1.png	verified
-D_05669	پاشخور	headword	123_col1.png	verified
+D_05669	پاشىخور	headword	123_col1.png	verified
 D_05670	پاششاپ	headword	123_col1.png	verified
 D_05671	پاششاپبېگى	headword	123_col1.png	verified
 D_05672	پاششاپلىق	headword	123_col1.png	verified
@@ -5877,7 +5877,7 @@ D_05795	پال - پال	headword	125_col2.png	verified
 D_05796	پال - پۇل	headword	125_col2.png	verified
 D_05797	پالتا	headword	125_col2.png	verified
 D_05798	پالتۇك	headword	125_col2.png	verified
-D_05799	پالچۇقئۇت	headword	125_col2.png	verified
+D_05799	پالچۇقئوت	headword	125_col2.png	verified
 D_05800	پالچى	headword	125_col2.png	verified
 D_05801	پالچىق	headword	125_col2.png	verified
 D_05802	پالچىلىق	headword	125_col2.png	verified
@@ -5939,7 +5939,6 @@ D_05855	پانۇس	headword	126_col2.png	verified
 D_05856	پانۇسچى	headword	126_col2.png	verified
 D_05857	پانۇسگۈل	headword	126_col2.png	verified
 D_05858	پانۇسئوت	headword	126_col2.png	verified
-D_05858-v1	تاۋۈزەك	variant	126_col2.png	verified
 D_05859	پانېل	headword	126_col2.png	verified
 D_05860	پانئىدراكچىلىق	headword	126_col2.png	verified
 D_05861	پانئىسلامىزم	headword	126_col2.png	verified
@@ -6063,7 +6062,7 @@ D_05977	پەتىۋا	headword	129_col1.png	verified
 D_05977-i1	پەتىۋاسى	inflected	129_col1.png	verified
 D_05978	پەتىۋاچى	headword	129_col1.png	verified
 D_05979	پەتىۋاچىلىق	headword	129_col2.png	verified
-D_05980	پەجمۈردە	headword	129_col2.png	verified
+D_05980	پەجمۇردە	headword	129_col2.png	verified
 D_05981	پەچەك	headword	129_col2.png	verified
 D_05982	پەچەل	headword	129_col2.png	verified
 D_05983	پەچكەم	headword	129_col2.png	verified
@@ -6755,7 +6754,7 @@ D_06652	پۇل	headword	143_col3.png	verified
 D_06653	پۇلاڭ	headword	144_col2.png	verified
 D_06654	پۇلاڭ - پۇلاڭ	headword	144_col2.png	verified
 D_06655	پۇلاڭ - سالاڭ	headword	144_col2.png	verified
-D_06656	پۇلاڭگىدە	headword	144_col2.png	verified
+D_06656	پۇلاڭڭىدە	headword	144_col2.png	verified
 D_06657	پۇلاڭلا	verb_stem	144_col2.png	verified
 D_06658	پۇلاڭلات	verb_stem	144_col2.png	verified
 D_06659	پۇلاڭلاش	verb_stem	144_col2.png	verified
@@ -6766,8 +6765,8 @@ D_06663	پۇلپەرەس	headword	144_col3.png	verified
 D_06664	پۇلپەرەسلىك	headword	144_col3.png	verified
 D_06665	پۇلپەزلىك	headword	144_col3.png	verified
 D_06666	پۇل - پۈچەك	headword	144_col3.png	verified
-D_06667	پۇلتاي	headword	144_col3.png	verified
-D_06668	پۇلتايت	headword	144_col3.png	verified
+D_06667	پۇلتاي	verb_stem	144_col3.png	verified
+D_06668	پۇلتايت	verb_stem	144_col3.png	verified
 D_06669	پۇلتىكۆز	headword	144_col3.png	verified
 D_06670	پۇلتىيىشچان	headword	144_col3.png	verified
 D_06671	پۇلچىلىق	headword	144_col3.png	verified
@@ -6936,7 +6935,7 @@ D_06833	پېداگوك	headword	148_col2.png	verified
 D_06834	پېداگوگىكا	headword	148_col2.png	verified
 D_06835	پېداگوگىكىلىق	headword	148_col2.png	verified
 D_06836	پېرە	headword	148_col2.png	verified
-D_06837	پېرسۈلفات	headword	148_col2.png	verified
+D_06837	پېرسۇلفات	headword	148_col2.png	verified
 D_06838	پېرسوناژ	headword	148_col2.png	verified
 D_06838-i1	پېرسوناژى	inflected	148_col2.png	verified
 D_06839	پېرسوناژلىق	headword	148_col3.png	verified
@@ -6958,7 +6957,7 @@ D_06853	پېرىخون	headword	148_col3.png	verified
 D_06854	پېرىخونلۇق	headword	148_col3.png	verified
 D_06855	پېرىدوت	headword	148_col3.png	verified
 D_06856	پېرىسكوپ	headword	148_col3.png	verified
-D_06857	پېرىكلېن	headword	148_col3.png	verified
+D_06857	پېرىكلىن	headword	148_col3.png	verified
 D_06858	پېرىمېتىر	headword	148_col3.png	verified
 D_06858-v1	چەمبەر ئۇزۇنلۇقى	variant	148_col3.png	verified
 D_06859	پېسە	headword	148_col3.png	verified
@@ -6984,7 +6983,7 @@ D_06876	پېقىر	headword	149_col1.png	verified
 D_06877	پېقىرانە	headword	149_col1.png	verified
 D_06878	پېقىرلىق	headword	149_col1.png	verified
 D_06879	پېقىرىما	headword	149_col1.png	verified
-D_06880	پېڭىش	headword	149_col1.png	verified
+D_06880	پېقىش	headword	149_col1.png	verified
 D_06881	پېكتىن	headword	149_col1.png	verified
 D_06882	پېگماتىت	headword	149_col1.png	verified
 D_06883	پېلەك	headword	149_col1.png	verified
@@ -6997,7 +6996,7 @@ D_06888-v1	كۆيۈك تاش	variant	149_col2.png	verified
 D_06889	پېمونىت	headword	149_col2.png	verified
 D_06890	پېنتادا	headword	149_col2.png	verified
 D_06891	پېنتادىلىق	headword	149_col2.png	verified
-D_06892	پېنسلىن	headword	149_col2.png	verified
+D_06892	پېنسىلىن	headword	149_col2.png	verified
 D_06893	پېنسىيە	headword	149_col2.png	verified
 D_06894	پېننىن	headword	149_col2.png	verified
 D_06895	پېنېپلېن	headword	149_col2.png	verified
@@ -7306,7 +7305,7 @@ D_07191	پىكرات	headword	154_col3.png	verified
 D_07192	پىكرىت	headword	154_col3.png	verified
 D_07193	پىكنومېتىر	headword	155_col1.png	verified
 D_07194	پىكو	headword	155_col1.png	verified
-D_07195	پىكوسېكونت	headword	155_col1.png	verified
+D_07195	پىكوسېكۇنت	headword	155_col1.png	verified
 D_07196	پىكومېتىر	headword	155_col1.png	verified
 D_07197	پىكۇس	headword	155_col1.png	verified
 D_07198	پىكې	headword	155_col1.png	verified
@@ -7410,7 +7409,7 @@ D_07291	پىلىلدات	verb_stem	156_col3.png	verified
 D_07292	پىلىموت	headword	157_col1.png	verified
 D_07293	پىلىموتچى	headword	157_col1.png	verified
 D_07294	پىلىموتچىلىق	headword	157_col1.png	verified
-D_07295	پىلىمۇتلۇق	headword	157_col1.png	verified
+D_07295	پىلىموتلۇق	headword	157_col1.png	verified
 D_07296	پىلىۋاي	headword	157_col1.png	verified
 D_07297	پىليۇنكا	headword	157_col1.png	verified
 D_07298	پىنان	headword	157_col1.png	verified
@@ -7572,7 +7571,7 @@ D_07451	تاخ	headword	160_col2.png	verified
 D_07452	تاخاپەن	headword	160_col2.png	verified
 D_07453	تاخايلا	headword	160_col2.png	verified
 D_07454	تاختا	headword	160_col2.png	verified
-D_07455	تاختا - نوغوچ	headword	160_col2.png	verified
+D_07455	تاختا - نوغۇچ	headword	160_col2.png	verified
 D_07456	تاختاي	headword	160_col2.png	verified
 D_07457	تاختايلىق	headword	160_col2.png	verified
 D_07458	تاختۇ	headword	160_col2.png	verified
@@ -7712,7 +7711,7 @@ D_07593	تارقات	verb_stem	163_col2.png	verified
 D_07594	تارقاتقۇچى	headword	163_col2.png	verified
 D_07595	تارقاش	verb_stem	163_col2.png	verified
 D_07596	تارقاق	headword	163_col2.png	verified
-D_07597	تارقاڭچىلىق	headword	163_col2.png	verified
+D_07597	تارقاقچىلىق	headword	163_col2.png	verified
 D_07598	تارقاقلاش	verb_stem	163_col3.png	verified
 D_07599	تارقاقلاشتۇر	verb_stem	163_col3.png	verified
 D_07600	تارقاقلاشتۇرۇش	verb_stem	163_col3.png	verified
@@ -7989,7 +7988,7 @@ D_07868	تاككىدە	headword	170_col2.png	verified
 D_07869	تاكى	headword	170_col2.png	verified
 D_07870	تاكىراڭ	headword	170_col2.png	verified
 D_07871	تاكىراڭ - تاكىراڭ	headword	170_col2.png	verified
-D_07872	تاكىراڭ - تۇگۇرۇڭ	headword	170_col2.png	verified
+D_07872	تاكىراڭ - تۇكۇرۇڭ	headword	170_col2.png	verified
 D_07873	تاكىراڭشى	verb_stem	170_col2.png	verified
 D_07874	تاكىراڭلا	verb_stem	170_col2.png	verified
 D_07875	تاكىراڭلات	verb_stem	170_col2.png	verified
@@ -8364,7 +8363,7 @@ D_08242	تەپرىقىچى	headword	178_col3.png	verified
 D_08243	تەپرىقىچىلىك	headword	178_col3.png	verified
 D_08244	تەپرىقىۋاز	headword	178_col3.png	verified
 D_08245	تەپرىقىۋازلىق	headword	178_col3.png	verified
-D_08246	تەپزەمەك	verb_stem	178_col3.png	verified
+D_08246	تەپزەمەك	headword	178_col3.png	verified
 D_08247	تەپسىر	headword	178_col3.png	verified
 D_08248	تەپسىرچى	headword	178_col3.png	verified
 D_08249	تەپسىرشۇناس	headword	178_col3.png	verified
@@ -9082,7 +9081,7 @@ D_08930	تەۋىنمەك	headword	194_col1.png	verified
 D_08931	تەۋىرمەك	headword	194_col1.png	verified
 D_08932	تەيەممۇم	headword	194_col1.png	verified
 D_08934	تەيجى	headword	194_col2.png	verified
-D_08935	تەيجىچۇەن	headword	194_col2.png	verified
+D_08935	تەيجىچۈەن	headword	194_col2.png	verified
 D_08936	تەيجىلىك	headword	194_col2.png	verified
 D_08937	تەيشى	headword	194_col2.png	verified
 D_08938	تەيفىڭ	headword	194_col2.png	verified
@@ -9244,7 +9243,7 @@ D_09089	تورۇكلا	verb_stem	197_col3.png	verified
 D_09090	تورۇكلات	verb_stem	197_col3.png	verified
 D_09091	تورۇكلاش	verb_stem	198_col1.png	verified
 D_09092	تورۇڭ	headword	198_col1.png	verified
-D_09093	تورۇڭ - تورۇك	headword	198_col1.png	verified
+D_09093	تورۇڭ - تورۇڭ	headword	198_col1.png	verified
 D_09094	تورۇڭڭىدە	headword	198_col1.png	verified
 D_09095	تورۇڭلا	verb_stem	198_col1.png	verified
 D_09096	تورۇڭلات	verb_stem	198_col1.png	verified
@@ -9402,8 +9401,8 @@ D_09250	توقۇم¹	headword	201_col2.png	verified
 D_09251	توقۇم²	headword	201_col2.png	verified
 D_09252	توقۇما	headword	201_col2.png	verified
 D_09253	توقۇملۇق	headword	201_col2.png	verified
-D_09254	توقۇمچى	headword	201_col2.png	verified
-D_09255	توقۇمچىلىق	headword	201_col2.png	verified
+D_09254	توقۇمىچى	headword	201_col2.png	verified
+D_09255	توقۇمىچىلىق	headword	201_col2.png	verified
 D_09256	توقۇناق	headword	201_col2.png	verified
 D_09257	توقۇنۇش	headword	201_col2.png	verified
 D_09259	توقۇنۇشتۇر	verb_stem	201_col2.png	verified
@@ -9422,7 +9421,7 @@ D_09272	توكچاتقۇ	headword	202_col1.png	verified
 D_09273	توكچى	headword	202_col1.png	verified
 D_09274	توكچىلىق	headword	202_col1.png	verified
 D_09275	توكدان	headword	202_col1.png	verified
-D_09276	توكسكولوگىيە	headword	202_col1.png	verified
+D_09276	توكسىكولوگىيە	headword	202_col1.png	verified
 D_09277	توككىدە	headword	202_col1.png	verified
 D_09278	توكلۇق	headword	202_col1.png	verified
 D_09279	توكۇر¹	headword	202_col1.png	verified
@@ -9499,7 +9498,7 @@ D_09350	تولۇقلاش	verb_stem	204_col1.png	verified
 D_09351	تولۇقلان	verb_stem	204_col1.png	verified
 D_09352	تولۇقلىما	headword	204_col1.png	verified
 D_09353	تولۇم	headword	204_col2.png	verified
-D_09354	تولۇئۇل	headword	204_col2.png	verified
+D_09354	تولۇئول	headword	204_col2.png	verified
 D_09355	تولۋۇر	headword	204_col2.png	verified
 D_09356	تولىلا	verb_stem	204_col2.png	verified
 D_09357	تولىلىق	headword	204_col2.png	verified
@@ -9903,8 +9902,8 @@ D_09761	تۇمانلاشتۇرۇل	verb_stem	213_col1.png	verified
 D_09762	تۇمانلىق	headword	213_col1.png	verified
 D_09763	تۇمشۇق	headword	213_col1.png	verified
 D_09764	تۇمشۇقسىمان	headword	213_col1.png	verified
-D_09765	تۇمشۇقلىق¹	headword	213_col1.png	verified
-D_09766	تۇمشۇقلىق²	headword	213_col1.png	verified
+D_09765	تۇمشۇقلۇق¹	headword	213_col1.png	verified
+D_09766	تۇمشۇقلۇق²	headword	213_col1.png	verified
 D_09767	تۇمشى	headword	213_col1.png	verified
 D_09768	تۇملۇتماق	headword	213_col1.png	verified
 D_09769	تۇملۇغ	headword	213_col1.png	verified
@@ -10141,6 +10140,7 @@ D_09999	تۈرتەك	headword	218_col2.png	verified
 D_10000	تۈرتەكلە	verb_stem	218_col2.png	verified
 D_10001	تۈرتەكلەت	verb_stem	218_col2.png	verified
 D_10002	تۈرتەكلەش	verb_stem	218_col2.png	verified
+D_10003	تۈرتەكلەن	verb_stem	218_col3.png	verified
 D_10004	تۈرتكە	headword	218_col3.png	verified
 D_10005	تۈرتكىلىك	headword	218_col3.png	verified
 D_10006	تۈرتۈش	verb_stem	218_col3.png	verified
@@ -10305,7 +10305,7 @@ D_10169	تۈگۈنچەك¹	headword	222_col1.png	verified
 D_10170	تۈگۈنچەك²	headword	222_col1.png	verified
 D_10171	تۈگۈنلۈك	headword	222_col1.png	verified
 D_10172	تۈگۈنمەك	headword	222_col2.png	verified
-D_10173	تۈگۈنۈش	headword	222_col2.png	verified
+D_10173	تۈگۈنۈش	verb_stem	222_col2.png	verified
 D_10174	تۈگىمەس	headword	222_col2.png	verified
 D_10175	تۈگىمەس - پۈتمەس	headword	222_col2.png	verified
 D_10176	تۈڭكەلمەك	headword	222_col2.png	verified
@@ -10754,7 +10754,7 @@ D_10612	تىروپىك	headword	231_col2.png	verified
 D_10613	تىروت	headword	231_col2.png	verified
 D_10614	تىرومبون	headword	231_col2.png	verified
 D_10615	تىرويان	headword	231_col2.png	verified
-D_10616	تىرىپانگ	headword	231_col2.png	verified
+D_10616	تىرېپانگ	headword	231_col2.png	verified
 D_10617	تىرېسكا	headword	231_col2.png	verified
 D_10618	تىرېمولىت	headword	231_col2.png	verified
 D_10619	تىرېنېر	headword	231_col2.png	verified
@@ -10856,7 +10856,8 @@ D_10714	تىغلىق	headword	233_col2.png	verified
 D_10715	تىغدەك	headword	233_col2.png	verified
 D_10716	تىغسىمان	headword	233_col3.png	verified
 D_10717	تىغمۇتىغ	headword	233_col3.png	verified
-D_10718	تىق	headword	233_col3.png	verified
+D_10718	تىف	headword	233_col3.png	verified
+D_10719	تىق	verb_stem	233_col3.png	verified
 D_10720	تىقتۇر	verb_stem	233_col3.png	verified
 D_10721	تىقما	headword	233_col3.png	verified
 D_10722	تىقما - تىقما	headword	233_col3.png	verified
@@ -11278,7 +11279,7 @@ D_11139	جالاق²	headword	243_col3.png	verified
 D_11140	جالاق - جالاق	headword	243_col3.png	verified
 D_11141	جالاق - جۇلۇق	headword	243_col3.png	verified
 D_11142	جالاقشى	verb_stem	243_col3.png	verified
-D_11143	جالاقىشت	verb_stem	243_col3.png	verified
+D_11143	جالاقشىت	verb_stem	243_col3.png	verified
 D_11144	جالاققىدە	headword	243_col3.png	verified
 D_11145	جالاقلا	verb_stem	244_col1.png	verified
 D_11146	جالاقلات	verb_stem	244_col1.png	verified
@@ -11503,7 +11504,7 @@ D_11354	جەلەق	headword	248_col3.png	verified
 D_11355	جەلپ	headword	248_col3.png	verified
 D_11356	جەلپكار	headword	248_col3.png	verified
 D_11356-i1	جەلپكارى	inflected	248_col3.png	verified
-D_11357	جەلپىكارلىق	headword	249_col1.png	verified
+D_11357	جەلپكارلىق	headword	249_col1.png	verified
 D_11358	جەلپلىك	headword	249_col1.png	verified
 D_11359	جەللە	headword	249_col1.png	verified
 D_11360	جەللىگۈر	headword	249_col1.png	verified
@@ -11564,7 +11565,7 @@ D_11414	جورۇقچىلىق	headword	250_col1.png	verified
 D_11415	جورۇنقاي	headword	250_col1.png	verified
 D_11416	جورۇماق	headword	250_col1.png	verified
 D_11417	جورى	verb_stem	250_col1.png	verified
-D_11418	جورتىش	verb_stem	250_col1.png	verified
+D_11418	جورىتىش	verb_stem	250_col1.png	verified
 D_11419	جورىقەند	headword	250_col1.png	verified
 D_11420	جورىلدات	verb_stem	250_col1.png	verified
 D_11421	جورىلىق	headword	250_col1.png	verified
@@ -11757,6 +11758,7 @@ D_11614	جۈسۈن	headword	253_col3.png	verified
 D_11615	جۈسۈنلە	verb_stem	253_col3.png	verified
 D_11616	جۈسۈنلەت	verb_stem	253_col3.png	verified
 D_11617	جۈسۈنلەش	verb_stem	253_col3.png	verified
+D_11618	جۈسۈنلەن	verb_stem	254_col1.png	verified
 D_11619	جۈسۈنلۈك	headword	254_col1.png	verified
 D_11620	جۈكتۈ	headword	254_col1.png	verified
 D_11621	جۈلگۈمەك	headword	254_col1.png	verified
@@ -12011,7 +12013,7 @@ D_11876	جىنكەش	headword	259_col2.png	verified
 D_11877	جىنكەشلىك	headword	259_col2.png	verified
 D_11878	جىنكېۋىزى	headword	259_col2.png	verified
 D_11879	جىنلىق	headword	259_col2.png	verified
-D_11880	جىنۇ	headword	259_col3.png	verified
+D_11880	جىنو	headword	259_col3.png	verified
 D_11881	جىنوچە	headword	259_col3.png	verified
 D_11882	جىنئۈزۈمى	headword	259_col3.png	verified
 D_11883	جىنياڭيۇسى	headword	259_col3.png	verified
@@ -12144,7 +12146,7 @@ D_12014	چاچما	headword	262_col3.png	verified
 D_12015	چاچۋان	headword	262_col3.png	verified
 D_12016	چاچۋانلىق	headword	262_col3.png	verified
 D_12017	چاچى - پاچى	headword	262_col3.png	verified
-D_12018	چاچىماق	verb_stem	262_col3.png	verified
+D_12018	چاچىماق	headword	262_col3.png	verified
 D_12019	چاخەك	headword	262_col3.png	verified
 D_12020	چاخشاق¹	headword	262_col3.png	verified
 D_12021	چاخشاق²	headword	262_col3.png	verified
@@ -12632,7 +12634,7 @@ D_12501	چەلەڭگۈچ	headword	272_col1.png	verified
 D_12502	چەلپەك¹	headword	272_col1.png	verified
 D_12503	چەلپەك²	headword	272_col1.png	verified
 D_12504	چەلپەكچى	headword	272_col1.png	verified
-D_12505	چەلگە	verb_stem	272_col1.png	verified
+D_12505	چەلگى	verb_stem	272_col1.png	verified
 D_12506	چەلگىن	verb_stem	272_col1.png	verified
 D_12507	چەللە	headword	272_col1.png	verified
 D_12508	چەللىلىك	headword	272_col1.png	verified
@@ -12788,7 +12790,7 @@ D_12690	چوڭقۇرلىتىل	verb_stem	275_col3.png	verified
 D_12691	چوڭ - كىچىك	headword	275_col3.png	verified
 D_12692	چوڭلا	verb_stem	275_col3.png	verified
 D_12693	چوڭلۇق	headword	276_col1.png	verified
-D_12694	چوڭىيىش	headword	276_col1.png	verified
+D_12694	چوڭىيىش	verb_stem	276_col1.png	verified
 D_12695	چولا¹	headword	276_col1.png	verified
 D_12696	چولا²	headword	276_col1.png	verified
 D_12697	چولا	verb_stem	276_col1.png	verified
@@ -13499,7 +13501,7 @@ D_13406	چىگىچلەش	verb_stem	290_col1.png	verified
 D_13407	چىگىچلەشتۈر	verb_stem	290_col1.png	verified
 D_13408	چىگىچلەشتۈرۈش	verb_stem	290_col1.png	verified
 D_13409	چىگىچلەشتۈرۈل	verb_stem	290_col1.png	verified
-D_13410	چىگىچىلىك	headword	290_col2.png	verified
+D_13410	چىگىچلىك	headword	290_col2.png	verified
 D_13411	چىگىر	headword	290_col2.png	verified
 D_13412	چىگىش	verb_stem	290_col2.png	verified
 D_13413	چىگىك	headword	290_col2.png	verified
@@ -14375,7 +14377,7 @@ D_14279	داتسىت	headword	308_col2.png	verified
 D_14280	داتلاش	verb_stem	308_col3.png	verified
 D_14281	داتلاشتۇر	verb_stem	308_col3.png	verified
 D_14282	داتلاشماس	headword	308_col3.png	verified
-D_14283	داجە	verb_stem	308_col3.png	verified
+D_14283	داجى	verb_stem	308_col3.png	verified
 D_14284	داجىت	verb_stem	308_col3.png	verified
 D_14285	داجىش	verb_stem	308_col3.png	verified
 D_14287	داچا	headword	308_col3.png	verified
@@ -14845,7 +14847,7 @@ D_14749	دەل - دەرەخلىك	headword	318_col1.png	verified
 D_14750	دەلدەكىمەك	headword	318_col1.png	verified
 D_14751	دەلدەڭ	headword	318_col1.png	verified
 D_14752	دەلدەڭ - دەلدەڭ	headword	318_col1.png	verified
-D_14753	دەلدەڭشە	verb_stem	318_col1.png	verified
+D_14753	دەلدەڭشى	verb_stem	318_col1.png	verified
 D_14754	دەلدەڭلە	verb_stem	318_col1.png	verified
 D_14755	دەلدۈش	headword	318_col1.png	verified
 D_14756	دەلدۈشلۈك	headword	318_col1.png	verified
@@ -14956,8 +14958,8 @@ D_14865	دور	headword	320_col2.png	verified
 D_14866	دورا	headword	320_col2.png	verified
 D_14868	دورات	verb_stem	320_col3.png	verified
 D_14869	دورا - دەرمان	headword	320_col3.png	verified
-D_14870	دورا ـ دەرمەك	headword	320_col3.png	verified
-D_14870-v1	دورا ـ دەرما	variant	320_col3.png	verified
+D_14870	دورا - دەرمەك	headword	320_col3.png	verified
+D_14870-v1	دورا - دەرما	variant	320_col3.png	verified
 D_14871	دوراش	verb_stem	320_col3.png	verified
 D_14872	دورامچۇق	headword	320_col3.png	verified
 D_14873	دورامچۇقلۇق	headword	320_col3.png	verified
@@ -15036,7 +15038,7 @@ D_14946	دوكتورئاشتى	headword	322_col1.png	verified
 D_14947	دوكتورلۇق	headword	322_col1.png	verified
 D_14948	دوك - دوك	headword	322_col1.png	verified
 D_14949	دوكسىتسىكلىن	headword	322_col1.png	verified
-D_14950	دوككەدە	headword	322_col1.png	verified
+D_14950	دوككىدە	headword	322_col1.png	verified
 D_14951	دوكلات	headword	322_col1.png	verified
 D_14951-i1	دوكلاتى	inflected	322_col1.png	verified
 D_14952	دوكلاتچى	headword	322_col1.png	verified
@@ -15234,7 +15236,7 @@ D_15141	دۇۋا	headword	326_col2.png	verified
 D_15142	دۇئېل	headword	326_col2.png	verified
 D_15143	دۆ	headword	326_col2.png	verified
 D_15144	دۆت	headword	326_col2.png	verified
-D_15145	دۆت ـ كالۋا	headword	326_col2.png	verified
+D_15145	دۆت - كالۋا	headword	326_col2.png	verified
 D_15146	دۆتلەش	verb_stem	326_col2.png	verified
 D_15147	دۆتلەشتۈر	verb_stem	326_col2.png	verified
 D_15148	دۆتلۈك	headword	326_col2.png	verified
@@ -15416,8 +15418,8 @@ D_15325	دېكلاماتسىيە	headword	330_col3.png	verified
 D_15325-i1	دېكلاماتسىيەسى	inflected	330_col3.png	verified
 D_15326	دېكلاماتسىيەشۇناسلىق	headword	330_col3.png	verified
 D_15327	دېكلاماتسىيەچى	headword	330_col3.png	verified
-D_15328	دېكراتسىيە	headword	330_col3.png	verified
-D_15328-i1	دېكراتسىيەسى	inflected	330_col3.png	verified
+D_15328	دېكىراتسىيە	headword	330_col3.png	verified
+D_15328-i1	دېكىراتسىيەسى	inflected	330_col3.png	verified
 D_15329	دېكىراتسىيەلىك	headword	330_col3.png	verified
 D_15330	دېكىراتور	headword	330_col3.png	verified
 D_15331	دېكىنمەك	headword	330_col3.png	verified
@@ -15455,7 +15457,7 @@ D_15361	دېموكراتىيەلەش	verb_stem	332_col1.png	verified
 D_15362	دېموكراتىيەلەشتۈر	verb_stem	332_col1.png	verified
 D_15363	دېموكراتىيەلەشتۈرۈل	verb_stem	332_col1.png	verified
 D_15364	دېمىجە	headword	332_col1.png	verified
-D_15365	دېمىفىزا	headword	332_col1.png	verified
+D_15365	دېمىغىزا	headword	332_col1.png	verified
 D_15366	دېنگى	headword	332_col1.png	verified
 D_15367	دېھقان	headword	332_col1.png	verified
 D_15368	دېھقانچىلىق	headword	332_col1.png	verified
@@ -15536,7 +15538,7 @@ D_15442	دىرىلدات	verb_stem	333_col2.png	verified
 D_15443	دىرىلداش	verb_stem	333_col2.png	verified
 D_15444	دىزېل	headword	333_col2.png	verified
 D_15445	دىزېلىن	headword	333_col3.png	verified
-D_15446	دىزېنتېرىيە	headword	333_col3.png	verified
+D_15446	دىزىنتېرىيە	headword	333_col3.png	verified
 D_15447	دىسپېتچېر	headword	333_col3.png	verified
 D_15448	دىسپېرسىيە	headword	333_col3.png	verified
 D_15449	دىستە	headword	333_col3.png	verified
@@ -15559,7 +15561,7 @@ D_15462	دىغ	headword	333_col3.png	verified
 D_15463	دىغىرىماق	headword	333_col3.png	verified
 D_15464	دىفتېرىيە	headword	333_col3.png	verified
 D_15465	دىفراكتومېتىر	headword	333_col3.png	verified
-D_15466	دىففراكسىيە	headword	334_col1.png	verified
+D_15466	دىفراكسىيە	headword	334_col1.png	verified
 D_15467	دىففۇزور	headword	334_col1.png	verified
 D_15468	دىففۇزىيە	headword	334_col1.png	verified
 D_15469	دىففۇزىيەلە	verb_stem	334_col1.png	verified
@@ -16303,8 +16305,8 @@ D_16163	رىقابەتچى	headword	347_col3.png	verified
 D_16164	رىقابەتسىز	headword	347_col3.png	verified
 D_16165	رىقابەتلەش	verb_stem	347_col3.png	verified
 D_16166	رىقابەتلەشتۈر	verb_stem	347_col3.png	verified
-D_16167	رىقابەتلەشتۈرۈش	headword	348_col1.png	verified
-D_16168	رىقابەتلەشتۈرۈل	headword	348_col1.png	verified
+D_16167	رىقابەتلەشتۈرۈش	verb_stem	348_col1.png	verified
+D_16168	رىقابەتلەشتۈرۈل	verb_stem	348_col1.png	verified
 D_16169	رىقابەتلىك	headword	348_col1.png	verified
 D_16170	رىكشا	headword	348_col1.png	verified
 D_16171	رىكشىچى	headword	348_col1.png	verified
@@ -16366,7 +16368,7 @@ D_16225	زاسۈيخانا	headword	349_col3.png	verified
 D_16226	زاسېداتېل	headword	349_col3.png	verified
 D_16227	زاسېداتېللىق	headword	349_col3.png	verified
 D_16228	زاغرا	headword	349_col3.png	verified
-D_16229	زاغراچى	headword	349_col3.png	verified
+D_16229	زاغرىچى	headword	349_col3.png	verified
 D_16230	زاغزاق	headword	349_col3.png	verified
 D_16231	زاغۇن	headword	350_col1.png	verified
 D_16232	زاغۇنلۇق	headword	350_col1.png	verified
@@ -17024,7 +17026,7 @@ D_16863-i1	سازلىقشۇناسى	inflected	365_col1.png	verified
 D_16864	سازلىقلاش	verb_stem	365_col1.png	verified
 D_16865	سازىكەپ	headword	365_col1.png	verified
 D_16866	سازىنچىتاش	headword	365_col1.png	verified
-D_16867	ساسانگول	headword	365_col1.png	verified
+D_16867	ساسانگۈل	headword	365_col1.png	verified
 D_16868	ساغ	headword	365_col2.png	verified
 D_16870	ساغالماق	headword	365_col2.png	verified
 D_16871	ساغان	headword	365_col2.png	verified
@@ -17558,7 +17560,9 @@ D_17382	سەرراپلىق	headword	375_col1.png	verified
 D_17383	سەرراچ	headword	375_col1.png	verified
 D_17384	سەرراچلىق	headword	375_col1.png	verified
 D_17385	سەرسان	headword	375_col1.png	verified
+D_17386	سەرسان - سەرگەردان	headword	375_col1.png	verified
 D_17387	سەرسانلىق	headword	375_col1.png	verified
+D_17388	سەرسانلىق - سەرگەردانلىق	headword	375_col1.png	verified
 D_17389	سەرسۈك	headword	375_col1.png	verified
 D_17390	سەرسۈكلەمەك	headword	375_col2.png	verified
 D_17391	سەرقەلەم	headword	375_col2.png	verified
@@ -17775,7 +17779,6 @@ D_17599-i1	سەۋەبى	inflected	379_col1.png	verified
 D_17600	سەۋەبچى	headword	379_col1.png	verified
 D_17601	سەۋەبسىز	headword	379_col1.png	verified
 D_17602	سەۋەبكار	headword	379_col1.png	verified
-D_17602-v1	سەۋەپچى	variant	379_col1.png	verified
 D_17603	سەۋەبلىك	headword	379_col1.png	verified
 D_17604	سەۋەب - نەتىجە	headword	379_col1.png	verified
 D_17605	سەۋەنلىك	headword	379_col1.png	verified
@@ -17955,7 +17958,7 @@ D_17775	سوغان	headword	382_col3.png	verified
 D_17776	سوغانچىغ	headword	382_col3.png	verified
 D_17777	سوغتانماق	headword	382_col3.png	verified
 D_17778	سوغد	headword	382_col3.png	verified
-D_17779	سوغدىچە	headword	382_col3.png	verified
+D_17779	سوغدچە	headword	382_col3.png	verified
 D_17780	سوغماق	headword	382_col3.png	verified
 D_17781	سوغۇت¹	headword	382_col3.png	verified
 D_17782	سوغۇت²	headword	382_col3.png	verified
@@ -18181,8 +18184,8 @@ D_18003	سۇسلاشتۇرۇل	verb_stem	388_col2.png	verified
 D_18004	سۇسلۇق	headword	388_col2.png	verified
 D_18005	سۇسماق	headword	388_col2.png	verified
 D_18006	سۇسىرا	verb_stem	388_col2.png	verified
-D_18007	سۇسرات	verb_stem	388_col2.png	verified
-D_18008	سۇسراش	verb_stem	388_col2.png	verified
+D_18007	سۇسىرات	verb_stem	388_col2.png	verified
+D_18008	سۇسىراش	verb_stem	388_col2.png	verified
 D_18009	سۇسىز	headword	388_col2.png	verified
 D_18010	سۇسىزلان	verb_stem	388_col2.png	verified
 D_18011	سۇسىزلاندۇر	verb_stem	388_col2.png	verified
@@ -18457,7 +18460,7 @@ D_18280	سۆيۈش	verb_stem	394_col2.png	unverified
 D_18281	سۆيۈملۈك	headword	394_col2.png	unverified
 D_18282	سۆيۈنچ	headword	394_col2.png	verified
 D_18283	سۆيۈنچە	headword	394_col2.png	unverified
-D_18284	سۆيۈنچۈلۈك	headword	394_col2.png	unverified
+D_18284	سۆيۈنچلۈك	headword	394_col2.png	unverified
 D_18285	سۆيۈن	verb_stem	394_col2.png	unverified
 D_18286	سۆيۈندۈر	verb_stem	394_col2.png	unverified
 D_18287	سۆيۈنۈش	verb_stem	394_col2.png	unverified
@@ -18498,7 +18501,7 @@ D_18321	سۈتخورلۇق	headword	395_col2.png	unverified
 D_18322	سۈتسىز	headword	395_col2.png	unverified
 D_18323	سۈت - قايماق	headword	395_col2.png	unverified
 D_18324	سۈت - قېتىق	headword	395_col2.png	unverified
-D_18325	سۈتگەرمەڭ	headword	395_col2.png	unverified
+D_18325	سۈتگەرمەك	headword	395_col2.png	unverified
 D_18326	سۈتلە	verb_stem	395_col2.png	unverified
 D_18327	سۈتلەت	verb_stem	395_col2.png	verified
 D_18328	سۈتلەن	verb_stem	395_col2.png	unverified
@@ -18596,7 +18599,7 @@ D_18419	سۈزۈل	verb_stem	397_col3.png	unverified
 D_18420	سۈزۈلدۈر	verb_stem	397_col3.png	unverified
 D_18421	سۈزۈكئوت	headword	397_col3.png	unverified
 D_18422	سۈسكۈن	headword	397_col3.png	unverified
-D_18423	سۈگەن	headword	397_col3.png	unverified
+D_18423	سۈكەن	headword	397_col3.png	unverified
 D_18424	سۈكۈت	headword	397_col3.png	unverified
 D_18425	سۈكۈتچان	headword	397_col3.png	unverified
 D_18426	سۈكۈتلۈك¹	headword	397_col3.png	unverified
@@ -18613,7 +18616,7 @@ D_18436	سۈڭگۈتۈش	verb_stem	398_col1.png	unverified
 D_18437	سۈڭگۈتۈل	verb_stem	398_col1.png	unverified
 D_18438	سۈڭگۈچ	headword	398_col1.png	unverified
 D_18439	سۈڭگۈمەك	headword	398_col1.png	unverified
-D_18440	سۈڭۈلەمەك	verb_stem	398_col1.png	unverified
+D_18440	سۈڭۈلەمەك	headword	398_col1.png	unverified
 D_18441	سۈڭۈش	headword	398_col1.png	unverified
 D_18442	سۈلەپ	headword	398_col1.png	unverified
 D_18443	سۈلەي	headword	398_col1.png	unverified
@@ -18776,13 +18779,13 @@ D_18598	سېكىلەك¹	headword	402_col1.png	unverified
 D_18599	سېكىلەك²	headword	402_col1.png	unverified
 D_18600	سېكىلەكلىك	headword	402_col1.png	unverified
 D_18601	سېگمېنت	headword	402_col2.png	unverified
-D_18602	سېگىرق	headword	402_col2.png	unverified
+D_18602	سېڭىرىق	headword	402_col2.png	unverified
 D_18603	سېلادونىت	headword	402_col2.png	unverified
 D_18604	سېلەب - سەلەپ	headword	402_col2.png	unverified
 D_18605	سېلسىيە	headword	402_col2.png	unverified
 D_18606	سېللوفان	headword	402_col2.png	verified
 D_18607	سېللۇلوئىد	headword	402_col2.png	verified
-D_18608	سېللىئۇلوزا	headword	402_col2.png	unverified
+D_18608	سېلليۇلوزا	headword	402_col2.png	unverified
 D_18609	سېلېستىت	headword	402_col2.png	verified
 D_18610	سېلىترا	headword	402_col2.png	unverified
 D_18611	سېلىش	verb_stem	402_col2.png	unverified
@@ -18820,7 +18823,7 @@ D_18641	سېنارىيەلەشتۈر	verb_stem	403_col2.png	unverified
 D_18642	سېنارىيەلەشتۈرگۈچى	headword	403_col2.png	unverified
 D_18643	سېنارىيەلەشتۈرۈل	verb_stem	403_col2.png	unverified
 D_18644	سېنتەبىر	headword	403_col2.png	unverified
-D_18645	سېنتىبىر	headword	403_col2.png	unverified
+D_18645	سېنتنېر	headword	403_col2.png	unverified
 D_18646	سېنزور	headword	403_col2.png	unverified
 D_18647	سېنىت	headword	403_col2.png	unverified
 D_18648	سېنىمەك	headword	403_col2.png	unverified
@@ -18848,7 +18851,7 @@ D_18668	سېيسمومېتىر	headword	403_col3.png	unverified
 D_18669	سېيىش	verb_stem	403_col3.png	verified
 D_18670	سېيىل	verb_stem	403_col3.png	unverified
 D_18671	سىببالدى	headword	403_col3.png	unverified
-D_18672	سىبجە	verb_stem	403_col3.png	unverified
+D_18672	سىبجى	verb_stem	403_col3.png	unverified
 D_18673	سىبجىت	verb_stem	404_col1.png	unverified
 D_18674	سىبۇجا	headword	404_col1.png	verified
 D_18675	سىبىرىيە	headword	404_col1.png	unverified
@@ -18870,7 +18873,7 @@ D_18689	سىپايىلىك	headword	404_col2.png	unverified
 D_18690	سىپەچ	headword	404_col2.png	unverified
 D_18691	سىپەر	headword	404_col2.png	unverified
 D_18692	سىپەگۈل	headword	404_col2.png	unverified
-D_18693	سىپەڭچى	headword	404_col2.png	unverified
+D_18693	سىپەنچى	headword	404_col2.png	unverified
 D_18694	سىپتا	headword	404_col2.png	unverified
 D_18695	سىپتىلىق	headword	404_col2.png	unverified
 D_18696	سىپۈت	headword	404_col2.png	unverified
@@ -18913,7 +18916,7 @@ D_18733	سىرداشلىق	headword	405_col1.png	unverified
 D_18734	سىر - سىر	headword	405_col1.png	unverified
 D_18735	سىرغا	headword	405_col1.png	unverified
 D_18736	سىرغانچۇق	headword	405_col1.png	unverified
-D_18737	سىرغە	verb_stem	405_col2.png	unverified
+D_18737	سىرغى	verb_stem	405_col2.png	unverified
 D_18738	سىرغىت	verb_stem	405_col2.png	unverified
 D_18739	سىرغىلىق	headword	405_col2.png	unverified
 D_18740	سىرغىم	headword	405_col2.png	unverified
@@ -19021,7 +19024,7 @@ D_18842	سىقاماق	headword	407_col2.png	unverified
 D_18843	سىقتاماق	headword	407_col2.png	unverified
 D_18844	سىقتۇر	verb_stem	407_col2.png	unverified
 D_18845	سىقتۇرۇش	verb_stem	407_col2.png	unverified
-D_18846	سىقتۇرۇلا	verb_stem	407_col2.png	unverified
+D_18846	سىقتۇرۇل	verb_stem	407_col2.png	unverified
 D_18847	سىقماق¹	headword	407_col3.png	unverified
 D_18848	سىقماق²	headword	407_col3.png	unverified
 D_18849	سىقمان	headword	407_col3.png	unverified
@@ -19051,7 +19054,7 @@ D_18870	سىگناللىق	headword	408_col1.png	unverified
 D_18871	سىڭ	verb_stem	408_col1.png	verified
 D_18872	سىڭار	headword	408_col1.png	unverified
 D_18873	سىڭارسۇق	headword	408_col1.png	unverified
-D_18874	سىڭارگۆز	headword	408_col1.png	unverified
+D_18874	سىڭاركۆز	headword	408_col1.png	unverified
 D_18875	سىڭەرلىك	headword	408_col1.png	unverified
 D_18876	سىڭدۈر	verb_stem	408_col1.png	unverified
 D_18877	سىڭدۈرمە	headword	408_col2.png	unverified
@@ -19083,8 +19086,8 @@ D_18902	سىلاشتۇر	verb_stem	408_col3.png	unverified
 D_18903	سىلان	verb_stem	408_col3.png	unverified
 D_18904	سىلانېتس	headword	408_col3.png	unverified
 D_18905	سىلەر	headword	408_col3.png	unverified
-D_18906	سىلتس	headword	408_col3.png	unverified
-D_18907	سىلجە	verb_stem	408_col3.png	unverified
+D_18906	سىلتىس	headword	408_col3.png	unverified
+D_18907	سىلجى	verb_stem	408_col3.png	unverified
 D_18908	سىلجىت	verb_stem	408_col3.png	unverified
 D_18909	سىلجىش	verb_stem	408_col3.png	verified
 D_18910	سىلجىتىش	verb_stem	408_col3.png	verified
@@ -19093,7 +19096,7 @@ D_18912	سىلغاي	verb_stem	408_col3.png	verified
 D_18913	سىلغايت	verb_stem	409_col1.png	unverified
 D_18914	سىلغايتىش	verb_stem	409_col1.png	verified
 D_18915	سىلغايتىل	verb_stem	409_col1.png	verified
-D_18916	سىلكە	verb_stem	409_col1.png	unverified
+D_18916	سىلكى	verb_stem	409_col1.png	unverified
 D_18917	سىلكىت	verb_stem	409_col1.png	unverified
 D_18918	سىلكىش	verb_stem	409_col1.png	verified
 D_18919	سىلكىشتۈر	verb_stem	409_col1.png	unverified
@@ -19174,7 +19177,7 @@ D_18998	سىنتاش	headword	411_col1.png	unverified
 D_18999	سىنتاكسىس	headword	411_col1.png	unverified
 D_19000	سىنتاكسىسلىق	headword	411_col1.png	unverified
 D_19001	سىنتاگما	headword	411_col1.png	unverified
-D_19002	سىنتومېتىسىن	headword	411_col1.png	unverified
+D_19002	سىنتومېتسىن	headword	411_col1.png	unverified
 D_19003	سىنتېتىك	headword	411_col1.png	unverified
 D_19004	سىنتېز	headword	411_col1.png	unverified
 D_19005	سىنتېزلا	verb_stem	411_col1.png	unverified
@@ -19296,8 +19299,8 @@ D_19117	سىيلىق	headword	414_col2.png	unverified
 D_19118	سىيما	headword	414_col2.png	verified
 D_19119	سىينەك	headword	414_col2.png	unverified
 D_19120	سىينىبەل	headword	414_col3.png	verified
-D_19121	سىير	headword	414_col3.png	unverified
-D_19122	سىيرچىلىق	headword	414_col3.png	unverified
+D_19121	سىيىر	headword	414_col3.png	unverified
+D_19122	سىيىرچىلىق	headword	414_col3.png	unverified
 D_19123	سىيىش	verb_stem	414_col3.png	unverified
 D_19124	شا	headword	415_col1.png	unverified
 D_19125	شابراق	headword	415_col1.png	unverified
@@ -19494,7 +19497,7 @@ D_19316	شال³	headword	419_col1.png	verified
 D_19317	شال⁴	headword	419_col1.png	verified
 D_19318	شال⁵	headword	419_col1.png	unverified
 D_19319	شالا	headword	419_col1.png	verified
-D_19319-i1	شالايىم، شالايىق، شالاسى	inflected	419_col1.png	verified
+D_19319-i1	شالايىم، شالايىڭ، شالاسى	inflected	419_col1.png	verified
 D_19320	شالاپ	headword	419_col1.png	unverified
 D_19321	شالاپپىدە	headword	419_col1.png	unverified
 D_19322	شالاپ - شالاپ	headword	419_col1.png	unverified
@@ -19638,12 +19641,12 @@ D_19452	شايىپۈك	headword	421_col3.png	unverified
 D_19453	شايىچى	headword	421_col3.png	unverified
 D_19454	شايىگۈل	headword	421_col3.png	unverified
 D_19455	شەبنەم	headword	421_col3.png	unverified
-D_19456	شەبىنەمىلىك	headword	421_col3.png	verified
+D_19456	شەبنەملىك	headword	421_col3.png	verified
 D_19457	شەبىڭ	headword	421_col3.png	verified
 D_19458	شەپە	headword	421_col3.png	unverified
 D_19459	شەپەرەڭ	headword	421_col3.png	unverified
 D_19460	شەپەق	headword	422_col1.png	unverified
-D_19461	شەپەگۈل	headword	422_col1.png	verified
+D_19461	شەپەقگۈل	headword	422_col1.png	verified
 D_19462	شەپشەك	headword	422_col1.png	unverified
 D_19463	شەپشەكلىك	headword	422_col1.png	unverified
 D_19464	شەپقەت	headword	422_col1.png	verified
@@ -19761,7 +19764,6 @@ D_19575	شەھەرلەشتۈر	verb_stem	424_col3.png	unverified
 D_19576	شەھەرلەشتۈرۈل	verb_stem	425_col1.png	unverified
 D_19577	شەھەرلىك	headword	425_col1.png	unverified
 D_19578	شەھدان	headword	425_col1.png	verified
-D_19578-v1	تەۋەككۇلچاي	variant	425_col1.png	verified
 D_19579	شەھلا	headword	425_col1.png	unverified
 D_19580	شەھۋانىي	headword	425_col1.png	verified
 D_19581	شەھۋانىيلىق	headword	425_col1.png	unverified
@@ -19772,7 +19774,7 @@ D_19585	شەھۋەتخور	headword	425_col1.png	unverified
 D_19586	شەھۋەتخورلۇق	headword	425_col1.png	verified
 D_19587	شەۋكەت	headword	425_col1.png	unverified
 D_19588	شەۋكەتلىك	headword	425_col1.png	unverified
-D_19589	شەۋگىران	headword	425_col1.png	unverified
+D_19589	شەۋكىران	headword	425_col1.png	unverified
 D_19590	شەيتان¹	headword	425_col1.png	unverified
 D_19591	شەيتان²	headword	425_col2.png	unverified
 D_19592	شەيتانتېرىسى	headword	425_col2.png	unverified
@@ -19817,7 +19819,7 @@ D_19629	شورات	verb_stem	426_col1.png	unverified
 D_19630	شوراش	verb_stem	426_col1.png	unverified
 D_19631	شورال	verb_stem	426_col1.png	verified
 D_19632	شورپا	headword	426_col1.png	unverified
-D_19633	شورپىلا	verb_stem	426_col1.png	unverified
+D_19633	شورپىلان	verb_stem	426_col1.png	unverified
 D_19634	شورپىلاندۇر	verb_stem	426_col1.png	unverified
 D_19635	شورپىلىق	headword	426_col1.png	unverified
 D_19636	شورتاڭ	headword	426_col1.png	unverified
@@ -19827,7 +19829,7 @@ D_19639	شورسىزلان	verb_stem	426_col2.png	verified
 D_19640	شورسىزلاندۇر	verb_stem	426_col2.png	unverified
 D_19641	شورسىزلاندۇرۇش	verb_stem	426_col2.png	unverified
 D_19642	شورسىزلاندۇرۇل	verb_stem	426_col2.png	unverified
-D_19643	شورگا	headword	426_col2.png	unverified
+D_19643	شوركا	headword	426_col2.png	unverified
 D_19644	شورلا	verb_stem	426_col2.png	unverified
 D_19645	شورلات	verb_stem	426_col2.png	verified
 D_19646	شورلاش	verb_stem	426_col2.png	unverified
@@ -19914,7 +19916,7 @@ D_19727	شۇمبۇيىلىق	headword	428_col1.png	unverified
 D_19729	شۇمتال	headword	428_col1.png	unverified
 D_19730	شۇمتەك	headword	428_col1.png	unverified
 D_19731	شۇمشا	headword	428_col1.png	unverified
-D_19732	شۇمقوش	headword	428_col1.png	unverified
+D_19732	شۇمقۇش	headword	428_col1.png	unverified
 D_19733	شۇملۇق	headword	428_col1.png	unverified
 D_19734	شۇمۇرت	headword	428_col1.png	unverified
 D_19735	شۇنا	headword	428_col1.png	unverified
@@ -19967,7 +19969,7 @@ D_19781	شۈركۈن	verb_stem	428_col3.png	unverified
 D_19782	شۈركۈندۈر	verb_stem	428_col3.png	unverified
 D_19783	شۈرمەل	headword	429_col1.png	unverified
 D_19784	شۈك	headword	429_col1.png	unverified
-D_19785	شۈگرانە	headword	429_col1.png	unverified
+D_19785	شۈكرانە	headword	429_col1.png	unverified
 D_19786	شۈككىدە	headword	429_col1.png	unverified
 D_19787	شۈكلە	verb_stem	429_col1.png	unverified
 D_19788	شۈكلەش	verb_stem	429_col1.png	verified
@@ -20005,7 +20007,7 @@ D_19820	شېرىنلەشتۈر	verb_stem	429_col3.png	unverified
 D_19821	شېرىنلىك	headword	429_col3.png	unverified
 D_19822	شېزۇ	headword	429_col3.png	unverified
 D_19823	شېزۇچە	headword	429_col3.png	unverified
-D_19824	شېشە	headword	429_col3.png	unverified
+D_19824	شېشە	headword	429_col3.png	verified
 D_19825	شېغىل	headword	429_col3.png	unverified
 D_19826	شېغىللىق	headword	429_col3.png	unverified
 D_19827	شېكەر	headword	429_col3.png	unverified
@@ -20046,7 +20048,7 @@ D_19862	شىپپاڭلىتىش	verb_stem	430_col2.png	unverified
 D_19863	شىپپىدە	headword	430_col2.png	unverified
 D_19864	شىپشاماق	headword	430_col2.png	unverified
 D_19865	شىپ - شىپ	headword	430_col2.png	unverified
-D_19866	شىپشىز	headword	430_col2.png	unverified
+D_19866	شىپشىر	headword	430_col2.png	unverified
 D_19867	شىپقى	verb_stem	430_col2.png	unverified
 D_19868	شىپۇن	headword	430_col3.png	unverified
 D_19869	شىپىر	headword	430_col3.png	unverified
@@ -20118,13 +20120,13 @@ D_19934	شىرنە	headword	431_col3.png	unverified
 D_19935	شىرنىخور	headword	431_col3.png	unverified
 D_19936	شىرنىگۈل	headword	431_col3.png	unverified
 D_19937	شىرنىلىك	headword	431_col3.png	unverified
-D_19938	شىرە	verb_stem	431_col3.png	unverified
+D_19938	شىرى	verb_stem	431_col3.png	unverified
 D_19939	شىرىت	verb_stem	431_col3.png	unverified
 D_19940	شىرىش	verb_stem	431_col3.png	unverified
 D_19941	شىرىشگۈل	headword	431_col3.png	unverified
 D_19942	شىرىق¹	headword	432_col1.png	unverified
 D_19943	شىرىق²	headword	432_col1.png	unverified
-D_19944	شىرىقشە	verb_stem	432_col1.png	unverified
+D_19944	شىرىقشى	verb_stem	432_col1.png	unverified
 D_19945	شىرىقشىت	verb_stem	432_col1.png	unverified
 D_19946	شىرىق - شىرىق	headword	432_col1.png	verified
 D_19947	شىرىقلا	verb_stem	432_col1.png	unverified
@@ -20140,8 +20142,8 @@ D_19956	شىزاڭشۇناس	headword	432_col2.png	verified
 D_19956-i1	شىزاڭشۇناسى	inflected	432_col2.png	verified
 D_19957	شىزاڭشۇناسلىق	headword	432_col2.png	unverified
 D_19958	شىزاندارا	headword	432_col2.png	unverified
-D_19959	شش¹	headword	432_col2.png	unverified
-D_19960	شش²	headword	432_col2.png	unverified
+D_19959	شىش¹	headword	432_col2.png	unverified
+D_19960	شىش²	headword	432_col2.png	unverified
 D_19961	شىشە	headword	432_col2.png	unverified
 D_19962	شىشىخال	headword	432_col2.png	unverified
 D_19963	شىشىق	headword	432_col2.png	unverified
@@ -20149,8 +20151,8 @@ D_19964	شىغاۋۇل	headword	432_col2.png	unverified
 D_19965	شىغىلداق	headword	432_col2.png	unverified
 D_19966	شىفىر	headword	432_col2.png	unverified
 D_19967	شىفىرلىق	headword	432_col2.png	unverified
-D_19968	شق¹	headword	432_col2.png	unverified
-D_19969	شق²	headword	432_col2.png	unverified
+D_19968	شىق¹	headword	432_col2.png	unverified
+D_19969	شىق²	headword	432_col2.png	unverified
 D_19970	شىقىلدا	verb_stem	432_col2.png	unverified
 D_19971	شىقىلدات	verb_stem	432_col2.png	unverified
 D_19972	شىقىلداق¹	headword	432_col2.png	unverified
@@ -20181,7 +20183,7 @@ D_19996	شىلەپىلىك	headword	433_col1.png	unverified
 D_19997	شىلېي	headword	433_col1.png	unverified
 D_19998	شىلتى	verb_stem	433_col1.png	unverified
 D_19999	شىلتىش	verb_stem	433_col1.png	verified
-D_20000	شىلتەڭ	headword	433_col1.png	unverified
+D_20000	شىلتىڭ	headword	433_col1.png	unverified
 D_20001	شىلدۇر	verb_stem	433_col1.png	unverified
 D_20002	شىلدېر	headword	433_col1.png	unverified
 D_20003	شىلدىپ	headword	433_col1.png	unverified
@@ -20196,7 +20198,6 @@ D_20011	شىللە	headword	433_col1.png	unverified
 D_20012	شىللىباغ	headword	433_col2.png	unverified
 D_20013	شىللىق	headword	433_col2.png	unverified
 D_20014	شىللىڭ	headword	433_col2.png	unverified
-D_20014-v1	شىلتىڭ	variant	433_col2.png	unverified
 D_20015	شىلۋى	headword	433_col2.png	unverified
 D_20016	شىلىپ	headword	433_col2.png	unverified
 D_20017	شىلىپپىدە	headword	433_col2.png	unverified
@@ -20346,7 +20347,7 @@ D_20158	غازئوت	headword	436_col3.png	unverified
 D_20159	غازاڭلىق	headword	436_col3.png	unverified
 D_20160	غازىي	headword	436_col3.png	unverified
 D_20161	غازىيانە	headword	436_col3.png	unverified
-D_20162	غازىيھەمەس	headword	436_col3.png	unverified
+D_20162	غازيېمەس	headword	436_col3.png	unverified
 D_20163	غاژ	headword	436_col3.png	unverified
 D_20164	غاژ - غاژ	headword	436_col3.png	unverified
 D_20165	غاژ - غۇژ	headword	436_col3.png	unverified
@@ -20399,7 +20400,7 @@ D_20211	غاۋۇر - غۇۋۇر	headword	437_col3.png	verified
 D_20212	غايە	headword	437_col3.png	unverified
 D_20213	غايەت	headword	437_col3.png	unverified
 D_20214	غايلىماق	headword	437_col3.png	unverified
-D_20215	غايىمۇق	headword	438_col1.png	unverified
+D_20215	غايمۇق	headword	438_col1.png	unverified
 D_20216	غاينۇق	headword	438_col1.png	unverified
 D_20217	غايىب	headword	438_col1.png	unverified
 D_20218	غايىبانە	headword	438_col1.png	unverified
@@ -20428,7 +20429,7 @@ D_20240	غەربلىك	headword	438_col2.png	unverified
 D_20241	غەربىي	headword	438_col2.png	verified
 D_20242	غەرق	headword	438_col2.png	unverified
 D_20243	غەزەپ	headword	438_col3.png	unverified
-D_20244	غەزەپلە	verb_stem	438_col3.png	unverified
+D_20244	غەزەپلەن	verb_stem	438_col3.png	unverified
 D_20245	غەزەپلەندۈر	verb_stem	438_col3.png	unverified
 D_20246	غەزەپلىك	headword	438_col3.png	unverified
 D_20247	غەزەپلىنىش	verb_stem	438_col3.png	unverified
@@ -20436,7 +20437,7 @@ D_20248	غەزەپ-نەپرەت	headword	438_col3.png	unverified
 D_20249	غەزەل	headword	438_col3.png	unverified
 D_20250	غەزەلچى	headword	438_col3.png	unverified
 D_20251	غەزەلخان	headword	438_col3.png	verified
-D_20251-i1	غەزەلخانی	inflected	438_col3.png	verified
+D_20251-i1	غەزەلخانى	inflected	438_col3.png	verified
 D_20252	غەزەلخانلىق	headword	438_col3.png	unverified
 D_20253	غەزەلىيات	headword	438_col3.png	verified
 D_20253-i1	غەزەلىياتى	inflected	438_col3.png	verified
@@ -20534,7 +20535,7 @@ D_20341	غودۇرا	verb_stem	440_col3.png	unverified
 D_20342	غودۇر - بۈدۈر	headword	440_col3.png	unverified
 D_20343	غودۇردۆڭ	headword	440_col3.png	unverified
 D_20344	غودۇڭ	headword	440_col3.png	unverified
-D_20345	غودۇڭشە	verb_stem	440_col3.png	unverified
+D_20345	غودۇڭشى	verb_stem	440_col3.png	unverified
 D_20346	غودۇڭشىت	verb_stem	440_col3.png	unverified
 D_20347	غودۇڭشىش	verb_stem	440_col3.png	unverified
 D_20348	غودۇڭشىغاق	headword	440_col3.png	unverified
@@ -20566,7 +20567,7 @@ D_20373	غوزىباش	headword	441_col1.png	unverified
 D_20374	غوزىپايە	headword	441_col1.png	unverified
 D_20375	غوزىلا	verb_stem	441_col1.png	unverified
 D_20376	غوڭ	headword	441_col1.png	unverified
-D_20377	غوڭشە	verb_stem	441_col1.png	unverified
+D_20377	غوڭشى	verb_stem	441_col1.png	unverified
 D_20378	غوڭشىت	verb_stem	441_col2.png	unverified
 D_20379	غوڭشىش	verb_stem	441_col2.png	verified
 D_20380	غوڭغارماق	headword	441_col2.png	unverified
@@ -20681,7 +20682,7 @@ D_20489	غېجەك	headword	443_col3.png	unverified
 D_20490	غېجەكچى	headword	443_col3.png	unverified
 D_20491	غېجىر¹	headword	443_col3.png	verified
 D_20492	غېجىر²	headword	443_col3.png	unverified
-D_20493	غېجىرلىماق	verb_stem	443_col3.png	unverified
+D_20493	غېجىرلىماق	headword	443_col3.png	unverified
 D_20494	غېدىر	headword	443_col3.png	unverified
 D_20495	غېرىب	headword	443_col3.png	unverified
 D_20496	غېرىبانە	headword	443_col3.png	unverified
@@ -20744,7 +20745,7 @@ D_20552	غىدىڭ¹	headword	444_col3.png	unverified
 D_20553	غىدىڭ²	headword	444_col3.png	unverified
 D_20554	غىدىڭ - پىدىڭ	headword	444_col3.png	unverified
 D_20555	غىر	headword	444_col3.png	unverified
-D_20556	غىرىت	headword	444_col3.png	unverified
+D_20556	غىرت	headword	444_col3.png	unverified
 D_20557	غىرتتىدە	headword	445_col1.png	unverified
 D_20558	غىرت - غىرت	headword	445_col1.png	unverified
 D_20559	غىرتىلدا	verb_stem	445_col1.png	unverified
@@ -20843,7 +20844,7 @@ D_20649	فارماكولوگىيە	headword	447_col1.png	unverified
 D_20650	فارېنگېيت	headword	447_col1.png	unverified
 D_20651	فازا	headword	447_col1.png	unverified
 D_20652	فازىلىق	headword	447_col2.png	unverified
-D_20653	فاسسيولا	headword	447_col2.png	unverified
+D_20653	فاسسىيولا	headword	447_col2.png	unverified
 D_20654	فاشىزم	headword	447_col2.png	unverified
 D_20655	فاشىست	headword	447_col2.png	unverified
 D_20656	فاشىستلاش	verb_stem	447_col2.png	unverified
@@ -20883,7 +20884,7 @@ D_20690	فوتونابور	headword	448_col1.png	unverified
 D_20691	فوتونېيترون	headword	448_col1.png	unverified
 D_20692	فوتوئېففېكت	headword	448_col1.png	verified
 D_20693	فوتوئېلېكتىر	headword	448_col1.png	verified
-D_20694	فوتوئېلېكترون	headword	448_col1.png	unverified
+D_20694	فوتوئېلېكتىرون	headword	448_col1.png	unverified
 D_20695	فوتوئېلېمېنت	headword	448_col2.png	verified
 D_20696	فوتىنىيە	headword	448_col2.png	unverified
 D_20697	فورامىنىفېرا	headword	448_col2.png	unverified
@@ -21058,7 +21059,6 @@ D_20858	قابىلىيەت	headword	451_col1.png	unverified
 D_20859	قابىلىيەتسىز	headword	451_col1.png	unverified
 D_20860	قابىلىيەتسىزلىك	headword	451_col1.png	unverified
 D_20861	قابىلىيەتلىك	headword	451_col1.png	unverified
-D_20862	قابىن	headword	451_col1.png	unverified
 D_20863	قاپ¹	headword	451_col1.png	unverified
 D_20864	قاپ²	headword	451_col1.png	unverified
 D_20865	قاپ³	headword	451_col1.png	unverified
@@ -21068,14 +21068,14 @@ D_20868	قاپارتقۇ	headword	451_col2.png	verified
 D_20869	قاپارتما	headword	451_col2.png	unverified
 D_20870	قاپارتما نەقىش	headword	451_col2.png	unverified
 D_20870-v1	بۆرتمە نەقىش	variant	451_col2.png	unverified
-D_20871	قاپارتىلا	verb_stem	451_col2.png	unverified
+D_20871	قاپارتىل	verb_stem	451_col2.png	unverified
 D_20872	قاپارغان	headword	451_col2.png	unverified
 D_20873	قاپاق¹	headword	451_col2.png	unverified
 D_20874	قاپاق²	headword	451_col3.png	unverified
 D_20875	قاپاقبۆرتمىكى	headword	451_col3.png	unverified
 D_20876	قاپاقسۆلەت	headword	451_col3.png	unverified
 D_20877	قاپاقلىق	headword	451_col3.png	unverified
-D_20878	قاپاڭئوت	headword	452_col1.png	unverified
+D_20878	قاپاقئوت	headword	452_col1.png	unverified
 D_20879	قاپاقياردى	headword	452_col1.png	unverified
 D_20880	قاپاقباش	headword	452_col1.png	unverified
 D_20881	قاپتال	headword	452_col1.png	unverified
@@ -21146,7 +21146,7 @@ D_20944	قاتارلاشتۇرۇل	verb_stem	453_col2.png	unverified
 D_20945	قاتارلىق	headword	453_col2.png	unverified
 D_20946	قاتارىدا	headword	453_col2.png	unverified
 D_20947	قاتاغلاماق	headword	453_col2.png	unverified
-D_20948	قاتاڭشە	verb_stem	453_col2.png	unverified
+D_20948	قاتاڭشى	verb_stem	453_col2.png	unverified
 D_20949	قاتاڭغۇر	headword	453_col2.png	unverified
 D_20950	قاتاڭغۇرلۇق	headword	453_col2.png	unverified
 D_20951	قاتتىق	headword	453_col2.png	unverified
@@ -21354,7 +21354,7 @@ D_21158	قاراۋۇللۇق	headword	460_col2.png	unverified
 D_21159	قاراي	verb_stem	460_col2.png	verified
 D_21160	قارايت	verb_stem	460_col2.png	unverified
 D_21161	قارايتىش	verb_stem	460_col2.png	verified
-D_21162	قارايتىلا	verb_stem	460_col3.png	unverified
+D_21162	قارايتىل	verb_stem	460_col3.png	unverified
 D_21163	قارت¹	headword	460_col3.png	unverified
 D_21164	قارت²	headword	460_col3.png	unverified
 D_21165	قارت³	headword	460_col3.png	unverified
@@ -21369,7 +21369,7 @@ D_21173	قاردۇ	headword	460_col3.png	unverified
 D_21174	قارس¹	headword	460_col3.png	unverified
 D_21175	قارس²	headword	460_col3.png	unverified
 D_21176	قارساق	headword	460_col3.png	unverified
-D_21177	قارسىدە	headword	460_col3.png	unverified
+D_21177	قارسسىدە	headword	460_col3.png	unverified
 D_21178	قارس - قارس	headword	460_col3.png	unverified
 D_21179	قارس - قۇرس	headword	460_col3.png	unverified
 D_21180	قارسىز	headword	460_col3.png	unverified
@@ -21609,7 +21609,7 @@ D_21411	قاششاقلاش	verb_stem	465_col2.png	unverified
 D_21412	قاششاقلاشتۇر	verb_stem	465_col2.png	unverified
 D_21413	قاششاقلاشتۇرۇش	verb_stem	465_col2.png	unverified
 D_21414	قاششاقلاشتۇرۇل	verb_stem	465_col3.png	unverified
-D_21415	قاششاڭلىق	headword	465_col3.png	unverified
+D_21415	قاششاقلىق	headword	465_col3.png	unverified
 D_21416	قاشقا	headword	465_col3.png	unverified
 D_21417	قاش - قاپاق	headword	465_col3.png	unverified
 D_21418	قاشقالداق	headword	465_col3.png	unverified
@@ -21633,7 +21633,7 @@ D_21435	قاشىغ	headword	466_col1.png	unverified
 D_21436	قاغا	headword	466_col1.png	unverified
 D_21437	قاغاز	headword	466_col1.png	unverified
 D_21438	قاغازلۇق	headword	466_col1.png	unverified
-D_21439	قاغا - قوزغۇن	headword	466_col1.png	unverified
+D_21439	قاغا - قۇزغۇن	headword	466_col1.png	unverified
 D_21440	قاغال	headword	466_col1.png	unverified
 D_21441	قاغان	headword	466_col1.png	unverified
 D_21442	قاغجال	headword	466_col1.png	verified
@@ -21735,7 +21735,7 @@ D_21538	قاڭداش	headword	468_col1.png	unverified
 D_21540	قاڭدال	verb_stem	468_col1.png	unverified
 D_21541	قاڭرۇق	headword	468_col1.png	verified
 D_21542	قاڭرۇقلۇق	headword	468_col1.png	unverified
-D_21543	قاڭسە	verb_stem	468_col1.png	unverified
+D_21543	قاڭسى	verb_stem	468_col1.png	unverified
 D_21544	قاڭسىت	verb_stem	468_col2.png	unverified
 D_21545	قاڭسىق	headword	468_col2.png	unverified
 D_21546	قاڭشار	headword	468_col2.png	unverified
@@ -21829,7 +21829,7 @@ D_21635	قاماشتۇر	verb_stem	470_col1.png	unverified
 D_21636	قاماشىغ	headword	470_col1.png	unverified
 D_21637	قاماق	headword	470_col1.png	unverified
 D_21638	قاماقخانا	headword	470_col1.png	unverified
-D_21639	قاماڭلىق	headword	470_col1.png	unverified
+D_21639	قاماقلىق	headword	470_col1.png	unverified
 D_21640	قامال	headword	470_col1.png	verified
 D_21640-i1	قامالى	inflected	470_col1.png	verified
 D_21642	قاماللا	verb_stem	470_col2.png	unverified
@@ -22088,10 +22088,9 @@ D_21896	قەبرىستان	headword	477_col1.png	verified
 D_21896-i1	قەبرىستانى	inflected	477_col1.png	verified
 D_21897	قەبرىگاھ (قەبرىگاھى)	headword	477_col1.png	verified
 D_21898	قەبىلە	headword	477_col1.png	unverified
-D_21899	قەبىلەچىلىك	headword	477_col1.png	unverified
+D_21899	قەبىلىچىلىك	headword	477_col1.png	unverified
 D_21900	قەبىلىۋاز	headword	477_col1.png	unverified
 D_21901	قەبىلىۋازلىق	headword	477_col1.png	verified
-D_21901-v1	قەبىلىچىلىك	variant	477_col1.png	verified
 D_21902	قەبىلىۋى	headword	477_col1.png	unverified
 D_21903	قەبىھ	headword	477_col1.png	unverified
 D_21904	قەبىھلەش	verb_stem	477_col1.png	unverified
@@ -22775,7 +22774,7 @@ D_22574	قۇتۇلغۇسىز	headword	495_col1.png	unverified
 D_22575	قۇتۇلۇش	verb_stem	495_col1.png	unverified
 D_22576	قۇجۇ	headword	495_col1.png	unverified
 D_22577	قۇچ	verb_stem	495_col1.png	unverified
-D_22578	قۇچاق	headword	495_col1.png	unverified
+D_22578	قۇچاق	headword	495_col1.png	verified
 D_22579	قۇچاق - قۇچاق	headword	495_col1.png	unverified
 D_22580	قۇچاقلا	verb_stem	495_col1.png	unverified
 D_22581	قۇچاقلات	verb_stem	495_col1.png	verified
@@ -22955,12 +22954,12 @@ D_22748	قۇلابۇز	headword	499_col3.png	unverified
 D_22749	قۇلاق¹	headword	499_col3.png	unverified
 D_22750	قۇلاق²	headword	500_col2.png	verified
 D_22751	قۇلاقچا	headword	500_col2.png	unverified
-D_22752	قۇلاقچوپ	headword	500_col2.png	unverified
+D_22752	قۇلاقچوپ	headword	500_col2.png	verified
 D_22753	قۇلاقچېچەك	headword	500_col2.png	unverified
 D_22754	قۇلاقچىلىق	headword	500_col2.png	unverified
 D_22755	قۇلاقلاماق	headword	500_col2.png	unverified
 D_22756	قۇلاقلىق	headword	500_col2.png	unverified
-D_22757	قۇلاڭنەك	headword	500_col2.png	unverified
+D_22757	قۇلاقنەك	headword	500_col2.png	unverified
 D_22758	قۇلان	headword	500_col2.png	unverified
 D_22759	قۇلانچاق	headword	500_col2.png	unverified
 D_22760	قۇلانقۇيرۇق	headword	500_col2.png	verified
@@ -23032,7 +23031,7 @@ D_22825	قۇمىق	headword	502_col1.png	verified
 D_22826	قۇمىقچە	headword	502_col1.png	verified
 D_22827	قۇمىلاق	headword	502_col1.png	verified
 D_22828	قۇمىلاقچى	headword	502_col1.png	verified
-D_22829	قۇمۇلاقلا	verb_stem	502_col1.png	verified
+D_22829	قۇمىلاقلا	verb_stem	502_col1.png	verified
 D_22830	قۇنت	headword	502_col1.png	unverified
 D_22831	قۇنتلىماق	headword	502_col1.png	unverified
 D_22832	قۇنچۇي	headword	502_col1.png	unverified
@@ -23168,18 +23167,18 @@ D_22961	قېرىنداش²	headword	505_col1.png	unverified
 D_22962	قېرىنداشلارچە	headword	505_col1.png	unverified
 D_22963	قېرىنداشلىق	headword	505_col1.png	unverified
 D_22964	قېرىنسىمان	headword	505_col1.png	unverified
-D_22965	قېرىنقولاق	headword	505_col1.png	unverified
+D_22965	قېرىنقۇلاق	headword	505_col1.png	unverified
 D_22966	قېرى - ياش	headword	505_col1.png	unverified
 D_22967	قېزا	headword	505_col1.png	unverified
 D_22968	قېزىش	headword	505_col1.png	unverified
-D_22970	قېزىلا	verb_stem	505_col1.png	unverified
+D_22970	قېزىل	verb_stem	505_col1.png	unverified
 D_22971	قېزىلما	headword	505_col1.png	unverified
 D_22972	قېزىلىق	headword	505_col1.png	unverified
-D_22973	قېقىر - چوڭقۇر	headword	505_col1.png	unverified
+D_22973	قېقىر - چۇقۇر	headword	505_col1.png	unverified
 D_22974	قېقىش	verb_stem	505_col2.png	verified
 D_22975	قېقىشتۇر	verb_stem	505_col2.png	unverified
 D_22976	قېقىقلىق	headword	505_col2.png	unverified
-D_22977	قېقىلا	verb_stem	505_col2.png	unverified
+D_22977	قېقىل	verb_stem	505_col2.png	unverified
 D_22978	قېقىلىپ - سوقۇلۇپ	headword	505_col2.png	verified
 D_22979	قېقىندى - سوقۇندى	headword	505_col2.png	verified
 D_22980	قېلىپ	headword	505_col2.png	verified
@@ -23199,16 +23198,16 @@ D_22993	قېلىپلىما	headword	505_col3.png	unverified
 D_22994	قېلىش	verb_stem	505_col3.png	unverified
 D_22995	قېلىن	headword	505_col3.png	verified
 D_22997	قېلىن - قاتتىق	headword	506_col1.png	unverified
-D_22998	قېلىنلا	verb_stem	506_col1.png	unverified
-D_22999	قېلىنلات	verb_stem	506_col1.png	unverified
-D_23000	قېلىنلاش	verb_stem	506_col1.png	unverified
-D_23001	قېلىنلاشتۇر	verb_stem	506_col1.png	unverified
-D_23002	قېلىنلىق	headword	506_col1.png	unverified
-D_23003	قېنى	headword	506_col1.png	unverified
-D_23004	قېنىش	verb_stem	506_col1.png	unverified
-D_23005	قېنىق	headword	506_col1.png	unverified
-D_23007	قېنىقارلىق	headword	506_col1.png	unverified
-D_23008	قېم - قېم	headword	506_col1.png	unverified
+D_22998	قېلىنلا	verb_stem	506_col1.png	verified
+D_22999	قېلىنلات	verb_stem	506_col1.png	verified
+D_23000	قېلىنلاش	verb_stem	506_col1.png	verified
+D_23001	قېلىنلاشتۇر	verb_stem	506_col1.png	verified
+D_23002	قېلىنلىق	headword	506_col1.png	verified
+D_23003	قېنى	headword	506_col1.png	verified
+D_23004	قېنىش	verb_stem	506_col1.png	verified
+D_23005	قېنىق	headword	506_col1.png	verified
+D_23007	قېنىقارلىق	headword	506_col1.png	verified
+D_23008	قېھ - قېھ	headword	506_col1.png	unverified
 D_23009	قېيىدا	verb_stem	506_col1.png	unverified
 D_23010	قېيىداش	verb_stem	506_col1.png	verified
 D_23011	قېيىدىغاق	headword	506_col2.png	unverified
@@ -23227,7 +23226,7 @@ D_23023	قېيىنئاچا	headword	506_col2.png	unverified
 D_23024	قېيىنئاغا	headword	506_col2.png	unverified
 D_23025	قېيىنئانا	headword	506_col2.png	unverified
 D_23026	قېيىنسىڭىل	headword	506_col2.png	unverified
-D_23027	قېيىنئەگىچە	headword	506_col2.png	unverified
+D_23027	قېيىنئېگىچە	headword	506_col2.png	unverified
 D_23028	قېيىنئىنى	headword	506_col2.png	unverified
 D_23029	قېيىن - بويان	headword	506_col2.png	unverified
 D_23030	قېيىنلىق	headword	506_col2.png	unverified
@@ -23260,7 +23259,7 @@ D_23056	قىتماللاشتۇر	verb_stem	507_col1.png	unverified
 D_23057	قىتماللىق	headword	507_col1.png	unverified
 D_23058	قىتىغۇر	headword	507_col1.png	verified
 D_23059	قىتىغۇرلۇق	headword	507_col1.png	unverified
-D_23060	قىتىڭشە	verb_stem	507_col1.png	unverified
+D_23060	قىتىڭشى	verb_stem	507_col1.png	unverified
 D_23061	قىچا	headword	507_col1.png	verified
 D_23062	قىچقار	verb_stem	507_col1.png	unverified
 D_23063	قىچقارت	verb_stem	507_col1.png	unverified
@@ -23312,7 +23311,7 @@ D_23108	قىرچاڭغۇ	headword	508_col1.png	unverified
 D_23109	قىرچاڭغۇلۇق	headword	508_col1.png	unverified
 D_23110	قىرچالماق	headword	508_col1.png	unverified
 D_23111	قىرچى	headword	508_col1.png	unverified
-D_23112	قىرچىلا	verb_stem	508_col1.png	unverified
+D_23112	قىرچىل	verb_stem	508_col1.png	unverified
 D_23113	قىرچىلاڭغۇ	headword	508_col1.png	unverified
 D_23114	قىرچىلدۇر	verb_stem	508_col1.png	unverified
 D_23115	قىرچىلما	headword	508_col2.png	unverified
@@ -23320,7 +23319,7 @@ D_23116	قىرچىلىق	headword	508_col2.png	unverified
 D_23117	قىرچىن	headword	508_col2.png	unverified
 D_23118	قىر - دالا	headword	508_col2.png	unverified
 D_23119	قىرس	headword	508_col2.png	unverified
-D_23120	قىرسىدە	headword	508_col2.png	unverified
+D_23120	قىرسسىدە	headword	508_col2.png	unverified
 D_23121	قىرس - قىرس	headword	508_col2.png	unverified
 D_23122	قىرسىق	headword	508_col2.png	unverified
 D_23123	قىرسىقلىق	headword	508_col2.png	unverified
@@ -23397,8 +23396,7 @@ D_23193	قىزار	verb_stem	510_col1.png	unverified
 D_23194	قىزارت	verb_stem	510_col1.png	unverified
 D_23195	قىزارتىش	verb_stem	510_col1.png	unverified
 D_23196	قىزارتىل	verb_stem	510_col1.png	unverified
-D_23197	قىزەنگۈل	headword	510_col1.png	unverified
-D_23198	قىزەيگۈل	headword	510_col1.png	unverified
+D_23197	قىزەيگۈل	headword	510_col1.png	unverified
 D_23199	قىزچاق	headword	510_col1.png	unverified
 D_23200	قىز - چوكان	headword	510_col1.png	unverified
 D_23201	قىزدۇر	verb_stem	510_col1.png	unverified
@@ -23452,10 +23450,10 @@ D_23250	قىزىلئەڭ	headword	512_col3.png	unverified
 D_23251	قىزىلباش¹	headword	512_col3.png	unverified
 D_23252	قىزىلباش²	headword	512_col3.png	unverified
 D_23253	قىزىلبۇرۇن	headword	512_col3.png	unverified
-D_23254	قىزىلپىچە	headword	512_col3.png	unverified
+D_23254	قىزىلپېجە	headword	512_col3.png	unverified
 D_23255	قىزىلتاسما	headword	512_col3.png	verified
 D_23256	قىزىل - تىزىل	headword	512_col3.png	unverified
-D_23257	قىزىلجولا	headword	512_col3.png	unverified
+D_23257	قىزىلجۇلا	headword	512_col3.png	unverified
 D_23258	قىزىلچا	headword	512_col3.png	unverified
 D_23259	قىزىلچىلىق	headword	512_col3.png	unverified
 D_23260	قىزىلقاچار	headword	512_col3.png	unverified
@@ -23484,7 +23482,7 @@ D_23282	قىستا	verb_stem	513_col1.png	unverified
 D_23283	قىستات	verb_stem	513_col1.png	unverified
 D_23284	قىستاش	verb_stem	513_col1.png	unverified
 D_23285	قىستاقچىلىق	headword	513_col1.png	unverified
-D_23286	قىستا - قىستاق	headword	513_col1.png	unverified
+D_23286	قىستا - قىستاڭ	headword	513_col1.png	unverified
 D_23287	قىستاڭ	headword	513_col2.png	unverified
 D_23288	قىستاڭچىلىق	headword	513_col2.png	unverified
 D_23289	قىستاڭغۇ	headword	513_col2.png	unverified
@@ -23547,7 +23545,7 @@ D_23345	قىسىملىق	headword	514_col3.png	unverified
 D_23346	قىسىن	verb_stem	514_col3.png	unverified
 D_23347	قىسىنچىلىق	headword	514_col3.png	unverified
 D_23348	قىش	headword	514_col3.png	unverified
-D_23349	قىشچە	headword	514_col3.png	unverified
+D_23349	قىشىچە	headword	514_col3.png	unverified
 D_23350	قىش - زېمىستان	headword	514_col3.png	unverified
 D_23351	قىش - قىروۋ	headword	515_col1.png	unverified
 D_23352	قىشقىل	headword	515_col1.png	unverified
@@ -23644,7 +23642,7 @@ D_23442	قىمدا	verb_stem	516_col3.png	unverified
 D_23443	قىمدال	verb_stem	516_col3.png	unverified
 D_23444	قىمدان	verb_stem	516_col3.png	unverified
 D_23445	قىمسانماق	headword	516_col3.png	unverified
-D_23446	قىمشە	verb_stem	516_col3.png	unverified
+D_23446	قىمشى	verb_stem	516_col3.png	unverified
 D_23447	قىمشىت	verb_stem	517_col1.png	verified
 D_23448	قىم - قىم	headword	517_col1.png	unverified
 D_23449	قىممەت	headword	517_col1.png	verified
@@ -23652,7 +23650,7 @@ D_23450	قىممەتچى	headword	517_col1.png	unverified
 D_23451	قىممەتچىلىك	headword	517_col1.png	unverified
 D_23452	قىممەتداش	headword	517_col1.png	unverified
 D_23453	قىممەتسىز	headword	517_col1.png	unverified
-D_23454	قىممەتسىزلە	verb_stem	517_col1.png	unverified
+D_23454	قىممەتسىن	verb_stem	517_col1.png	unverified
 D_23455	قىممەتشۇناس	headword	517_col1.png	verified
 D_23455-i1	قىممەتشۇناسى	inflected	517_col1.png	verified
 D_23456	قىممەتشۇناسلىق	headword	517_col1.png	unverified
@@ -23688,6 +23686,7 @@ D_23486	قىنلاماق	headword	518_col1.png	unverified
 D_23487	قىنلىق	headword	518_col1.png	unverified
 D_23488	قىنىغ	headword	518_col1.png	verified
 D_23489	قىنىقماق	headword	518_col1.png	unverified
+D_23490	قىھ	headword	518_col1.png	unverified
 D_23491	قىۋ	headword	518_col1.png	verified
 D_23492	قىۋتۇ	headword	518_col1.png	unverified
 D_23493	قىي	verb_stem	518_col1.png	unverified
@@ -23790,8 +23789,8 @@ D_23586	كاپرون	headword	520_col3.png	unverified
 D_23587	كاپرىس	headword	520_col3.png	unverified
 D_23588	كاپسۇل¹	headword	520_col3.png	unverified
 D_23589	كاپسۇل²	headword	520_col3.png	unverified
-D_23590	كاپشە	verb_stem	520_col3.png	unverified
-D_23591	كاپشتە	verb_stem	520_col3.png	unverified
+D_23590	كاپشى	verb_stem	520_col3.png	verified
+D_23591	كاپشىت	verb_stem	520_col3.png	unverified
 D_23592	كاپشىش	verb_stem	520_col3.png	verified
 D_23593	كاپ - كاپ	headword	520_col3.png	unverified
 D_23594	كاپ - كۇپ	headword	520_col3.png	unverified
@@ -23972,7 +23971,7 @@ D_23765	كاززاپلىق	headword	524_col1.png	unverified
 D_23766	كازۇئارىن	headword	524_col1.png	unverified
 D_23767	كازېئىن	headword	524_col1.png	unverified
 D_23768	كاژ	headword	524_col1.png	unverified
-D_23769	كاژ - كۈژ	headword	524_col1.png	unverified
+D_23769	كاژ - كۇژ	headword	524_col1.png	unverified
 D_23770	كاژىلدا	verb_stem	524_col1.png	unverified
 D_23771	كاژىلدات	verb_stem	524_col1.png	unverified
 D_23772	كاس	headword	524_col1.png	unverified
@@ -24037,18 +24036,17 @@ D_23828	كاكچا	headword	525_col1.png	unverified
 D_23829	كاككۇك	headword	525_col1.png	unverified
 D_23830	كاككۇكسىمان	headword	525_col1.png	unverified
 D_23831	كاككۇكگۈل	headword	525_col2.png	unverified
-D_23832	كاككۇكئۇتى	headword	525_col2.png	verified
+D_23832	كاككۇكئوتى	headword	525_col2.png	verified
 D_23833	كاكىسالتاڭ	headword	525_col2.png	unverified
 D_23834	كاكىل	headword	525_col2.png	unverified
 D_23835	كاكىلاڭ	headword	525_col2.png	unverified
 D_23836	كاكىللىق	headword	525_col2.png	unverified
 D_23837	كاكىلىماق	headword	525_col2.png	unverified
 D_23838	كاكىنەچ	headword	525_col2.png	verified
-D_23838-v1	شوخلىك	variant	525_col2.png	verified
 D_23839	كاڭ¹	headword	525_col2.png	unverified
 D_23840	كاڭ²	headword	525_col2.png	unverified
 D_23841	كاڭ³	headword	525_col2.png	unverified
-D_23842	كاڭشە	verb_stem	525_col2.png	unverified
+D_23842	كاڭشى	verb_stem	525_col2.png	unverified
 D_23843	كاڭشىت	verb_stem	525_col2.png	unverified
 D_23844	كاڭشىش	verb_stem	525_col2.png	verified
 D_23845	كاڭكا¹	headword	525_col2.png	unverified
@@ -24200,7 +24198,6 @@ D_23984	كانايچە	headword	528_col3.png	unverified
 D_23985	كانايچى	headword	528_col3.png	unverified
 D_23986	كانايسىمان	headword	528_col3.png	unverified
 D_23987	كانايگۈل	headword	528_col3.png	verified
-D_23987-v1	مەشقىپىچەك	variant	528_col3.png	verified
 D_23988	كانايلىق	headword	528_col3.png	unverified
 D_23989	كانتۇ	headword	528_col3.png	unverified
 D_23990	كانتىزم	headword	528_col3.png	unverified
@@ -24258,7 +24255,7 @@ D_24039	كاۋچۇكگۈل	headword	529_col3.png	unverified
 D_24040	كاۋچۇكلۇق	headword	529_col3.png	unverified
 D_24041	كائىنات	headword	529_col3.png	verified
 D_24042	كاياك	headword	529_col3.png	unverified
-D_24043	كايە	verb_stem	529_col3.png	unverified
+D_24043	كايى	verb_stem	529_col3.png	unverified
 D_24044	كايىت	verb_stem	529_col3.png	unverified
 D_24045	كايىش	verb_stem	529_col3.png	unverified
 D_24046	كەبە	headword	529_col3.png	unverified
@@ -24363,8 +24360,8 @@ D_24145	كەرتىل	verb_stem	531_col3.png	unverified
 D_24146	كەرچىن	headword	531_col3.png	unverified
 D_24147	كەررە	headword	531_col3.png	verified
 D_24148	كەررەك	headword	531_col3.png	verified
-D_24149	كەرژۇ	headword	531_col3.png	unverified
-D_24150	كەركۇ	headword	531_col3.png	unverified
+D_24149	كەرژۈ	headword	531_col3.png	unverified
+D_24150	كەركۈ	headword	531_col3.png	unverified
 D_24151	كەركىدان	headword	531_col3.png	verified
 D_24151-i1	كەركىدانى	inflected	531_col3.png	verified
 D_24152	كەركىدانقۇش	headword	531_col3.png	unverified
@@ -24398,7 +24395,7 @@ D_24180	كەستەر	headword	532_col2.png	verified
 D_24181	كەستەم	headword	532_col2.png	unverified
 D_24182	كەستۈر	verb_stem	532_col2.png	unverified
 D_24183	كەسرە	headword	532_col2.png	unverified
-D_24184	كەس - كەسىلا	headword	532_col2.png	unverified
+D_24184	كەس - كەسلا	headword	532_col2.png	unverified
 D_24185	كەسكەك¹	headword	532_col2.png	unverified
 D_24186	كەسكەك²	headword	532_col2.png	unverified
 D_24187	كەسكۈچ	headword	532_col2.png	unverified
@@ -24457,14 +24454,14 @@ D_24236	كەكە	headword	533_col3.png	unverified
 D_24237	كەكەترۈن	headword	533_col3.png	unverified
 D_24238	كەكتەشمەك	headword	533_col3.png	unverified
 D_24239	كەكرە	headword	533_col3.png	verified
-D_24240	كەگرىلىك	headword	533_col3.png	unverified
+D_24240	كەكرىلىك	headword	533_col3.png	unverified
 D_24241	كەكلىك	headword	533_col3.png	unverified
 D_24242	كەكلىكۋاز	headword	533_col3.png	unverified
 D_24243	كەكلىكۋازلىق	headword	533_col3.png	unverified
 D_24244	كەكنەمەك	headword	533_col3.png	unverified
 D_24245	كەكۈش	headword	533_col3.png	unverified
 D_24246	كەگىنچ	headword	533_col3.png	unverified
-D_24247	كەڭ	headword	533_col3.png	unverified
+D_24247	كەڭ	headword	533_col3.png	verified
 D_24248	كەڭەشچى	headword	534_col1.png	unverified
 D_24249	كەڭتاشا	headword	534_col1.png	unverified
 D_24250	كەڭتاشاچىلىق	headword	534_col1.png	unverified
@@ -24654,7 +24651,7 @@ D_24430	كورلا	headword	537_col3.png	unverified
 D_24431	كورلۇق	headword	537_col3.png	unverified
 D_24432	كورنۇس	headword	537_col3.png	unverified
 D_24433	كورنېت	headword	537_col3.png	verified
-D_24434	كورنېروپىن	headword	538_col1.png	unverified
+D_24434	كورنېرۇپىن	headword	538_col1.png	unverified
 D_24435	كوروپكا	headword	538_col1.png	unverified
 D_24436	كورونوگراف	headword	538_col1.png	unverified
 D_24437	كورۇلدا	verb_stem	538_col1.png	verified
@@ -24797,7 +24794,7 @@ D_24566	كونتېكىست	headword	540_col2.png	unverified
 D_24567	كونتېكىستسىز	headword	540_col2.png	unverified
 D_24568	كوندېنساتور	headword	540_col3.png	unverified
 D_24569	كوندېنساتسىيە	headword	540_col3.png	unverified
-D_24570	كونسپېك	headword	540_col3.png	unverified
+D_24570	كونسپىك	headword	540_col3.png	unverified
 D_24571	كونستىتۇتسىيە	headword	540_col3.png	unverified
 D_24571-v1	ئاساسىي قانۇن	variant	540_col3.png	unverified
 D_24572	كونسۇل	headword	540_col3.png	unverified
@@ -24816,7 +24813,7 @@ D_24582	كونكرېت	headword	540_col3.png	unverified
 D_24583	كونكرېتلاش	verb_stem	540_col3.png	unverified
 D_24584	كونكرېتلاشتۇر	verb_stem	540_col3.png	unverified
 D_24585	كونكرېتلاشتۇرۇش	verb_stem	540_col3.png	unverified
-D_24586	كونكرېتلاشتۇرۇلا	verb_stem	541_col1.png	unverified
+D_24586	كونكرېتلاشتۇرۇل	verb_stem	541_col1.png	unverified
 D_24587	كونكرېتلىق	headword	541_col1.png	unverified
 D_24588	كونۇس	headword	541_col1.png	unverified
 D_24589	كونۇسسىمان	headword	541_col1.png	unverified
@@ -24831,7 +24828,7 @@ D_24596	كونىچە	headword	541_col1.png	unverified
 D_24597	كونىرا	verb_stem	541_col1.png	unverified
 D_24598	كونىرات	verb_stem	541_col1.png	unverified
 D_24599	كونىرىتىش	verb_stem	541_col1.png	verified
-D_24600	كونىرىتىلا	verb_stem	541_col1.png	unverified
+D_24600	كونىرىتىل	verb_stem	541_col1.png	unverified
 D_24601	كونىلىق	headword	541_col1.png	unverified
 D_24602	كوۋا	headword	541_col1.png	unverified
 D_24603	كوۋالېنت	headword	541_col1.png	unverified
@@ -24842,7 +24839,7 @@ D_24607	كوئېنزىم	headword	541_col2.png	unverified
 D_24608	كوي¹	headword	541_col2.png	unverified
 D_24609	كوي²	headword	541_col2.png	unverified
 D_24611	كويزا - كىشەن	headword	541_col2.png	unverified
-D_24612	كوپلا	headword	541_col2.png	verified
+D_24612	كويلا	headword	541_col2.png	verified
 D_24613	كويلۇق	headword	541_col2.png	unverified
 D_24614	كويۇش	headword	541_col2.png	verified
 D_24615	كۇب	headword	541_col2.png	unverified
@@ -24873,10 +24870,9 @@ D_24639	كۇررىدە	headword	541_col3.png	unverified
 D_24640	كۇرس¹	headword	541_col3.png	unverified
 D_24641	كۇرس²	headword	542_col1.png	unverified
 D_24642	كۇرسى	headword	542_col1.png	verified
-D_24643	كۇرسە	verb_stem	542_col1.png	unverified
 D_24644	كۇر - كۇر	headword	542_col1.png	unverified
-D_24645	كۈركىرا	verb_stem	542_col1.png	unverified
-D_24646	كۈركىراش	verb_stem	542_col1.png	verified
+D_24645	كۇركىرا	verb_stem	542_col1.png	unverified
+D_24646	كۇركىراش	verb_stem	542_col1.png	verified
 D_24647	كۇرۇخ	headword	542_col1.png	verified
 D_24648	كۇرۇشكا	headword	542_col1.png	unverified
 D_24649	كۇرۇلدا	verb_stem	542_col1.png	unverified
@@ -24911,7 +24907,7 @@ D_24676	كۇلالچىلىق	headword	542_col2.png	unverified
 D_24677	كۇلاھ	headword	542_col2.png	unverified
 D_24677-i1	كۇلاھى	inflected	542_col2.png	unverified
 D_24678	كۇلاھلىق	headword	542_col2.png	unverified
-D_24679	كۇلتىپېر	headword	542_col3.png	unverified
+D_24679	كۇلتېر	headword	542_col3.png	unverified
 D_24680	كۇلتىۋاتسىيە	headword	542_col3.png	unverified
 D_24681	كۇلتىۋاتور	headword	542_col3.png	unverified
 D_24682	كۇلمىناتسىيە	headword	542_col3.png	unverified
@@ -24962,7 +24958,7 @@ D_24728	كۆپجۈت	verb_stem	544_col1.png	unverified
 D_24729	كۆپچىلىك	headword	544_col1.png	unverified
 D_24730	كۆپسۈن	headword	544_col1.png	unverified
 D_24731	كۆپسىمەك	headword	544_col1.png	unverified
-D_24732	كۆپگەك	headword	544_col1.png	unverified
+D_24732	كۆپكەك	headword	544_col1.png	unverified
 D_24733	كۆپلەپ	headword	544_col1.png	unverified
 D_24734	كۆپلۈك	headword	544_col1.png	unverified
 D_24735	كۆپلىگەن	headword	544_col1.png	unverified
@@ -24976,7 +24972,7 @@ D_24742	كۆپۈكلەن	verb_stem	544_col1.png	unverified
 D_24743	كۆپۈكلەندۈر	verb_stem	544_col2.png	unverified
 D_24744	كۆپۈكلۈك	headword	544_col2.png	unverified
 D_24745	كۆپۈنگۈ	headword	544_col2.png	verified
-D_24746	كۆپىكىدەرپا	headword	544_col2.png	verified
+D_24746	كۆپىكىدەريا	headword	544_col2.png	verified
 D_24747	كۆپىنچە	headword	544_col2.png	unverified
 D_24748	كۆپىيىش	headword	544_col2.png	verified
 D_24749	كۆپىيىشچانلىق	headword	544_col2.png	unverified
@@ -25021,7 +25017,7 @@ D_24787	كۆتۈرۈل	verb_stem	545_col2.png	unverified
 D_24788	كۆتۈرۈلمە	headword	545_col2.png	unverified
 D_24789	كۆتۈرۈم	headword	545_col3.png	unverified
 D_24790	كۆتۈك	headword	545_col3.png	unverified
-D_24791	كۆتۈۋەللىك	headword	545_col3.png	unverified
+D_24791	كۆتۋەللىك	headword	545_col3.png	unverified
 D_24792	كۆتىچەك	headword	545_col3.png	unverified
 D_24793	كۆتىيوغان	headword	545_col3.png	unverified
 D_24794	كۆجە	headword	545_col3.png	unverified
@@ -25155,11 +25151,11 @@ D_24941	كۆزلە	verb_stem	550_col1.png	unverified
 D_24942	كۆزلەش	verb_stem	550_col1.png	unverified
 D_24943	كۆزلەن	verb_stem	550_col1.png	unverified
 D_24944	كۆزلۈك	headword	550_col1.png	unverified
-D_24945	كۆزلەمە	headword	550_col1.png	unverified
+D_24945	كۆزلىمە	headword	550_col1.png	unverified
 D_24946	كۆزمەن	headword	550_col1.png	unverified
 D_24947	كۆزنەك¹	headword	550_col1.png	unverified
 D_24948	كۆزنەك²	headword	550_col1.png	unverified
-D_24949	كۆزنىچەك	headword	550_col1.png	unverified
+D_24949	كۆزنىچىك	headword	550_col1.png	unverified
 D_24950	كۆزۈلدۈرۈك	headword	550_col1.png	unverified
 D_24951	كۆزۈنچ	headword	550_col1.png	unverified
 D_24952	كۆزىتىش	verb_stem	550_col1.png	verified
@@ -25202,7 +25198,7 @@ D_24988	كۆكەل	headword	551_col3.png	unverified
 D_24989	كۆكەلتاش	headword	551_col3.png	unverified
 D_24990	كۆكباش¹	headword	551_col3.png	unverified
 D_24991	كۆكباش²	headword	551_col3.png	verified
-D_24992	كۆكپەت	headword	551_col3.png	unverified
+D_24992	كۆكپىت	headword	551_col3.png	unverified
 D_24993	كۆكتات	headword	551_col3.png	unverified
 D_24994	كۆكتاتچى	headword	551_col3.png	unverified
 D_24995	كۆكتاتچىلىق	headword	551_col3.png	unverified
@@ -25225,11 +25221,11 @@ D_25011	كۆكسار	headword	552_col1.png	unverified
 D_25012	كۆكسەمەك	headword	552_col1.png	unverified
 D_25013	كۆكس - قارىن	headword	552_col1.png	unverified
 D_25014	كۆكسۇلتان	headword	552_col1.png	unverified
-D_25015	كۆكسۈ	headword	552_col1.png	verified
+D_25015	كۆكسۇ	headword	552_col1.png	verified
 D_25016	كۆكسۈن	headword	552_col1.png	verified
 D_25017	كۆكسېغىز¹	headword	552_col1.png	unverified
 D_25018	كۆكسېغىز²	headword	552_col1.png	verified
-D_25019	كۆكسراپ	headword	552_col1.png	unverified
+D_25019	كۆكسىراپ	headword	552_col1.png	unverified
 D_25020	كۆكسىمەك	headword	552_col2.png	unverified
 D_25021	كۆكقانات	headword	552_col2.png	unverified
 D_25022	كۆكگىنە	headword	552_col2.png	unverified
@@ -25278,7 +25274,7 @@ D_25063	كۆڭۈلسىز	headword	554_col2.png	unverified
 D_25064	كۆڭۈلسىزلەن	verb_stem	554_col2.png	verified
 D_25065	كۆڭۈلسىزلەندۈر	verb_stem	554_col2.png	unverified
 D_25066	كۆڭۈلسىزلىك	headword	554_col2.png	unverified
-D_25067	كۆڭۈلش	verb_stem	554_col2.png	unverified
+D_25067	كۆڭۈلشى	verb_stem	554_col2.png	unverified
 D_25068	كۆڭۈل - كۆكسى	headword	554_col2.png	unverified
 D_25069	كۆڭۈللۈك	headword	554_col2.png	unverified
 D_25070	كۆل	headword	554_col2.png	verified
@@ -25292,7 +25288,7 @@ D_25077	كۆلبە	headword	554_col3.png	unverified
 D_25078	كۆلچەك	headword	554_col3.png	unverified
 D_25079	كۆلۆگە	headword	554_col3.png	unverified
 D_25080	كۆلۈك	headword	554_col3.png	unverified
-D_25081	كۆلۆگەچ	headword	554_col3.png	unverified
+D_25081	كۆلۈگەچ	headword	554_col3.png	unverified
 D_25082	كۆلۈڭ	headword	554_col3.png	unverified
 D_25083	كۆلىتمەك	headword	554_col3.png	unverified
 D_25084	كۆم	verb_stem	554_col3.png	verified
@@ -25467,6 +25463,7 @@ D_25256	كۈرەك²	headword	558_col3.png	unverified
 D_25257	كۈرەك³	headword	558_col3.png	unverified
 D_25258	كۈرەك⁴	headword	558_col3.png	unverified
 D_25259	كۈرەڭ	headword	558_col3.png	unverified
+D_25260	كۈرەل	verb_stem	558_col3.png	unverified
 D_25261	كۈرپە	headword	558_col3.png	unverified
 D_25262	كۈرت	headword	558_col3.png	unverified
 D_25263	كۈرتۈك	headword	558_col3.png	unverified
@@ -25567,7 +25564,7 @@ D_25358	كۈمۈشئوت	headword	560_col3.png	unverified
 D_25359	كۈمۈشسىزلەش	verb_stem	560_col3.png	unverified
 D_25360	كۈمۈشسىزلەشتۈر	verb_stem	560_col3.png	unverified
 D_25361	كۈمۈشسىزلەشتۈرۈل	verb_stem	560_col3.png	unverified
-D_25362	كۈمۈشۆرۈك	headword	560_col3.png	unverified
+D_25362	كۈمۈشئۆرۈك	headword	560_col3.png	unverified
 D_25363	كۈن¹	headword	560_col3.png	unverified
 D_25364	كۈن²	headword	561_col1.png	unverified
 D_25365	كۈنبويى	headword	561_col1.png	unverified
@@ -25618,7 +25615,7 @@ D_25409	كۈنلۈكسىمان	headword	561_col3.png	unverified
 D_25410	كۈنۈك	verb_stem	561_col3.png	unverified
 D_25411	كۈنۈن	headword	561_col3.png	unverified
 D_25412	كۈنى	headword	561_col3.png	unverified
-D_25413	كۈنگە	headword	561_col3.png	unverified
+D_25413	كۈنىگە	headword	561_col3.png	unverified
 D_25414	كۈنيۈرۈش	headword	561_col3.png	unverified
 D_25415	كۈۋەنچ	headword	561_col3.png	unverified
 D_25416	كۈۋەنمەك	headword	561_col3.png	verified
@@ -25723,7 +25720,7 @@ D_25513	كېزەكلەش	verb_stem	564_col1.png	verified
 D_25514	كېزەكلىك	headword	564_col1.png	unverified
 D_25515	كېزىش	verb_stem	564_col1.png	verified
 D_25516	كېزىك	headword	564_col1.png	unverified
-D_25517	كېزىگمەك	headword	564_col1.png	unverified
+D_25517	كېزىكمەك	headword	564_col1.png	unverified
 D_25518	كېزىل	verb_stem	564_col1.png	verified
 D_25519	كېسەك	headword	564_col1.png	unverified
 D_25520	كېسەكچى	headword	564_col1.png	unverified
@@ -25778,7 +25775,7 @@ D_25570	كېڭەيتىل	verb_stem	565_col2.png	unverified
 D_25571	كېڭەيمە	headword	565_col2.png	unverified
 D_25572	كېڭەيمىچى	headword	565_col3.png	unverified
 D_25573	كېڭەيمىچىلىك	headword	565_col3.png	unverified
-D_25574	كېڭرۈنمەڭ	headword	565_col3.png	verified
+D_25574	كېڭرۈنمەك	headword	565_col3.png	verified
 D_25575	كېڭىيىشچان	headword	565_col3.png	unverified
 D_25576	كېڭىيىشچانلىق	headword	565_col3.png	unverified
 D_25577	كېلەپ	headword	565_col3.png	unverified
@@ -25801,7 +25798,7 @@ D_25592	كېلىپچىقىش	headword	565_col3.png	unverified
 D_25593	كېلىپ - كېتىپ	headword	565_col3.png	unverified
 D_25594	كېلىر	headword	565_col3.png	unverified
 D_25595	كېلىش	headword	565_col3.png	unverified
-D_25597	كېلىشەلمەگۈ	headword	566_col1.png	unverified
+D_25597	كېلىشەڭگۈ	headword	566_col1.png	unverified
 D_25598	كېلىشەلمەسلىك	headword	566_col1.png	unverified
 D_25599	كېلىش - بېرىش	headword	566_col1.png	unverified
 D_25600	كېلىشتۈر	verb_stem	566_col1.png	verified
@@ -25931,7 +25928,7 @@ D_25723	كىرسىز	headword	569_col1.png	unverified
 D_25724	كىرسىن	headword	569_col1.png	unverified
 D_25725	كىرشەن	headword	569_col1.png	unverified
 D_25726	كىر - قات	headword	569_col1.png	unverified
-D_25727	كىرگىن	headword	569_col1.png	unverified
+D_25727	كىركىن	headword	569_col1.png	unverified
 D_25728	كىركىنمەك	headword	569_col1.png	unverified
 D_25729	كىرگۈز	verb_stem	569_col1.png	unverified
 D_25730	كىرگۈزمە	headword	569_col1.png	unverified
@@ -26007,10 +26004,10 @@ D_25798	كىسلاتا	headword	570_col3.png	verified
 D_25798-i1	كىسلاتاسى	inflected	570_col3.png	verified
 D_25799	كىسلاتاسىزلان	verb_stem	570_col3.png	verified
 D_25800	كىسلاتاسىزلاندۇر	verb_stem	570_col3.png	verified
-D_25801	كىسلاتاسىزلاندۇرۇلا	verb_stem	571_col1.png	unverified
+D_25801	كىسلاتاسىزلاندۇرۇل	verb_stem	571_col1.png	unverified
 D_25802	كىسلاتالاش	verb_stem	571_col1.png	verified
 D_25803	كىسلاتالاشتۇر	verb_stem	571_col1.png	unverified
-D_25804	كىسلاتالاشتۇرۇلا	verb_stem	571_col1.png	unverified
+D_25804	كىسلاتالاشتۇرۇل	verb_stem	571_col1.png	unverified
 D_25805	كىسلاتالىق	headword	571_col1.png	verified
 D_25806	كىسلورود	headword	571_col1.png	verified
 D_25807	كىسىلدەك	headword	571_col1.png	verified
@@ -26063,13 +26060,13 @@ D_25850	كىلوجوئۇل	headword	572_col1.png	unverified
 D_25851	كىلوكالورىيە	headword	572_col1.png	unverified
 D_25852	كىلوگىرام	headword	572_col1.png	unverified
 D_25853	كىلوگىراملىق	headword	572_col1.png	unverified
-D_25854	كىلوگېرتس	headword	572_col1.png	unverified
+D_25854	كىلوگېرتىس	headword	572_col1.png	unverified
 D_25855	كىلولا	verb_stem	572_col1.png	unverified
 D_25856	كىلولات	verb_stem	572_col1.png	unverified
 D_25857	كىلولاش	verb_stem	572_col1.png	unverified
 D_25858	كىلولان	verb_stem	572_col1.png	verified
 D_25859	كىلولۇق	headword	572_col1.png	unverified
-D_25860	كىلولىتر	headword	572_col1.png	unverified
+D_25860	كىلولىتىر	headword	572_col1.png	unverified
 D_25861	كىلومېتىر	headword	572_col1.png	unverified
 D_25862	كىلومېتىرلىق	headword	572_col1.png	unverified
 D_25863	كىلومېتىرلا	verb_stem	572_col1.png	unverified
@@ -26150,7 +26147,7 @@ D_25932	كىۋارتىس	headword	573_col2.png	unverified
 D_25933	كىۋارتىسلىق	headword	573_col2.png	unverified
 D_25934	كىۋارك	headword	573_col2.png	unverified
 D_25935	كىۋانت	headword	573_col3.png	unverified
-D_25936	كىۋي	headword	573_col3.png	verified
+D_25936	كىۋى	headword	573_col3.png	verified
 D_25937	كىۋىز	headword	573_col3.png	verified
 D_25938	كىي	headword	573_col3.png	unverified
 D_25940	كىيدۈر	verb_stem	573_col3.png	verified
@@ -26266,13 +26263,13 @@ D_26051	گاڭگۇڭلۇق	headword	577_col1.png	unverified
 D_26052	گاڭگىرا	verb_stem	577_col1.png	unverified
 D_26053	گاڭگىرات	verb_stem	577_col1.png	unverified
 D_26054	گاڭگىراش	verb_stem	577_col1.png	unverified
-D_26055	گاڭلىڭئوت	headword	577_col1.png	unverified
+D_26055	گاڭلىقئوت	headword	577_col1.png	unverified
 D_26056	گال¹	headword	577_col1.png	verified
 D_26057	گال²	headword	577_col2.png	verified
 D_26058	گال³	headword	577_col2.png	unverified
 D_26059	گالاچ	headword	577_col2.png	unverified
 D_26060	گالاچچىدە	headword	577_col2.png	unverified
-D_26061	گالاچ - گۈلۈچ	headword	577_col2.png	unverified
+D_26061	گالاچ - گۇلۇچ	headword	577_col2.png	unverified
 D_26062	گالاچلات	verb_stem	577_col2.png	unverified
 D_26063	گالاكتوزا	headword	577_col2.png	unverified
 D_26064	گالدى - گۇلدۇڭ	headword	577_col2.png	verified
@@ -26421,9 +26418,9 @@ D_26214	گۇپپاڭچىلىق	headword	581_col1.png	unverified
 D_26215	گۇچ	headword	581_col1.png	unverified
 D_26216	گۇچچىدە	headword	581_col1.png	unverified
 D_26217	گۇچ - گۇچ	headword	581_col1.png	unverified
-D_26218	گۈچۈلدا	verb_stem	581_col2.png	unverified
-D_26219	گۈچۈلدات	verb_stem	581_col2.png	unverified
-D_26220	گۈچۈلدىتىش	verb_stem	581_col2.png	unverified
+D_26218	گۇچۇلدا	verb_stem	581_col2.png	unverified
+D_26219	گۇچۇلدات	verb_stem	581_col2.png	unverified
+D_26220	گۇچۇلدىتىش	verb_stem	581_col2.png	unverified
 D_26221	گۇدۇڭ	headword	581_col2.png	unverified
 D_26222	گۇدۇڭ - گۇدۇڭ	headword	581_col2.png	unverified
 D_26223	گۇدۇڭلا	verb_stem	581_col2.png	unverified
@@ -26495,7 +26492,6 @@ D_26288	گۇمانىزم	headword	582_col3.png	unverified
 D_26289	گۇمانىست	headword	582_col3.png	unverified
 D_26290	گۇمانىي	headword	582_col3.png	unverified
 D_26291	گۇمبا - گۇمباڭ	headword	582_col3.png	verified
-D_26291-v1	گۇمباڭ گۇمباڭ	variant	582_col3.png	verified
 D_26292	گۇمباڭ	headword	582_col3.png	unverified
 D_26293	گۇمباڭ - گۇمباڭ	headword	582_col3.png	unverified
 D_26295	گۇمران	headword	582_col3.png	unverified
@@ -26573,6 +26569,7 @@ D_26363	گۈپۈر	headword	584_col1.png	unverified
 D_26364	گۈپۈر - غالاپ	headword	584_col1.png	unverified
 D_26365	گۈپۈر - گۈپۈر	headword	584_col1.png	unverified
 D_26366	گۈپۈرلە	verb_stem	584_col1.png	unverified
+D_26367	گۈپۈرلەت	verb_stem	584_col2.png	unverified
 D_26368	گۈپۈرلەش	verb_stem	584_col2.png	unverified
 D_26369	گۈجە	headword	584_col2.png	unverified
 D_26370	گۈجۈر	headword	584_col2.png	unverified
@@ -26606,7 +26603,7 @@ D_26397	گۈگۈسۈن	headword	585_col1.png	unverified
 D_26398	گۈگۈسۈنلۈك	headword	585_col1.png	unverified
 D_26399	گۈڭگۈرت	headword	585_col1.png	verified
 D_26400	گۈڭگۈرتسىز	headword	585_col1.png	unverified
-D_26401	گۈڭگۈرتسىزلە	verb_stem	585_col1.png	unverified
+D_26401	گۈڭگۈرتسىزلەن	verb_stem	585_col1.png	unverified
 D_26402	گۈڭگۈرتسىزلەندۈر	verb_stem	585_col1.png	unverified
 D_26403	گۈڭگۈرتسىزلەندۈرۈل	verb_stem	585_col1.png	unverified
 D_26404	گۈڭگۈرتلەش	verb_stem	585_col1.png	verified
@@ -26621,7 +26618,7 @@ D_26412	گۈلەڭ	headword	585_col3.png	unverified
 D_26413	گۈلەمشىۋا	headword	585_col3.png	verified
 D_26414	گۈلئەنبەر	headword	585_col3.png	unverified
 D_26415	گۈلبوغۇن	headword	585_col3.png	unverified
-D_26415-v1	بادەرەنجەبۇيا	variant	585_col3.png	unverified
+D_26415-v1	بادەرەنجىبۇيا	variant	585_col3.png	unverified
 D_26416	گۈلبۆرەك	headword	585_col3.png	unverified
 D_26417	گۈلبۈرگە	headword	585_col3.png	unverified
 D_26418	گۈلبىنەپشە	headword	585_col3.png	unverified
@@ -26682,7 +26679,6 @@ D_26470	گۈللۈك	headword	586_col2.png	verified
 D_26471	گۈلمە	headword	586_col3.png	unverified
 D_26472	گۈلنار	headword	586_col3.png	unverified
 D_26473	گۈلناز	headword	586_col3.png	unverified
-D_26473-v1	ئۇيانچانئوت	variant	586_col3.png	unverified
 D_26474	گۈلنەپشە	headword	586_col3.png	unverified
 D_26475	گۈلىچى	headword	586_col3.png	verified
 D_26476	گۈلىستان	headword	586_col3.png	unverified
@@ -26701,7 +26697,7 @@ D_26488	گۈن	headword	586_col3.png	unverified
 D_26489	گۈۋۈن	verb_stem	587_col1.png	unverified
 D_26490	گۈيەلمەك	headword	587_col1.png	verified
 D_26491	گېپارىن	headword	587_col1.png	unverified
-D_26492	گېتت	headword	587_col1.png	unverified
+D_26492	گېتىت	headword	587_col1.png	unverified
 D_26493	گېدە	headword	587_col1.png	unverified
 D_26494	گېرەم	headword	587_col1.png	unverified
 D_26495	گېرب	headword	587_col1.png	unverified
@@ -26730,7 +26726,7 @@ D_26517	گېكتولىتىر	headword	587_col2.png	unverified
 D_26518	گېكتومېتىر	headword	587_col2.png	unverified
 D_26519	گېكساخىلوران	headword	587_col2.png	unverified
 D_26520	گېگېل	headword	587_col2.png	unverified
-D_26521	گېگىلچىلىق	headword	587_col2.png	unverified
+D_26521	گېگېلچىلىق	headword	587_col2.png	unverified
 D_26522	گېلاۋ	headword	587_col2.png	unverified
 D_26523	گېلاۋچە	headword	587_col2.png	unverified
 D_26524	گېلەك	headword	587_col2.png	unverified
@@ -26784,7 +26780,7 @@ D_26569	گىببېرېللىن	headword	588_col2.png	unverified
 D_26570	گىبسىت	headword	588_col2.png	unverified
 D_26571	گىپنوز	headword	588_col2.png	unverified
 D_26572	گىپنوزچى	headword	588_col2.png	unverified
-D_26573	گىپنوزلا	verb_stem	588_col2.png	unverified
+D_26573	گىپنوزلان	verb_stem	588_col2.png	unverified
 D_26574	گىپنوزلۇق	headword	588_col2.png	unverified
 D_26575	گىپوخىلورىت	headword	588_col2.png	verified
 D_26576	گىپوفىز	headword	588_col2.png	unverified
@@ -27091,7 +27087,7 @@ D_26869	لالما	headword	594_col2.png	unverified
 D_26870	لالمىلاش	verb_stem	594_col2.png	unverified
 D_26871	لالمىلاشتۇر	verb_stem	594_col2.png	unverified
 D_26872	لالمىلىق	headword	594_col2.png	unverified
-D_26873	لالو	headword	594_col2.png	unverified
+D_26873	لالۇ	headword	594_col2.png	unverified
 D_26874	لالىزار	headword	594_col3.png	unverified
 D_26875	لالىزارلىق	headword	594_col3.png	unverified
 D_26876	لالىگۈل	headword	594_col3.png	unverified
@@ -27101,7 +27097,8 @@ D_26879	لاما	headword	594_col3.png	verified
 D_26879-i1	لاماسى	inflected	594_col3.png	verified
 D_26880	لامارك	headword	594_col3.png	unverified
 D_26881	لاماركىزم	headword	594_col3.png	unverified
-D_26882	لامپا	headword	594_col3.png	unverified
+D_26882	لامبا	headword	594_col3.png	unverified
+D_26883	لامپا	headword	594_col3.png	unverified
 D_26884	لامپروفىر	headword	594_col3.png	unverified
 D_26885	لامپۇچكا	headword	594_col3.png	unverified
 D_26886	لام - جىم	headword	594_col3.png	unverified
@@ -27184,7 +27181,7 @@ D_26961	لەپەر	headword	596_col1.png	unverified
 D_26962	لەپەرچى	headword	596_col1.png	unverified
 D_26963	لەپەرچىلىك	headword	596_col1.png	unverified
 D_26964	لەپەڭ	headword	596_col1.png	unverified
-D_26965	لەپەڭشە	verb_stem	596_col1.png	unverified
+D_26965	لەپەڭشى	verb_stem	596_col1.png	unverified
 D_26966	لەپەڭشىت	verb_stem	596_col1.png	unverified
 D_26967	لەپەڭ - لەپەڭ	headword	596_col1.png	unverified
 D_26968	لەپەڭلە	verb_stem	596_col1.png	unverified
@@ -27193,7 +27190,7 @@ D_26970	لەپپىدە	headword	596_col2.png	unverified
 D_26971	لەپسەڭ	headword	596_col2.png	unverified
 D_26972	لەپشە	verb_stem	596_col2.png	unverified
 D_26973	لەپشىت	verb_stem	596_col2.png	unverified
-D_26974	لەپشىرىن	headword	596_col2.png	unverified
+D_26974	لەپشېرىن	headword	596_col2.png	unverified
 D_26975	لەپكەگدىمەك	headword	596_col2.png	unverified
 D_26976	لەپ - لەپ	headword	596_col2.png	unverified
 D_26977	لەپلىمە	headword	596_col2.png	unverified
@@ -27254,14 +27251,14 @@ D_27030	لەڭگەر²	headword	597_col2.png	verified
 D_27031	لەڭگەرلە	verb_stem	597_col2.png	unverified
 D_27032	لەڭگەزە	headword	597_col2.png	unverified
 D_27033	لەڭگۈت	headword	597_col2.png	unverified
-D_27034	لەڭگىدە	headword	597_col2.png	unverified
+D_27034	لەڭڭىدە	headword	597_col2.png	unverified
 D_27035	لەڭ - لەڭ	headword	597_col2.png	unverified
 D_27036	لەڭ - لۇڭ	headword	597_col2.png	unverified
 D_27037	لەڭمەن	headword	597_col2.png	unverified
 D_27038	لەڭمەنتاقتاق	headword	597_col2.png	unverified
 D_27039	لەڭمەنخانا	headword	597_col2.png	unverified
 D_27040	لەلە	headword	597_col2.png	unverified
-D_27041	لەلەڭشە	verb_stem	597_col2.png	unverified
+D_27041	لەلەڭشى	verb_stem	597_col2.png	unverified
 D_27042	لەلەڭلە	verb_stem	597_col3.png	unverified
 D_27043	لەلىشۇ	headword	597_col3.png	unverified
 D_27044	لەمبەر	headword	597_col3.png	unverified
@@ -27271,7 +27268,7 @@ D_27047	لەمپىلىك	headword	597_col3.png	unverified
 D_27048	لەمشىرىمەك	headword	597_col3.png	unverified
 D_27049	لەنەت	headword	597_col3.png	verified
 D_27050	لەنەتگەردى	headword	597_col3.png	unverified
-D_27051	لەنەتلە	verb_stem	597_col3.png	unverified
+D_27051	لەنەتلەن	verb_stem	597_col3.png	unverified
 D_27052	لەنەتلىك	headword	597_col3.png	unverified
 D_27053	لەنەت - نەپرەت	headword	597_col3.png	unverified
 D_27054	لەنىتى	headword	597_col3.png	unverified
@@ -27354,7 +27351,7 @@ D_27130-i1	لوگىكاشۇناسى	inflected	599_col2.png	verified
 D_27131	لوگىكىلىق	headword	599_col2.png	verified
 D_27132	لوڭ	headword	599_col2.png	unverified
 D_27133	لوڭقا	headword	599_col2.png	unverified
-D_27134	لوڭگىدە	headword	599_col2.png	unverified
+D_27134	لوڭڭىدە	headword	599_col2.png	unverified
 D_27135	لوڭ - لوڭ	headword	599_col2.png	unverified
 D_27136	لوڭۇلدا	verb_stem	599_col2.png	unverified
 D_27138	لولا	headword	599_col3.png	unverified
@@ -27381,7 +27378,7 @@ D_27160	لۆڭگە	headword	599_col3.png	unverified
 D_27161	لۆڭگەشلىمەك	headword	600_col1.png	verified
 D_27162	لۆڭلىمەك	headword	600_col1.png	unverified
 D_27163	لۆم	headword	600_col1.png	unverified
-D_27164	لۆمشە	verb_stem	600_col1.png	unverified
+D_27164	لۆمشى	verb_stem	600_col1.png	unverified
 D_27165	لۆمشىت	verb_stem	600_col1.png	unverified
 D_27166	لۆم - لۆم	headword	600_col1.png	unverified
 D_27167	لۆممىدە	headword	600_col1.png	unverified
@@ -27403,7 +27400,7 @@ D_27183	لېپتىت	headword	600_col2.png	verified
 D_27184	لېپىر	headword	600_col2.png	unverified
 D_27185	لېپىرچى	headword	600_col2.png	unverified
 D_27186	لېتسىتىن	headword	600_col2.png	verified
-D_27187	لېتۇ	headword	600_col2.png	unverified
+D_27187	لېتۈ	headword	600_col2.png	unverified
 D_27188	لېچەك	headword	600_col2.png	unverified
 D_27189	لېچەكلىك	headword	600_col2.png	unverified
 D_27190	لېدىبور	headword	600_col2.png	unverified
@@ -27444,7 +27441,6 @@ D_27223	لىپپىدە	headword	601_col1.png	unverified
 D_27224	لىپتىك	headword	601_col1.png	unverified
 D_27225	لىپ - لىپ	headword	601_col1.png	unverified
 D_27226	لىپمۇلىپ	headword	601_col1.png	unverified
-D_27226-v1	لىقمۇلىق	variant	601_col1.png	unverified
 D_27227	لىپىر	headword	601_col1.png	unverified
 D_27228	لىپىلدا	verb_stem	601_col1.png	verified
 D_27229	لىپىلدات	verb_stem	601_col1.png	unverified
@@ -27488,14 +27484,14 @@ D_27269	لىقلا	verb_stem	601_col3.png	unverified
 D_27270	لىقلات	verb_stem	601_col3.png	unverified
 D_27271	لىقلاش	verb_stem	601_col3.png	unverified
 D_27272	لىقلان	verb_stem	601_col3.png	verified
-D_27273	لىقمولىق	headword	601_col3.png	unverified
+D_27273	لىقمۇلىق	headword	601_col3.png	unverified
 D_27274	لىك	headword	601_col3.png	unverified
 D_27275	لىكاڭ	headword	601_col3.png	unverified
 D_27276	لىكاڭلا	verb_stem	601_col3.png	unverified
 D_27277	لىكاڭلات	verb_stem	601_col3.png	unverified
 D_27278	لىكاڭ - لىكاڭ	headword	601_col3.png	unverified
 D_27279	لىكچوپ	headword	602_col1.png	unverified
-D_27280	لىككەدە	headword	602_col1.png	unverified
+D_27280	لىككىدە	headword	602_col1.png	unverified
 D_27281	لىك - لىك	headword	602_col1.png	unverified
 D_27282	لىكىلدا	verb_stem	602_col1.png	unverified
 D_27283	لىكىلدات	verb_stem	602_col1.png	unverified
@@ -27506,7 +27502,7 @@ D_27287	لىگنىن	headword	602_col1.png	unverified
 D_27288	لىگنىنلاش	verb_stem	602_col1.png	unverified
 D_27289	لىڭ¹	headword	602_col1.png	unverified
 D_27290	لىڭ²	headword	602_col1.png	unverified
-D_27291	لىڭشە	verb_stem	602_col1.png	unverified
+D_27291	لىڭشى	verb_stem	602_col1.png	unverified
 D_27292	لىڭشىت	verb_stem	602_col1.png	unverified
 D_27293	لىڭگە	headword	602_col1.png	unverified
 D_27294	لىڭگىر	headword	602_col1.png	unverified
@@ -27514,7 +27510,7 @@ D_27295	لىڭگىرت	headword	602_col1.png	unverified
 D_27296	لىڭگىرتاقتاق	headword	602_col2.png	verified
 D_27297	لىڭگىرچاق	headword	602_col2.png	unverified
 D_27298	لىڭگىر - لىڭگىر	headword	602_col2.png	unverified
-D_27299	لىڭگىدە	headword	602_col2.png	unverified
+D_27299	لىڭڭىدە	headword	602_col2.png	unverified
 D_27300	لىڭ - لىڭ	headword	602_col2.png	unverified
 D_27301	لىڭىلدا	verb_stem	602_col2.png	verified
 D_27302	لىڭىلدات	verb_stem	602_col2.png	unverified
@@ -27534,7 +27530,7 @@ D_27316	لىمىتلىق	headword	602_col3.png	unverified
 D_27317	لىمىنگراف	headword	602_col3.png	unverified
 D_27318	لىن	headword	602_col3.png	unverified
 D_27319	لىندېرا	headword	602_col3.png	unverified
-D_27320	لىنزا	headword	602_col3.png	unverified
+D_27320	لىنزا	headword	602_col3.png	verified
 D_27321	لىنكومىتسىن	headword	602_col3.png	unverified
 D_27322	لىنىيە	headword	602_col3.png	verified
 D_27322-i1	لىنىيەسى	inflected	602_col3.png	verified
@@ -27569,7 +27565,6 @@ D_27349	ماتروس	headword	603_col3.png	unverified
 D_27350	ماترىتسا	headword	603_col3.png	unverified
 D_27350-i1	ماترىتساسى	inflected	603_col3.png	unverified
 D_27351	ماتكا¹	headword	603_col3.png	unverified
-D_27351-v1	بالاياتقۇ	variant	603_col3.png	unverified
 D_27352	ماتكا²	headword	604_col1.png	unverified
 D_27353	ماتۇلۇڭ	headword	604_col1.png	verified
 D_27354	ماتېرىيال	headword	604_col1.png	verified
@@ -27626,7 +27621,7 @@ D_27403	ماختۇم	headword	605_col1.png	verified
 D_27404	ماختىنارلىق	headword	605_col1.png	verified
 D_27405	ماختىنىش	verb_stem	605_col2.png	verified
 D_27406	ماخشاخ	headword	605_col2.png	unverified
-D_27407	ماخوۋىڭ	headword	605_col2.png	unverified
+D_27407	ماخوۋىك	headword	605_col2.png	unverified
 D_27408	ماخىزم	headword	605_col2.png	unverified
 D_27409	ماخىزمچى	headword	605_col2.png	unverified
 D_27410	مادا	headword	605_col2.png	unverified
@@ -27655,8 +27650,8 @@ D_27430	ماددىلاشتۇر	verb_stem	605_col3.png	unverified
 D_27431	ماددىلىق	headword	605_col3.png	unverified
 D_27432	ماددىمۇماددا	headword	605_col3.png	unverified
 D_27433	ماددىي	headword	605_col3.png	unverified
-D_27434	ماددىيلاشتۇر	verb_stem	606_col1.png	unverified
-D_27435	ماددىيلاشتۇرۇل	verb_stem	606_col1.png	unverified
+D_27434	ماددىيلاشتۇر	verb_stem	606_col1.png	verified
+D_27435	ماددىيلاشتۇرۇل	verb_stem	606_col1.png	verified
 D_27436	ماددىيلىق	headword	606_col1.png	unverified
 D_27437	مادىخىدا	headword	606_col1.png	unverified
 D_27438	مادۇر	headword	606_col1.png	unverified
@@ -27876,7 +27871,7 @@ D_27648	مالايا	headword	611_col3.png	unverified
 D_27649	مالايلارچە	headword	611_col3.png	unverified
 D_27650	مالايلىق	headword	611_col3.png	unverified
 D_27651	مالەم	headword	611_col3.png	unverified
-D_27652	مال - بېسات	headword	611_col3.png	unverified
+D_27652	مال - بىسات	headword	611_col3.png	unverified
 D_27653	مالپەرەس	headword	611_col3.png	unverified
 D_27654	مالپەرەسلىك	headword	611_col3.png	unverified
 D_27655	مالپىگۈل	headword	611_col3.png	unverified
@@ -27979,7 +27974,7 @@ D_27747	مانگېلىتسىيە	headword	613_col2.png	unverified
 D_27748	مانماق	headword	613_col2.png	unverified
 D_27749	مانومېتىر	headword	613_col2.png	unverified
 D_27750	مانۇفاكتۇرا	headword	613_col2.png	unverified
-D_27751	مانىفېست	headword	613_col2.png	verified
+D_27751	مانېفىست	headword	613_col2.png	verified
 D_27751-v1	خىتاپنامە	variant	613_col2.png	verified
 D_27752	مانېكېن	headword	613_col2.png	unverified
 D_27753	مانېۋىر	headword	613_col2.png	unverified
@@ -28034,7 +28029,7 @@ D_27800	مايسىزلىق	headword	614_col2.png	unverified
 D_27801	مايسىلىق	headword	614_col2.png	unverified
 D_27802	مايغۇق	headword	614_col2.png	unverified
 D_27803	مايقوڭغۇز	headword	614_col2.png	unverified
-D_27804	مايقۇرىت	headword	614_col2.png	verified
+D_27804	مايقۇرت	headword	614_col2.png	verified
 D_27805	مايكا	headword	614_col2.png	unverified
 D_27806	مايكىچان	headword	614_col2.png	unverified
 D_27807	مايگۈل	headword	614_col2.png	verified
@@ -28193,7 +28188,7 @@ D_27952	مەردلەرچە	headword	617_col3.png	unverified
 D_27953	مەردلىك	headword	617_col3.png	unverified
 D_27954	مەردىمەيدان	headword	617_col3.png	unverified
 D_27955	مەرزەڭگە	headword	617_col3.png	unverified
-D_27956	مەرزەنجۇش	headword	618_col1.png	unverified
+D_27956	مەرزەنجۇش	headword	618_col1.png	verified
 D_27957	مەرسىيە	headword	618_col1.png	verified
 D_27957-i1	مەرسىيەسى	inflected	618_col1.png	verified
 D_27958	مەرغۇل	headword	618_col1.png	unverified
@@ -28245,7 +28240,7 @@ D_28003	مەزكۇر	headword	618_col3.png	verified
 D_28004	مەزگىلسىز	headword	618_col3.png	unverified
 D_28005	مەزگىللىك	headword	618_col3.png	unverified
 D_28006	مەزلۇم	headword	618_col3.png	unverified
-D_28007	مەزلۈمچە	headword	619_col1.png	unverified
+D_28007	مەزلۇمچە	headword	619_col1.png	unverified
 D_28008	مەزمۇت	headword	619_col1.png	unverified
 D_28009	مەزمۇتلاش	verb_stem	619_col1.png	unverified
 D_28010	مەزمۇتلاشتۇر	verb_stem	619_col1.png	unverified
@@ -28264,7 +28259,7 @@ D_28022	مەزىن	headword	619_col1.png	unverified
 D_28023	مەزىنلىك	headword	619_col1.png	unverified
 D_28024	مەژەك	headword	619_col1.png	unverified
 D_28025	مەسە	headword	619_col1.png	unverified
-D_28026	مەسە - گالاچ	headword	619_col1.png	unverified
+D_28026	مەسە - كالاچ	headword	619_col1.png	unverified
 D_28027	مەسەل	headword	619_col2.png	unverified
 D_28028	مەسەلچى	headword	619_col2.png	unverified
 D_28029	مەسەللەشتۈر	verb_stem	619_col2.png	unverified
@@ -28282,6 +28277,7 @@ D_28040	مەسچىت	headword	619_col2.png	unverified
 D_28041	مەسخىرە	headword	619_col2.png	unverified
 D_28042	مەسخىرىلە	verb_stem	619_col2.png	unverified
 D_28043	مەسخىرىلەش	verb_stem	619_col2.png	verified
+D_28044	مەسخىرىلەن	verb_stem	619_col3.png	unverified
 D_28045	مەسخىرىلىك	headword	619_col3.png	unverified
 D_28046	مەسخىرىۋاز	headword	619_col3.png	unverified
 D_28047	مەسخىرىۋازلىق	headword	619_col3.png	unverified
@@ -28330,7 +28326,7 @@ D_28087	مەشھۇر	headword	620_col2.png	unverified
 D_28088	مەشۇت	headword	620_col2.png	verified
 D_28089	مەشۇق	headword	620_col2.png	unverified
 D_28090	مەشۇقلۇق	headword	620_col2.png	unverified
-D_28091	مەشق	headword	620_col2.png	verified
+D_28091	مەشىق	headword	620_col2.png	verified
 D_28091-i1	مەشقى	inflected	620_col2.png	verified
 D_28092	مەشىقخانا	headword	620_col2.png	verified
 D_28093	مەغپىرەت	headword	620_col2.png	unverified
@@ -28374,7 +28370,8 @@ D_28129	مەڭدىگەكلىك	headword	621_col2.png	unverified
 D_28130	مەڭز	headword	621_col2.png	unverified
 D_28131	مەڭزەك	headword	621_col2.png	unverified
 D_28132	مەڭزەمەك	headword	621_col2.png	unverified
-D_28133	مەڭگۈ	headword	621_col2.png	verified
+D_28133	مەڭكۈ	headword	621_col2.png	verified
+D_28135	مەڭگۈ	headword	621_col2.png	unverified
 D_28136	مەڭگۈتاش	headword	621_col2.png	unverified
 D_28137	مەڭگۈلۈك	headword	621_col2.png	verified
 D_28138	مەڭگىسەر	headword	621_col2.png	unverified
@@ -28387,7 +28384,7 @@ D_28144	مەلەق	headword	621_col3.png	unverified
 D_28145	مەلەق - مەلەق	headword	621_col3.png	unverified
 D_28146	مەلەك	headword	621_col3.png	unverified
 D_28147	مەلتۈك	headword	621_col3.png	unverified
-D_28148	مەلغۈزە	headword	621_col3.png	unverified
+D_28148	مەلغۇزە	headword	621_col3.png	unverified
 D_28149	مەللە	headword	621_col3.png	unverified
 D_28150	مەللىچاي	headword	621_col3.png	unverified
 D_28151	مەلھەم	headword	621_col3.png	unverified
@@ -28487,7 +28484,7 @@ D_28237	مەنقۇلات	headword	623_col3.png	unverified
 D_28238	مەنمەن	headword	623_col3.png	unverified
 D_28239	مەنمەنلىك	headword	623_col3.png	unverified
 D_28240	مەنمەنچى	headword	623_col3.png	unverified
-D_28241	مەنۈش	headword	623_col3.png	verified
+D_28241	مەنۇش	headword	623_col3.png	verified
 D_28242	مەنئى	headword	623_col3.png	unverified
 D_28243	مەنىداش	headword	623_col3.png	unverified
 D_28244	مەنىداشلىق	headword	623_col3.png	unverified
@@ -28726,7 +28723,7 @@ D_28470	مونچاق	headword	628_col3.png	unverified
 D_28471	مونچاقلا	verb_stem	628_col3.png	unverified
 D_28472	مونچاق - مونچاق	headword	628_col3.png	unverified
 D_28473	مونچۇق	headword	628_col3.png	verified
-D_28474	موندىلاڭكۆك	headword	628_col3.png	verified
+D_28474	موندىلاقكۆك	headword	628_col3.png	verified
 D_28475	مونزونىت	headword	628_col3.png	unverified
 D_28476	مونزونىتلىق	headword	629_col1.png	unverified
 D_28477	مونقۇل	headword	629_col1.png	verified
@@ -28922,7 +28919,7 @@ D_28653	مۇسابىقىچى	headword	633_col2.png	unverified
 D_28654	مۇسابىقىلەش	verb_stem	633_col2.png	unverified
 D_28655	مۇسابىقىلەشتۈر	verb_stem	633_col2.png	unverified
 D_28656	مۇساپە	headword	633_col3.png	unverified
-D_28657	مۇساپىر	headword	633_col3.png	unverified
+D_28657	مۇساپىر	headword	633_col3.png	verified
 D_28658	مۇساپىرانە	headword	633_col3.png	unverified
 D_28659	مۇساپىرپەرۋەر	headword	633_col3.png	unverified
 D_28660	مۇساپىرپەرۋەرلىك	headword	633_col3.png	unverified
@@ -29070,7 +29067,6 @@ D_28800	مۇلايىملىق	headword	636_col3.png	unverified
 D_28801	مۇلتىپلېت	headword	636_col3.png	unverified
 D_28802	مۇلتىمېتىر	headword	636_col3.png	unverified
 D_28803	مۇلغۇي	headword	636_col3.png	unverified
-D_28803-v1	سىراچ	variant	636_col3.png	unverified
 D_28804	مۇللىت	headword	636_col3.png	unverified
 D_28805	مۇم	headword	636_col3.png	unverified
 D_28806	مۇمپۇق	headword	636_col3.png	unverified
@@ -29079,7 +29075,7 @@ D_28808	مۇمكىن	headword	636_col3.png	unverified
 D_28809	مۇمكىنچىلىك	headword	636_col3.png	unverified
 D_28810	مۇمكىنقەدەر	headword	636_col3.png	unverified
 D_28811	مۇمىيا	headword	636_col3.png	verified
-D_28811-i1	مۇمىيايىم، مۇمىيايىڭ، مۇمىي...	inflected	636_col3.png	verified
+D_28811-i1	مۇمىيايىم، مۇمىيايىڭ، مۇمىياسى	inflected	636_col3.png	verified
 D_28812	مۇمىيالا	verb_stem	636_col3.png	unverified
 D_28813	مۇمىيالات	verb_stem	636_col3.png	unverified
 D_28814	مۇمىيالان	verb_stem	637_col1.png	unverified
@@ -29159,7 +29155,7 @@ D_28885	مۇھەررەم	headword	638_col2.png	unverified
 D_28886	مۇھەررىر	headword	638_col2.png	unverified
 D_28887	مۇھەررىرلىك	headword	638_col2.png	unverified
 D_28888	مۇھەممەد	headword	638_col2.png	unverified
-D_28889	مۇھىت	headword	638_col2.png	unverified
+D_28889	مۇھىت	headword	638_col2.png	verified
 D_28890	مۇھىم	headword	638_col3.png	unverified
 D_28891	مۇھىملىق	headword	638_col3.png	unverified
 D_28892	مۇۋاپىق	headword	638_col3.png	unverified
@@ -29188,7 +29184,6 @@ D_28914	مۇيىم - تۇيىم	headword	639_col1.png	unverified
 D_28915	مۆ	headword	639_col2.png	unverified
 D_28916	مۆتىدىل	headword	639_col2.png	unverified
 D_28917	مۆتىدىللەش	verb_stem	639_col2.png	unverified
-D_28918	مۆتىدىللىك	headword	639_col2.png	unverified
 D_28919	مۆتىسىپ	headword	639_col2.png	unverified
 D_28920	مۆتىۋەر	headword	639_col2.png	unverified
 D_28921	مۆتىۋەرلىك	headword	639_col2.png	unverified
@@ -29236,7 +29231,7 @@ D_28962	مۆلۈلدەت	verb_stem	640_col2.png	unverified
 D_28963	مۆمىن	headword	640_col2.png	unverified
 D_28964	مۆمىنلەرچە	headword	640_col2.png	unverified
 D_28965	مۆمىنلىك	headword	640_col2.png	unverified
-D_28966	مۆنۈرمەك	headword	640_col2.png	unverified
+D_28966	مۆنۈرىمەك	headword	640_col2.png	unverified
 D_28967	مۆھتەرەم	headword	640_col2.png	unverified
 D_28968	مۆھلەت	headword	640_col2.png	unverified
 D_28969	مۆھلەتسىز	headword	640_col2.png	verified
@@ -29301,8 +29296,9 @@ D_29025	مۈڭگۈزلۈك	headword	641_col2.png	unverified
 D_29026	مۈڭۈزگەك	headword	641_col3.png	unverified
 D_29027	مۈڭۈزلەنمەك	headword	641_col3.png	unverified
 D_29028	مۈلكۈمەك	headword	641_col3.png	verified
-D_29029	مۈلكى	headword	641_col3.png	unverified
+D_29029	مۈلكىي	headword	641_col3.png	unverified
 D_29030	مۈلۈك	headword	641_col3.png	unverified
+D_29030-i1	مۈلكى	inflected	641_col3.png	unverified
 D_29031	مۈلۈكچىلىك	headword	641_col3.png	unverified
 D_29032	مۈلۈكدار	headword	641_col3.png	unverified
 D_29032-i1	مۈلۈكدارى	inflected	641_col3.png	unverified
@@ -29347,8 +29343,8 @@ D_29068	مېتىلېن	headword	642_col2.png	unverified
 D_29069	مېتىن	headword	642_col2.png	unverified
 D_29070	مېخانىزم	headword	642_col2.png	unverified
 D_29071	مېخانىكا	headword	642_col2.png	unverified
-D_29072	مېخانىكشۇناس	headword	642_col2.png	verified
-D_29072-i1	مېخانىكشۇناسى	inflected	642_col2.png	verified
+D_29072	مېخانىكىشۇناس	headword	642_col2.png	verified
+D_29072-i1	مېخانىكىشۇناسى	inflected	642_col2.png	verified
 D_29073	مېخانىكىلىق	headword	642_col2.png	verified
 D_29074	مېدال	headword	642_col3.png	verified
 D_29074-i1	مېدالى	inflected	642_col3.png	verified
@@ -29457,7 +29453,7 @@ D_29169	مېيىتخانا	headword	644_col3.png	unverified
 D_29170	مىت	headword	644_col3.png	unverified
 D_29171	مىتە	headword	644_col3.png	unverified
 D_29172	مىتەۋە	headword	644_col3.png	unverified
-D_29173	مىتەۋەشمەك	headword	644_col3.png	unverified
+D_29173	مىتەۋىلەشمەك	headword	644_col3.png	unverified
 D_29174	مىتتىدە	headword	645_col1.png	unverified
 D_29175	مىتكوت	headword	645_col1.png	unverified
 D_29176	مىت - مىت	headword	645_col1.png	unverified
@@ -29534,7 +29530,7 @@ D_29242-i1	مىزانى	inflected	646_col2.png	unverified
 D_29243	مىزانگۈل	headword	646_col2.png	unverified
 D_29244	مىزگان	headword	646_col2.png	unverified
 D_29245	مىزگانچى	headword	646_col2.png	unverified
-D_29246	مىزگۈل	headword	646_col2.png	unverified
+D_29246	مىزىگۈل	headword	646_col2.png	unverified
 D_29247	مىژ	headword	646_col2.png	unverified
 D_29248	مىژ - مىژ	headword	646_col2.png	unverified
 D_29249	مىژىلدا	verb_stem	646_col2.png	verified
@@ -29696,6 +29692,7 @@ D_29398	مىللىيلاشتۇرۇش	verb_stem	650_col2.png	unverified
 D_29399	مىللىيلاشتۇرۇل	verb_stem	650_col2.png	unverified
 D_29400	مىللىيلىق	headword	650_col3.png	unverified
 D_29401	مىلونىت	headword	650_col3.png	unverified
+D_29402	مىلونىتلىق	headword	650_col3.png	verified
 D_29403	مىلىتارىزم	headword	650_col3.png	unverified
 D_29404	مىلىتارىست	headword	650_col3.png	unverified
 D_29405	مىلىتارىستلاش	verb_stem	650_col3.png	unverified
@@ -29996,11 +29993,8 @@ D_29689	نائېنىق	headword	656_col3.png	verified
 D_29690	نائىب	headword	656_col3.png	verified
 D_29691	نائىل	headword	656_col3.png	unverified
 D_29692	نائىلاج	headword	656_col3.png	unverified
-D_29692-v1	ئېلاجسىز	variant	656_col3.png	unverified
 D_29693	نائىنساب	headword	656_col3.png	unverified
-D_29693-v1	ئېنسابسىز	variant	656_col3.png	unverified
 D_29694	نائىنسابلىق	headword	656_col3.png	unverified
-D_29694-v1	ئېنسابسىزلىق	variant	656_col3.png	unverified
 D_29695	نايتاق	headword	656_col3.png	unverified
 D_29696	نايمان	headword	656_col3.png	unverified
 D_29697	نايناق	headword	656_col3.png	unverified
@@ -30111,7 +30105,7 @@ D_29795	نەسىللىك	headword	658_col3.png	unverified
 D_29796	نەسىل - نەسەب	headword	658_col3.png	unverified
 D_29797	نەسىمگۈل	headword	659_col1.png	unverified
 D_29798	نەسىھەت	headword	659_col1.png	verified
-D_29798-i1	نەسىھىتى	inflected	659_col1.png	verified
+D_29798-i1	نەسىھەتى	inflected	659_col1.png	verified
 D_29799	نەسىھەتچى	headword	659_col1.png	unverified
 D_29800	نەسىھەتگۇي	headword	659_col1.png	verified
 D_29801	نەسىھەتگۇيلۇق	headword	659_col1.png	verified
@@ -30224,7 +30218,6 @@ D_29906	نوچىلاش	verb_stem	661_col2.png	unverified
 D_29907	نوچىلىق	headword	661_col2.png	unverified
 D_29908	نوختا	headword	661_col2.png	unverified
 D_29909	نوختىباغ	headword	661_col2.png	unverified
-D_29909-v1	چۈلۋۇر	variant	661_col2.png	unverified
 D_29910	نوختىسىز	headword	661_col2.png	unverified
 D_29911	نوختىلا	verb_stem	661_col2.png	unverified
 D_29912	نوختىلات	verb_stem	661_col2.png	unverified
@@ -30382,7 +30375,7 @@ D_30061	نېمە	headword	665_col1.png	unverified
 D_30062	نېمەت	headword	665_col1.png	unverified
 D_30063	نېمەتلىك	headword	665_col1.png	unverified
 D_30064	نېمىدۇر	headword	665_col2.png	unverified
-D_30065	نېمىدىگەن	headword	665_col2.png	unverified
+D_30065	نېمىدېگەن	headword	665_col2.png	unverified
 D_30066	نېمىرغا	headword	665_col2.png	unverified
 D_30067	نېمىس	headword	665_col2.png	unverified
 D_30068	نېمىسچە	headword	665_col2.png	unverified
@@ -30459,18 +30452,18 @@ D_30135	نىشانلاش	verb_stem	666_col3.png	unverified
 D_30136	نىشانلان	verb_stem	666_col3.png	unverified
 D_30137	نىشانلىق	headword	666_col3.png	unverified
 D_30138	غوشاك	headword	667_col1.png	verified
-D_30139	قاب	headword	667_col1.png	verified
+D_30139	نىقاب	headword	667_col1.png	verified
 D_30139-i1	نىقابى	inflected	667_col1.png	verified
 D_30140	نىقابلا	verb_stem	667_col1.png	unverified
 D_30141	نىقابلات	verb_stem	667_col1.png	unverified
 D_30142	نىقابلاش	verb_stem	667_col1.png	unverified
 D_30143	نىقابلان	verb_stem	667_col1.png	verified
-D_30144	قابلىق	headword	667_col1.png	unverified
+D_30144	نىقابلىق	headword	667_col1.png	unverified
 D_30145	نىقتا	verb_stem	667_col1.png	unverified
 D_30146	نىقتاش	verb_stem	667_col1.png	unverified
 D_30147	نىقتال	verb_stem	667_col1.png	unverified
-D_30148	نىقسە	verb_stem	667_col1.png	unverified
-D_30149	كاھ	headword	667_col1.png	verified
+D_30148	نىقسى	verb_stem	667_col1.png	unverified
+D_30149	نىكاھ	headword	667_col1.png	verified
 D_30149-i1	نىكاھى	inflected	667_col1.png	verified
 D_30150	نىكاھسىز	headword	667_col2.png	unverified
 D_30151	نىكاھلا	verb_stem	667_col2.png	unverified
@@ -30536,7 +30529,7 @@ D_30209	ھادىس	headword	669_col2.png	unverified
 D_30210	ھادىسە	headword	669_col2.png	unverified
 D_30211	ھادىسىچىلىك	headword	669_col2.png	verified
 D_30212	ھادىسىشۇناس	headword	669_col2.png	verified
-D_30212-i1	ھادىسشۇناسى	inflected	669_col2.png	verified
+D_30212-i1	ھادىسىشۇناسى	inflected	669_col2.png	verified
 D_30213	ھادىسىشۇناسلىق	headword	669_col2.png	unverified
 D_30214	ھار	headword	669_col2.png	unverified
 D_30216	ھارارەت	headword	669_col2.png	unverified
@@ -30735,12 +30728,12 @@ D_30403-i1	ھاۋادانى	inflected	674_col2.png	verified
 D_30404	ھاۋاسىز	headword	674_col2.png	unverified
 D_30405	ھاۋالان	verb_stem	674_col2.png	unverified
 D_30406	ھاۋالە	headword	674_col2.png	verified
-D_30407	ھاۋالسىز	headword	674_col2.png	unverified
+D_30407	ھاۋالىسىز	headword	674_col2.png	unverified
 D_30408	ھاۋالىق	headword	674_col2.png	unverified
 D_30409	ھاۋالىلىك	headword	674_col2.png	unverified
 D_30410	ھاۋانچا	headword	674_col3.png	unverified
 D_30411	ھاۋايى - ھەۋەس	headword	674_col3.png	unverified
-D_30412	ھاۋشە	verb_stem	674_col3.png	unverified
+D_30412	ھاۋشى	verb_stem	674_col3.png	unverified
 D_30413	ھاۋشىت	verb_stem	674_col3.png	unverified
 D_30414	ھاۋشىش	verb_stem	674_col3.png	unverified
 D_30415	ھاۋ - ھاۋ	headword	674_col3.png	unverified
@@ -30763,7 +30756,7 @@ D_30429	ھاياسىز	headword	675_col1.png	unverified
 D_30430	ھاياسىزلىق	headword	675_col1.png	unverified
 D_30431	ھايال	headword	675_col1.png	unverified
 D_30432	ھايالسىز	headword	675_col1.png	unverified
-D_30433	ھايالشە	verb_stem	675_col1.png	verified
+D_30433	ھايالشى	verb_stem	675_col1.png	verified
 D_30434	ھايالىق	headword	675_col1.png	unverified
 D_30435	ھايان	headword	675_col1.png	unverified
 D_30436	ھايانكەش	headword	675_col1.png	unverified
@@ -30779,7 +30772,7 @@ D_30445	ھاي - ھۇي	headword	675_col2.png	unverified
 D_30446	ھايۋان	headword	675_col2.png	unverified
 D_30447	ھايۋانات	headword	675_col2.png	unverified
 D_30448	ھايۋانشۇناس	headword	675_col2.png	verified
-D_30448-i1	ھايۋاناتشۇناسى	inflected	675_col2.png	verified
+D_30448-i1	ھايۋانشۇناسى	inflected	675_col2.png	verified
 D_30449	ھايۋانشۇناسلىق	headword	675_col2.png	unverified
 D_30450	ھايۋانلارچە	headword	675_col2.png	unverified
 D_30451	ھايۋانلىق	headword	675_col2.png	unverified
@@ -30798,7 +30791,7 @@ D_30463	ھەپتىلىك	headword	675_col3.png	unverified
 D_30464	ھەپتىيەك	headword	675_col3.png	unverified
 D_30465	ھەپسە	headword	675_col3.png	unverified
 D_30466	ھەپسەر	headword	675_col3.png	unverified
-D_30467	ھەپشە	verb_stem	675_col3.png	verified
+D_30467	ھەپشى	verb_stem	675_col3.png	verified
 D_30468	ھەپىرەڭگۈل	headword	675_col3.png	verified
 D_30469	ھەپىلەش	verb_stem	675_col3.png	verified
 D_30470	ھەپىلەك	headword	676_col1.png	unverified
@@ -30830,7 +30823,7 @@ D_30492	ھەددى - ھېساب	headword	676_col2.png	unverified
 D_30493	ھەددى - ھېسابسىز	headword	676_col2.png	unverified
 D_30494	ھەدىس	headword	676_col2.png	unverified
 D_30495	ھەدىيە	headword	676_col2.png	unverified
-D_30496	ھەدىيەلىك	headword	676_col2.png	verified
+D_30496	ھەدىيىلىك	headword	676_col2.png	verified
 D_30497	ھەر	headword	676_col2.png	unverified
 D_30498	ھەرە¹	headword	676_col3.png	unverified
 D_30499	ھەرە²	headword	676_col3.png	unverified
@@ -31253,6 +31246,7 @@ D_30901	ھۆل - يېغىن	headword	685_col3.png	unverified
 D_30902	ھۆمۈدە	verb_stem	685_col3.png	unverified
 D_30903	ھۆمۈدەش	verb_stem	685_col3.png	unverified
 D_30904	ھۆۋسىلە	headword	685_col3.png	unverified
+D_30905	ھۈ	headword	685_col3.png	unverified
 D_30906	ھۈپ	headword	685_col3.png	unverified
 D_30907	ھۈپپىدە	headword	685_col3.png	unverified
 D_30908	ھۈپ - ھۈپ	headword	685_col3.png	verified
@@ -31281,7 +31275,7 @@ D_30929	ھۈنەرلىك	headword	686_col2.png	unverified
 D_30930	ھۈنەرۋەن	headword	686_col2.png	unverified
 D_30931	ھۈنەرۋەنلىك	headword	686_col2.png	unverified
 D_30932	ھېجىر	headword	686_col2.png	unverified
-D_30933	ھېجقىز	headword	686_col2.png	unverified
+D_30933	ھېجىقىز	headword	686_col2.png	unverified
 D_30934	ھېچ	headword	686_col2.png	unverified
 D_30935	ھېچبولمىغاندا	headword	686_col2.png	unverified
 D_30936	ھېچبىر	headword	686_col2.png	unverified
@@ -31493,7 +31487,7 @@ D_31134	ئوبۇز	headword	690_col2.png	unverified
 D_31135	ئوبۇشقا	headword	690_col2.png	unverified
 D_31136	ئوبىسدىيان	headword	690_col2.png	unverified
 D_31137	ئوبيېكت	headword	690_col2.png	unverified
-D_31138	ئوبيېكتىپ	headword	690_col2.png	unverified
+D_31138	ئوبيېكتىپ	headword	690_col2.png	verified
 D_31139	ئوبيېكتىپچىلىق	headword	690_col3.png	unverified
 D_31140	ئوبيېكتىپلىق	headword	690_col3.png	unverified
 D_31141	ئوپال	headword	690_col3.png	unverified
@@ -31914,7 +31908,7 @@ D_31549	ئوقۇغۇچىلىق	headword	700_col3.png	unverified
 D_31550	ئوقۇل	verb_stem	700_col3.png	unverified
 D_31551	ئوقۇمۇشلۇق	headword	700_col3.png	unverified
 D_31552	ئوقيا	headword	700_col3.png	unverified
-D_31552-i1	ئوقۇيايىم، ئوقۇيايىڭ، ئوقياسى	inflected	700_col3.png	unverified
+D_31552-i1	ئوقيايىم، ئوقيايىڭ، ئوقياسى	inflected	700_col3.png	unverified
 D_31553	ئوق - ياراغ	headword	700_col3.png	unverified
 D_31554	ئوكاپى	headword	700_col3.png	unverified
 D_31555	ئوكتان	headword	700_col3.png	unverified
@@ -31936,7 +31930,7 @@ D_31570	ئوكسىدلاندۇرۇل	verb_stem	701_col1.png	unverified
 D_31571	ئوكسىدلىغۇچ	headword	701_col1.png	unverified
 D_31572	ئوكسىدلىغۇچى	headword	701_col1.png	unverified
 D_31573	ئوكسىگېن	headword	701_col1.png	unverified
-D_31574	ئوكسىگېن - ئاتسېتلېن	headword	701_col1.png	unverified
+D_31574	ئوكسىگېن - ئاتسېتىلېن	headword	701_col1.png	unverified
 D_31575	ئوكسىگېنخۇمار	headword	701_col1.png	unverified
 D_31576	ئوكسىگېندان	headword	701_col1.png	unverified
 D_31577	ئوكسىگېنسىز	headword	701_col2.png	unverified
@@ -32011,7 +32005,7 @@ D_31644	ئولاق	headword	702_col3.png	unverified
 D_31645	ئولان	headword	702_col3.png	unverified
 D_31646	ئولپاق	headword	702_col3.png	verified
 D_31647	ئولپاڭ	headword	702_col3.png	verified
-D_31648	ئۇلپان	headword	703_col1.png	unverified
+D_31648	ئولپان	headword	703_col1.png	unverified
 D_31649	ئولتۇر	verb_stem	703_col1.png	unverified
 D_31650	ئولتۇراق	headword	703_col1.png	unverified
 D_31651	ئولتۇراقلاش	verb_stem	703_col1.png	unverified
@@ -32123,7 +32117,7 @@ D_31757	ئوي - دۆڭ	headword	705_col3.png	unverified
 D_31758	ئويرات	headword	705_col3.png	unverified
 D_31759	ئويغات	verb_stem	705_col3.png	verified
 D_31760	ئويغاق	headword	705_col3.png	unverified
-D_31761	ئويغاڭلىق	headword	705_col3.png	unverified
+D_31761	ئويغاقلىق	headword	705_col3.png	unverified
 D_31762	ئويغان	verb_stem	705_col3.png	unverified
 D_31763	ئويغۇ	headword	705_col3.png	unverified
 D_31764	ئويغىتىل	verb_stem	705_col3.png	verified
@@ -32175,7 +32169,7 @@ D_31810	ئۇ	headword	707_col1.png	unverified
 D_31811	ئۇ - بۇ	headword	707_col1.png	unverified
 D_31812	ئۇپا	headword	707_col1.png	unverified
 D_31813	ئۇپاسانچ	headword	707_col1.png	unverified
-D_31814	ئۇپا - ئەڭلىڭ	headword	707_col1.png	verified
+D_31814	ئۇپا - ئەڭلىك	headword	707_col1.png	verified
 D_31815	ئۇپرا	verb_stem	707_col1.png	unverified
 D_31816	ئۇپرات	verb_stem	707_col1.png	unverified
 D_31817	ئۇپراق	headword	707_col1.png	unverified
@@ -32340,7 +32334,7 @@ D_31974	ئۇرلاماق	headword	710_col3.png	unverified
 D_31975	ئۇروبىلىن	headword	710_col3.png	unverified
 D_31976	ئۇرۇت	headword	710_col3.png	unverified
 D_31977	ئۇر - ئۇر	headword	710_col3.png	unverified
-D_31978	ئۇرۇپ - سۇقۇپ	headword	710_col3.png	verified
+D_31978	ئۇرۇپ - سوقۇپ	headword	710_col3.png	verified
 D_31979	ئۇرۇش	headword	710_col3.png	unverified
 D_31981	ئۇرۇشپەرەس	headword	711_col1.png	unverified
 D_31982	ئۇرۇشپەرەسلىك	headword	711_col1.png	unverified
@@ -32420,7 +32414,7 @@ D_32054	ئۇزۇنماق	headword	713_col1.png	unverified
 D_32055	ئۇزېل	headword	713_col1.png	unverified
 D_32056	ئۇزىتما	headword	713_col1.png	unverified
 D_32057	ئۇزىتىش	verb_stem	713_col1.png	unverified
-D_32058	ئۇزىتىلا	verb_stem	713_col1.png	unverified
+D_32058	ئۇزىتىل	verb_stem	713_col1.png	unverified
 D_32059	ئۇزىماق	headword	713_col1.png	unverified
 D_32060	ئۇس	headword	713_col1.png	unverified
 D_32062	ئۇسانماق	headword	713_col1.png	unverified
@@ -32554,7 +32548,7 @@ D_32189	ئۇلتاڭ	headword	715_col3.png	unverified
 D_32190	ئۇلتاڭسىز	headword	715_col3.png	unverified
 D_32191	ئۇلتاڭلىق	headword	715_col3.png	unverified
 D_32192	ئۇلترا	headword	715_col3.png	unverified
-D_32193	ئۈلتىماتوم	headword	716_col1.png	unverified
+D_32193	ئۇلتىماتوم	headword	716_col1.png	unverified
 D_32194	ئۇلدا	verb_stem	716_col1.png	unverified
 D_32195	ئۇلدات	verb_stem	716_col1.png	unverified
 D_32196	ئۇلداش	verb_stem	716_col1.png	unverified
@@ -32705,7 +32699,7 @@ D_32339	ئۇيقۇسىز	headword	719_col1.png	unverified
 D_32340	ئۇيقۇسىزلىق	headword	719_col1.png	unverified
 D_32341	ئۇيقۇلۇق¹	headword	719_col1.png	unverified
 D_32342	ئۇيقۇلۇق²	headword	719_col1.png	unverified
-D_32343	ئۇيىلە	headword	719_col1.png	verified
+D_32343	ئۇيلە	headword	719_col1.png	verified
 D_32344	ئۇيماق	headword	719_col1.png	unverified
 D_32345	ئۇيۇ	verb_stem	719_col1.png	unverified
 D_32346	ئۇيۇت	verb_stem	719_col1.png	unverified
@@ -32736,7 +32730,7 @@ D_32370	ئۆپچۆرە	headword	720_col1.png	unverified
 D_32371	ئۆپكە	headword	720_col1.png	unverified
 D_32372	ئۆپكە - زاسۈي	headword	720_col2.png	unverified
 D_32373	ئۆپكە - قېرىن	headword	720_col2.png	unverified
-D_32374	ئۆپكە - ھەپسەپ	headword	720_col2.png	unverified
+D_32374	ئۆپكە - ھېسىپ	headword	720_col2.png	unverified
 D_32375	ئۆپكۈك	headword	720_col2.png	unverified
 D_32376	ئۆپكىلە	verb_stem	720_col2.png	unverified
 D_32377	ئۆپكىلەت	verb_stem	720_col2.png	verified
@@ -32760,7 +32754,6 @@ D_32396	ئۆتەگچى	headword	721_col1.png	unverified
 D_32397	ئۆتەگلەمەك	headword	721_col1.png	unverified
 D_32398	ئۆتەڭ	headword	721_col1.png	verified
 D_32399	ئۆتەل	headword	721_col1.png	unverified
-D_32400	ئۆتەلا	verb_stem	721_col1.png	verified
 D_32401	ئۆترۈ	headword	721_col1.png	unverified
 D_32402	ئۆترۈك	headword	721_col1.png	unverified
 D_32403	ئۆترۈم	headword	721_col1.png	unverified
@@ -32936,7 +32929,7 @@ D_32574	ئۆزرۈم	headword	725_col2.png	unverified
 D_32575	ئۆزرىخاھلىق	headword	725_col2.png	verified
 D_32576	ئۆزسىن	verb_stem	725_col2.png	unverified
 D_32577	ئۆزسىنىش	verb_stem	725_col2.png	verified
-D_32578	ئۆزگەي	headword	725_col2.png	unverified
+D_32578	ئۆزكەي	headword	725_col2.png	unverified
 D_32579	ئۆزگە	headword	725_col2.png	unverified
 D_32580	ئۆزگەر	verb_stem	725_col2.png	verified
 D_32581	ئۆزگەرت	verb_stem	725_col2.png	verified
@@ -32987,7 +32980,7 @@ D_32625	ئۆستىكمەك	headword	726_col3.png	unverified
 D_32626	ئۆسرۈك	headword	726_col3.png	unverified
 D_32627	ئۆسرۈكلۈك	headword	726_col3.png	unverified
 D_32628	ئۆسرۈمەك	headword	726_col3.png	unverified
-D_32629	ئۆسگىلەڭ	headword	726_col3.png	unverified
+D_32629	ئۆسكىلەڭ	headword	726_col3.png	unverified
 D_32630	ئۆسمە	headword	726_col3.png	verified
 D_32631	ئۆسمۈر	headword	726_col3.png	unverified
 D_32632	ئۆسمۈرلۈك	headword	726_col3.png	unverified
@@ -33059,7 +33052,7 @@ D_32697	ئۆگەيلەش	verb_stem	728_col1.png	unverified
 D_32698	ئۆگەيلەن	verb_stem	728_col1.png	verified
 D_32699	ئۆگەيلىك	headword	728_col1.png	unverified
 D_32700	ئۆگدەش	headword	728_col1.png	unverified
-D_32701	ئۆڭدى	headword	728_col1.png	unverified
+D_32701	ئۆگدى	headword	728_col1.png	unverified
 D_32702	ئۆگرەتىگ	headword	728_col1.png	verified
 D_32703	ئۆگرەيۈك	headword	728_col1.png	verified
 D_32704	ئۆگرۈك	headword	728_col1.png	unverified
@@ -33098,11 +33091,12 @@ D_32738	ئۆڭتۈرۈل	verb_stem	728_col3.png	unverified
 D_32739	ئۆڭدۈر	verb_stem	728_col3.png	unverified
 D_32740	ئۆڭدۈرگۈچ	headword	728_col3.png	unverified
 D_32741	ئۆڭدۈن	headword	728_col3.png	unverified
+D_32742	ئۆڭدى	headword	728_col3.png	unverified
 D_32743	ئۆڭىكلەنمەك	headword	728_col3.png	unverified
 D_32744	ئۆڭرە	headword	728_col3.png	unverified
 D_32745	ئۆڭسۈرۈن	headword	728_col3.png	unverified
 D_32746	ئۆڭسۈل	headword	728_col3.png	unverified
-D_32747	ئۆڭگەر	headword	728_col3.png	unverified
+D_32747	ئۆڭكەر	headword	728_col3.png	unverified
 D_32748	ئۆڭكەي	headword	728_col3.png	unverified
 D_32749	ئۆڭكەيمەك	headword	728_col3.png	verified
 D_32750	ئۆڭكۈر	headword	728_col3.png	unverified
@@ -33169,7 +33163,7 @@ D_32809	ئۆلۈكخانا	headword	730_col2.png	verified
 D_32810	ئۆلۈم	headword	730_col2.png	unverified
 D_32811	ئۆلۈمتۈك	headword	730_col2.png	unverified
 D_32812	ئۆلۈملۈك	headword	730_col2.png	unverified
-D_32813	ئۆلۈم - يىتىم	headword	730_col2.png	verified
+D_32813	ئۆلۈم - يېتىم	headword	730_col2.png	verified
 D_32814	ئۆلىما	headword	730_col2.png	unverified
 D_32815	ئۆلىمالىق	headword	730_col2.png	unverified
 D_32816	ئۆم¹	headword	730_col2.png	unverified
@@ -33231,14 +33225,14 @@ D_32871	ئۆيلۈك - ئوچاقلىق	headword	731_col3.png	unverified
 D_32872	ئۆي - ماكان	headword	731_col3.png	unverified
 D_32873	ئۆي - ماكانسىز	headword	731_col3.png	unverified
 D_32874	ئۆي - ماكانلىق	headword	731_col3.png	unverified
-D_32875	ئۆيموئۆي	headword	731_col3.png	unverified
+D_32875	ئۆيمۇئۆي	headword	731_col3.png	unverified
 D_32876	ئۆي - ئوتاق	headword	731_col3.png	unverified
 D_32877	ئۆي - ئوچاق	headword	731_col3.png	unverified
 D_32878	ئۆي - ئوچاقلىق	headword	731_col3.png	unverified
 D_32879	ئۆيۋاق	headword	731_col3.png	verified
 D_32880	ئۆيۋاقلىق	headword	731_col3.png	unverified
-D_32881	ئۆيئىشچى	headword	731_col3.png	unverified
-D_32882	ئۆيئىشچىلىك	headword	731_col3.png	unverified
+D_32881	ئۆيئىچى	headword	731_col3.png	unverified
+D_32882	ئۆيئىچىلىك	headword	731_col3.png	unverified
 D_32883	ئۆي - ئىمارەت	headword	731_col3.png	unverified
 D_32884	ئۈت	headword	732_col1.png	unverified
 D_32885	ئۈتتە	headword	732_col1.png	unverified
@@ -33615,19 +33609,18 @@ D_33253	ۋاسالغۇ	headword	740_col3.png	unverified
 D_33254	ۋاسسىدە	headword	740_col3.png	unverified
 D_33255	ۋاسكېتبول	headword	740_col3.png	unverified
 D_33256	ۋاسكېتبولچى	headword	740_col3.png	unverified
-D_33257	ۋاستە	headword	740_col3.png	unverified
-D_33258	ۋاستەپەرەس	headword	740_col3.png	unverified
+D_33257	ۋاسىتە	headword	740_col3.png	unverified
+D_33258	ۋاسىتەپەرەس	headword	740_col3.png	unverified
 D_33259	ۋاسىتەپەرەسلىك	headword	741_col1.png	unverified
 D_33260	ۋاسىتىچى	headword	741_col1.png	verified
 D_33261	ۋاسىتىچىلىك	headword	741_col1.png	unverified
 D_33262	ۋاسىتىسىز	headword	741_col1.png	unverified
 D_33263	ۋاسىتىلىك	headword	741_col1.png	unverified
-D_33264	ۋاسدەميان	headword	741_col2.png	unverified
+D_33264	ۋاسىدەميان	headword	741_col2.png	unverified
 D_33264-v1	ۋاسا تاق	variant	741_col2.png	unverified
 D_33265	ۋاش	headword	741_col2.png	unverified
 D_33266	ۋاشاق	headword	741_col2.png	unverified
 D_33267	ۋاشاڭ	headword	741_col2.png	unverified
-D_33267-v1	پاساك¹	variant	741_col2.png	unverified
 D_33268	ۋاشاڭدا	verb_stem	741_col2.png	unverified
 D_33269	ۋاششىدە	headword	741_col2.png	unverified
 D_33270	ۋاش - ۋۇش	headword	741_col2.png	unverified
@@ -33797,7 +33790,7 @@ D_33427	ۋەسۋەسىلىك	headword	744_col3.png	unverified
 D_33428	ۋەسىقە	headword	744_col3.png	verified
 D_33429	ۋەسىقىسىز	headword	744_col3.png	verified
 D_33430	ۋەسىل	headword	744_col3.png	verified
-D_33430-i1	ۋەسىلى	inflected	744_col3.png	verified
+D_33430-i1	ۋەسلى	inflected	744_col3.png	verified
 D_33431	ۋەسىي	headword	744_col3.png	unverified
 D_33432	ۋەسىيەت	headword	744_col3.png	unverified
 D_33433	ۋەسىيەتنامە	headword	744_col3.png	unverified
@@ -33846,7 +33839,7 @@ D_33475	ۋولفرام	headword	745_col2.png	unverified
 D_33476	ۋولفراملىق	headword	745_col2.png	unverified
 D_33477	ۋولقان	headword	745_col2.png	unverified
 D_33478	ۋوللاستونىت	headword	745_col2.png	unverified
-D_33479	ۋولفگراف	headword	745_col2.png	unverified
+D_33479	ۋولىفگراف	headword	745_col2.png	unverified
 D_33480	ۋولنومېر	headword	745_col2.png	unverified
 D_33481	ۋولۋوكس	headword	745_col2.png	unverified
 D_33482	ۋولېنكا	headword	745_col2.png	verified
@@ -34029,7 +34022,7 @@ D_33653	ئېتىكا	headword	749_col2.png	verified
 D_33654	ئېتىكاپ	headword	749_col2.png	verified
 D_33655	ئېتىكاپخانا	headword	749_col2.png	unverified
 D_33656	ئېتىكلىك	headword	749_col2.png	unverified
-D_33657	ئېتىكلىق	headword	749_col2.png	unverified
+D_33657	ئېتىكىلىق	headword	749_col2.png	unverified
 D_33658	ئېتىل	headword	749_col2.png	unverified
 D_33659	ئېتىل¹	verb_stem	749_col2.png	unverified
 D_33660	ئېتىل²	verb_stem	749_col2.png	unverified
@@ -34121,10 +34114,10 @@ D_33742	ئېرتقۇز	verb_stem	750_col3.png	verified
 D_33743	ئېرتىش	verb_stem	750_col3.png	verified
 D_33744	ئېرتىل	verb_stem	751_col1.png	verified
 D_33745	ئېركە	headword	751_col1.png	unverified
-D_33746	ئېرىگ	headword	751_col1.png	unverified
-D_33747	ئېرىگە	headword	751_col1.png	unverified
-D_33748	ئېرىگوتىن	headword	751_col1.png	unverified
-D_33749	ئېرىنەك	headword	751_col1.png	unverified
+D_33746	ئېرگ	headword	751_col1.png	unverified
+D_33747	ئېرگە	headword	751_col1.png	unverified
+D_33748	ئېرگوتىن	headword	751_col1.png	unverified
+D_33749	ئېرنەك	headword	751_col1.png	unverified
 D_33750	ئېرى	verb_stem	751_col1.png	unverified
 D_33751	ئېرىت	headword	751_col1.png	unverified
 D_33753	ئېرىترومىتسىن	headword	751_col1.png	verified
@@ -34190,15 +34183,14 @@ D_33813	ئېستونلار	headword	752_col2.png	unverified
 D_33814	ئېستېتىزم	headword	752_col2.png	unverified
 D_33815	ئېستېتىك	headword	752_col2.png	unverified
 D_33816	ئېستېتىكا	headword	752_col2.png	unverified
-D_33817	ئېستېتىكشۇناس	headword	752_col2.png	verified
-D_33817-i1	ئېستېتىكشۇناسى	inflected	752_col2.png	verified
+D_33817	ئېستېتىكىشۇناس	headword	752_col2.png	verified
+D_33817-i1	ئېستېتىكىشۇناسى	inflected	752_col2.png	verified
 D_33818	ئېستېتىكىلىق	headword	752_col2.png	unverified
 D_33819	ئېستېر	headword	752_col2.png	unverified
 D_33820	ئېستېرازا	headword	752_col2.png	unverified
 D_33821	ئېستېرلا	verb_stem	752_col2.png	verified
 D_33822	ئېسكادرا	headword	752_col2.png	unverified
-D_33822-v1	جيەندۈي	variant	752_col2.png	unverified
-D_33823	ئېسكولۇس	headword	752_col2.png	unverified
+D_33823	ئېسكۇلۇس	headword	752_col2.png	unverified
 D_33824	ئېسكىمەك	headword	752_col2.png	unverified
 D_33825	ئېسكىموس	headword	752_col2.png	unverified
 D_33826	ئېسىرغا	headword	752_col2.png	unverified
@@ -34287,7 +34279,7 @@ D_33911	ئېقىم	headword	754_col2.png	verified
 D_33912	ئېقىن	headword	754_col2.png	unverified
 D_33913	ئېقىندى	headword	754_col2.png	unverified
 D_33914	ئېقىنشۇناسلىق	headword	754_col3.png	unverified
-D_33915	ئېگە	headword	754_col3.png	unverified
+D_33915	ئېكە	headword	754_col3.png	unverified
 D_33916	ئېكەك	headword	754_col3.png	unverified
 D_33917	ئېكەكچە	headword	754_col3.png	unverified
 D_33918	ئېكەكلە	verb_stem	754_col3.png	verified
@@ -34312,8 +34304,8 @@ D_33934	ئېكسپورت	headword	755_col1.png	unverified
 D_33935	ئېكسپورتچى	headword	755_col1.png	unverified
 D_33936	ئېكسپورتلۇق	headword	755_col1.png	unverified
 D_33937	ئېكسپوزىتسىيە	headword	755_col1.png	unverified
-D_33938	ئېكسپىدىتسىيە	headword	755_col1.png	unverified
-D_33939	ئېكسپىدىتسىيەچى	headword	755_col1.png	unverified
+D_33938	ئېكسپېدىتسىيە	headword	755_col1.png	unverified
+D_33939	ئېكسپېدىتسىيەچى	headword	755_col1.png	unverified
 D_33940	ئېكستراكت	headword	755_col1.png	unverified
 D_33941	ئېكستراكتلا	verb_stem	755_col1.png	unverified
 D_33942	ئېكستراكتور	headword	755_col1.png	unverified
@@ -34358,7 +34350,7 @@ D_33977	ئېگەرسىمان	headword	755_col3.png	unverified
 D_33978	ئېگەرلە	verb_stem	755_col3.png	unverified
 D_33979	ئېگەرلەت	verb_stem	755_col3.png	verified
 D_33980	ئېگەرلەش	verb_stem	755_col3.png	verified
-D_33981	ئېگەرلەكلەك	headword	755_col3.png	unverified
+D_33981	ئېگەرلەكلىك	headword	755_col3.png	unverified
 D_33982	ئېگەرلەن	verb_stem	755_col3.png	unverified
 D_33983	ئېگەرلىك	headword	755_col3.png	unverified
 D_33984	ئېگەرمەك	headword	755_col3.png	unverified
@@ -34401,7 +34393,7 @@ D_34022	ئېڭىشەڭگۈ	headword	756_col3.png	unverified
 D_34023	ئېڭىشتۈر	verb_stem	756_col3.png	unverified
 D_34024	ئېڭىشتۈرۈل	verb_stem	756_col3.png	unverified
 D_34025	ئېڭىشمە	headword	756_col3.png	unverified
-D_34026	ئېڭىشش	verb_stem	756_col3.png	unverified
+D_34026	ئېڭىشىش	verb_stem	756_col3.png	unverified
 D_34027	ئېل¹	headword	756_col3.png	unverified
 D_34028	ئېل²	headword	756_col3.png	unverified
 D_34029	ئېل³	headword	756_col3.png	unverified
@@ -34422,8 +34414,8 @@ D_34042	ئېللىپىسلىق	headword	757_col1.png	unverified
 D_34043	ئېللىپىسوگراف	headword	757_col1.png	unverified
 D_34044	ئېللىپىسوئىد	headword	757_col1.png	unverified
 D_34045	ئېلونگاتسىيە	headword	757_col1.png	unverified
-D_34046	ئېلونچون	headword	757_col1.png	unverified
-D_34047	ئېلونچونچە	headword	757_col1.png	unverified
+D_34046	ئېلۇنچۈن	headword	757_col1.png	unverified
+D_34047	ئېلۇنچۈنچە	headword	757_col1.png	unverified
 D_34048	ئېلېكتىر	headword	757_col1.png	unverified
 D_34049	ئېلېكتىرلەش	verb_stem	757_col3.png	unverified
 D_34050	ئېلېكتىرلەشتۈر	verb_stem	757_col3.png	unverified
@@ -34592,13 +34584,13 @@ D_34200	ئېيتقۇز	verb_stem	760_col3.png	unverified
 D_34201	ئېيتقۇسىز	headword	760_col3.png	unverified
 D_34202	ئېيتماقچى	headword	760_col3.png	unverified
 D_34203	ئېيتىش	verb_stem	760_col3.png	unverified
-D_34204	ئېيتىشش	headword	760_col3.png	unverified
+D_34204	ئېيتىشىش	headword	760_col3.png	unverified
 D_34205	ئېيتىل	verb_stem	760_col3.png	unverified
-D_34206	ئېيىنشتىيىن	headword	760_col3.png	unverified
+D_34206	ئېينىشتىيىن	headword	760_col3.png	unverified
 D_34207	ئېيىق	headword	760_col3.png	unverified
 D_34208	ئېيىقتاپان	headword	760_col3.png	unverified
 D_34209	ئېيىقسىمان	headword	760_col3.png	unverified
-D_34210	ئېيىقتۆزۈمى	headword	760_col3.png	unverified
+D_34210	ئېيىقئۈزۈمى	headword	760_col3.png	unverified
 D_34211	ئېيىل	headword	760_col3.png	verified
 D_34212	ئىئانە	headword	761_col1.png	unverified
 D_34213	ئىبادەت	headword	761_col1.png	unverified
@@ -34678,7 +34670,7 @@ D_34284	ئىتپەرەسلىك	headword	762_col3.png	unverified
 D_34285	ئىتتاپان	headword	762_col3.png	unverified
 D_34286	ئىتتەر	verb_stem	762_col3.png	verified
 D_34287	ئىتتەرت	verb_stem	762_col3.png	verified
-D_34288	ئىتتىش	verb_stem	762_col3.png	verified
+D_34288	ئىتتى	verb_stem	762_col3.png	verified
 D_34289	ئىتتىپاق	headword	762_col3.png	verified
 D_34289-i1	ئىتتىپاقى	inflected	762_col3.png	verified
 D_34290	ئىتتىپاقچى	headword	762_col3.png	unverified
@@ -34690,13 +34682,13 @@ D_34295	ئىتتىپاقلاش	verb_stem	762_col3.png	unverified
 D_34296	ئىتتىپاقلاشتۇر	verb_stem	762_col3.png	unverified
 D_34297	ئىتتىپاقلاشتۇرۇل	verb_stem	763_col1.png	verified
 D_34298	ئىتتىپاقلىق	headword	763_col1.png	unverified
-D_34299	ئىتتىت	headword	763_col1.png	unverified
-D_34300	ئىتتىرىش	headword	763_col1.png	verified
-D_34301	ئىتتىرىل	headword	763_col1.png	unverified
+D_34299	ئىتتىت	verb_stem	763_col1.png	unverified
+D_34300	ئىتتىرىش	verb_stem	763_col1.png	verified
+D_34301	ئىتتىرىل	verb_stem	763_col1.png	unverified
 D_34302	ئىتتىك	headword	763_col1.png	unverified
 D_34303	ئىتتىكلە	verb_stem	763_col1.png	verified
 D_34304	ئىتتىكلەت	verb_stem	763_col1.png	verified
-D_34305	ئىتتىكلەش	headword	763_col1.png	verified
+D_34305	ئىتتىكلەش	verb_stem	763_col1.png	verified
 D_34306	ئىتتىكلىك	headword	763_col1.png	unverified
 D_34307	ئىتتىل - غۇدۇل	headword	763_col1.png	unverified
 D_34308	ئىتچىۋىنى	headword	763_col1.png	verified
@@ -34947,7 +34939,7 @@ D_34538	ئىزاھلىغۇچى	headword	770_col1.png	unverified
 D_34539	ئىزاھلىق	headword	770_col1.png	unverified
 D_34540	ئىزاھنامە	headword	770_col1.png	unverified
 D_34541	ئىزەرمەك	headword	770_col1.png	unverified
-D_34542	ئىزەن	headword	770_col1.png	unverified
+D_34542	ئىزەن	headword	770_col1.png	verified
 D_34543	ئىزباسار	headword	770_col1.png	verified
 D_34543-i1	ئىزباسارى	inflected	770_col1.png	verified
 D_34544	ئىزباسارلىق	headword	770_col1.png	unverified
@@ -34966,7 +34958,7 @@ D_34556	ئىزدەت	verb_stem	770_col2.png	verified
 D_34557	ئىزدەش	verb_stem	770_col2.png	verified
 D_34558	ئىزدەشتۈر	verb_stem	770_col2.png	verified
 D_34559	ئىزدەك - سوراق	headword	770_col2.png	unverified
-D_34560	ئىزدەك	headword	770_col2.png	unverified
+D_34560	ئىزدەڭ	headword	770_col2.png	unverified
 D_34561	ئىزدەل	verb_stem	770_col2.png	verified
 D_34562	ئىزدەن	verb_stem	770_col2.png	verified
 D_34563	ئىز - دېرەك	headword	770_col2.png	unverified
@@ -35043,7 +35035,7 @@ D_34629	ئىسپانچە	headword	771_col3.png	unverified
 D_34630	ئىسپانكا	headword	771_col3.png	unverified
 D_34631	ئىسپودۇمېن	headword	771_col3.png	unverified
 D_34632	ئىسپورا	headword	771_col3.png	verified
-D_34632-i1	ئىسپورىسى	inflected	771_col3.png	verified
+D_34632-i1	ئىسپوراسى	inflected	771_col3.png	verified
 D_34633	ئىسپورىدان	headword	771_col3.png	unverified
 D_34634	ئىسپورىسىز	headword	771_col3.png	unverified
 D_34635	ئىسپورىلىق	headword	771_col3.png	unverified
@@ -35084,7 +35076,7 @@ D_34668	ئىستراتېگرافىيە	headword	772_col2.png	unverified
 D_34669	ئىستراتېگىيە	headword	772_col2.png	verified
 D_34669-i1	ئىستراتېگىيەسى	inflected	772_col2.png	verified
 D_34670	ئىستراتېگىيەشۇناس	headword	772_col2.png	verified
-D_34670-i1	ئىستراتېگىيە ـ شۇناسى	inflected	772_col2.png	verified
+D_34670-i1	ئىستراتېگىيەشۇناسى	inflected	772_col2.png	verified
 D_34671	ئىستراتېگىيەشۇناسلىق	headword	772_col2.png	unverified
 D_34672	ئىستراتېگىيەلىك	headword	772_col2.png	unverified
 D_34673	ئىستروفانتىن	headword	772_col2.png	unverified
@@ -35126,7 +35118,7 @@ D_34704	ئىستىخىيە	headword	773_col1.png	unverified
 D_34705	ئىستىخىيەچىلىك	headword	773_col1.png	unverified
 D_34706	ئىستىخىيەلىك	headword	773_col1.png	unverified
 D_34707	ئىستىراتىپ	headword	773_col1.png	unverified
-D_34708	ئىستىرىپتومىتسىن	headword	773_col1.png	unverified
+D_34708	ئىستىرېپتومىتسىن	headword	773_col1.png	unverified
 D_34709	ئىستىسقا	headword	773_col1.png	unverified
 D_34710	ئىستىسنا	headword	773_col1.png	unverified
 D_34711	ئىستىسناسىز	headword	773_col1.png	unverified
@@ -35143,7 +35135,7 @@ D_34720	ئىستىلىستىكىلىق	headword	773_col2.png	unverified
 D_34721	ئىستىلىي	headword	773_col2.png	unverified
 D_34722	ئىستىمۇلىن	headword	773_col2.png	unverified
 D_34722-v1	قوزغاتقۇچ دورا	variant	773_col2.png	unverified
-D_34723	ئىستىنچا	headword	773_col2.png	unverified
+D_34723	ئىستىنجا	headword	773_col2.png	unverified
 D_34724	ئىستىھكام	headword	773_col2.png	verified
 D_34724-i1	ئىستىھكامى	inflected	773_col2.png	verified
 D_34725	ئىسچوت	headword	773_col2.png	unverified
@@ -35239,7 +35231,7 @@ D_34809	ئىسمائىلتاپ	headword	775_col3.png	unverified
 D_34810	ئىسمائىلىيە	headword	775_col3.png	unverified
 D_34811	ئىسمېنا	headword	775_col3.png	unverified
 D_34812	ئىسمېنىلىق	headword	775_col3.png	unverified
-D_34813	ئىسمېنەزەم	headword	775_col3.png	unverified
+D_34813	ئىسمىئەزەم	headword	775_col3.png	unverified
 D_34814	ئىسمىدىماق	headword	775_col3.png	unverified
 D_34815	ئىسنا	headword	775_col3.png	unverified
 D_34816	ئىسنىچى	headword	775_col3.png	unverified
@@ -35329,7 +35321,7 @@ D_34891	ئىشرەتئەنگىز	headword	777_col3.png	unverified
 D_34892	ئىشسىز	headword	777_col3.png	unverified
 D_34893	ئىشسىزلىق	headword	777_col3.png	unverified
 D_34894	ئىششەك	headword	777_col3.png	unverified
-D_34895	ئىششە	verb_stem	777_col3.png	unverified
+D_34895	ئىششى	verb_stem	777_col3.png	unverified
 D_34896	ئىششىت	verb_stem	777_col3.png	unverified
 D_34897	ئىششىق	headword	777_col3.png	unverified
 D_34898	ئىششىقسىمان	headword	777_col3.png	unverified
@@ -35455,7 +35447,7 @@ D_35023	ئىكىندى	headword	781_col2.png	unverified
 D_35024	ئىگ	headword	781_col2.png	unverified
 D_35025	ئىگە	headword	781_col2.png	unverified
 D_35026	ئىگە - چاقا	headword	781_col2.png	unverified
-D_35027	ئىگە - چاقسىز	headword	781_col3.png	verified
+D_35027	ئىگە - چاقىسىز	headword	781_col3.png	verified
 D_35028	ئىگە - چاقىلىق	headword	781_col3.png	verified
 D_35029	ئىگە - خەۋەر	headword	781_col3.png	unverified
 D_35030	ئىگە - خەۋەرلىك	headword	781_col3.png	unverified
@@ -35493,7 +35485,7 @@ D_35062	ئىڭراش	verb_stem	782_col1.png	unverified
 D_35063	ئىڭراق	headword	782_col1.png	unverified
 D_35064	ئىڭڭىلىك	headword	782_col2.png	unverified
 D_35065	ئىڭلىچ	headword	782_col2.png	verified
-D_35066	ئىلا	verb_stem	782_col2.png	unverified
+D_35066	ئىل	verb_stem	782_col2.png	unverified
 D_35067	ئىلاج	headword	782_col2.png	verified
 D_35067-i1	ئىلاجى	inflected	782_col2.png	verified
 D_35068	ئىلاجسىز	headword	782_col2.png	unverified
@@ -35604,9 +35596,9 @@ D_35166	ئىلھاملاندۇر	verb_stem	784_col2.png	unverified
 D_35167	ئىلھاملاندۇرۇش	verb_stem	784_col2.png	unverified
 D_35168	ئىلھاملاندۇرۇل	verb_stem	784_col2.png	unverified
 D_35169	ئىلى	headword	784_col2.png	unverified
-D_35171	ئىلەت	verb_stem	784_col2.png	verified
+D_35171	ئىلىت	verb_stem	784_col2.png	verified
 D_35172	ئىلىتىش	verb_stem	784_col2.png	unverified
-D_35173	ئىلىتىلا	verb_stem	784_col3.png	unverified
+D_35173	ئىلىتىل	verb_stem	784_col3.png	unverified
 D_35174	ئىلىش	verb_stem	784_col3.png	unverified
 D_35175	ئىلىشاڭغۇ	headword	784_col3.png	unverified
 D_35176	ئىلىشاڭغۇلۇق	headword	784_col3.png	unverified
@@ -35697,7 +35689,7 @@ D_35251	ئىمكانىيەتسىز	headword	786_col1.png	unverified
 D_35252	ئىمكانىيەتسىزلىك	headword	786_col1.png	unverified
 D_35253	ئىمكانىيەتلىك	headword	786_col1.png	unverified
 D_35254	ئىملا	headword	786_col1.png	verified
-D_35254-i1	ئىملىيىم، ئىملايىڭ، ئىملاسى	inflected	786_col1.png	verified
+D_35254-i1	ئىملايىم، ئىملايىڭ، ئىملاسى	inflected	786_col1.png	verified
 D_35256	ئىملاماق	headword	786_col1.png	unverified
 D_35257	ئىملىق	headword	786_col1.png	unverified
 D_35258	ئىممۇنلا	verb_stem	786_col1.png	verified
@@ -35713,7 +35705,7 @@ D_35264	ئىممۇنوفارماكولوگىيە	headword	786_col2.png	verified
 D_35264-v1	ئىممۇنىتېت فارماكولوگىيەسى	variant	786_col2.png	verified
 D_35265	ئىممۇنوگېماتولوگىيە	headword	786_col2.png	unverified
 D_35266	ئىممۇنوگېنېتىكا	headword	786_col2.png	verified
-D_35266-v1	ئىممۇنىتېت ئىرسىيەتتەشۇناسلىقى	variant	786_col2.png	verified
+D_35266-v1	ئىممۇنىتېت ئىرسىيەتشۇناسلىقى	variant	786_col2.png	verified
 D_35267	ئىممۇنولوگىيە	headword	786_col2.png	unverified
 D_35268	ئىممۇنولوگىيەلىك	headword	786_col2.png	unverified
 D_35269	ئىممۇنىتېت	headword	786_col2.png	verified
@@ -35780,7 +35772,7 @@ D_35325	ئىنتىزامسىزلىق	headword	787_col3.png	unverified
 D_35326	ئىنتىزاملىق	headword	787_col3.png	unverified
 D_35327	ئىنتىقام	headword	787_col3.png	unverified
 D_35327-i1	ئىنتىقامى	inflected	787_col3.png	unverified
-D_35328	ئىنتىلا	verb_stem	787_col3.png	unverified
+D_35328	ئىنتىل	verb_stem	787_col3.png	unverified
 D_35329	ئىنتىلدۈر	verb_stem	787_col3.png	unverified
 D_35330	ئىنتىلگۈچى	headword	787_col3.png	unverified
 D_35331	ئىنتىلمە	headword	787_col3.png	unverified
@@ -35796,7 +35788,7 @@ D_35339	ئىنجىتماق	headword	787_col3.png	unverified
 D_35340	ئىنجىق	headword	787_col3.png	unverified
 D_35341	ئىنجىقلا	verb_stem	787_col3.png	verified
 D_35342	ئىنجىقلات	verb_stem	787_col3.png	unverified
-D_35343	ئىنجىقلاش	headword	788_col1.png	verified
+D_35343	ئىنجىقلاش	verb_stem	788_col1.png	verified
 D_35344	ئىنجىقلىق	headword	788_col1.png	unverified
 D_35345	ئىنجىل	headword	788_col1.png	unverified
 D_35346	ئىنجىمارۇق	headword	788_col1.png	unverified
@@ -35869,7 +35861,7 @@ D_35409	ئىنس - جىن	headword	789_col2.png	unverified
 D_35410	ئىنسۇلىن	headword	789_col2.png	unverified
 D_35411	ئىنسىقتى	headword	789_col2.png	verified
 D_35412	ئىنشا	headword	789_col2.png	verified
-D_35412-i1	ئىنشايىم، ئىنشايىك، ئىنشاسى	inflected	789_col2.png	verified
+D_35412-i1	ئىنشايىم، ئىنشايىڭ، ئىنشاسى	inflected	789_col2.png	verified
 D_35413	ئىنشائات	headword	789_col2.png	verified
 D_35413-i1	ئىنشائاتى	inflected	789_col2.png	verified
 D_35414	ئىنشائاللا	headword	789_col2.png	unverified
@@ -35932,7 +35924,7 @@ D_35466	ئىيونلۇق	headword	790_col3.png	unverified
 D_35467	ئىيونمېتىر	headword	790_col3.png	unverified
 D_35468	ئىيونوسفېرا	headword	790_col3.png	unverified
 D_35469	ئىيونىتلار	headword	790_col3.png	unverified
-D_35470	ئىيول	headword	790_col3.png	unverified
+D_35470	ئىيۇل	headword	790_col3.png	unverified
 D_35471	ئىيۇن	headword	790_col3.png	unverified
 D_35472	ئىيىن¹	headword	790_col3.png	unverified
 D_35473	ئىيىن²	headword	790_col3.png	unverified
@@ -36102,7 +36094,8 @@ D_35635	ياردەمسىز	headword	795_col1.png	unverified
 D_35636	ياردەملەش	verb_stem	795_col1.png	unverified
 D_35637	ياردەملەشتۈر	verb_stem	795_col1.png	unverified
 D_35638	يار - دوست	headword	795_col1.png	unverified
-D_35639	يارسىغاغ	headword	795_col1.png	unverified
+D_35639	يارسغاغ	headword	795_col1.png	unverified
+D_35640	يارسىغاغ	headword	795_col1.png	verified
 D_35641	يارسىماق	headword	795_col1.png	unverified
 D_35642	يارسىنچىغ	headword	795_col1.png	unverified
 D_35643	يارشىم	headword	795_col1.png	unverified
@@ -36155,7 +36148,7 @@ D_35688	يارىن²	headword	795_col3.png	unverified
 D_35689	يارىنداق	headword	796_col1.png	unverified
 D_35690	يارىيار	headword	796_col1.png	unverified
 D_35691	يار - يۆلەك	headword	796_col1.png	unverified
-D_35692	يارىيېلىم	headword	796_col1.png	unverified
+D_35692	ياريېلىم	headword	796_col1.png	unverified
 D_35693	ياز	headword	796_col1.png	unverified
 D_35695	يازاق	headword	796_col1.png	unverified
 D_35696	يازدۇر	verb_stem	796_col1.png	unverified
@@ -36399,7 +36392,7 @@ D_35938	يالتىرات	verb_stem	801_col2.png	unverified
 D_35939	يالتىراق	headword	801_col2.png	verified
 D_35940	يالتىيىش	verb_stem	801_col2.png	unverified
 D_35941	يالت - يۇلت	headword	801_col2.png	unverified
-D_35942	يالجە	verb_stem	801_col3.png	unverified
+D_35942	يالجى	verb_stem	801_col3.png	unverified
 D_35943	يالجىت	verb_stem	801_col3.png	unverified
 D_35944	يالجىش	verb_stem	801_col3.png	verified
 D_35945	يالجىماس	headword	801_col3.png	unverified
@@ -36426,9 +36419,9 @@ D_35965	يالقۇنسىمان	headword	802_col1.png	unverified
 D_35966	يالقۇنلا	verb_stem	802_col1.png	unverified
 D_35967	يالقۇنلات	verb_stem	802_col2.png	unverified
 D_35968	يالقۇنلۇق	headword	802_col2.png	unverified
-D_35969	يالگۇ	headword	802_col2.png	unverified
-D_35970	يالگۇق	headword	802_col2.png	unverified
-D_35971	يالگۇماق	headword	802_col2.png	unverified
+D_35969	يالڭۇ	headword	802_col2.png	unverified
+D_35970	يالڭۇق	headword	802_col2.png	unverified
+D_35971	يالڭۇماق	headword	802_col2.png	unverified
 D_35972	ياللا	verb_stem	802_col2.png	unverified
 D_35973	ياللات	verb_stem	802_col2.png	unverified
 D_35974	ياللاش	verb_stem	802_col2.png	unverified
@@ -36487,7 +36480,7 @@ D_36027	يامانلاق	headword	803_col3.png	unverified
 D_36028	يامانلاقلىق	headword	803_col3.png	verified
 D_36029	يامانلىق	headword	803_col3.png	unverified
 D_36030	يامانيارا	headword	803_col3.png	unverified
-D_36032	يامبۇسمان	headword	803_col3.png	verified
+D_36032	يامبۇسىمان	headword	803_col3.png	verified
 D_36033	يامبۇلۇق	headword	803_col3.png	unverified
 D_36034	يامچاق	headword	803_col3.png	unverified
 D_36035	يامچى	headword	803_col3.png	unverified
@@ -36534,7 +36527,7 @@ D_36076	يانتۇق	headword	805_col1.png	unverified
 D_36077	يانتۇلاش	verb_stem	805_col1.png	unverified
 D_36078	يانتۇلۇق	headword	805_col2.png	unverified
 D_36079	يانتىيىش	verb_stem	805_col2.png	unverified
-D_36080	يانجە	verb_stem	805_col2.png	unverified
+D_36080	يانجى	verb_stem	805_col2.png	unverified
 D_36081	يانجىت	verb_stem	805_col2.png	unverified
 D_36082	يانجىش	verb_stem	805_col2.png	verified
 D_36083	يانجىل	verb_stem	805_col2.png	unverified
@@ -36630,7 +36623,7 @@ D_36173	يايلات	verb_stem	807_col3.png	unverified
 D_36174	يايلاش	verb_stem	807_col3.png	unverified
 D_36175	يايلاق	headword	807_col3.png	unverified
 D_36176	يايلىتىش	verb_stem	807_col3.png	unverified
-D_36177	يايلىتىلا	verb_stem	808_col1.png	unverified
+D_36177	يايلىتىل	verb_stem	808_col1.png	unverified
 D_36178	يايما	headword	808_col1.png	unverified
 D_36179	يايمىچى	headword	808_col1.png	unverified
 D_36180	يايمىچىلىق	headword	808_col1.png	unverified
@@ -36708,6 +36701,7 @@ D_36251	يەكۈن	headword	810_col1.png	verified
 D_36252	يەكۈنلە	verb_stem	810_col1.png	unverified
 D_36253	يەكۈنلەت	verb_stem	810_col1.png	unverified
 D_36254	يەكۈنلەش	verb_stem	810_col1.png	unverified
+D_36255	يەكۈنلەن	verb_stem	810_col2.png	unverified
 D_36256	يەگەتمەك	headword	810_col2.png	unverified
 D_36257	يەگلەمەك	headword	810_col2.png	unverified
 D_36258	يەڭ	headword	810_col2.png	unverified
@@ -36719,6 +36713,7 @@ D_36264	يەڭگۈشلە	verb_stem	810_col2.png	unverified
 D_36265	يەڭگۈشلەت	verb_stem	810_col2.png	verified
 D_36266	يەڭگۈشلەش	verb_stem	810_col2.png	verified
 D_36267	يەڭگۈشلەن	verb_stem	810_col2.png	verified
+D_36268	يەڭگى	verb_stem	810_col2.png	unverified
 D_36269	يەڭگىت	verb_stem	810_col3.png	unverified
 D_36270	يەڭگىل	headword	810_col3.png	verified
 D_36271	يەڭگىلتەك	headword	810_col3.png	unverified
@@ -36731,7 +36726,7 @@ D_36277	يەڭگىللىك	headword	810_col3.png	unverified
 D_36278	يەڭگىلىك	headword	810_col3.png	unverified
 D_36279	يەڭلىك	headword	810_col3.png	unverified
 D_36280	يەل	headword	810_col3.png	unverified
-D_36281	يەللەڭ	headword	811_col1.png	unverified
+D_36281	يەلەك	headword	811_col1.png	unverified
 D_36282	يەل بۆكە	headword	811_col1.png	verified
 D_36283	يەلپىك	headword	811_col1.png	unverified
 D_36284	يەلپۈ	verb_stem	811_col1.png	unverified
@@ -36745,9 +36740,9 @@ D_36292	يەلدان	headword	811_col2.png	unverified
 D_36293	يەلكە	headword	811_col2.png	unverified
 D_36294	يەلكەن	headword	811_col2.png	unverified
 D_36295	يەلكەنلىك	headword	811_col2.png	unverified
-D_36296	يەلگۈ	headword	811_col2.png	unverified
-D_36297	يەلگىلىك	headword	811_col2.png	unverified
-D_36298	يەلگىن	headword	811_col2.png	unverified
+D_36296	يەلكۇ	headword	811_col2.png	unverified
+D_36297	يەلكىلىك	headword	811_col2.png	unverified
+D_36298	يەلكىن	headword	811_col2.png	unverified
 D_36299	يەلگۈرمەك	headword	811_col2.png	unverified
 D_36300	يەلگىتمەك	headword	811_col2.png	unverified
 D_36301	يەللەن	verb_stem	811_col2.png	unverified
@@ -36784,7 +36779,7 @@ D_36331	يەمۇ	headword	812_col1.png	unverified
 D_36332	يەنە	headword	812_col1.png	unverified
 D_36333	يەنى	headword	812_col1.png	unverified
 D_36334	يەنىلا	headword	812_col1.png	unverified
-D_36335	يەنمۇ	headword	812_col1.png	unverified
+D_36335	يەنىمۇ	headword	812_col1.png	unverified
 D_36336	يەھ	headword	812_col1.png	unverified
 D_36337	يەھۇدىي	headword	812_col1.png	unverified
 D_36338	يەھ - يەھ	headword	812_col1.png	unverified
@@ -37168,8 +37163,8 @@ D_36726	يۆمەش	verb_stem	821_col1.png	unverified
 D_36727	يۆمەشتۈر	verb_stem	821_col1.png	unverified
 D_36728	يۆمەك	headword	821_col1.png	unverified
 D_36729	يۆمەكلىك	headword	821_col1.png	unverified
-D_36730	يۆمەلا	verb_stem	821_col1.png	unverified
-D_36731	يۆنەلا	verb_stem	821_col1.png	unverified
+D_36730	يۆمەل	verb_stem	821_col1.png	unverified
+D_36731	يۆنەل	verb_stem	821_col1.png	unverified
 D_36732	يۆنەلدۈر	verb_stem	821_col1.png	unverified
 D_36733	يۆنەلدۈرگۈچ	headword	821_col1.png	unverified
 D_36734	يۆنەلدۈرمە	headword	821_col2.png	unverified
@@ -37302,7 +37297,7 @@ D_36865	يۈۋمەك	headword	825_col2.png	verified
 D_36866	يۈۋۈش	headword	825_col2.png	unverified
 D_36867	يېپەڭ¹	headword	825_col2.png	verified
 D_36868	يېپەڭ²	headword	825_col2.png	verified
-D_36869	يېپەكلىمەك	headword	825_col2.png	verified
+D_36869	يېپەڭلىمەك	headword	825_col2.png	verified
 D_36870	يېپكىن	headword	825_col2.png	unverified
 D_36871	يېپىش	verb_stem	825_col2.png	verified
 D_36872	يېپىشتۇر	verb_stem	825_col2.png	unverified
@@ -37313,10 +37308,10 @@ D_36876	يېپىشقاق²	headword	825_col3.png	unverified
 D_36877	يېپىشقاقلىق	headword	825_col3.png	unverified
 D_36878	يېپىشقاقئوت	headword	825_col3.png	unverified
 D_36879	يېپىشىش	verb_stem	825_col3.png	verified
-D_36880	يېپىشق	headword	825_col3.png	unverified
+D_36880	يېپىشىق	headword	825_col3.png	unverified
 D_36881	يېپىق	headword	825_col3.png	verified
 D_36882	يېپىقلىق	headword	826_col1.png	unverified
-D_36883	يېپىلا	verb_stem	826_col1.png	unverified
+D_36883	يېپىل	verb_stem	826_col1.png	unverified
 D_36884	يېپىن	verb_stem	826_col1.png	unverified
 D_36885	يېپىنچا	headword	826_col1.png	unverified
 D_36886	يېپىنچاقلا	verb_stem	826_col1.png	unverified
@@ -37335,7 +37330,7 @@ D_36898	يېتەكلەش	verb_stem	826_col2.png	verified
 D_36899	يېتەكلەن	verb_stem	826_col2.png	verified
 D_36900	يېتە - يەتمەي	headword	826_col2.png	unverified
 D_36901	يېتو	headword	826_col2.png	unverified
-D_36902	يېتوك	headword	826_col2.png	unverified
+D_36902	يېتۈك	headword	826_col2.png	unverified
 D_36903	يېتىپ - قوپا	headword	826_col2.png	verified
 D_36904	يېتىپ - قوپۇپ	headword	826_col2.png	unverified
 D_36905	يېتىرقا	verb_stem	826_col2.png	unverified
@@ -37398,7 +37393,7 @@ D_36961	يېزىقشۇناس	headword	828_col3.png	unverified
 D_36961-i1	يېزىقشۇناسى	inflected	828_col3.png	unverified
 D_36962	يېزىقشۇناسلىق	headword	828_col3.png	unverified
 D_36963	يېزىقلىق	headword	828_col3.png	unverified
-D_36964	يېزىلا	verb_stem	828_col3.png	unverified
+D_36964	يېزىل	verb_stem	828_col3.png	unverified
 D_36965	يېزىلىق	headword	828_col3.png	unverified
 D_36966	يېسسى	headword	828_col3.png	verified
 D_36967	يېسسىلا	verb_stem	828_col3.png	unverified
@@ -37421,20 +37416,20 @@ D_36984	يېشىلكۆك	headword	829_col2.png	verified
 D_36985	يېشىللىق	headword	829_col2.png	unverified
 D_36986	يېشىم	headword	829_col2.png	unverified
 D_36987	يېشىن	headword	829_col2.png	unverified
-D_36989	يېشىندۇر	verb_stem	829_col2.png	unverified
-D_36990	يېشىندۇرۇل	verb_stem	829_col2.png	unverified
-D_36991	يېشىننىش	verb_stem	829_col2.png	verified
+D_36989	يېشىندۈر	verb_stem	829_col2.png	unverified
+D_36990	يېشىندۈرۈل	verb_stem	829_col2.png	unverified
+D_36991	يېشىنىش	verb_stem	829_col2.png	verified
 D_36992	يېغا	headword	829_col2.png	unverified
 D_36993	يېغىر	headword	829_col2.png	unverified
 D_36994	يېغىردان	headword	829_col2.png	unverified
 D_36995	يېغىلاشماق	headword	829_col2.png	unverified
-D_36996	يېغلىق	headword	829_col3.png	unverified
+D_36996	يېغىلىق	headword	829_col3.png	unverified
 D_36997	يېغىن	headword	829_col3.png	unverified
 D_36998	يېقىش	verb_stem	829_col3.png	verified
 D_36999	يېقىشلىق	headword	829_col3.png	unverified
 D_37000	يېقىقسىز	headword	829_col3.png	unverified
 D_37001	يېقىقلىق	headword	829_col3.png	unverified
-D_37002	يېقىلا	verb_stem	829_col3.png	unverified
+D_37002	يېقىل	verb_stem	829_col3.png	unverified
 D_37003	يېقىلغۇ	headword	829_col3.png	verified
 D_37004	يېقىلغۇلۇق	headword	829_col3.png	unverified
 D_37005	يېقىم	headword	829_col3.png	unverified
@@ -37545,7 +37540,7 @@ D_37110	يىپ	headword	832_col2.png	verified
 D_37111	يىپەك	headword	832_col3.png	verified
 D_37112	يىپەكچى	headword	832_col3.png	unverified
 D_37113	يىپەكچىلىك	headword	832_col3.png	unverified
-D_37114	يىپەز	headword	832_col3.png	unverified
+D_37114	يىپبەز	headword	832_col3.png	unverified
 D_37115	يىپسىز	headword	832_col3.png	unverified
 D_37116	يىپسىمان	headword	832_col3.png	verified
 D_37117	يىپقۇرت	headword	832_col3.png	unverified
@@ -37856,7 +37851,7 @@ D_37423	گۈرس - گۈرس	headword	584_col2.png	verified
 D_37424	گۈمرۈكبەگ	headword	586_col3.png	verified
 D_37425	گىرامماتىكىشۇناس	headword	589_col2.png	verified
 D_37425-i1	گىرامماتىكىشۇناسى	inflected	589_col2.png	verified
-D_37426	ماددىيلاش ـ	headword	605_col3.png	verified
+D_37426	ماددىيلاش	verb_stem	606_col1.png	verified
 D_37427	ماروژنىچى	headword	607_col1.png	verified
 D_37428	ماروژنىچىلىق	headword	607_col1.png	verified
 D_37429	ماروژنىخانا	headword	607_col1.png	verified
@@ -37872,9 +37867,9 @@ D_37438	مۆڭگەك	headword	639_col3.png	verified
 D_37439	مېتېئورولوگىيەشۇناس	headword	642_col1.png	verified
 D_37439-i1	مېتېئورولوگىيەشۇناسى	inflected	642_col1.png	verified
 D_37440	مىسلى	headword	647_col1.png	verified
-D_37441	قابسىز	headword	667_col1.png	verified
+D_37441	نىقابسىز	headword	667_col1.png	verified
 D_37442	ھەققانىيەتلىك	headword	679_col2.png	verified
-D_37443	ھودگىن	headword	682_col1.png	verified
+D_37443	ھودكىن	headword	682_col1.png	verified
 D_37444	ھۆججەتشۇناسلىق	headword	684_col1.png	verified
 D_37445	ھېچقىسى	headword	686_col2.png	verified
 D_37446	ئوتھارۋا	headword	693_col1.png	verified
